@@ -28,11 +28,10 @@
 </longdescription>
 
 <dev role="lead" description="Perl, bugz, everything else">mcummings</dev>
-<dev role="member" description="Wiseacre, maintainer of levity">cpw, aka chriswhite</dev>
+<dev role="member" description="Wiseacre, maintainer of levity">chriswhite</dev>
 <dev role="member" description="We're not sure...kind of like a bad rash ">SuperLag</dev>
 <dev role="member" description="This slot open"></dev>
 
-<resource link="/doc/en/java.xml">User Guide</resource>
 <resource link="/proj/en/perl/perl-herd.txt">DRAFT Perl Herd Ebuild guide</resource>
 <resource link="/main/en/lists.xml">[gentoo-perl] Mailing List</resource>
 <resource link="http://news.gmane.org/gmane.linux.gentoo.perl">[gentoo-perl] Mailing List Archives</resource>

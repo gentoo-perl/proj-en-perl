@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/xsl/project.xsl" type="text/xsl"?>
+<?xml-stylesheet href="/xsl/guide.xsl" type="text/xsl"?>
+<!DOCTYPE project SYSTEM "/dtd/project.dtd">
+<project>
+<name>Perl</name>
+<longname>The Perl Maintenance Project</longname>
+<date>2005-12-17</date>
+
+<author title="author">
+  <mail link="mcummings@gentoo.org">Michael Cummings</mail>
+</author>
+
+<description>
+  The Perl Maintenance Project handles all Gentoo-related Perl things.
+</description>
+
+<longdescription>
+
+  <p>
+  This is just a place holder. Coming areas will be perl-module ebuild guidelines, homepages for perl-cleaner and g-cpan, etc. As I suck considerably and inventing anything new, but am a real whizz at adapting someone else's hard work, I'd like to say thanks to the java herd for inadvertantly providing the template this page was originally built on. (~mcummings)
+  </p>
+
+  <p>
+  <uri link="http://www.perl.org/">Perl.org</uri> 
+  </p>
+
+</longdescription>
+
+<dev role="lead" description="Perl, bugz, everything else">mcummings</dev>
+<dev role="member" description="Wiseacre, maintainer of levity">cpw, aka chriswhite</dev>
+<dev role="member" description="We're not sure...kind of like a bad rash ">SuperLag</dev>
+<dev role="member" description="This slot open"></dev>
+
+<resource link="/doc/en/java.xml">User Guide</resource>
+<resource link="/proj/en/perl/perl-herd.txt">DRAFT Perl Herd Ebuild guide</resource>
+<resource link="/main/en/lists.xml">[gentoo-perl] Mailing List</resource>
+<resource link="http://news.gmane.org/gmane.linux.gentoo.perl">[gentoo-perl] Mailing List Archives</resource>
+<resource link="irc://irc.freenode.org/#gentoo-perl">#gentoo-perl on irc.freenode.org</resource>
+
+
+<extraproject name="g-cpan" lead="mcummings">
+    <p>
+        Build perl modules that portage keeps track of
+    </p>
+</extraproject>
+
+<extraproject name="perl-cleaner" lead="mcummings">
+    <p>
+		Clean up those ph files and rebuild all your broken apps after a new perl
+	</p>
+</extraproject>
+
+<herd name="perl"></herd>
+
+</project>
+<!-- vim: set expandtab ts=2 -->

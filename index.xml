@@ -5,10 +5,13 @@
 <project>
 <name>Perl</name>
 <longname>The Perl Maintenance Project</longname>
-<date>2005-12-17</date>
+<date>2006-04-12</date>
 
-<author title="author">
+<author title="Author">
   <mail link="mcummings@gentoo.org">Michael Cummings</mail>
+</author>
+<author title="Editor">
+  <mail link="ian@gentoo.org">Christian Hartmann</mail>
 </author>
 
 <description>
@@ -33,22 +36,18 @@
 <dev role="member" description="Even forum staff can reform...">ian</dev>
 <dev role="member" description="This slot open"></dev>
 
-<resource link="/proj/en/perl/perl-herd.txt">DRAFT Perl Herd Ebuild guide</resource>
+<resource link="/proj/en/perl/perl-herd.xml">DRAFT Perl Herd Ebuild guide</resource>
 <resource link="/main/en/lists.xml">[gentoo-perl] Mailing List</resource>
 <resource link="http://news.gmane.org/gmane.linux.gentoo.perl">[gentoo-perl] Mailing List Archives</resource>
 <resource link="irc://irc.freenode.org/#gentoo-perl">#gentoo-perl on irc.freenode.org</resource>
 
 
 <extraproject name="g-cpan" lead="mcummings">
-    <p>
-        Build perl modules that portage keeps track of
-    </p>
+  Build perl modules that portage keeps track of
 </extraproject>
 
 <extraproject name="perl-cleaner" lead="mcummings">
-    <p>
-		Clean up those ph files and rebuild all your broken apps after a new perl
-	</p>
+  Clean up those ph files and rebuild all your broken apps after a new perl
 </extraproject>
 
 <herd name="perl"></herd>

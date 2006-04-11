@@ -30,6 +30,7 @@
 <dev role="lead" description="Perl, bugz, everything else">mcummings</dev>
 <dev role="member" description="Wiseacre, maintainer of levity">chriswhite</dev>
 <dev role="member" description="We're not sure...kind of like a bad rash ">SuperLag</dev>
+<dev role="member" description="Even forum staff can reform...">ian</dev>
 <dev role="member" description="This slot open"></dev>
 
 <resource link="/proj/en/perl/perl-herd.txt">DRAFT Perl Herd Ebuild guide</resource>

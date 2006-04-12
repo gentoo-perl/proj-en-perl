@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/perl-cleaner.xml,v 1.1 2006/04/12 08:03:30 ian Exp $ -->
+
+<!-- Do Not Translate !! -->
+<guide link="/proj/en/perl/perl-cleaner.xml">
+<title>perl-cleaner Guide</title>
+
+<author title="Author">
+  <mail link="mcummings@gentoo.org">Michael Cummings</mail>
+</author>
+<author title="Author">
+  <mail link="ian@gentoo.org">Christian Hartmann</mail>
+</author>
+<author title="Contributor">
+  <mail link="mr_bones_@gentoo.org">Michael Sterrett</mail>
+</author>
+<author title="Contributer">
+  <mail link="swtaylor@gentoo.org">Scott W Taylor</mail>
+</author>
+
+<abstract>
+This document describes the functions of perl-cleaner
+</abstract>
+
+<!-- The content of this document is licensed under the CC-BY-SA license -->
+<!-- See http://creativecommons.org/licenses/by-sa/2.5 -->
+<license/>
+
+<version>1.0</version>
+<date>2006-04-12</date>
+
+<chapter>
+<title>Intro</title>
+<section>
+<body>
+
+<p>
+<c>perl-cleaner</c> is a tool that cleans up old perl installations, attempting
+to <path>emerge --oneshot</path> packages left over from a perl upgrade, as
+well as any packages that linked against the old version of
+<path>libperl.so</path>.
+</p>
+
+</body>
+</section>
+</chapter>
+
+<chapter>
+<title>Usage</title>
+<section>
+<body>
+
+<p>
+See the table below for possible options to pass to <c>perl-cleaner</c>.
+</p>
+
+<pre caption="Usage of perl-cleaner">
+<comment>perl-cleaner needs at least one parameter from the list below. The
+"ask" parameter is optional.</comment>
+# perl-cleaner &lt;OPTIONS&gt; (ask)
+</pre>
+
+<table>
+  <tr>
+    <th>Option</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <ti>modules</ti>
+    <ti>rebuild perl modules for old installs of perl</ti>
+  </tr>
+  <tr>
+    <ti>allmodules</ti>
+    <ti>rebuild perl modules for any install of perl</ti>
+  </tr>
+  <tr>
+    <ti>libperl</ti>
+    <ti>rebuild anything linked against libperl</ti>
+  </tr>
+  <tr>
+    <ti>revirter</ti>
+    <ti>replace perl-core modules with virtuals</ti>
+  </tr>
+  <tr>
+    <ti>ph-clean</ti>
+    <ti>clean out old ph files from a previous perl</ti>
+  </tr>
+  <tr>
+    <ti>phupdate</ti>
+    <ti>update existing ph files, useful after an upgrade to system parts like
+    the kernel</ti>
+  </tr>
+  <tr>
+    <ti>phall</ti>
+    <ti>clean out old ph files and run phupdate</ti>
+  </tr>
+  <tr>
+    <ti>all</ti>
+    <ti>rebuild modules, libperl linkages, clean ph files, and rebuild them</ti>
+  </tr>
+  <tr>
+    <ti>reallyall</ti>
+    <ti>rebuild modules for any install of perl, libperl linkages, clean ph
+    files, and rebuild them</ti>
+  </tr>
+</table>
+
+<note>
+Adding the parameter <c>ask</c> to the parameterlist of perl-cleaner will
+make perl-cleaner pass the <path>--ask</path> option to emerge commands so
+that you will be asked by portage before taking any actions.
+</note>
+
+</body>
+</section>
+</chapter>
+
+<chapter>
+<title>Bugs</title>
+<section>
+<body>
+
+<p>
+Please post any bugs to <uri>http://bugs.gentoo.org</uri> or
+<uri>https://bugs.gentoo.org</uri> assigned to
+<mail>mcummings@gentoo.org"</mail>.
+</p>
+
+</body>
+</section>
+</chapter>
+
+<chapter>
+<title>Resources</title>
+<section>
+<body>
+
+<p>
+See also:
+</p>
+
+<ul>
+  <li><uri link="http://www.gentoo.org/doc/en/gentoolkit.xml#doc_chap4">revdep-rebuild</uri></li>
+</ul>
+
+</body>
+</section>
+</chapter>
+</guide>

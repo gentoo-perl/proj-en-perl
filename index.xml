@@ -34,9 +34,9 @@
 <dev role="member" description="Wiseacre, maintainer of levity">chriswhite</dev>
 <dev role="member" description="We're not sure...kind of like a bad rash ">SuperLag</dev>
 <dev role="member" description="Even forum staff can reform...">ian</dev>
-<dev role="member" description="This slot open"></dev>
 
 <resource link="/proj/en/perl/perl-herd.xml">DRAFT Perl Herd Ebuild guide</resource>
+<resource link="/proj/en/perl/perl-cleaner.xml">DRAFT perl-cleaner guide</resource>
 <resource link="/main/en/lists.xml">[gentoo-perl] Mailing List</resource>
 <resource link="http://news.gmane.org/gmane.linux.gentoo.perl">[gentoo-perl] Mailing List Archives</resource>
 <resource link="irc://irc.freenode.org/#gentoo-perl">#gentoo-perl on irc.freenode.org</resource>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/perl-cleaner.xml,v 1.1 2006/04/12 08:03:30 ian Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/perl-cleaner.xml,v 1.2 2006/04/12 09:10:25 ian Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/perl-cleaner.xml">
@@ -56,8 +56,7 @@ See the table below for possible options to pass to <c>perl-cleaner</c>.
 </p>
 
 <pre caption="Usage of perl-cleaner">
-<comment>perl-cleaner needs at least one parameter from the list below. The
-"ask" parameter is optional.</comment>
+<comment>perl-cleaner needs at least one parameter from the list below. The "ask" parameter is optional.</comment>
 # perl-cleaner &lt;OPTIONS&gt; (ask)
 </pre>
 
@@ -124,7 +123,7 @@ that you will be asked by portage before taking any actions.
 <p>
 Please post any bugs to <uri>http://bugs.gentoo.org</uri> or
 <uri>https://bugs.gentoo.org</uri> assigned to
-<mail>mcummings@gentoo.org"</mail>.
+<mail>mcummings@gentoo.org</mail>.
 </p>
 
 </body>

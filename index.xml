@@ -50,6 +50,10 @@
   Clean up those ph files and rebuild all your broken apps after a new perl
 </extraproject>
 
+<extraproject name="up2date-ng" lead="ian">
+  Tool to check for updates on cpan (Ebuild vs CPAN)
+</extraproject>
+
 <herd name="perl"></herd>
 
 </project>

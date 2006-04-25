@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1 2006/04/25 19:11:39 ian Exp $ -->
+
+<!-- Do Not Translate !! -->
+<guide link="/proj/en/perl/outdated-cpan-packages.xml">
+<title>Outdated CPAN Packages (Ebuild vs CPAN)</title>
+
+<author title="Author">
+  Script generated
+</author>
+
+<abstract>
+  This document lists the packages suspected as outdated
+</abstract>
+
+<!-- The content of this document is licensed under the CC-BY-SA license -->
+<!-- See http://creativecommons.org/licenses/by-sa/2.5 -->
+<license/>
+
+<version>1.0</version>
+<date>2006-4-25</date>
+
+<chapter>
+<title>Intro</title>
+<section>
+<body>
+
+<p>
+This list is not exhaustive and may contain mistakes/errors. Accuracy is only
+guaranteed at 90% and is generated to inform developers about which CPAN
+modules are currently out of date in portage. Our most frequent bug request is
+for module bumping. This list is intended as acknowledgement (and hopefully
+will curb some of the bugs to boot).
+</p>
+
+</body>
+</section>
+</chapter>
+
+<chapter>
+<title>List of outdated packages</title>
+<section>
+<body>
+
+<table>
+  <tr>
+    <th>Packagename</th>
+    <th>Version in portage</th>
+    <th>Version on CPAN</th>
+  </tr>
+    <tr>
+    <ti>CGI</ti>
+    <ti>3.19</ti>
+    <ti>3.20</ti>
+  </tr>
+  <tr>
+    <ti>digest-base</ti>
+    <ti>1.14</ti>
+    <ti>1.15</ti>
+  </tr>
+  <tr>
+    <ti>Error</ti>
+    <ti>0.15</ti>
+    <ti>0.15009</ti>
+  </tr>
+  <tr>
+    <ti>ExtUtils-XSBuilder</ti>
+    <ti>0.27</ti>
+    <ti>0.28</ti>
+  </tr>
+  <tr>
+    <ti>File-HomeDir</ti>
+    <ti>0.52</ti>
+    <ti>0.56</ti>
+  </tr>
+  <tr>
+    <ti>File-MimeInfo</ti>
+    <ti>0.12</ti>
+    <ti>0.13</ti>
+  </tr>
+  <tr>
+    <ti>File-MMagic</ti>
+    <ti>1.25</ti>
+    <ti>1.26</ti>
+  </tr>
+  <tr>
+    <ti>File-Slurp</ti>
+    <ti>9999.11</ti>
+    <ti>9999.12</ti>
+  </tr>
+  <tr>
+    <ti>File-Spec</ti>
+    <ti>3.15</ti>
+    <ti>3.17</ti>
+  </tr>
+  <tr>
+    <ti>File-Tail</ti>
+    <ti>0.991</ti>
+    <ti>0.993</ti>
+  </tr>
+  <tr>
+    <ti>Filter</ti>
+    <ti>1.30</ti>
+    <ti>1.32</ti>
+  </tr>
+  <tr>
+    <ti>GD</ti>
+    <ti>2.30</ti>
+    <ti>2.32</ti>
+  </tr>
+  <tr>
+    <ti>GDGraph</ti>
+    <ti>1.43</ti>
+    <ti>1.4307</ti>
+  </tr>
+  <tr>
+    <ti>gnome2-gconf</ti>
+    <ti>1.000</ti>
+    <ti>1.030</ti>
+  </tr>
+  <tr>
+    <ti>gnome2-perl</ti>
+    <ti>1.023</ti>
+    <ti>1.040</ti>
+  </tr>
+  <tr>
+    <ti>gnome2-vfs-perl</ti>
+    <ti>1.041</ti>
+    <ti>1.060</ti>
+  </tr>
+  <tr>
+    <ti>gnome2-wnck</ti>
+    <ti>0.11</ti>
+    <ti>0.12</ti>
+  </tr>
+  <tr>
+    <ti>gtk2-perl</ti>
+    <ti>1.104</ti>
+    <ti>1.121</ti>
+  </tr>
+  <tr>
+    <ti>HTML-Element-Extended</ti>
+    <ti>1.13</ti>
+    <ti>1.16</ti>
+  </tr>
+  <tr>
+    <ti>HTML-Parser</ti>
+    <ti>3.48</ti>
+    <ti>3.51</ti>
+  </tr>
+  <tr>
+    <ti>HTML-Strip</ti>
+    <ti>1.04</ti>
+    <ti>1.06</ti>
+  </tr>
+  <tr>
+    <ti>HTML-Table</ti>
+    <ti>2.03</ti>
+    <ti>2.04</ti>
+  </tr>
+  <tr>
+    <ti>HTML-TableExtract</ti>
+    <ti>2.06</ti>
+    <ti>2.07</ti>
+  </tr>
+  <tr>
+    <ti>HTML-Template-Expr</ti>
+    <ti>0.05</ti>
+    <ti>0.07</ti>
+  </tr>
+  <tr>
+    <ti>HTTP-Cache-Transparent</ti>
+    <ti>0.6</ti>
+    <ti>0.7</ti>
+  </tr>
+  <tr>
+    <ti>HTTP-Server-Simple</ti>
+    <ti>0.16</ti>
+    <ti>0.18</ti>
+  </tr>
+  <tr>
+    <ti>HTTPD-User-Manage</ti>
+    <ti>1.61</ti>
+    <ti>1.63</ti>
+  </tr>
+  <tr>
+    <ti>Image-Imlib2</ti>
+    <ti>1.07</ti>
+    <ti>1.08</ti>
+  </tr>
+  <tr>
+    <ti>ImageInfo</ti>
+    <ti>1.16</ti>
+    <ti>1.20</ti>
+  </tr>
+  <tr>
+    <ti>IO-Pager</ti>
+    <ti>0.05</ti>
+    <ti>0.06</ti>
+  </tr>
+  <tr>
+    <ti>IP-Country</ti>
+    <ti>2.20</ti>
+    <ti>2.21</ti>
+  </tr>
+  <tr>
+    <ti>Jcode</ti>
+    <ti>2.03</ti>
+    <ti>2.04</ti>
+  </tr>
+  <tr>
+    <ti>libintl-perl</ti>
+    <ti>1.11</ti>
+    <ti>1.16</ti>
+  </tr>
+  <tr>
+    <ti>libwww-perl</ti>
+    <ti>5.803</ti>
+    <ti>5.805</ti>
+  </tr>
+  <tr>
+    <ti>locale-maketext-lexicon</ti>
+    <ti>0.53</ti>
+    <ti>0.60</ti>
+  </tr>
+  <tr>
+    <ti>Locale-Maketext-Simple</ti>
+    <ti>0.12</ti>
+    <ti>0.13</ti>
+  </tr>
+  <tr>
+    <ti>Log-Log4perl</ti>
+    <ti>1.02</ti>
+    <ti>1.04</ti>
+  </tr>
+  <tr>
+    <ti>Mail-Mbox-MessageParser</ti>
+    <ti>1.4001</ti>
+    <ti>1.4002</ti>
+  </tr>
+  <tr>
+    <ti>Mail-Sender</ti>
+    <ti>0.810</ti>
+    <ti>0.813</ti>
+  </tr>
+  <tr>
+    <ti>MailTools</ti>
+    <ti>1.67</ti>
+    <ti>1.74</ti>
+  </tr>
+  <tr>
+    <ti>math-pari</ti>
+    <ti>2.010702</ti>
+    <ti>2.010704</ti>
+  </tr>
+  <tr>
+    <ti>module-build</ti>
+    <ti>0.2611</ti>
+    <ti>0.2612</ti>
+  </tr>
+  <tr>
+    <ti>module-info</ti>
+    <ti>0.290</ti>
+    <ti>0.30</ti>
+  </tr>
+  <tr>
+    <ti>Module-Signature</ti>
+    <ti>0.51</ti>
+    <ti>0.53</ti>
+  </tr>
+  <tr>
+    <ti>MP3-Tag</ti>
+    <ti>0.9704</ti>
+    <ti>0.9706</ti>
+  </tr>
+  <tr>
+    <ti>Net-CIDR-Lite</ti>
+    <ti>0.18</ti>
+    <ti>0.20</ti>
+  </tr>
+  <tr>
+    <ti>Net-CUPS</ti>
+    <ti>0.37</ti>
+    <ti>0.41</ti>
+  </tr>
+  <tr>
+    <ti>Net-Daemon</ti>
+    <ti>0.38</ti>
+    <ti>0.39</ti>
+  </tr>
+  <tr>
+    <ti>Net-DNS</ti>
+    <ti>0.55</ti>
+    <ti>0.57</ti>
+  </tr>
+  <tr>
+    <ti>Net-Domain-TLD</ti>
+    <ti>1.62</ti>
+    <ti>1.65</ti>
+  </tr>
+  <tr>
+    <ti>Net-Pcap</ti>
+    <ti>0.11</ti>
+    <ti>0.12</ti>
+  </tr>
+  <tr>
+    <ti>net-ssh-perl</ti>
+    <ti>1.29</ti>
+    <ti>1.30</ti>
+  </tr>
+  <tr>
+    <ti>Params-Util</ti>
+    <ti>0.10</ti>
+    <ti>0.11</ti>
+  </tr>
+  <tr>
+    <ti>Params-Validate</ti>
+    <ti>0.79</ti>
+    <ti>0.81</ti>
+  </tr>
+  <tr>
+    <ti>PerlIO-via-dynamic</ti>
+    <ti>0.11</ti>
+    <ti>0.12</ti>
+  </tr>
+  <tr>
+    <ti>Pod-Simple</ti>
+    <ti>3.03</ti>
+    <ti>3.04</ti>
+  </tr>
+  <tr>
+    <ti>PodParser</ti>
+    <ti>1.32</ti>
+    <ti>1.34</ti>
+  </tr>
+  <tr>
+    <ti>POE</ti>
+    <ti>0.33</ti>
+    <ti>0.3401</ti>
+  </tr>
+  <tr>
+    <ti>PPI</ti>
+    <ti>1.110</ti>
+    <ti>1.112</ti>
+  </tr>
+  <tr>
+    <ti>SQL-Abstract</ti>
+    <ti>1.20</ti>
+    <ti>1.21</ti>
+  </tr>
+  <tr>
+    <ti>SQL-Statement</ti>
+    <ti>1.14</ti>
+    <ti>1.15</ti>
+  </tr>
+  <tr>
+    <ti>string-crc32</ti>
+    <ti>1.3</ti>
+    <ti>1.4</ti>
+  </tr>
+  <tr>
+    <ti>Sub-Uplevel</ti>
+    <ti>0.09</ti>
+    <ti>0.10</ti>
+  </tr>
+  <tr>
+    <ti>Term-ReadLine-Perl</ti>
+    <ti>1.0203</ti>
+    <ti>1.03</ti>
+  </tr>
+  <tr>
+    <ti>Test-Pod</ti>
+    <ti>1.22</ti>
+    <ti>1.24</ti>
+  </tr>
+  <tr>
+    <ti>Test-Pod-Coverage</ti>
+    <ti>1.06</ti>
+    <ti>1.08</ti>
+  </tr>
+  <tr>
+    <ti>Test-SubCalls</ti>
+    <ti>0.03</ti>
+    <ti>0.05</ti>
+  </tr>
+  <tr>
+    <ti>Text-WikiFormat</ti>
+    <ti>0.77</ti>
+    <ti>0.78</ti>
+  </tr>
+  <tr>
+    <ti>Time-Duration</ti>
+    <ti>1.02</ti>
+    <ti>1.03</ti>
+  </tr>
+  <tr>
+    <ti>Time-HiRes</ti>
+    <ti>1.86</ti>
+    <ti>1.87</ti>
+  </tr>
+  <tr>
+    <ti>Time-Piece</ti>
+    <ti>1.08</ti>
+    <ti>1.09</ti>
+  </tr>
+  <tr>
+    <ti>Tk-TableMatrix</ti>
+    <ti>1.2</ti>
+    <ti>1.22</ti>
+  </tr>
+  <tr>
+    <ti>Tree-Simple</ti>
+    <ti>1.15</ti>
+    <ti>1.16</ti>
+  </tr>
+  <tr>
+    <ti>Unix-Syslog</ti>
+    <ti>0.100</ti>
+    <ti>0.99</ti>
+  </tr>
+  <tr>
+    <ti>version</ti>
+    <ti>0.53</ti>
+    <ti>0.59</ti>
+  </tr>
+  <tr>
+    <ti>Want</ti>
+    <ti>0.09</ti>
+    <ti>0.10</ti>
+  </tr>
+  <tr>
+    <ti>X11-Protocol</ti>
+    <ti>0.54</ti>
+    <ti>0.55</ti>
+  </tr>
+  <tr>
+    <ti>XML-AutoWriter</ti>
+    <ti>0.38</ti>
+    <ti>0.39</ti>
+  </tr>
+  <tr>
+    <ti>XML-RSS</ti>
+    <ti>1.05</ti>
+    <ti>1.10</ti>
+  </tr>
+  <tr>
+    <ti>XML-SAX</ti>
+    <ti>0.13</ti>
+    <ti>0.14</ti>
+  </tr>
+</table>
+
+</body>
+</section>
+</chapter>
+</guide>

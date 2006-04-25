@@ -5,7 +5,7 @@
 <project>
 <name>Perl</name>
 <longname>The Perl Maintenance Project</longname>
-<date>2006-04-12</date>
+<date>2006-04-25</date>
 
 <author title="Author">
   <mail link="mcummings@gentoo.org">Michael Cummings</mail>
@@ -21,7 +21,11 @@
 <longdescription>
 
   <p>
-  This is just a place holder. Coming areas will be perl-module ebuild guidelines, homepages for perl-cleaner and g-cpan, etc. As I suck considerably and inventing anything new, but am a real whizz at adapting someone else's hard work, I'd like to say thanks to the java herd for inadvertantly providing the template this page was originally built on. (~mcummings)
+  This is just a place holder. Coming areas will be perl-module ebuild guidelines,
+  homepages for perl-cleaner and g-cpan, etc. As I suck considerably and inventing
+  anything new, but am a real whizz at adapting someone else's hard work, I'd like
+  to say thanks to the java herd for inadvertantly providing the template this page
+  was originally built on. (~mcummings)
   </p>
 
   <p>
@@ -37,6 +41,7 @@
 
 <resource link="/proj/en/perl/perl-herd.xml">DRAFT Perl Herd Ebuild guide</resource>
 <resource link="/proj/en/perl/perl-cleaner.xml">DRAFT perl-cleaner guide</resource>
+<resource link="/proj/en/perl/outdated-cpan-packages.xml">Outdated CPAN Packages (Ebuild vs CPAN)</resource>
 <resource link="/main/en/lists.xml">[gentoo-perl] Mailing List</resource>
 <resource link="http://news.gmane.org/gmane.linux.gentoo.perl">[gentoo-perl] Mailing List Archives</resource>
 <resource link="irc://irc.freenode.org/#gentoo-perl">#gentoo-perl on irc.freenode.org</resource>

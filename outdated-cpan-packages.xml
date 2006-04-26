@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3 2006/04/26 06:01:43 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.4 2006/04/26 15:35:03 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -65,39 +65,9 @@ will curb some of the bugs to boot).
     <ti>0.15009</ti>
   </tr>
   <tr>
-    <ti>ExtUtils-XSBuilder</ti>
-    <ti>0.27</ti>
-    <ti>0.28</ti>
-  </tr>
-  <tr>
-    <ti>File-HomeDir</ti>
-    <ti>0.52</ti>
-    <ti>0.56</ti>
-  </tr>
-  <tr>
-    <ti>File-MimeInfo</ti>
-    <ti>0.12</ti>
-    <ti>0.13</ti>
-  </tr>
-  <tr>
-    <ti>File-MMagic</ti>
-    <ti>1.25</ti>
-    <ti>1.26</ti>
-  </tr>
-  <tr>
-    <ti>File-Slurp</ti>
-    <ti>9999.11</ti>
-    <ti>9999.12</ti>
-  </tr>
-  <tr>
     <ti>File-Spec</ti>
     <ti>3.15</ti>
     <ti>3.17</ti>
-  </tr>
-  <tr>
-    <ti>File-Tail</ti>
-    <ti>0.991</ti>
-    <ti>0.993</ti>
   </tr>
   <tr>
     <ti>Filter</ti>
@@ -105,39 +75,14 @@ will curb some of the bugs to boot).
     <ti>1.32</ti>
   </tr>
   <tr>
-    <ti>GD</ti>
-    <ti>2.30</ti>
-    <ti>2.32</ti>
-  </tr>
-  <tr>
     <ti>GDGraph</ti>
     <ti>1.43</ti>
     <ti>1.4307</ti>
   </tr>
   <tr>
-    <ti>gnome2-gconf</ti>
-    <ti>1.000</ti>
-    <ti>1.030</ti>
-  </tr>
-  <tr>
-    <ti>gnome2-perl</ti>
-    <ti>1.023</ti>
-    <ti>1.040</ti>
-  </tr>
-  <tr>
-    <ti>gnome2-vfs-perl</ti>
-    <ti>1.041</ti>
-    <ti>1.060</ti>
-  </tr>
-  <tr>
     <ti>gnome2-wnck</ti>
     <ti>0.11</ti>
     <ti>0.12</ti>
-  </tr>
-  <tr>
-    <ti>gtk2-perl</ti>
-    <ti>1.104</ti>
-    <ti>1.121</ti>
   </tr>
   <tr>
     <ti>HTML-Element-Extended</ti>
@@ -433,21 +378,6 @@ will curb some of the bugs to boot).
     <ti>X11-Protocol</ti>
     <ti>0.54</ti>
     <ti>0.55</ti>
-  </tr>
-  <tr>
-    <ti>XML-AutoWriter</ti>
-    <ti>0.38</ti>
-    <ti>0.39</ti>
-  </tr>
-  <tr>
-    <ti>XML-RSS</ti>
-    <ti>1.05</ti>
-    <ti>1.10</ti>
-  </tr>
-  <tr>
-    <ti>XML-SAX</ti>
-    <ti>0.13</ti>
-    <ti>0.14</ti>
   </tr>
 </table>
 

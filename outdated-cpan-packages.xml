@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.5 2006/04/26 16:22:35 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.6 2006/04/27 06:03:00 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-04-26</date>
+<date>2006-04-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,69 +75,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.32</ti>
   </tr>
   <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=gdgraph&amp;mode=module">GDGraph</uri></ti>
-    <ti align="right">1.43</ti>
-    <ti align="right">1.4307</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=gnome2-wnck&amp;mode=module">gnome2-wnck</uri></ti>
-    <ti align="right">0.11</ti>
-    <ti align="right">0.12</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=html-element-extended&amp;mode=module">HTML-Element-Extended</uri></ti>
-    <ti align="right">1.13</ti>
-    <ti align="right">1.16</ti>
-  </tr>
-  <tr>
     <ti> <uri link="http://search.cpan.org/search?query=html-parser&amp;mode=module">HTML-Parser</uri></ti>
-    <ti align="right">3.48</ti>
     <ti align="right">3.51</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=html-strip&amp;mode=module">HTML-Strip</uri></ti>
-    <ti align="right">1.04</ti>
-    <ti align="right">1.06</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=html-table&amp;mode=module">HTML-Table</uri></ti>
-    <ti align="right">2.03</ti>
-    <ti align="right">2.04</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=html-tableextract&amp;mode=module">HTML-TableExtract</uri></ti>
-    <ti align="right">2.06</ti>
-    <ti align="right">2.07</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=html-template-expr&amp;mode=module">HTML-Template-Expr</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right">0.07</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=http-cache-transparent&amp;mode=module">HTTP-Cache-Transparent</uri></ti>
-    <ti align="right">0.6</ti>
-    <ti align="right">0.7</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=http-server-simple&amp;mode=module">HTTP-Server-Simple</uri></ti>
-    <ti align="right">0.16</ti>
-    <ti align="right">0.18</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=httpd-user-manage&amp;mode=module">HTTPD-User-Manage</uri></ti>
-    <ti align="right">1.61</ti>
-    <ti align="right">1.63</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=image-imlib2&amp;mode=module">Image-Imlib2</uri></ti>
-    <ti align="right">1.07</ti>
-    <ti align="right">1.08</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=module">ImageInfo</uri></ti>
-    <ti align="right">1.16</ti>
-    <ti align="right">1.20</ti>
+    <ti align="right">3.52</ti>
   </tr>
   <tr>
     <ti> <uri link="http://search.cpan.org/search?query=io-pager&amp;mode=module">IO-Pager</uri></ti>
@@ -193,11 +133,6 @@ will curb some of the bugs to boot).
     <ti> <uri link="http://search.cpan.org/search?query=mailtools&amp;mode=module">MailTools</uri></ti>
     <ti align="right">1.67</ti>
     <ti align="right">1.74</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=math-pari&amp;mode=module">math-pari</uri></ti>
-    <ti align="right">2.010702</ti>
-    <ti align="right">2.010704</ti>
   </tr>
   <tr>
     <ti> <uri link="http://search.cpan.org/search?query=module-build&amp;mode=module">module-build</uri></ti>
@@ -260,19 +195,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.11</ti>
   </tr>
   <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=params-validate&amp;mode=module">Params-Validate</uri></ti>
-    <ti align="right">0.79</ti>
-    <ti align="right">0.81</ti>
-  </tr>
-  <tr>
     <ti> <uri link="http://search.cpan.org/search?query=perlio-via-dynamic&amp;mode=module">PerlIO-via-dynamic</uri></ti>
     <ti align="right">0.11</ti>
     <ti align="right">0.12</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=pod-simple&amp;mode=module">Pod-Simple</uri></ti>
-    <ti align="right">3.03</ti>
-    <ti align="right">3.04</ti>
   </tr>
   <tr>
     <ti> <uri link="http://search.cpan.org/search?query=podparser&amp;mode=module">PodParser</uri></ti>
@@ -315,21 +240,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
   </tr>
   <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=test-pod&amp;mode=module">Test-Pod</uri></ti>
-    <ti align="right">1.22</ti>
-    <ti align="right">1.24</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=test-pod-coverage&amp;mode=module">Test-Pod-Coverage</uri></ti>
-    <ti align="right">1.06</ti>
-    <ti align="right">1.08</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=test-subcalls&amp;mode=module">Test-SubCalls</uri></ti>
-    <ti align="right">0.03</ti>
-    <ti align="right">0.05</ti>
-  </tr>
-  <tr>
     <ti> <uri link="http://search.cpan.org/search?query=text-wikiformat&amp;mode=module">Text-WikiFormat</uri></ti>
     <ti align="right">0.77</ti>
     <ti align="right">0.78</ti>
@@ -363,11 +273,6 @@ will curb some of the bugs to boot).
     <ti> <uri link="http://search.cpan.org/search?query=unix-syslog&amp;mode=module">Unix-Syslog</uri></ti>
     <ti align="right">0.100</ti>
     <ti align="right">0.99</ti>
-  </tr>
-  <tr>
-    <ti> <uri link="http://search.cpan.org/search?query=version&amp;mode=module">version</uri></ti>
-    <ti align="right">0.53</ti>
-    <ti align="right">0.59</ti>
   </tr>
   <tr>
     <ti> <uri link="http://search.cpan.org/search?query=want&amp;mode=module">Want</uri></ti>

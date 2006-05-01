@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.10 2006/04/30 06:03:08 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.11 2006/05/01 06:04:55 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-04-30</date>
+<date>2006-05-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,9 +50,9 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri></ti>
-    <ti align="right">3.19</ti>
-    <ti align="right">3.20</ti>
+    <ti><uri link="http://search.cpan.org/search?query=cache-memcached&amp;mode=all">Cache-Memcached</uri></ti>
+    <ti align="right">1.15</ti>
+    <ti align="right">1.17</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=digest-base&amp;mode=all">digest-base</uri></ti>
@@ -65,9 +65,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.15009</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file-homedir&amp;mode=all">File-HomeDir</uri></ti>
+    <ti align="right">0.56</ti>
+    <ti align="right">0.57</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file-spec&amp;mode=all">File-Spec</uri></ti>
     <ti align="right">3.15</ti>
-    <ti align="right">3.17</ti>
+    <ti align="right">3.18</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri></ti>
@@ -76,13 +81,8 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html-parser&amp;mode=all">HTML-Parser</uri></ti>
-    <ti align="right">3.51</ti>
     <ti align="right">3.52</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io-pager&amp;mode=all">IO-Pager</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right">0.06</ti>
+    <ti align="right">3.54</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ip-country&amp;mode=all">IP-Country</uri></ti>
@@ -107,12 +107,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=locale-maketext-lexicon&amp;mode=all">locale-maketext-lexicon</uri></ti>
     <ti align="right">0.53</ti>
-    <ti align="right">0.60</ti>
+    <ti align="right">0.61</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=locale-maketext-simple&amp;mode=all">Locale-Maketext-Simple</uri></ti>
     <ti align="right">0.12</ti>
-    <ti align="right">0.13</ti>
+    <ti align="right">0.14</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=log-log4perl&amp;mode=all">Log-Log4perl</uri></ti>
@@ -137,7 +137,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module-build&amp;mode=all">module-build</uri></ti>
     <ti align="right">0.2611</ti>
-    <ti align="right">0.2612</ti>
+    <ti align="right">0.28</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module-info&amp;mode=all">module-info</uri></ti>

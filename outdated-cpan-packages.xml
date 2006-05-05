@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.14 2006/05/04 06:02:28 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.15 2006/05/05 06:02:28 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-05-04</date>
+<date>2006-05-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=devel-symdump&amp;mode=all">Devel-Symdump</uri></ti>
+    <ti align="right">2.06</ti>
+    <ti align="right">2.0601</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=digest-base&amp;mode=all">digest-base</uri></ti>
     <ti align="right">1.14</ti>
     <ti align="right">1.15</ti>
@@ -75,6 +80,16 @@ will curb some of the bugs to boot).
     <ti align="right">1.32</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html-element-extended&amp;mode=all">HTML-Element-Extended</uri></ti>
+    <ti align="right">1.16</ti>
+    <ti align="right">1.17</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html-tableextract&amp;mode=all">HTML-TableExtract</uri></ti>
+    <ti align="right">2.07</ti>
+    <ti align="right">2.08</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
     <ti align="right">1.20</ti>
     <ti align="right">1.21</ti>
@@ -88,6 +103,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=libintl-perl&amp;mode=all">libintl-perl</uri></ti>
     <ti align="right">1.11</ti>
     <ti align="right">1.16</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=locale-maketext-simple&amp;mode=all">Locale-Maketext-Simple</uri></ti>
+    <ti align="right">0.14</ti>
+    <ti align="right">0.16</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module-signature&amp;mode=all">Module-Signature</uri></ti>

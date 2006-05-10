@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.19 2006/05/09 06:01:40 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.20 2006/05/10 06:02:50 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-05-09</date>
+<date>2006-05-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,6 +50,31 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class-inspector&amp;mode=all">Class-Inspector</uri></ti>
+    <ti align="right">1.14</ti>
+    <ti align="right">1.15</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpan-checksums&amp;mode=all">CPAN-Checksums</uri></ti>
+    <ti align="right">1.048</ti>
+    <ti align="right">1.050</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=crypt-dsa&amp;mode=all">crypt-dsa</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right">0.14</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime-timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
+    <ti align="right">0.45</ti>
+    <ti align="right">0.46</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbd-pg&amp;mode=all">DBD-Pg</uri></ti>
+    <ti align="right">1.48</ti>
+    <ti align="right">1.49</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel-symdump&amp;mode=all">Devel-Symdump</uri></ti>
     <ti align="right">2.06</ti>
     <ti align="right">2.0601</ti>
@@ -60,9 +85,19 @@ will curb some of the bugs to boot).
     <ti align="right">1.15</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=digest-sha&amp;mode=all">Digest-SHA</uri></ti>
+    <ti align="right">5.34</ti>
+    <ti align="right">5.36</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=error&amp;mode=all">Error</uri></ti>
     <ti align="right">0.15</ti>
     <ti align="right">0.15009</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=expect&amp;mode=all">Expect</uri></ti>
+    <ti align="right">1.15</ti>
+    <ti align="right">1.16</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file-homedir&amp;mode=all">File-HomeDir</uri></ti>
@@ -95,6 +130,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.21</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io-tty&amp;mode=all">IO-Tty</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right">1.03</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=jcode&amp;mode=all">Jcode</uri></ti>
     <ti align="right">2.03</ti>
     <ti align="right">2.04</ti>
@@ -117,12 +157,17 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=params-util&amp;mode=all">Params-Util</uri></ti>
     <ti align="right">0.11</ti>
-    <ti align="right">0.12</ti>
+    <ti align="right">0.13</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=params-validate&amp;mode=all">Params-Validate</uri></ti>
+    <ti align="right">0.81</ti>
+    <ti align="right">0.82</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=text-balanced&amp;mode=all">Text-Balanced</uri></ti>
     <ti align="right">1.95</ti>
-    <ti align="right">1.97</ti>
+    <ti align="right">1.98</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=text-wikiformat&amp;mode=all">Text-WikiFormat</uri></ti>
@@ -138,6 +183,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=unix-syslog&amp;mode=all">Unix-Syslog</uri></ti>
     <ti align="right">0.100</ti>
     <ti align="right">0.99</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml-twig&amp;mode=all">XML-Twig</uri></ti>
+    <ti align="right">3.23</ti>
+    <ti align="right">3.24</ti>
   </tr>
 </table>
 

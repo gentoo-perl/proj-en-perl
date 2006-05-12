@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.21 2006/05/11 06:03:27 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.22 2006/05/12 06:03:03 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-05-11</date>
+<date>2006-05-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -140,6 +140,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=ipc-run&amp;mode=all">IPC-Run</uri></ti>
+    <ti align="right">0.79</ti>
+    <ti align="right">0.80</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=jcode&amp;mode=all">Jcode</uri></ti>
     <ti align="right">2.03</ti>
     <ti align="right">2.04</ti>
@@ -157,12 +162,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module-signature&amp;mode=all">Module-Signature</uri></ti>
     <ti align="right">0.51</ti>
-    <ti align="right">0.53</ti>
+    <ti align="right">0.54</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=params-util&amp;mode=all">Params-Util</uri></ti>
     <ti align="right">0.11</ti>
-    <ti align="right">0.13</ti>
+    <ti align="right">0.14</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=params-validate&amp;mode=all">Params-Validate</uri></ti>
@@ -190,9 +195,14 @@ will curb some of the bugs to boot).
     <ti align="right">1.87</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=www-bugzilla&amp;mode=all">WWW-Bugzilla</uri></ti>
+    <ti align="right">0.5</ti>
+    <ti align="right">0.6</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml-twig&amp;mode=all">XML-Twig</uri></ti>
     <ti align="right">3.23</ti>
-    <ti align="right">3.24</ti>
+    <ti align="right">3.25</ti>
   </tr>
 </table>
 

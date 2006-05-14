@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.23 2006/05/13 06:03:01 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.24 2006/05/14 06:03:02 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-05-13</date>
+<date>2006-05-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -163,6 +163,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=module-signature&amp;mode=all">Module-Signature</uri></ti>
     <ti align="right">0.51</ti>
     <ti align="right">0.54</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mp3-tag&amp;mode=all">MP3-Tag</uri></ti>
+    <ti align="right">0.9706</ti>
+    <ti align="right">0.9707</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=params-util&amp;mode=all">Params-Util</uri></ti>

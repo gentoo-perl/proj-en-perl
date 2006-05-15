@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.24 2006/05/14 06:03:02 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.25 2006/05/15 06:03:12 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-05-14</date>
+<date>2006-05-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -188,6 +188,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=sub-uplevel&amp;mode=all">Sub-Uplevel</uri></ti>
     <ti align="right">0.10</ti>
     <ti align="right">0.12</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test-harness&amp;mode=all">Test-Harness</uri></ti>
+    <ti align="right">2.56</ti>
+    <ti align="right">2.58</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test-subcalls&amp;mode=all">Test-SubCalls</uri></ti>

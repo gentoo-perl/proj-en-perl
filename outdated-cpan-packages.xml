@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.36 2006/05/26 06:02:58 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.37 2006/05/27 06:02:57 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-05-26</date>
+<date>2006-05-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,6 +50,16 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=bsd-resource&amp;mode=all">BSD-Resource</uri></ti>
+    <ti align="right">1.26</ti>
+    <ti align="right">1.28</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cache-cache&amp;mode=all">Cache-Cache</uri></ti>
+    <ti align="right">1.04</ti>
+    <ti align="right">1.05</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config-tiny&amp;mode=all">Config-Tiny</uri></ti>
     <ti align="right">2.06</ti>
     <ti align="right">2.07</ti>
@@ -95,6 +105,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.32</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gd-svg&amp;mode=all">GD-SVG</uri></ti>
+    <ti align="right">0.27</ti>
+    <ti align="right">0.28</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=gdgraph&amp;mode=all">GDGraph</uri></ti>
     <ti align="right">1.4307</ti>
     <ti align="right">1.4308</ti>
@@ -103,6 +118,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=gtk2-ex-podviewer&amp;mode=all">Gtk2-Ex-PodViewer</uri></ti>
     <ti align="right">0.14</ti>
     <ti align="right">0.15</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gtk2-perl&amp;mode=all">gtk2-perl</uri></ti>
+    <ti align="right">1.121</ti>
+    <ti align="right">1.122</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html-element-extended&amp;mode=all">HTML-Element-Extended</uri></ti>
@@ -175,6 +195,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.14</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=template-toolkit&amp;mode=all">Template-Toolkit</uri></ti>
+    <ti align="right">2.14</ti>
+    <ti align="right">2.15</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=term-readline-perl&amp;mode=all">Term-ReadLine-Perl</uri></ti>
     <ti align="right">1.03</ti>
     <ti align="right">1.0302</ti>
@@ -212,7 +237,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 32
+Total packages suspected as outdated: 37
 </p>
 
 </body>

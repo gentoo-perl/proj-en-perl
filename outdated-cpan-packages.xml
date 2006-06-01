@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.41 2006/05/31 06:02:59 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.42 2006/06/01 06:05:24 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-05-31</date>
+<date>2006-06-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -90,6 +90,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.15009</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=expect&amp;mode=all">Expect</uri></ti>
+    <ti align="right">1.16</ti>
+    <ti align="right">1.17</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file-mmagic&amp;mode=all">File-MMagic</uri></ti>
     <ti align="right">1.26</ti>
     <ti align="right">1.27</ti>
@@ -137,7 +142,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io-tty&amp;mode=all">IO-Tty</uri></ti>
     <ti align="right">1.02</ti>
-    <ti align="right">1.03</ti>
+    <ti align="right">1.04</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ipc-run&amp;mode=all">IPC-Run</uri></ti>
@@ -153,6 +158,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=mail-mbox-messageparser&amp;mode=all">Mail-Mbox-MessageParser</uri></ti>
     <ti align="right">1.4002</ti>
     <ti align="right">1.4003</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=math-pari&amp;mode=all">math-pari</uri></ti>
+    <ti align="right">2.010704</ti>
+    <ti align="right">2.010705</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module-build&amp;mode=all">module-build</uri></ti>
@@ -242,7 +252,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 38
+Total packages suspected as outdated: 40
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.44 2006/06/02 07:21:10 ian Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.45 2006/06/02 13:11:06 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,64 +50,14 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=bsd-resource&amp;mode=all">BSD-Resource</uri></ti>
-    <ti align="right">1.26</ti>
-    <ti align="right">1.28</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cache-cache&amp;mode=all">Cache-Cache</uri></ti>
-    <ti align="right">1.04</ti>
-    <ti align="right">1.05</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config-tiny&amp;mode=all">Config-Tiny</uri></ti>
-    <ti align="right">2.06</ti>
-    <ti align="right">2.07</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbd-pg&amp;mode=all">DBD-Pg</uri></ti>
-    <ti align="right">1.48</ti>
-    <ti align="right">1.49</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel-cycle&amp;mode=all">Devel-Cycle</uri></ti>
-    <ti align="right">1.05</ti>
-    <ti align="right">1.07</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel-symdump&amp;mode=all">Devel-Symdump</uri></ti>
-    <ti align="right">2.06</ti>
-    <ti align="right">2.0601</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=digest-sha&amp;mode=all">Digest-SHA</uri></ti>
-    <ti align="right">5.37</ti>
-    <ti align="right">5.39</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=error&amp;mode=all">Error</uri></ti>
     <ti align="right">0.15</ti>
-    <ti align="right">0.15009</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=expect&amp;mode=all">Expect</uri></ti>
-    <ti align="right">1.16</ti>
-    <ti align="right">1.17</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file-find-rule&amp;mode=all">File-Find-Rule</uri></ti>
-    <ti align="right">0.29</ti>
-    <ti align="right">0.30</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file-mmagic&amp;mode=all">File-MMagic</uri></ti>
-    <ti align="right">1.26</ti>
-    <ti align="right">1.27</ti>
+    <ti align="right">0.15005</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file-spec&amp;mode=all">File-Spec</uri></ti>
     <ti align="right">3.15</ti>
-    <ti align="right">3.18</ti>
+    <ti align="right">3.17</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri></ti>
@@ -115,134 +65,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.32</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gd&amp;mode=all">GD</uri></ti>
-    <ti align="right">2.32</ti>
-    <ti align="right">2.34</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gdgraph&amp;mode=all">GDGraph</uri></ti>
-    <ti align="right">1.4307</ti>
-    <ti align="right">1.4308</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gtk2-ex-podviewer&amp;mode=all">Gtk2-Ex-PodViewer</uri></ti>
-    <ti align="right">0.14</ti>
-    <ti align="right">0.15</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gtk2-perl&amp;mode=all">gtk2-perl</uri></ti>
-    <ti align="right">1.121</ti>
-    <ti align="right">1.122</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html-element-extended&amp;mode=all">HTML-Element-Extended</uri></ti>
-    <ti align="right">1.16</ti>
-    <ti align="right">1.17</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html-mason&amp;mode=all">HTML-Mason</uri></ti>
-    <ti align="right">1.32</ti>
-    <ti align="right">1.33</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=inline-java&amp;mode=all">Inline-Java</uri></ti>
-    <ti align="right">0.50</ti>
-    <ti align="right">0.51</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io-tty&amp;mode=all">IO-Tty</uri></ti>
-    <ti align="right">1.02</ti>
-    <ti align="right">1.04</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=ipc-run&amp;mode=all">IPC-Run</uri></ti>
-    <ti align="right">0.79</ti>
-    <ti align="right">0.80</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=jcode&amp;mode=all">Jcode</uri></ti>
-    <ti align="right">2.03</ti>
-    <ti align="right">2.05</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mail-mbox-messageparser&amp;mode=all">Mail-Mbox-MessageParser</uri></ti>
-    <ti align="right">1.4002</ti>
-    <ti align="right">1.4003</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math-pari&amp;mode=all">math-pari</uri></ti>
-    <ti align="right">2.010704</ti>
-    <ti align="right">2.010706</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module-build&amp;mode=all">module-build</uri></ti>
-    <ti align="right">0.28</ti>
-    <ti align="right">0.2801</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module-signature&amp;mode=all">Module-Signature</uri></ti>
     <ti align="right">0.51</ti>
-    <ti align="right">0.54</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=par-dist&amp;mode=all">PAR-Dist</uri></ti>
-    <ti align="right">0.08</ti>
-    <ti align="right">0.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=params-util&amp;mode=all">Params-Util</uri></ti>
-    <ti align="right">0.11</ti>
-    <ti align="right">0.14</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=params-validate&amp;mode=all">Params-Validate</uri></ti>
-    <ti align="right">0.82</ti>
-    <ti align="right">0.84</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
-    <ti align="right">0.3401</ti>
-    <ti align="right">0.3501</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=ppi&amp;mode=all">PPI</uri></ti>
-    <ti align="right">1.112</ti>
-    <ti align="right">1.114</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sub-uplevel&amp;mode=all">Sub-Uplevel</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right">0.12</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sys-syslog&amp;mode=all">Sys-Syslog</uri></ti>
-    <ti align="right">0.13</ti>
-    <ti align="right">0.14</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=template-toolkit&amp;mode=all">Template-Toolkit</uri></ti>
-    <ti align="right">2.14</ti>
-    <ti align="right">2.15</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=term-readline-perl&amp;mode=all">Term-ReadLine-Perl</uri></ti>
-    <ti align="right">1.03</ti>
-    <ti align="right">1.0302</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test-harness&amp;mode=all">Test-Harness</uri></ti>
-    <ti align="right">2.56</ti>
-    <ti align="right">2.60</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test-subcalls&amp;mode=all">Test-SubCalls</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right">1.06</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text-balanced&amp;mode=all">Text-Balanced</uri></ti>
-    <ti align="right">1.95</ti>
-    <ti align="right">1.98</ti>
+    <ti align="right">0.53</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=text-wikiformat&amp;mode=all">Text-WikiFormat</uri></ti>
@@ -254,15 +79,10 @@ will curb some of the bugs to boot).
     <ti align="right">1.86</ti>
     <ti align="right">1.87</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri></ti>
-    <ti align="right">0.60</ti>
-    <ti align="right">0.63</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 42
+Total packages suspected as outdated: 6
 </p>
 
 </body>

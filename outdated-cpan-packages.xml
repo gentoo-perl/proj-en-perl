@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.46 2006/06/03 06:03:11 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.47 2006/06/04 06:02:57 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-06-03</date>
+<date>2006-06-04</date>
 
 <chapter>
 <title>Intro</title>
@@ -87,7 +87,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=digest-sha&amp;mode=all">Digest-SHA</uri></ti>
     <ti align="right">5.37</ti>
-    <ti align="right">5.40</ti>
+    <ti align="right">5.41</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=error&amp;mode=all">Error</uri></ti>

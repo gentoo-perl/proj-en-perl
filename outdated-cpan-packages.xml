@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.47 2006/06/04 06:02:57 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.48 2006/06/05 06:02:55 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-06-04</date>
+<date>2006-06-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=apache-dbi&amp;mode=all">Apache-DBI</uri></ti>
+    <ti align="right">0.9901</ti>
+    <ti align="right">1.01</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=bsd-resource&amp;mode=all">BSD-Resource</uri></ti>
     <ti align="right">1.26</ti>
     <ti align="right">1.28</ti>
@@ -212,7 +217,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ppi&amp;mode=all">PPI</uri></ti>
     <ti align="right">1.112</ti>
-    <ti align="right">1.114</ti>
+    <ti align="right">1.115</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sub-uplevel&amp;mode=all">Sub-Uplevel</uri></ti>
@@ -267,7 +272,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 43
+Total packages suspected as outdated: 44
 </p>
 
 </body>

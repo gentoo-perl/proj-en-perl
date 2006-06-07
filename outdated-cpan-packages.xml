@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.49 2006/06/06 06:03:06 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.50 2006/06/07 06:03:49 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-06-06</date>
+<date>2006-06-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,14 +70,29 @@ will curb some of the bugs to boot).
     <ti align="right">2.07</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=crypt-cbc&amp;mode=all">crypt-cbc</uri></ti>
+    <ti align="right">2.17</ti>
+    <ti align="right">2.18</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=curses&amp;mode=all">Curses</uri></ti>
     <ti align="right">1.13</ti>
     <ti align="right">1.14</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data-hierarchy&amp;mode=all">Data-Hierarchy</uri></ti>
+    <ti align="right">0.21</ti>
+    <ti align="right">0.22</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd-pg&amp;mode=all">DBD-Pg</uri></ti>
     <ti align="right">1.48</ti>
     <ti align="right">1.49</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbi&amp;mode=all">DBI</uri></ti>
+    <ti align="right">1.50</ti>
+    <ti align="right">1.51</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel-cycle&amp;mode=all">Devel-Cycle</uri></ti>
@@ -123,6 +138,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri></ti>
     <ti align="right">1.30</ti>
     <ti align="right">1.32</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=fuse&amp;mode=all">Fuse</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right">0.07</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gd&amp;mode=all">GD</uri></ti>
@@ -188,6 +208,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=module-build&amp;mode=all">module-build</uri></ti>
     <ti align="right">0.28</ti>
     <ti align="right">0.2801</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module-pluggable&amp;mode=all">Module-Pluggable</uri></ti>
+    <ti align="right">2.97</ti>
+    <ti align="right">3.0</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module-signature&amp;mode=all">Module-Signature</uri></ti>
@@ -272,7 +297,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 44
+Total packages suspected as outdated: 49
 </p>
 
 </body>

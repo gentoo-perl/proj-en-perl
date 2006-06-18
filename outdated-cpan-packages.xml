@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.59 2006/06/17 06:03:23 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.60 2006/06/18 06:03:56 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-06-17</date>
+<date>2006-06-18</date>
 
 <chapter>
 <title>Intro</title>
@@ -110,6 +110,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.15009</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=event-execflow&amp;mode=all">Event-ExecFlow</uri></ti>
+    <ti align="right">0.61</ti>
+    <ti align="right">0.62</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=expect&amp;mode=all">Expect</uri></ti>
     <ti align="right">1.16</ti>
     <ti align="right">1.17</ti>
@@ -148,6 +153,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=gdgraph&amp;mode=all">GDGraph</uri></ti>
     <ti align="right">1.4307</ti>
     <ti align="right">1.4308</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gtk2-ex-formfactory&amp;mode=all">gtk2-ex-formfactory</uri></ti>
+    <ti align="right">0.63</ti>
+    <ti align="right">0.64</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2-ex-podviewer&amp;mode=all">Gtk2-Ex-PodViewer</uri></ti>
@@ -218,6 +228,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=locale-maketext-lexicon&amp;mode=all">locale-maketext-lexicon</uri></ti>
     <ti align="right">0.61</ti>
     <ti align="right">0.62</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=log-log4perl&amp;mode=all">Log-Log4perl</uri></ti>
+    <ti align="right">1.04</ti>
+    <ti align="right">1.05</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail-dkim&amp;mode=all">Mail-DKIM</uri></ti>
@@ -357,7 +372,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 61
+Total packages suspected as outdated: 64
 </p>
 
 </body>

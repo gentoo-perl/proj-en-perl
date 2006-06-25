@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.66 2006/06/24 06:02:54 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.67 2006/06/25 06:03:22 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-06-24</date>
+<date>2006-06-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -49,100 +49,11 @@ will curb some of the bugs to boot).
     <th>Version in portage</th>
     <th>Version on CPAN</th>
   </tr>
-    <tr>
-    <ti><uri link="http://search.cpan.org/search?query=apache-dbi&amp;mode=all">Apache-DBI</uri></ti>
-    <ti align="right">0.9901</ti>
-    <ti align="right">1.01</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbd-pg&amp;mode=all">DBD-Pg</uri></ti>
-    <ti align="right">1.48</ti>
-    <ti align="right">1.49</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel-symdump&amp;mode=all">Devel-Symdump</uri></ti>
-    <ti align="right">2.06</ti>
-    <ti align="right">2.0601</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=error&amp;mode=all">Error</uri></ti>
-    <ti align="right">0.15</ti>
-    <ti align="right">0.15009</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file-spec&amp;mode=all">File-Spec</uri></ti>
-    <ti align="right">3.15</ti>
-    <ti align="right">3.18</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri></ti>
-    <ti align="right">1.30</ti>
-    <ti align="right">1.32</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gtk2-ex-podviewer&amp;mode=all">Gtk2-Ex-PodViewer</uri></ti>
-    <ti align="right">0.14</ti>
-    <ti align="right">0.15</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html-mason&amp;mode=all">HTML-Mason</uri></ti>
-    <ti align="right">1.32</ti>
-    <ti align="right">1.33</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=inline-java&amp;mode=all">Inline-Java</uri></ti>
-    <ti align="right">0.50</ti>
-    <ti align="right">0.51</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=jcode&amp;mode=all">Jcode</uri></ti>
-    <ti align="right">2.03</ti>
-    <ti align="right">2.05</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mail-dkim&amp;mode=all">Mail-DKIM</uri></ti>
-    <ti align="right">0.17</ti>
-    <ti align="right">0.18</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module-signature&amp;mode=all">Module-Signature</uri></ti>
-    <ti align="right">0.51</ti>
-    <ti align="right">0.54</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sub-uplevel&amp;mode=all">Sub-Uplevel</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right">0.13</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sys-syslog&amp;mode=all">Sys-Syslog</uri></ti>
-    <ti align="right">0.13</ti>
-    <ti align="right">0.16</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=term-readline-perl&amp;mode=all">Term-ReadLine-Perl</uri></ti>
-    <ti align="right">1.03</ti>
-    <ti align="right">1.0302</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test-harness&amp;mode=all">Test-Harness</uri></ti>
-    <ti align="right">2.56</ti>
-    <ti align="right">2.62</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text-balanced&amp;mode=all">Text-Balanced</uri></ti>
-    <ti align="right">1.95</ti>
-    <ti align="right">1.98</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=time-hires&amp;mode=all">Time-HiRes</uri></ti>
-    <ti align="right">1.86</ti>
-    <ti align="right">1.87</ti>
-  </tr>
+  
 </table>
 
 <p>
-Total packages suspected as outdated: 18
+Total packages suspected as outdated: 0
 </p>
 
 </body>

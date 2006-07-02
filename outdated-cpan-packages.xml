@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.75 2006/07/02 06:02:57 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.76 2006/07/02 12:10:12 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,9 +50,24 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=error&amp;mode=all">Error</uri></ti>
+    <ti align="right">0.15009</ti>
+    <ti align="right">0.16</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mail::domainkeys&amp;mode=all">Mail-DomainKeys</uri></ti>
+    <ti align="right">0.80</ti>
+    <ti align="right">0.82</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=proc::processtable&amp;mode=all">Proc-ProcessTable</uri></ti>
     <ti align="right">0.40</ti>
     <ti align="right">0.41</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::twig&amp;mode=all">XML-Twig</uri></ti>
+    <ti align="right">3.25</ti>
+    <ti align="right">3.26</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=yaml&amp;mode=all">yaml</uri></ti>
@@ -62,7 +77,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 2
+Total packages suspected as outdated: 5
 </p>
 
 </body>

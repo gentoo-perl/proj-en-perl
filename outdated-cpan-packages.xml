@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.84 2006/07/06 06:34:55 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.85 2006/07/06 21:35:03 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
 <title>Outdated CPAN Packages (Ebuild vs CPAN)</title>
 
 <author title="Author">
-  Script generated using up2date-ng version 0.18
+  Script generated using up2date-ng version 0.19
 </author>
 
 <abstract>
@@ -49,11 +49,15 @@ will curb some of the bugs to boot).
     <th>Version in portage</th>
     <th>Version on CPAN</th>
   </tr>
-  
+    <tr>
+    <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
+    <ti align="right">0.27</ti>
+    <ti align="right">0.51</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 0
+Total packages suspected as outdated: 1
 </p>
 
 </body>

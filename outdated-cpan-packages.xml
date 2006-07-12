@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.95 2006/07/11 21:41:47 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.96 2006/07/12 06:36:12 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-07-11</date>
+<date>2006-07-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,14 +50,49 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
+    <ti align="right">0.40</ti>
+    <ti align="right">0.500</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
+    <ti align="right">1.80</ti>
+    <ti align="right">1.85</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=expect&amp;mode=all">Expect</uri></ti>
+    <ti align="right">1.17</ti>
+    <ti align="right">1.18</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gtk2::ex::podviewer&amp;mode=all">Gtk2-Ex-PodViewer</uri></ti>
+    <ti align="right">0.15</ti>
+    <ti align="right">0.16</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::parser&amp;mode=all">HTML-Parser</uri></ti>
     <ti align="right">3.54</ti>
     <ti align="right">3.55</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mail::mbox::messageparser&amp;mode=all">Mail-Mbox-MessageParser</uri></ti>
+    <ti align="right">1.4003</ti>
+    <ti align="right">1.4004</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::pluggable&amp;mode=all">Module-Pluggable</uri></ti>
+    <ti align="right">3.01</ti>
+    <ti align="right">3.1</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=text::aspell&amp;mode=all">Text-Aspell</uri></ti>
     <ti align="right">0.05</ti>
     <ti align="right">0.06</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::tabs+wrap&amp;mode=all">Text-Tabs+Wrap</uri></ti>
+    <ti align="right">2006.0705</ti>
+    <ti align="right">2006.0711</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
@@ -67,7 +102,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 3
+Total packages suspected as outdated: 10
 </p>
 
 </body>

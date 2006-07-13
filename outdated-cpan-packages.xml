@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.98 2006/07/13 06:36:26 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.99 2006/07/13 21:36:40 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,6 +55,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.500</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=error&amp;mode=all">Error</uri></ti>
+    <ti align="right">0.16</ti>
+    <ti align="right">0.17</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=expect&amp;mode=all">Expect</uri></ti>
     <ti align="right">1.17</ti>
     <ti align="right">1.18</ti>
@@ -88,11 +93,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=module::pluggable&amp;mode=all">Module-Pluggable</uri></ti>
     <ti align="right">3.01</ti>
     <ti align="right">3.1</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::server&amp;mode=all">net-server</uri></ti>
-    <ti align="right">0.93</ti>
-    <ti align="right">0.94</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=text::aspell&amp;mode=all">Text-Aspell</uri></ti>

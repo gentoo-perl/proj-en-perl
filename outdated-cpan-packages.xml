@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.104 2006/07/16 06:35:03 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.105 2006/07/16 21:38:11 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -90,9 +90,19 @@ will curb some of the bugs to boot).
     <ti align="right">3.55</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::tableextract&amp;mode=all">HTML-TableExtract</uri></ti>
+    <ti align="right">2.09</ti>
+    <ti align="right">2.10</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::mbox::messageparser&amp;mode=all">Mail-Mbox-MessageParser</uri></ti>
     <ti align="right">1.4003</ti>
     <ti align="right">1.4004</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">module-build</uri></ti>
+    <ti align="right">0.2801</ti>
+    <ti align="right">0.2803</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::pluggable&amp;mode=all">Module-Pluggable</uri></ti>
@@ -100,19 +110,9 @@ will curb some of the bugs to boot).
     <ti align="right">3.1</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=term::ansicolor&amp;mode=all">Term-ANSIColor</uri></ti>
-    <ti align="right">1.10</ti>
-    <ti align="right">1.11</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=text::aspell&amp;mode=all">Text-Aspell</uri></ti>
     <ti align="right">0.05</ti>
     <ti align="right">0.06</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::glob&amp;mode=all">Text-Glob</uri></ti>
-    <ti align="right">0.06</ti>
-    <ti align="right">0.07</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=text::tabs+wrap&amp;mode=all">Text-Tabs+Wrap</uri></ti>

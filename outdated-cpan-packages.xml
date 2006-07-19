@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.109 2006/07/18 21:37:13 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.110 2006/07/19 06:35:31 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-07-18</date>
+<date>2006-07-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,21 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=error&amp;mode=all">Error</uri></ti>
-    <ti align="right">0.16</ti>
-    <ti align="right">0.17</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=expect&amp;mode=all">Expect</uri></ti>
-    <ti align="right">1.17</ti>
-    <ti align="right">1.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::rsyncp&amp;mode=all">File-RsyncP</uri></ti>
-    <ti align="right">0.52</ti>
-    <ti align="right">0.62</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::spec&amp;mode=all">File-Spec</uri></ti>
     <ti align="right">3.18</ti>
     <ti align="right">3.19</ti>
@@ -152,7 +137,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20
+Total packages suspected as outdated: 17
 </p>
 
 </body>

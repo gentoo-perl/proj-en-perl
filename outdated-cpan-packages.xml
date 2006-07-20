@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.112 2006/07/20 06:36:11 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.113 2006/07/20 21:37:39 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,9 +50,19 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::flat&amp;mode=all">File-Flat</uri></ti>
+    <ti align="right">0.95</ti>
+    <ti align="right">0.96</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::spec&amp;mode=all">File-Spec</uri></ti>
     <ti align="right">3.18</ti>
     <ti align="right">3.19</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gnome2::wnck&amp;mode=all">gnome2-wnck</uri></ti>
+    <ti align="right">0.12</ti>
+    <ti align="right">0.13</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::ex::podviewer&amp;mode=all">Gtk2-Ex-PodViewer</uri></ti>
@@ -77,7 +87,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
     <ti align="right">0.981</ti>
-    <ti align="right">0.991</ti>
+    <ti align="right">0.993</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::tty&amp;mode=all">IO-Tty</uri></ti>
@@ -105,9 +115,19 @@ will curb some of the bugs to boot).
     <ti align="right">3.1</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=par::dist&amp;mode=all">PAR-Dist</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right">0.11</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.18</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::pod&amp;mode=all">Test-Pod</uri></ti>
+    <ti align="right">1.24</ti>
+    <ti align="right">1.26</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::simple&amp;mode=all">Test-Simple</uri></ti>
@@ -127,7 +147,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri></ti>
     <ti align="right">0.64</ti>
-    <ti align="right">0.651</ti>
+    <ti align="right">0.652</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
@@ -137,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17
+Total packages suspected as outdated: 21
 </p>
 
 </body>

@@ -42,6 +42,7 @@
 
 <resource link="/proj/en/perl/perl-herd.xml">DRAFT Perl Herd Ebuild guide</resource>
 <resource link="/proj/en/perl/perl-cleaner.xml">DRAFT perl-cleaner guide</resource>
+<resource link="/proj/en/perl/g-cpan.xml">DRAFT g-cpan guide</resource>
 <resource link="/proj/en/perl/outdated-cpan-packages.xml">Outdated CPAN Packages (Ebuild vs CPAN)</resource>
 <resource link="/main/en/lists.xml">[gentoo-perl] Mailing List</resource>
 <resource link="http://news.gmane.org/gmane.linux.gentoo.perl">[gentoo-perl] Mailing List Archives</resource>

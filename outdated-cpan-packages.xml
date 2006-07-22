@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.115 2006/07/21 21:34:29 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.116 2006/07/22 06:34:20 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-07-21</date>
+<date>2006-07-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,24 +50,24 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
+    <ti align="right">1.85</ti>
+    <ti align="right">1.86</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=expect&amp;mode=all">Expect</uri></ti>
+    <ti align="right">1.19</ti>
+    <ti align="right">1.20</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::flat&amp;mode=all">File-Flat</uri></ti>
     <ti align="right">0.95</ti>
     <ti align="right">0.96</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gtk2::ex::podviewer&amp;mode=all">Gtk2-Ex-PodViewer</uri></ti>
-    <ti align="right">0.15</ti>
-    <ti align="right">0.16</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::parser&amp;mode=all">HTML-Parser</uri></ti>
     <ti align="right">3.54</ti>
     <ti align="right">3.55</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::tableextract&amp;mode=all">HTML-TableExtract</uri></ti>
-    <ti align="right">2.09</ti>
-    <ti align="right">2.10</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
@@ -85,9 +85,14 @@ will curb some of the bugs to boot).
     <ti align="right">1.07</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
+    <ti align="right">1.05</ti>
+    <ti align="right">1.06</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
     <ti align="right">2.1</ti>
-    <ti align="right">2.201</ti>
+    <ti align="right">2.203</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::mbox::messageparser&amp;mode=all">Mail-Mbox-MessageParser</uri></ti>
@@ -107,12 +112,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=par::dist&amp;mode=all">PAR-Dist</uri></ti>
     <ti align="right">0.10</ti>
-    <ti align="right">0.11</ti>
+    <ti align="right">0.12</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
-    <ti align="right">0.17</ti>
-    <ti align="right">0.18</ti>
+    <ti><uri link="http://search.cpan.org/search?query=perltidy&amp;mode=all">perltidy</uri></ti>
+    <ti align="right">20060614</ti>
+    <ti align="right">20060719</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::pod&amp;mode=all">Test-Pod</uri></ti>
@@ -147,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19
+Total packages suspected as outdated: 20
 </p>
 
 </body>

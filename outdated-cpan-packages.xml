@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.117 2006/07/22 21:33:25 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.118 2006/07/23 06:33:16 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-07-22</date>
+<date>2006-07-23</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
-    <ti align="right">1.85</ti>
-    <ti align="right">1.86</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=expect&amp;mode=all">Expect</uri></ti>
     <ti align="right">1.19</ti>
     <ti align="right">1.20</ti>
@@ -85,11 +80,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.07</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
-    <ti align="right">1.05</ti>
-    <ti align="right">1.06</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
     <ti align="right">2.1</ti>
     <ti align="right">2.203</ti>
@@ -105,14 +95,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.2804</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::pluggable&amp;mode=all">Module-Pluggable</uri></ti>
-    <ti align="right">3.01</ti>
-    <ti align="right">3.1</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=par::dist&amp;mode=all">PAR-Dist</uri></ti>
     <ti align="right">0.10</ti>
-    <ti align="right">0.13</ti>
+    <ti align="right">0.12</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perltidy&amp;mode=all">perltidy</uri></ti>
@@ -123,11 +108,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=test::pod&amp;mode=all">Test-Pod</uri></ti>
     <ti align="right">1.24</ti>
     <ti align="right">1.26</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::simple&amp;mode=all">Test-Simple</uri></ti>
-    <ti align="right">0.63</ti>
-    <ti align="right">0.64</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=text::aspell&amp;mode=all">Text-Aspell</uri></ti>
@@ -152,7 +132,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20
+Total packages suspected as outdated: 16
 </p>
 
 </body>

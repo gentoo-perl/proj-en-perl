@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.122 2006/07/25 06:34:41 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.123 2006/07/25 21:33:07 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -70,6 +70,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.96</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gnome2::gconf&amp;mode=all">gnome2-gconf</uri></ti>
+    <ti align="right">1.031</ti>
+    <ti align="right">1.032</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::parser&amp;mode=all">HTML-Parser</uri></ti>
     <ti align="right">3.54</ti>
     <ti align="right">3.55</ti>
@@ -90,6 +95,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.07</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=lingua::stem&amp;mode=all">Lingua-Stem</uri></ti>
+    <ti align="right">0.81</ti>
+    <ti align="right">0.82</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
     <ti align="right">2.1</ti>
     <ti align="right">2.203</ti>
@@ -108,6 +118,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=perltidy&amp;mode=all">perltidy</uri></ti>
     <ti align="right">20060614</ti>
     <ti align="right">20060719</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=prefork&amp;mode=all">prefork</uri></ti>
+    <ti align="right">1.00</ti>
+    <ti align="right">1.01</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sys::syslog&amp;mode=all">Sys-Syslog</uri></ti>
@@ -142,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18
+Total packages suspected as outdated: 21
 </p>
 
 </body>

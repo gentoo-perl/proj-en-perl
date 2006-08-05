@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.144 2006/08/05 06:32:34 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.145 2006/08/05 21:34:04 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -95,6 +95,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.55</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pod::coverage&amp;mode=all">Pod-Coverage</uri></ti>
+    <ti align="right">0.17</ti>
+    <ti align="right">0.18</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri></ti>
     <ti align="right">0.661</ti>
     <ti align="right">0.662</ti>
@@ -117,7 +122,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 13
+Total packages suspected as outdated: 14
 </p>
 
 </body>

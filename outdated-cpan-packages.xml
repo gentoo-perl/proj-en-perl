@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.148 2006/08/07 06:33:55 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.149 2006/08/07 21:42:48 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -110,6 +110,21 @@ will curb some of the bugs to boot).
     <ti align="right">0.18</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
+    <ti align="right">0.3502</ti>
+    <ti align="right">0.36</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::memory::cycle&amp;mode=all">Test-Memory-Cycle</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right">1.04</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=tie::array::sorted&amp;mode=all">Tie-Array-Sorted</uri></ti>
+    <ti align="right">1.4</ti>
+    <ti align="right">1.41</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri></ti>
     <ti align="right">0.661</ti>
     <ti align="right">0.662</ti>
@@ -132,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16
+Total packages suspected as outdated: 19
 </p>
 
 </body>

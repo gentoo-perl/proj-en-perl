@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.174 2006/08/20 21:35:02 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.175 2006/08/21 06:35:10 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-08-20</date>
+<date>2006-08-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.015</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=error&amp;mode=all">Error</uri></ti>
+    <ti align="right">0.17002</ti>
+    <ti align="right">0.17003</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::temp&amp;mode=all">File-Temp</uri></ti>
     <ti align="right">0.16</ti>
     <ti align="right">0.17</ti>
@@ -75,14 +80,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.86</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=www::mechanize&amp;mode=all">WWW-Mechanize</uri></ti>
-    <ti align="right">1.18</ti>
-    <ti align="right">1.20</ti>
+    <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
+    <ti align="right">0.18</ti>
+    <ti align="right">0.19</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 6
+Total packages suspected as outdated: 7
 </p>
 
 </body>

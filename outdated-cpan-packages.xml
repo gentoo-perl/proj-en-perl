@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.175 2006/08/21 06:35:10 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.176 2006/08/21 21:36:51 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
 <title>Outdated CPAN Packages (Ebuild vs CPAN)</title>
 
 <author title="Author">
-  Script generated using up2date-ng version 0.19
+  Script generated using up2date-ng version 0.20
 </author>
 
 <abstract>
@@ -49,45 +49,11 @@ will curb some of the bugs to boot).
     <th>Version in portage</th>
     <th>Version on CPAN</th>
   </tr>
-    <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cache::simple::timedexpiry&amp;mode=all">Cache-Simple-TimedExpiry</uri></ti>
-    <ti align="right">0.23</ti>
-    <ti align="right">0.24</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
-    <ti align="right">3.014</ti>
-    <ti align="right">3.015</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=error&amp;mode=all">Error</uri></ti>
-    <ti align="right">0.17002</ti>
-    <ti align="right">0.17003</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::temp&amp;mode=all">File-Temp</uri></ti>
-    <ti align="right">0.16</ti>
-    <ti align="right">0.17</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">module-build</uri></ti>
-    <ti align="right">0.2801</ti>
-    <ti align="right">0.2805</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=params::validate&amp;mode=all">Params-Validate</uri></ti>
-    <ti align="right">0.85</ti>
-    <ti align="right">0.86</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
-    <ti align="right">0.18</ti>
-    <ti align="right">0.19</ti>
-  </tr>
+  
 </table>
 
 <p>
-Total packages suspected as outdated: 7
+Total packages suspected as outdated: 0 of 650
 </p>
 
 </body>

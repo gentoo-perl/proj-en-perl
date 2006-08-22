@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.176 2006/08/21 21:36:51 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.177 2006/08/22 06:34:17 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-08-21</date>
+<date>2006-08-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -49,11 +49,30 @@ will curb some of the bugs to boot).
     <th>Version in portage</th>
     <th>Version on CPAN</th>
   </tr>
-  
+    <tr>
+    <ti><uri link="http://search.cpan.org/search?query=apache::dbi&amp;mode=all">Apache-DBI</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right">1.03</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri></ti>
+    <ti align="right">3.20</ti>
+    <ti align="right">3.21</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
+    <ti align="right">0.46</ti>
+    <ti align="right">0.47</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=time::hires&amp;mode=all">Time-HiRes</uri></ti>
+    <ti align="right">1.87</ti>
+    <ti align="right">1.88</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 0 of 650
+Total packages suspected as outdated: 4 of 650
 </p>
 
 </body>

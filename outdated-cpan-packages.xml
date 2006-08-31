@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.194 2006/08/30 21:43:44 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.195 2006/08/31 06:37:43 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-08-30</date>
+<date>2006-08-31</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
+    <ti align="right">0.20</ti>
+    <ti align="right">0.21</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::dbi&amp;mode=all">Apache-DBI</uri></ti>
     <ti align="right">1.02</ti>
     <ti align="right">1.03</ti>
@@ -60,9 +65,39 @@ will curb some of the bugs to boot).
     <ti align="right">0.05</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
+    <ti align="right">0.47</ti>
+    <ti align="right">0.48</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::pcap&amp;mode=all">Net-Pcap</uri></ti>
+    <ti align="right">0.12</ti>
+    <ti align="right">0.13</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=par::dist&amp;mode=all">PAR-Dist</uri></ti>
+    <ti align="right">0.17</ti>
+    <ti align="right">0.18</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=plucene&amp;mode=all">Plucene</uri></ti>
     <ti align="right">1.24</ti>
     <ti align="right">1.25</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sys::syslog&amp;mode=all">Sys-Syslog</uri></ti>
+    <ti align="right">0.17</ti>
+    <ti align="right">0.18</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=want&amp;mode=all">Want</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right">0.12</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
+    <ti align="right">0.56</ti>
+    <ti align="right">0.57</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::libxml&amp;mode=all">XML-LibXML</uri></ti>
@@ -77,7 +112,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 650
+Total packages suspected as outdated: 12 of 650
 </p>
 
 </body>

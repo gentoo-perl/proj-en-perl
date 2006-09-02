@@ -61,6 +61,10 @@
   Tool to check for updates on cpan (Ebuild vs CPAN)
 </extraproject>
 
+<extraproject name="perl-info" lead="ian">
+  Tool to gather relevant perl data; 'emerge --info' for perl
+</extraproject>
+
 <herd name="perl"></herd>
 
 </project>

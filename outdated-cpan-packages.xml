@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.209 2006/09/07 06:37:11 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.210 2006/09/07 21:38:47 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,16 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::uuid&amp;mode=all">Data-UUID</uri></ti>
-    <ti align="right">0.14</ti>
-    <ti align="right">0.142</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::simple&amp;mode=all">Email-Simple</uri></ti>
-    <ti align="right">1.980</ti>
-    <ti align="right">1.990</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=gnome2::gconf&amp;mode=all">gnome2-gconf</uri></ti>
     <ti align="right">1.032</ti>
     <ti align="right">1.040</ti>
@@ -70,24 +60,19 @@ will curb some of the bugs to boot).
     <ti align="right">1.006</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
-    <ti align="right">1.122</ti>
-    <ti align="right">1.140</ti>
+    <ti><uri link="http://search.cpan.org/search?query=net::netmask&amp;mode=all">Net-Netmask</uri></ti>
+    <ti align="right">1.9012</ti>
+    <ti align="right">1.9013</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::pcap&amp;mode=all">Net-Pcap</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right">0.14</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=ppi&amp;mode=all">PPI</uri></ti>
-    <ti align="right">1.115</ti>
-    <ti align="right">1.117</ti>
+    <ti><uri link="http://search.cpan.org/search?query=test::object&amp;mode=all">Test-Object</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right">0.07</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 7 of 650
+Total packages suspected as outdated: 4 of 653
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.211 2006/09/08 06:37:45 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.212 2006/09/08 21:36:49 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -49,35 +49,11 @@ will curb some of the bugs to boot).
     <th>Version in portage</th>
     <th>Version on CPAN</th>
   </tr>
-    <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::hierarchy&amp;mode=all">Data-Hierarchy</uri></ti>
-    <ti align="right">0.30</ti>
-    <ti align="right">0.31</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gnome2::gconf&amp;mode=all">gnome2-gconf</uri></ti>
-    <ti align="right">1.032</ti>
-    <ti align="right">1.040</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gtk2::gladexml&amp;mode=all">gtk2-gladexml</uri></ti>
-    <ti align="right">1.005</ti>
-    <ti align="right">1.006</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::netmask&amp;mode=all">Net-Netmask</uri></ti>
-    <ti align="right">1.9012</ti>
-    <ti align="right">1.9013</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::object&amp;mode=all">Test-Object</uri></ti>
-    <ti align="right">0.06</ti>
-    <ti align="right">0.07</ti>
-  </tr>
+  
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 653
+Total packages suspected as outdated: 0 of 653
 </p>
 
 </body>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.223 2006/09/14 06:36:35 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.224 2006/09/14 21:38:06 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
 <title>Outdated CPAN Packages (Ebuild vs CPAN)</title>
 
 <author title="Author">
-  Script generated using up2date-ng version 0.20
+  Script generated using up2date-ng version 0.21
 </author>
 
 <abstract>
@@ -50,24 +50,29 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=berkeleydb&amp;mode=all">BerkeleyDB</uri></ti>
-    <ti align="right">0.29</ti>
-    <ti align="right">0.30</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
     <ti align="right">3.0006</ti>
     <ti align="right">3.0007</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
-    <ti align="right">0.999</ti>
+    <ti><uri link="http://search.cpan.org/search?query=imagesize&amp;mode=all">ImageSize</uri></ti>
+    <ti align="right">3.0</ti>
+    <ti align="right">3.01</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::interface&amp;mode=all">IO-Interface</uri></ti>
+    <ti align="right">0.98</ti>
     <ti align="right">1.01</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::sax::writer&amp;mode=all">XML-SAX-Writer</uri></ti>
+    <ti align="right">0.44</ti>
+    <ti align="right">0.50</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 3 of 654
+Total packages suspected as outdated: 4 of 654
 </p>
 
 </body>

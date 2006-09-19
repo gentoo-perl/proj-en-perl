@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.233 2006/09/19 06:35:26 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.234 2006/09/19 21:36:55 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -85,6 +85,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.59</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
+    <ti align="right">0.37</ti>
+    <ti align="right">0.38</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::sax::writer&amp;mode=all">XML-SAX-Writer</uri></ti>
     <ti align="right">0.44</ti>
     <ti align="right">0.50</ti>
@@ -92,7 +97,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 8 of 654
+Total packages suspected as outdated: 9 of 654
 </p>
 
 </body>

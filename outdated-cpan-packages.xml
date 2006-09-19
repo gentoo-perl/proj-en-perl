@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.232 2006/09/18 21:38:29 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.233 2006/09/19 06:35:26 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-09-18</date>
+<date>2006-09-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,6 +65,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.16</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gtk2::ex::podviewer&amp;mode=all">Gtk2-Ex-PodViewer</uri></ti>
+    <ti align="right">0.16</ti>
+    <ti align="right">0.17</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=imagesize&amp;mode=all">ImageSize</uri></ti>
     <ti align="right">3.0</ti>
     <ti align="right">3.01</ti>
@@ -75,6 +80,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::dns&amp;mode=all">Net-DNS</uri></ti>
+    <ti align="right">0.58</ti>
+    <ti align="right">0.59</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::sax::writer&amp;mode=all">XML-SAX-Writer</uri></ti>
     <ti align="right">0.44</ti>
     <ti align="right">0.50</ti>
@@ -82,7 +92,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 6 of 654
+Total packages suspected as outdated: 8 of 654
 </p>
 
 </body>

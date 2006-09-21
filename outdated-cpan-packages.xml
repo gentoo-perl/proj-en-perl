@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.236 2006/09/20 21:37:51 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.237 2006/09/21 06:36:01 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-09-20</date>
+<date>2006-09-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -63,6 +63,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=data::uuid&amp;mode=all">Data-UUID</uri></ti>
     <ti align="right">0.142</ti>
     <ti align="right">0.145</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=devel::symdump&amp;mode=all">Devel-Symdump</uri></ti>
+    <ti align="right">2.0602</ti>
+    <ti align="right">2.0603</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=extutils::parsexs&amp;mode=all">extutils-parsexs</uri></ti>
@@ -112,7 +117,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 654
+Total packages suspected as outdated: 13 of 654
 </p>
 
 </body>

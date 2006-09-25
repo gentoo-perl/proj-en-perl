@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.244 2006/09/25 06:35:00 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.245 2006/09/25 21:38:15 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,49 +55,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cairo&amp;mode=all">Cairo</uri></ti>
-    <ti align="right">1.00</ti>
-    <ti align="right">1.01</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=carp::clan&amp;mode=all">Carp-Clan</uri></ti>
-    <ti align="right">5.3</ti>
-    <ti align="right">5.4</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::data::inheritable&amp;mode=all">Class-Data-Inheritable</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right">0.06</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::uuid&amp;mode=all">Data-UUID</uri></ti>
-    <ti align="right">0.142</ti>
-    <ti align="right">0.145</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel::symdump&amp;mode=all">Devel-Symdump</uri></ti>
-    <ti align="right">2.0602</ti>
-    <ti align="right">2.0603</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gnome2::wnck&amp;mode=all">gnome2-wnck</uri></ti>
-    <ti align="right">0.13</ti>
-    <ti align="right">0.14</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gtk2::ex::podviewer&amp;mode=all">Gtk2-Ex-PodViewer</uri></ti>
-    <ti align="right">0.16</ti>
-    <ti align="right">0.17</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=imagesize&amp;mode=all">ImageSize</uri></ti>
     <ti align="right">3.0</ti>
     <ti align="right">3.01</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=ipc::run3&amp;mode=all">IPC-Run3</uri></ti>
-    <ti align="right">0.035</ti>
-    <ti align="right">0.036</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
@@ -122,7 +82,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::libxml&amp;mode=all">XML-LibXML</uri></ti>
     <ti align="right">1.60</ti>
-    <ti align="right">1.61</ti>
+    <ti align="right">1.61003</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::libxslt&amp;mode=all">XML-LibXSLT</uri></ti>
@@ -132,7 +92,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 655
+Total packages suspected as outdated: 8 of 655
 </p>
 
 </body>

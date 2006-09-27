@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.248 2006/09/27 06:37:15 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.249 2006/09/27 21:37:01 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
+    <ti align="right">1.43</ti>
+    <ti align="right">1.45</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=imagesize&amp;mode=all">ImageSize</uri></ti>
     <ti align="right">3.0</ti>
     <ti align="right">3.01</ti>
@@ -67,7 +72,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 3 of 655
+Total packages suspected as outdated: 4 of 655
 </p>
 
 </body>

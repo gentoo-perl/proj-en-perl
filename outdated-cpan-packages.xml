@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.256 2006/10/01 21:36:20 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.257 2006/10/02 06:34:41 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-10-01</date>
+<date>2006-10-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -49,30 +49,11 @@ will curb some of the bugs to boot).
     <th>Version in portage</th>
     <th>Version on CPAN</th>
   </tr>
-    <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
-    <ti align="right">3.23</ti>
-    <ti align="right">3.25</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::tiny&amp;mode=all">Config-Tiny</uri></ti>
-    <ti align="right">2.08</ti>
-    <ti align="right">2.10</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
-    <ti align="right">1.22</ti>
-    <ti align="right">1.23</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=time::hires&amp;mode=all">Time-HiRes</uri> (virtual/perl-Time-HiRes)</ti>
-    <ti align="right">1.90</ti>
-    <ti align="right">1.91</ti>
-  </tr>
+  
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 656
+Total packages suspected as outdated: 0 of 656
 </p>
 
 </body>

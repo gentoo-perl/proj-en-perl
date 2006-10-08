@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.268 2006/10/08 06:36:01 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.269 2006/10/08 21:34:53 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.25</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=curses&amp;mode=all">Curses</uri></ti>
+    <ti align="right">1.14</ti>
+    <ti align="right">1.15</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::simple&amp;mode=all">Email-Simple</uri></ti>
     <ti align="right">1.990</ti>
     <ti align="right">1.992</ti>
@@ -67,7 +72,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=error&amp;mode=all">Error</uri></ti>
     <ti align="right">0.17004</ti>
-    <ti align="right">0.17005</ti>
+    <ti align="right">0.17006</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::spec&amp;mode=all">File-Spec</uri> (virtual/perl-File-Spec)</ti>
@@ -82,12 +87,17 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::class&amp;mode=all">Test-Class</uri></ti>
     <ti align="right">0.13</ti>
-    <ti align="right">0.16</ti>
+    <ti align="right">0.17</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::exception&amp;mode=all">Test-Exception</uri></ti>
     <ti align="right">0.22</ti>
     <ti align="right">0.23</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::harness&amp;mode=all">Test-Harness</uri> (virtual/perl-Test-Harness)</ti>
+    <ti align="right">2.62</ti>
+    <ti align="right">2.64</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::inline&amp;mode=all">Test-Inline</uri></ti>
@@ -102,7 +112,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 10 of 656
+Total packages suspected as outdated: 12 of 656
 </p>
 
 </body>

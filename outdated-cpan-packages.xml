@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.273 2006/10/10 21:37:47 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.274 2006/10/11 06:35:54 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-10-10</date>
+<date>2006-10-11</date>
 
 <chapter>
 <title>Intro</title>
@@ -102,7 +102,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gnome2::gconf&amp;mode=all">gnome2-gconf</uri></ti>
     <ti align="right">1.040</ti>
-    <ti align="right">1.043</ti>
+    <ti align="right">1.042</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>

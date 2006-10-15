@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.280 2006/10/14 21:37:29 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.281 2006/10/15 06:37:13 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-10-14</date>
+<date>2006-10-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -85,6 +85,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.0604</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=digest::sha&amp;mode=all">Digest-SHA</uri></ti>
+    <ti align="right">5.43</ti>
+    <ti align="right">5.44</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
     <ti align="right">1.870</ti>
     <ti align="right">1.871</ti>
@@ -130,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.88</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::netmask&amp;mode=all">Net-Netmask</uri></ti>
+    <ti align="right">1.9013</ti>
+    <ti align="right">1.9014</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=par::dist&amp;mode=all">PAR-Dist</uri></ti>
     <ti align="right">0.19</ti>
     <ti align="right">0.21</ti>
@@ -172,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 656
+Total packages suspected as outdated: 26 of 656
 </p>
 
 </body>

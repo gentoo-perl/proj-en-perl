@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.289 2006/10/19 06:36:38 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.290 2006/10/19 21:39:13 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -145,6 +145,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.35</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=http::server::simple&amp;mode=all">HTTP-Server-Simple</uri></ti>
+    <ti align="right">0.20</ti>
+    <ti align="right">0.22</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=image::imlib2&amp;mode=all">Image-Imlib2</uri></ti>
     <ti align="right">1.12</ti>
     <ti align="right">1.13</ti>
@@ -205,6 +210,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.105</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::longstring&amp;mode=all">Test-LongString</uri></ti>
+    <ti align="right">0.09</ti>
+    <ti align="right">0.10</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=time::hires&amp;mode=all">Time-HiRes</uri> (virtual/perl-Time-HiRes)</ti>
     <ti align="right">1.90</ti>
     <ti align="right">1.94</ti>
@@ -217,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 33 of 656
+Total packages suspected as outdated: 35 of 656
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.298 2006/10/24 06:38:37 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.299 2006/10/24 21:38:52 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -165,11 +165,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.94</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=tree::simple&amp;mode=all">Tree-Simple</uri></ti>
-    <ti align="right">1.16</ti>
-    <ti align="right">1.17</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
     <ti align="right">0.59</ti>
@@ -182,7 +177,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 662
+Total packages suspected as outdated: 25 of 662
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.299 2006/10/24 21:38:52 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.300 2006/10/25 06:38:26 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-10-24</date>
+<date>2006-10-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,6 +55,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.24</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=apache::dbi&amp;mode=all">Apache-DBI</uri></ti>
+    <ti align="right">1.03</ti>
+    <ti align="right">1.04</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
     <ti align="right">3.23</ti>
     <ti align="right">3.25</ti>
@@ -67,17 +72,22 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::locale&amp;mode=all">DateTime-Locale</uri></ti>
     <ti align="right">0.22</ti>
-    <ti align="right">0.31</ti>
+    <ti align="right">0.3101</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
     <ti align="right">0.51</ti>
-    <ti align="right">0.52</ti>
+    <ti align="right">0.53</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
     <ti align="right">3.0007</ti>
     <ti align="right">3.0008</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::remove&amp;mode=all">File-Remove</uri></ti>
+    <ti align="right">0.31</ti>
+    <ti align="right">0.33</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::spec&amp;mode=all">File-Spec</uri> (virtual/perl-File-Spec)</ti>
@@ -165,6 +175,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.94</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=tree::simple&amp;mode=all">Tree-Simple</uri></ti>
+    <ti align="right">1.16</ti>
+    <ti align="right">1.17</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
     <ti align="right">0.59</ti>
@@ -177,7 +192,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 662
+Total packages suspected as outdated: 28 of 662
 </p>
 
 </body>

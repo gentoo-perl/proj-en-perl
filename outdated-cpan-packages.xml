@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.304 2006/10/27 06:38:40 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.305 2006/10/27 21:37:09 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -180,11 +180,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.10</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=time::hires&amp;mode=all">Time-HiRes</uri> (virtual/perl-Time-HiRes)</ti>
-    <ti align="right">1.90</ti>
-    <ti align="right">1.94</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=tree::simple&amp;mode=all">Tree-Simple</uri></ti>
     <ti align="right">1.16</ti>
     <ti align="right">1.17</ti>
@@ -202,7 +197,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 662
+Total packages suspected as outdated: 29 of 662
 </p>
 
 </body>

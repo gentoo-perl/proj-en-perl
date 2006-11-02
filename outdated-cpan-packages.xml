@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.315 2006/11/01 22:43:38 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.316 2006/11/02 07:40:55 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-11-01</date>
+<date>2006-11-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,9 +70,29 @@ will curb some of the bugs to boot).
     <ti align="right">3.25</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=chart::math::axis&amp;mode=all">Chart-Math-Axis</uri></ti>
+    <ti align="right">0.3</ti>
+    <ti align="right">1.00</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=compress::zlib&amp;mode=all">Compress-Zlib</uri></ti>
+    <ti align="right">1.42</ti>
+    <ti align="right">2.001</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::cbc&amp;mode=all">crypt-cbc</uri></ti>
     <ti align="right">2.21</ti>
     <ti align="right">2.22</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::compare&amp;mode=all">Data-Compare</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right">0.14</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbi&amp;mode=all">DBI</uri></ti>
+    <ti align="right">1.52</ti>
+    <ti align="right">1.53</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=event&amp;mode=all">Event</uri></ti>
@@ -195,6 +215,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.12</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::rss::feed&amp;mode=all">XML-RSS-Feed</uri></ti>
+    <ti align="right">2.2</ti>
+    <ti align="right">2.21</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::simple&amp;mode=all">XML-Simple</uri></ti>
     <ti align="right">2.15</ti>
     <ti align="right">2.16</ti>
@@ -202,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 662
+Total packages suspected as outdated: 35 of 662
 </p>
 
 </body>

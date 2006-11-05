@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.321 2006/11/04 22:40:04 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.322 2006/11/05 07:45:39 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-11-04</date>
+<date>2006-11-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,24 +55,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.24</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
-    <ti align="right">1.02</ti>
-    <ti align="right">2.0</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=apache::dbi&amp;mode=all">Apache-DBI</uri></ti>
-    <ti align="right">1.03</ti>
-    <ti align="right">1.05</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
     <ti align="right">3.23</ti>
     <ti align="right">3.25</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=chart::math::axis&amp;mode=all">Chart-Math-Axis</uri></ti>
-    <ti align="right">0.3</ti>
-    <ti align="right">1.00</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=compress::zlib&amp;mode=all">Compress-Zlib</uri></ti>
@@ -247,7 +232,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 39 of 662
+Total packages suspected as outdated: 36 of 662
 </p>
 
 </body>

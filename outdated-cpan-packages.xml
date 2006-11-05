@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.322 2006/11/05 07:45:39 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.323 2006/11/05 22:43:06 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.25</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
+    <ti align="right">3.015</ti>
+    <ti align="right">3.016</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=compress::zlib&amp;mode=all">Compress-Zlib</uri></ti>
     <ti align="right">1.42</ti>
     <ti align="right">2.001</ti>
@@ -77,7 +82,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::hierarchy&amp;mode=all">Data-Hierarchy</uri></ti>
     <ti align="right">0.31</ti>
-    <ti align="right">0.33</ti>
+    <ti align="right">0.34</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbi&amp;mode=all">DBI</uri></ti>
@@ -232,7 +237,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 36 of 662
+Total packages suspected as outdated: 37 of 662
 </p>
 
 </body>

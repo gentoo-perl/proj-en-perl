@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.323 2006/11/05 22:43:06 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.324 2006/11/06 07:46:18 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-11-05</date>
+<date>2006-11-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -52,7 +52,7 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
     <ti align="right">0.21</ti>
-    <ti align="right">0.24</ti>
+    <ti align="right">0.25</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
@@ -140,6 +140,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.010709</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::dbus&amp;mode=all">Net-DBus</uri></ti>
+    <ti align="right">0.333</ti>
+    <ti align="right">0.334</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::netmask&amp;mode=all">Net-Netmask</uri></ti>
     <ti align="right">1.9013</ti>
     <ti align="right">1.9014</ti>
@@ -158,6 +163,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=params::util&amp;mode=all">Params-Util</uri></ti>
     <ti align="right">0.20</ti>
     <ti align="right">0.22</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
+    <ti align="right">0.20</ti>
+    <ti align="right">0.21</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=podparser&amp;mode=all">PodParser</uri> (virtual/perl-PodParser)</ti>
@@ -227,7 +237,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::rss::feed&amp;mode=all">XML-RSS-Feed</uri></ti>
     <ti align="right">2.2</ti>
-    <ti align="right">2.21</ti>
+    <ti align="right">2.211</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::simple&amp;mode=all">XML-Simple</uri></ti>
@@ -237,7 +247,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 37 of 662
+Total packages suspected as outdated: 39 of 662
 </p>
 
 </body>

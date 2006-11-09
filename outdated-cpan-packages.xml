@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.330 2006/11/09 07:43:05 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.331 2006/11/09 22:42:40 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,6 +55,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.25</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cairo&amp;mode=all">Cairo</uri></ti>
+    <ti align="right">1.01</ti>
+    <ti align="right">1.02</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
     <ti align="right">1.22</ti>
     <ti align="right">1.23</ti>
@@ -65,6 +70,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.9500</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::longstring&amp;mode=all">Test-LongString</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right">0.11</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
     <ti align="right">0.59</ti>
@@ -72,7 +82,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 667
+Total packages suspected as outdated: 6 of 667
 </p>
 
 </body>

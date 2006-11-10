@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.332 2006/11/10 07:46:13 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.333 2006/11/10 22:44:54 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,29 +55,34 @@ will curb some of the bugs to boot).
     <ti align="right">0.25</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cairo&amp;mode=all">Cairo</uri></ti>
+    <ti align="right">1.01</ti>
+    <ti align="right">1.02</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
     <ti align="right">1.22</ti>
     <ti align="right">1.23</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
-    <ti align="right">0.38</ti>
-    <ti align="right">0.9500</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::longstring&amp;mode=all">Test-LongString</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right">0.11</ti>
+    <ti><uri link="http://search.cpan.org/search?query=test::simple&amp;mode=all">Test-Simple</uri> (virtual/perl-Test-Simple)</ti>
+    <ti align="right">0.64</ti>
+    <ti align="right">0.65</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
     <ti align="right">0.59</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::rss&amp;mode=all">XML-RSS</uri></ti>
+    <ti align="right">1.12</ti>
+    <ti align="right">1.20</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 667
+Total packages suspected as outdated: 6 of 667
 </p>
 
 </body>

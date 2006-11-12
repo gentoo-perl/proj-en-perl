@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.336 2006/11/12 07:51:54 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.337 2006/11/12 22:50:56 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -57,7 +57,22 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cairo&amp;mode=all">Cairo</uri></ti>
     <ti align="right">1.01</ti>
-    <ti align="right">1.02</ti>
+    <ti align="right">1.021</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
+    <ti align="right">1.871</ti>
+    <ti align="right">1.880</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::rsyncp&amp;mode=all">File-RsyncP</uri></ti>
+    <ti align="right">0.64</ti>
+    <ti align="right">0.66</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::tree&amp;mode=all">HTML-Tree</uri></ti>
+    <ti align="right">3.21</ti>
+    <ti align="right">3.22</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
@@ -67,7 +82,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
-    <ti align="right">0.59</ti>
+    <ti align="right">0.60</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::rss&amp;mode=all">XML-RSS</uri></ti>
@@ -77,7 +92,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 667
+Total packages suspected as outdated: 8 of 668
 </p>
 
 </body>

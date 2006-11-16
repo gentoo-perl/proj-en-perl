@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.344 2006/11/16 07:49:12 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.345 2006/11/16 22:55:04 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -70,11 +70,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.24</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::uuid&amp;mode=all">Data-UUID</uri></ti>
-    <ti align="right">0.145</ti>
-    <ti align="right">0.146</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
     <ti align="right">1.871</ti>
     <ti align="right">1.880</ti>
@@ -95,14 +90,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.23</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::pluggable&amp;mode=all">Module-Pluggable</uri></ti>
-    <ti align="right">3.1</ti>
-    <ti align="right">3.2</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
-    <ti align="right">0.63</ti>
+    <ti align="right">0.62</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::rss&amp;mode=all">XML-RSS</uri></ti>
@@ -117,7 +107,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 13 of 668
+Total packages suspected as outdated: 11 of 668
 </p>
 
 </body>

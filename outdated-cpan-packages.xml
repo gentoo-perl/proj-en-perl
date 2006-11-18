@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.348 2006/11/18 07:51:27 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.349 2006/11/18 22:55:13 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -115,9 +115,24 @@ will curb some of the bugs to boot).
     <ti align="right">1.2</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::tabs+wrap&amp;mode=all">Text-Tabs+Wrap</uri></ti>
+    <ti align="right">2006.0711</ti>
+    <ti align="right">2006.1117</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
     <ti align="right">0.63</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::libxml&amp;mode=all">XML-LibXML</uri></ti>
+    <ti align="right">1.61003</ti>
+    <ti align="right">1.62</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::libxslt&amp;mode=all">XML-LibXSLT</uri></ti>
+    <ti align="right">1.61</ti>
+    <ti align="right">1.62</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::rss&amp;mode=all">XML-RSS</uri></ti>
@@ -132,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 668
+Total packages suspected as outdated: 19 of 668
 </p>
 
 </body>

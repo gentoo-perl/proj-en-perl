@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.351 2006/11/19 22:48:14 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.352 2006/11/20 08:04:16 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-11-19</date>
+<date>2006-11-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,6 +65,26 @@ will curb some of the bugs to boot).
     <ti align="right">0.24</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
+    <ti align="right">1.880</ti>
+    <ti align="right">1.881</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::rsyncp&amp;mode=all">File-RsyncP</uri></ti>
+    <ti align="right">0.66</ti>
+    <ti align="right">0.68</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=glib::perl&amp;mode=all">glib-perl</uri></ti>
+    <ti align="right">1.140</ti>
+    <ti align="right">1.141</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
+    <ti align="right">1.140</ti>
+    <ti align="right">1.141</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
     <ti align="right">1.22</ti>
     <ti align="right">1.23</ti>
@@ -74,15 +94,10 @@ will curb some of the bugs to boot).
     <ti align="right">0.57</ti>
     <ti align="right">0.63</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::rss&amp;mode=all">XML-RSS</uri></ti>
-    <ti align="right">1.12</ti>
-    <ti align="right">1.20</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 6 of 673
+Total packages suspected as outdated: 9 of 673
 </p>
 
 </body>

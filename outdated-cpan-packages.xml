@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.359 2006/11/23 22:48:37 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.360 2006/11/24 07:50:21 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-11-23</date>
+<date>2006-11-24</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,14 +65,24 @@ will curb some of the bugs to boot).
     <ti align="right">1.23</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=lingua::en::nameparse&amp;mode=all">Lingua-EN-NameParse</uri></ti>
+    <ti align="right">1.22</ti>
+    <ti align="right">1.23</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
     <ti align="right">0.63</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::dt&amp;mode=all">XML-DT</uri></ti>
+    <ti align="right">0.46</ti>
+    <ti align="right">0.47</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 673
+Total packages suspected as outdated: 6 of 673
 </p>
 
 </body>

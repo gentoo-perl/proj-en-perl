@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.377 2006/12/02 22:47:36 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.378 2006/12/03 07:47:55 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-12-02</date>
+<date>2006-12-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,24 +55,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.25</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=apache::test&amp;mode=all">Apache-Test</uri></ti>
-    <ti align="right">1.28</ti>
-    <ti align="right">1.29</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
     <ti align="right">0.551</ti>
     <ti align="right">0.552</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">0.56</ti>
-    <ti align="right">0.57</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
-    <ti align="right">1.882</ti>
-    <ti align="right">1.883</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::simple&amp;mode=all">Email-Simple</uri></ti>
@@ -80,64 +65,19 @@ will curb some of the bugs to boot).
     <ti align="right">1.996</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=fuse&amp;mode=all">Fuse</uri></ti>
-    <ti align="right">0.07</ti>
-    <ti align="right">0.08</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gnome2::vfs::perl&amp;mode=all">gnome2-vfs-perl</uri></ti>
-    <ti align="right">1.060</ti>
-    <ti align="right">1.061</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
-    <ti align="right">1.01</ti>
-    <ti align="right">1.02</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=lingua::en::nameparse&amp;mode=all">Lingua-EN-NameParse</uri></ti>
     <ti align="right">1.22</ti>
     <ti align="right">1.23</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::netmask&amp;mode=all">Net-Netmask</uri></ti>
-    <ti align="right">1.9014</ti>
-    <ti align="right">1.9015</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sql::abstract&amp;mode=all">SQL-Abstract</uri></ti>
-    <ti align="right">1.21</ti>
-    <ti align="right">1.22</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::base&amp;mode=all">Test-Base</uri></ti>
-    <ti align="right">0.52</ti>
-    <ti align="right">0.53</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::class&amp;mode=all">Test-Class</uri></ti>
-    <ti align="right">0.21</ti>
-    <ti align="right">0.22</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=time::hires&amp;mode=all">Time-HiRes</uri> (virtual/perl-Time-HiRes)</ti>
-    <ti align="right">1.94</ti>
-    <ti align="right">1.97</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
     <ti align="right">0.64</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::libxml&amp;mode=all">XML-LibXML</uri></ti>
-    <ti align="right">1.62</ti>
-    <ti align="right">1.62001</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 673
+Total packages suspected as outdated: 5 of 673
 </p>
 
 </body>

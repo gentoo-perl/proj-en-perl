@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.381 2006/12/04 22:47:32 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.382 2006/12/05 07:54:34 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-12-04</date>
+<date>2006-12-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,6 +65,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.996</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=glib::perl&amp;mode=all">glib-perl</uri></ti>
+    <ti align="right">1.141</ti>
+    <ti align="right">1.142</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=lingua::en::nameparse&amp;mode=all">Lingua-EN-NameParse</uri></ti>
     <ti align="right">1.22</ti>
     <ti align="right">1.23</ti>
@@ -77,7 +82,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 673
+Total packages suspected as outdated: 6 of 673
 </p>
 
 </body>

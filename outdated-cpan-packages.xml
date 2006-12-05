@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.382 2006/12/05 07:54:34 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.383 2006/12/05 22:47:26 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,9 +55,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.25</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cgi::session&amp;mode=all">CGI-Session</uri></ti>
+    <ti align="right">4.13</ti>
+    <ti align="right">4.20</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
     <ti align="right">0.551</ti>
     <ti align="right">0.552</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
+    <ti align="right">1.883</ti>
+    <ti align="right">1.884</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::simple&amp;mode=all">Email-Simple</uri></ti>
@@ -82,7 +92,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 6 of 673
+Total packages suspected as outdated: 8 of 673
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.400 2006/12/14 07:03:24 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.401 2006/12/14 22:02:29 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.51</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=archive::rar&amp;mode=all">Archive-Rar</uri></ti>
+    <ti align="right">1.9</ti>
+    <ti align="right">1.91</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cgi::session&amp;mode=all">CGI-Session</uri></ti>
     <ti align="right">4.13</ti>
     <ti align="right">4.20</ti>
@@ -117,7 +122,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 13 of 673
+Total packages suspected as outdated: 14 of 673
 </p>
 
 </body>

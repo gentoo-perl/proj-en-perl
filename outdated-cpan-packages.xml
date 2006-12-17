@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.404 2006/12/17 07:02:30 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.405 2006/12/17 22:03:02 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -52,7 +52,7 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
     <ti align="right">0.21</ti>
-    <ti align="right">0.25</ti>
+    <ti align="right">0.26</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
@@ -62,7 +62,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::rar&amp;mode=all">Archive-Rar</uri></ti>
     <ti align="right">1.9</ti>
-    <ti align="right">1.91</ti>
+    <ti align="right">1.92</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=convert::uulib&amp;mode=all">Convert-UUlib</uri></ti>
+    <ti align="right">1.07</ti>
+    <ti align="right">1.08</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
@@ -80,9 +85,24 @@ will curb some of the bugs to boot).
     <ti align="right">1.142</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=ip::country&amp;mode=all">IP-Country</uri></ti>
+    <ti align="right">2.21</ti>
+    <ti align="right">2.22</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=log::dispatch&amp;mode=all">log-dispatch</uri></ti>
+    <ti align="right">2.14</ti>
+    <ti align="right">2.15</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">module-build</uri></ti>
     <ti align="right">0.2805</ti>
     <ti align="right">0.2806</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
+    <ti align="right">0.21</ti>
+    <ti align="right">0.22</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perlio::eol&amp;mode=all">PerlIO-eol</uri></ti>
@@ -112,12 +132,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
-    <ti align="right">0.66</ti>
+    <ti align="right">0.67</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 13 of 673
+Total packages suspected as outdated: 17 of 673
 </p>
 
 </body>

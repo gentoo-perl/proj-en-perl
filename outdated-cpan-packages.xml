@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.406 2006/12/18 07:02:47 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.407 2006/12/18 22:02:31 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -100,6 +100,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.2806</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mp3::tag&amp;mode=all">MP3-Tag</uri></ti>
+    <ti align="right">0.9708</ti>
+    <ti align="right">0.9709</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
     <ti align="right">0.21</ti>
     <ti align="right">0.22</ti>
@@ -142,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 673
+Total packages suspected as outdated: 19 of 673
 </p>
 
 </body>

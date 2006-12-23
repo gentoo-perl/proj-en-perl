@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.415 2006/12/22 22:07:51 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.416 2006/12/23 07:02:37 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2006-12-22</date>
+<date>2006-12-23</date>
 
 <chapter>
 <title>Intro</title>
@@ -78,6 +78,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
     <ti align="right">0.551</ti>
     <ti align="right">0.552</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=crypt::rsa&amp;mode=all">crypt-rsa</uri></ti>
+    <ti align="right">1.57</ti>
+    <ti align="right">1.58</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=encode::hanconvert&amp;mode=all">Encode-HanConvert</uri></ti>
@@ -157,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 668
+Total packages suspected as outdated: 22 of 668
 </p>
 
 </body>

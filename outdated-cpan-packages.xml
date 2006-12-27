@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.424 2006/12/27 07:05:02 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.425 2006/12/27 22:02:11 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -85,6 +85,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.58</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=crypt::ssleay&amp;mode=all">Crypt-SSLeay</uri></ti>
+    <ti align="right">0.51</ti>
+    <ti align="right">0.53</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=encode::hanconvert&amp;mode=all">Encode-HanConvert</uri></ti>
     <ti align="right">0.31</ti>
     <ti align="right">0.33</ti>
@@ -162,7 +167,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 668
+Total packages suspected as outdated: 23 of 669
 </p>
 
 </body>

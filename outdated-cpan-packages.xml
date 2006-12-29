@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.428 2006/12/29 07:02:29 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.429 2006/12/29 22:05:40 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -85,11 +85,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.58</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=crypt::ssleay&amp;mode=all">Crypt-SSLeay</uri></ti>
-    <ti align="right">0.51</ti>
-    <ti align="right">0.53</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=encode::hanconvert&amp;mode=all">Encode-HanConvert</uri></ti>
     <ti align="right">0.31</ti>
     <ti align="right">0.33</ti>
@@ -125,7 +120,7 @@ will curb some of the bugs to boot).
     <ti align="right">0.14</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=scalar::list::utils&amp;mode=all">Scalar-List-Utils</uri> (virtual/perl-Scalar-List-Utils)</ti>
+    <ti><uri link="http://search.cpan.org/search?query=scalar::list::utils&amp;mode=all">Scalar-List-Utils</uri></ti>
     <ti align="right">1.18</ti>
     <ti align="right">1.19</ti>
   </tr>
@@ -140,12 +135,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.104</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::balanced&amp;mode=all">Text-Balanced</uri> (virtual/perl-Text-Balanced)</ti>
+    <ti><uri link="http://search.cpan.org/search?query=text::balanced&amp;mode=all">Text-Balanced</uri></ti>
     <ti align="right">1.98</ti>
     <ti align="right">2.00</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=time::hires&amp;mode=all">Time-HiRes</uri> (virtual/perl-Time-HiRes)</ti>
+    <ti><uri link="http://search.cpan.org/search?query=time::hires&amp;mode=all">Time-HiRes</uri></ti>
     <ti align="right">1.97</ti>
     <ti align="right">1.9703</ti>
   </tr>
@@ -162,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 669
+Total packages suspected as outdated: 21 of 669
 </p>
 
 </body>

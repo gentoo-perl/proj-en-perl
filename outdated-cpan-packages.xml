@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.443 2007/01/05 22:07:23 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.444 2007/01/06 07:03:10 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-01-05</date>
+<date>2007-01-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -62,7 +62,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=audio::flac::header&amp;mode=all">Audio-FLAC-Header</uri></ti>
     <ti align="right">1.4</ti>
-    <ti align="right">1.6</ti>
+    <ti align="right">1.7</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=axkit&amp;mode=all">AxKit</uri></ti>
@@ -82,7 +82,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::cracklib&amp;mode=all">Crypt-Cracklib</uri></ti>
     <ti align="right">0.01</ti>
-    <ti align="right">1.0</ti>
+    <ti align="right">1.1</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::symdump&amp;mode=all">Devel-Symdump</uri></ti>
@@ -95,14 +95,24 @@ will curb some of the bugs to boot).
     <ti align="right">0.2806</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=padwalker&amp;mode=all">PadWalker</uri></ti>
+    <ti align="right">1.3</ti>
+    <ti align="right">1.5</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
     <ti align="right">0.67</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::twig&amp;mode=all">XML-Twig</uri></ti>
+    <ti align="right">3.26</ti>
+    <ti align="right">3.28</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 10 of 669
+Total packages suspected as outdated: 12 of 669
 </p>
 
 </body>

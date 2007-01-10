@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.451 2007/01/09 22:02:10 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.452 2007/01/10 07:02:03 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-01-09</date>
+<date>2007-01-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,9 +75,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.58</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::homedir&amp;mode=all">File-HomeDir</uri></ti>
+    <ti align="right">0.62</ti>
+    <ti align="right">0.63</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">module-build</uri></ti>
     <ti align="right">0.2805</ti>
     <ti align="right">0.2806</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
+    <ti align="right">0.56</ti>
+    <ti align="right">0.57</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=spreadsheet::parseexcel&amp;mode=all">Spreadsheet-ParseExcel</uri></ti>
@@ -97,7 +107,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 9 of 668
+Total packages suspected as outdated: 11 of 668
 </p>
 
 </body>

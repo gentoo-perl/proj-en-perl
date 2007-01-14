@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.459 2007/01/13 22:03:03 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.460 2007/01/14 07:02:56 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-01-13</date>
+<date>2007-01-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,29 +70,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.552</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=crypt::rijndael&amp;mode=all">Crypt-Rijndael</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right">1.01</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">0.57</ti>
-    <ti align="right">0.58</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::homedir&amp;mode=all">File-HomeDir</uri></ti>
-    <ti align="right">0.62</ti>
-    <ti align="right">0.63</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::parser&amp;mode=all">HTML-Parser</uri></ti>
-    <ti align="right">3.55</ti>
-    <ti align="right">3.56</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mail::mbox::messageparser&amp;mode=all">Mail-Mbox-MessageParser</uri></ti>
-    <ti align="right">1.4005</ti>
-    <ti align="right">1.5000</ti>
+    <ti><uri link="http://search.cpan.org/search?query=file::flat&amp;mode=all">File-Flat</uri></ti>
+    <ti align="right">0.96</ti>
+    <ti align="right">1.00</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">module-build</uri></ti>
@@ -100,44 +80,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.2806</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::amazon&amp;mode=all">Net-Amazon</uri></ti>
-    <ti align="right">0.35</ti>
-    <ti align="right">0.36</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
-    <ti align="right">0.56</ti>
-    <ti align="right">0.57</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=spreadsheet::parseexcel&amp;mode=all">Spreadsheet-ParseExcel</uri></ti>
-    <ti align="right">0.2603</ti>
-    <ti align="right">0.28</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=tk::tablematrix&amp;mode=all">Tk-TableMatrix</uri></ti>
-    <ti align="right">1.22</ti>
-    <ti align="right">1.23</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri></ti>
-    <ti align="right">0.68</ti>
-    <ti align="right">0.69</ti>
+    <ti><uri link="http://search.cpan.org/search?query=test::inline&amp;mode=all">Test-Inline</uri></ti>
+    <ti align="right">2.105</ti>
+    <ti align="right">2.200</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
     <ti align="right">0.67</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::twig&amp;mode=all">XML-Twig</uri></ti>
-    <ti align="right">3.26</ti>
-    <ti align="right">3.28</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 668
+Total packages suspected as outdated: 8 of 668
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.470 2007/01/19 07:02:19 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.471 2007/01/19 22:07:08 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -95,6 +95,16 @@ will curb some of the bugs to boot).
     <ti align="right">0.2806</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=params::validate&amp;mode=all">Params-Validate</uri></ti>
+    <ti align="right">0.86</ti>
+    <ti align="right">0.87</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=spreadsheet::writeexcel&amp;mode=all">Spreadsheet-WriteExcel</uri></ti>
+    <ti align="right">2.17</ti>
+    <ti align="right">2.18</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::inline&amp;mode=all">Test-Inline</uri></ti>
     <ti align="right">2.105</ti>
     <ti align="right">2.201</ti>
@@ -104,10 +114,15 @@ will curb some of the bugs to boot).
     <ti align="right">0.57</ti>
     <ti align="right">0.67</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=yaml::syck&amp;mode=all">YAML-Syck</uri></ti>
+    <ti align="right">0.71</ti>
+    <ti align="right">0.72</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 11 of 671
+Total packages suspected as outdated: 14 of 671
 </p>
 
 </body>

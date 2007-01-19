@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.469 2007/01/18 22:02:32 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.470 2007/01/19 07:02:19 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-01-18</date>
+<date>2007-01-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,16 +75,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.552</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
-    <ti align="right">0.35</ti>
-    <ti align="right">0.36</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">0.58</ti>
-    <ti align="right">0.59</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::find&amp;mode=all">Email-Find</uri></ti>
     <ti align="right">0.09</ti>
     <ti align="right">0.10</ti>
@@ -105,11 +95,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.2806</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=params::validate&amp;mode=all">Params-Validate</uri></ti>
-    <ti align="right">0.86</ti>
-    <ti align="right">0.87</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::inline&amp;mode=all">Test-Inline</uri></ti>
     <ti align="right">2.105</ti>
     <ti align="right">2.201</ti>
@@ -122,7 +107,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 14 of 671
+Total packages suspected as outdated: 11 of 671
 </p>
 
 </body>

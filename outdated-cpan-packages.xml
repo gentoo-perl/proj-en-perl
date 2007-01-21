@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.473 2007/01/20 22:02:53 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.474 2007/01/21 07:02:20 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-01-20</date>
+<date>2007-01-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,11 +70,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.552</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::flat&amp;mode=all">File-Flat</uri></ti>
-    <ti align="right">0.96</ti>
-    <ti align="right">1.00</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=http::server::simple&amp;mode=all">HTTP-Server-Simple</uri></ti>
     <ti align="right">0.26</ti>
     <ti align="right">0.27</ti>
@@ -90,14 +85,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.2806</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
+    <ti align="right">0.22</ti>
+    <ti align="right">0.23</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=spreadsheet::writeexcel&amp;mode=all">Spreadsheet-WriteExcel</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">2.18</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::inline&amp;mode=all">Test-Inline</uri></ti>
-    <ti align="right">2.105</ti>
-    <ti align="right">2.201</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
@@ -112,7 +107,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 674
+Total packages suspected as outdated: 11 of 675
 </p>
 
 </body>

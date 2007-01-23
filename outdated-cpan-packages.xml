@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.478 2007/01/23 07:01:56 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.479 2007/01/23 22:02:13 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,9 +75,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">module-build</uri></ti>
-    <ti align="right">0.2805</ti>
-    <ti align="right">0.2806</ti>
+    <ti><uri link="http://search.cpan.org/search?query=template::toolkit&amp;mode=all">Template-Toolkit</uri></ti>
+    <ti align="right">2.15</ti>
+    <ti align="right">2.16</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::simple&amp;mode=all">Test-Simple</uri></ti>
@@ -102,7 +102,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 10 of 676
+Total packages suspected as outdated: 10 of 677
 </p>
 
 </body>

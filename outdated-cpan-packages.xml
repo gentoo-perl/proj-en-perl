@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.477 2007/01/22 22:02:34 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.478 2007/01/23 07:01:56 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-01-22</date>
+<date>2007-01-23</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,9 +70,19 @@ will curb some of the bugs to boot).
     <ti align="right">1.142</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::interface&amp;mode=all">IO-Interface</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right">1.03</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">module-build</uri></ti>
     <ti align="right">0.2805</ti>
     <ti align="right">0.2806</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::simple&amp;mode=all">Test-Simple</uri></ti>
+    <ti align="right">0.66</ti>
+    <ti align="right">0.67</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=time::local&amp;mode=all">Time-Local</uri></ti>
@@ -92,7 +102,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 8 of 676
+Total packages suspected as outdated: 10 of 676
 </p>
 
 </body>

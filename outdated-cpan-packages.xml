@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.492 2007/01/30 07:02:27 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.493 2007/01/30 22:02:20 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -63,6 +63,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=crypt::rijndael&amp;mode=all">Crypt-Rijndael</uri></ti>
     <ti align="right">1.01</ti>
     <ti align="right">1.02</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=extutils::parsexs&amp;mode=all">extutils-parsexs</uri></ti>
+    <ti align="right">2.17</ti>
+    <ti align="right">2.18</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::temp&amp;mode=all">File-Temp</uri></ti>
@@ -147,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 678
+Total packages suspected as outdated: 20 of 679
 </p>
 
 </body>

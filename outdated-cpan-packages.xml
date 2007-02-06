@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.506 2007/02/06 07:02:35 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.507 2007/02/06 15:31:46 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,34 +50,14 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=algorithm::diff&amp;mode=all">Algorithm-Diff</uri></ti>
-    <ti align="right">1.1901</ti>
-    <ti align="right">1.1902</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
     <ti align="right">0.21</ti>
     <ti align="right">0.27</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=apache::session&amp;mode=all">Apache-Session</uri></ti>
-    <ti align="right">1.80</ti>
-    <ti align="right">1.81</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=archive::zip&amp;mode=all">Archive-Zip</uri></ti>
-    <ti align="right">1.16</ti>
-    <ti align="right">1.18</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=axkit&amp;mode=all">AxKit</uri></ti>
     <ti align="right">1.6</ti>
     <ti align="right">1.62</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=chart&amp;mode=all">Chart</uri></ti>
-    <ti align="right">2.3</ti>
-    <ti align="right">2.41</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
@@ -90,54 +70,14 @@ will curb some of the bugs to boot).
     <ti align="right">1.014</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=db_file&amp;mode=all">DB_File</uri></ti>
-    <ti align="right">1.814</ti>
-    <ti align="right">1.815</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
-    <ti align="right">4.00</ti>
-    <ti align="right">4.001</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::valid&amp;mode=all">Email-Valid</uri></ti>
-    <ti align="right">0.175</ti>
-    <ti align="right">0.179</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gnome2::print&amp;mode=all">gnome2-print</uri></ti>
-    <ti align="right">0.94</ti>
-    <ti align="right">1.000</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=graph&amp;mode=all">Graph</uri></ti>
-    <ti align="right">0.80</ti>
-    <ti align="right">0.81</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=httpd::user::manage&amp;mode=all">HTTPD-User-Manage</uri></ti>
-    <ti align="right">1.63</ti>
-    <ti align="right">1.66</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mp3::info&amp;mode=all">MP3-Info</uri></ti>
-    <ti align="right">1.20</ti>
-    <ti align="right">1.21</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::ssleay&amp;mode=all">Net-SSLeay</uri></ti>
-    <ti align="right">1.25</ti>
-    <ti align="right">1.30</ti>
+    <ti><uri link="http://search.cpan.org/search?query=email::send&amp;mode=all">Email-Send</uri></ti>
+    <ti align="right">2.183</ti>
+    <ti align="right">2.185</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
     <ti align="right">2.42</ti>
     <ti align="right">2.43</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=soap::lite&amp;mode=all">SOAP-Lite</uri></ti>
-    <ti align="right">0.67</ti>
-    <ti align="right">0.69</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=text::chasen&amp;mode=all">Text-ChaSen</uri></ti>
@@ -152,7 +92,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 691
+Total packages suspected as outdated: 8 of 691
 </p>
 
 </body>

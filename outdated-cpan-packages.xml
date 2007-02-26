@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.540 2007/02/22 22:03:45 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.541 2007/02/26 12:51:14 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-02-22</date>
+<date>2007-02-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,6 +65,16 @@ will curb some of the bugs to boot).
     <ti align="right">1.62</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cairo&amp;mode=all">Cairo</uri></ti>
+    <ti align="right">1.022</ti>
+    <ti align="right">1.023</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cgi::simple&amp;mode=all">Cgi-Simple</uri></ti>
+    <ti align="right">0.078</ti>
+    <ti align="right">0.079</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cisco::reconfig&amp;mode=all">Cisco-Reconfig</uri></ti>
     <ti align="right">0.8</ti>
     <ti align="right">0.9</ti>
@@ -85,9 +95,59 @@ will curb some of the bugs to boot).
     <ti align="right">2.09</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::general&amp;mode=all">config-general</uri></ti>
+    <ti align="right">2.31</ti>
+    <ti align="right">2.32</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=crypt::rijndael&amp;mode=all">Crypt-Rijndael</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right">1.04</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::compare&amp;mode=all">Data-Compare</uri></ti>
+    <ti align="right">0.14</ti>
+    <ti align="right">0.15</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
     <ti align="right">0.60</ti>
     <ti align="right">0.6101</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbi&amp;mode=all">DBI</uri></ti>
+    <ti align="right">1.53</ti>
+    <ti align="right">1.54</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
+    <ti align="right">1.45</ti>
+    <ti align="right">1.46</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=devel::size&amp;mode=all">Devel-Size</uri></ti>
+    <ti align="right">0.64</ti>
+    <ti align="right">0.65</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=finance::yahooquote&amp;mode=all">Finance-YahooQuote</uri></ti>
+    <ti align="right">0.21</ti>
+    <ti align="right">0.22</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=glib::perl&amp;mode=all">glib-perl</uri></ti>
+    <ti align="right">1.143</ti>
+    <ti align="right">1.144</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
+    <ti align="right">1.142</ti>
+    <ti align="right">1.143</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
+    <ti align="right">1.23</ti>
+    <ti align="right">1.24</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
@@ -110,14 +170,24 @@ will curb some of the bugs to boot).
     <ti align="right">0.23</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::class&amp;mode=all">Test-Class</uri></ti>
+    <ti align="right">0.22</ti>
+    <ti align="right">0.23</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::manifest&amp;mode=all">Test-Manifest</uri></ti>
+    <ti align="right">1.14</ti>
+    <ti align="right">1.17</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=text::chasen&amp;mode=all">Text-ChaSen</uri></ti>
     <ti align="right">1.03</ti>
     <ti align="right">1.04</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::quoted&amp;mode=all">Text-Quoted</uri></ti>
-    <ti align="right">1.8</ti>
-    <ti align="right">2.02</ti>
+    <ti><uri link="http://search.cpan.org/search?query=time::hires&amp;mode=all">Time-HiRes</uri> (virtual/perl-Time-HiRes)</ti>
+    <ti align="right">1.9705</ti>
+    <ti align="right">1.9706</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
@@ -127,7 +197,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 15 of 693
+Total packages suspected as outdated: 29 of 693
 </p>
 
 </body>

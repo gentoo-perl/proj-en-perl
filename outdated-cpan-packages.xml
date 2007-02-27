@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.543 2007/02/27 07:02:25 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.544 2007/02/27 22:02:41 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -70,6 +70,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.023</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
+    <ti align="right">3.25</ti>
+    <ti align="right">3.27</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cgi::simple&amp;mode=all">Cgi-Simple</uri></ti>
     <ti align="right">0.078</ti>
     <ti align="right">0.079</ti>
@@ -112,7 +117,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
     <ti align="right">0.60</ti>
-    <ti align="right">0.6101</ti>
+    <ti align="right">0.62</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
@@ -123,6 +128,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=devel::size&amp;mode=all">Devel-Size</uri></ti>
     <ti align="right">0.64</ti>
     <ti align="right">0.65</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::copy::recursive&amp;mode=all">File-Copy-Recursive</uri></ti>
+    <ti align="right">0.30</ti>
+    <ti align="right">0.31</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=finance::yahooquote&amp;mode=all">Finance-YahooQuote</uri></ti>
@@ -147,7 +157,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
     <ti align="right">2.214</ti>
-    <ti align="right">2.215</ti>
+    <ti align="right">2.216</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::clamav&amp;mode=all">Mail-ClamAV</uri></ti>
@@ -192,7 +202,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 28 of 693
+Total packages suspected as outdated: 30 of 693
 </p>
 
 </body>

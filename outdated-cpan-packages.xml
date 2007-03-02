@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.548 2007/03/01 22:03:15 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.549 2007/03/02 07:03:19 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-03-01</date>
+<date>2007-03-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -100,6 +100,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.09</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::trigger&amp;mode=all">Class-Trigger</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right">0.11</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::general&amp;mode=all">config-general</uri></ti>
     <ti align="right">2.31</ti>
     <ti align="right">2.32</ti>
@@ -120,6 +125,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.62</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
+    <ti align="right">4.001</ti>
+    <ti align="right">4.002</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
     <ti align="right">1.45</ti>
     <ti align="right">1.46</ti>
@@ -132,7 +142,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
     <ti align="right">1.884</ti>
-    <ti align="right">1.885</ti>
+    <ti align="right">1.886</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=finance::yahooquote&amp;mode=all">Finance-YahooQuote</uri></ti>
@@ -177,7 +187,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::class&amp;mode=all">Test-Class</uri></ti>
     <ti align="right">0.22</ti>
-    <ti align="right">0.23</ti>
+    <ti align="right">0.24</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::manifest&amp;mode=all">Test-Manifest</uri></ti>
@@ -202,7 +212,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 693
+Total packages suspected as outdated: 32 of 693
 </p>
 
 </body>

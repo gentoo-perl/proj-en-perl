@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.551 2007/03/03 07:04:48 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.552 2007/03/03 22:05:18 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -105,6 +105,16 @@ will curb some of the bugs to boot).
     <ti align="right">0.11</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=compress::raw::zlib&amp;mode=all">Compress-Raw-Zlib</uri></ti>
+    <ti align="right">2.003</ti>
+    <ti align="right">2.004</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=compress::zlib&amp;mode=all">Compress-Zlib</uri></ti>
+    <ti align="right">2.003</ti>
+    <ti align="right">2.004</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::general&amp;mode=all">config-general</uri></ti>
     <ti align="right">2.31</ti>
     <ti align="right">2.32</ti>
@@ -127,7 +137,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
     <ti align="right">4.001</ti>
-    <ti align="right">4.002</ti>
+    <ti align="right">4.003</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
@@ -137,12 +147,17 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::size&amp;mode=all">Devel-Size</uri></ti>
     <ti align="right">0.64</ti>
-    <ti align="right">0.65</ti>
+    <ti align="right">0.66</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
     <ti align="right">1.884</ti>
     <ti align="right">1.886</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri></ti>
+    <ti align="right">1.32</ti>
+    <ti align="right">1.33</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=finance::yahooquote&amp;mode=all">Finance-YahooQuote</uri></ti>
@@ -165,6 +180,16 @@ will curb some of the bugs to boot).
     <ti align="right">1.24</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::compress::base&amp;mode=all">IO-Compress-Base</uri></ti>
+    <ti align="right">2.003</ti>
+    <ti align="right">2.004</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::compress::zlib&amp;mode=all">IO-Compress-Zlib</uri></ti>
+    <ti align="right">2.003</ti>
+    <ti align="right">2.004</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
     <ti align="right">2.214</ti>
     <ti align="right">2.216</ti>
@@ -180,9 +205,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.23</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mail::domainkeys&amp;mode=all">Mail-DomainKeys</uri></ti>
+    <ti align="right">0.88</ti>
+    <ti align="right">1.0</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=params::util&amp;mode=all">Params-Util</uri></ti>
     <ti align="right">0.22</ti>
     <ti align="right">0.23</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pod::simple&amp;mode=all">Pod-Simple</uri></ti>
+    <ti align="right">3.04</ti>
+    <ti align="right">3.05</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::class&amp;mode=all">Test-Class</uri></ti>
@@ -217,7 +252,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 33 of 693
+Total packages suspected as outdated: 40 of 693
 </p>
 
 </body>

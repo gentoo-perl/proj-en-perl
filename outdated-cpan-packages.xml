@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.560 2007/03/07 22:05:18 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.561 2007/03/08 07:04:31 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-03-07</date>
+<date>2007-03-08</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,11 +53,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
     <ti align="right">0.21</ti>
     <ti align="right">0.27</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
-    <ti align="right">2.51</ti>
-    <ti align="right">2.52</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::session&amp;mode=all">Apache-Session</uri></ti>
@@ -205,11 +200,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.09</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
-    <ti align="right">1.02</ti>
-    <ti align="right">1.03</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::zlib&amp;mode=all">IO-Zlib</uri></ti>
     <ti align="right">1.04</ti>
     <ti align="right">1.05</ti>
@@ -217,7 +207,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
     <ti align="right">2.214</ti>
-    <ti align="right">2.218</ti>
+    <ti align="right">2.217</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::dkim&amp;mode=all">Mail-DKIM</uri></ti>
@@ -238,11 +228,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=params::util&amp;mode=all">Params-Util</uri></ti>
     <ti align="right">0.22</ti>
     <ti align="right">0.23</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=params::validate&amp;mode=all">Params-Validate</uri></ti>
-    <ti align="right">0.87</ti>
-    <ti align="right">0.88</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::simple&amp;mode=all">Pod-Simple</uri></ti>
@@ -287,7 +272,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 47 of 693
+Total packages suspected as outdated: 44 of 693
 </p>
 
 </body>

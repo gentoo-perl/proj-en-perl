@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.563 2007/03/09 07:04:37 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.564 2007/03/09 22:11:18 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,11 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.27</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
-    <ti align="right">2.51</ti>
-    <ti align="right">2.52</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::session&amp;mode=all">Apache-Session</uri></ti>
     <ti align="right">1.81</ti>
     <ti align="right">1.82</ti>
@@ -68,21 +63,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=axkit&amp;mode=all">AxKit</uri></ti>
     <ti align="right">1.6</ti>
     <ti align="right">1.62</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cairo&amp;mode=all">Cairo</uri></ti>
-    <ti align="right">1.022</ti>
-    <ti align="right">1.023</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
-    <ti align="right">3.25</ti>
-    <ti align="right">3.27</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi::simple&amp;mode=all">Cgi-Simple</uri></ti>
-    <ti align="right">0.078</ti>
-    <ti align="right">0.079</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cisco::reconfig&amp;mode=all">Cisco-Reconfig</uri></ti>
@@ -105,16 +85,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.09</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::trigger&amp;mode=all">Class-Trigger</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right">0.11</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=compress::raw::zlib&amp;mode=all">Compress-Raw-Zlib</uri></ti>
-    <ti align="right">2.003</ti>
-    <ti align="right">2.004</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=compress::zlib&amp;mode=all">Compress-Zlib</uri></ti>
     <ti align="right">2.003</ti>
     <ti align="right">2.004</ti>
@@ -133,6 +103,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=data::compare&amp;mode=all">Data-Compare</uri></ti>
     <ti align="right">0.14</ti>
     <ti align="right">0.16</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::uuid&amp;mode=all">Data-UUID</uri></ti>
+    <ti align="right">0.148</ti>
+    <ti align="right">1.148</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::locale&amp;mode=all">DateTime-Locale</uri></ti>
@@ -287,7 +262,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 47 of 693
+Total packages suspected as outdated: 42 of 693
 </p>
 
 </body>

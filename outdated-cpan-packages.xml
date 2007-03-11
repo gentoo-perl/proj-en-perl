@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.567 2007/03/11 07:02:54 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.568 2007/03/11 21:03:29 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -90,21 +90,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.48</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=getopt::mixed&amp;mode=all">Getopt-Mixed</uri></ti>
-    <ti align="right">1.008</ti>
-    <ti align="right">1.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
-    <ti align="right">1.02</ti>
-    <ti align="right">1.03</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::zlib&amp;mode=all">IO-Zlib</uri></ti>
-    <ti align="right">1.04</ti>
-    <ti align="right">1.05</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
     <ti align="right">2.214</ti>
     <ti align="right">2.218</ti>
@@ -177,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 693
+Total packages suspected as outdated: 22 of 693
 </p>
 
 </body>

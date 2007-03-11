@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.566 2007/03/10 22:03:24 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.567 2007/03/11 07:02:54 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-03-10</date>
+<date>2007-03-11</date>
 
 <chapter>
 <title>Intro</title>
@@ -52,7 +52,7 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
     <ti align="right">0.21</ti>
-    <ti align="right">0.27</ti>
+    <ti align="right">0.28</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::session&amp;mode=all">Apache-Session</uri></ti>
@@ -85,53 +85,13 @@ will curb some of the bugs to boot).
     <ti align="right">2.09</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::uuid&amp;mode=all">Data-UUID</uri></ti>
-    <ti align="right">0.148</ti>
-    <ti align="right">1.148</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
-    <ti align="right">1.45</ti>
     <ti align="right">1.47</ti>
+    <ti align="right">1.48</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel::size&amp;mode=all">Devel-Size</uri></ti>
-    <ti align="right">0.64</ti>
-    <ti align="right">0.66</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
-    <ti align="right">1.884</ti>
-    <ti align="right">1.886</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri></ti>
-    <ti align="right">1.32</ti>
-    <ti align="right">1.33</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=finance::yahooquote&amp;mode=all">Finance-YahooQuote</uri></ti>
-    <ti align="right">0.21</ti>
-    <ti align="right">0.22</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=glib::perl&amp;mode=all">glib-perl</uri></ti>
-    <ti align="right">1.143</ti>
-    <ti align="right">1.144</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
-    <ti align="right">1.142</ti>
-    <ti align="right">1.143</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
-    <ti align="right">1.23</ti>
-    <ti align="right">1.24</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::multiplex&amp;mode=all">IO-Multiplex</uri></ti>
-    <ti align="right">1.08</ti>
+    <ti><uri link="http://search.cpan.org/search?query=getopt::mixed&amp;mode=all">Getopt-Mixed</uri></ti>
+    <ti align="right">1.008</ti>
     <ti align="right">1.09</ti>
   </tr>
   <tr>
@@ -212,12 +172,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.57</ti>
-    <ti align="right">0.67</ti>
+    <ti align="right">0.68</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 33 of 693
+Total packages suspected as outdated: 25 of 693
 </p>
 
 </body>

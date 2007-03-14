@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.573 2007/03/14 06:02:53 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.574 2007/03/14 21:03:28 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -87,7 +87,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::listdetector&amp;mode=all">Mail-ListDetector</uri></ti>
     <ti align="right">0.34</ti>
-    <ti align="right">1.00</ti>
+    <ti align="right">1.01</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri> (virtual/perl-Math-BigInt)</ti>
@@ -95,9 +95,24 @@ will curb some of the bugs to boot).
     <ti align="right">1.80</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mp3::info&amp;mode=all">MP3-Info</uri></ti>
+    <ti align="right">1.21</ti>
+    <ti align="right">1.22</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::amazon&amp;mode=all">Net-Amazon</uri></ti>
     <ti align="right">0.39</ti>
     <ti align="right">0.40</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::cups&amp;mode=all">Net-CUPS</uri></ti>
+    <ti align="right">0.50</ti>
+    <ti align="right">0.51</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::simple&amp;mode=all">Test-Simple</uri> (virtual/perl-Test-Simple)</ti>
+    <ti align="right">0.67</ti>
+    <ti align="right">0.69</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=text::chasen&amp;mode=all">Text-ChaSen</uri></ti>
@@ -112,7 +127,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 694
+Total packages suspected as outdated: 15 of 694
 </p>
 
 </body>

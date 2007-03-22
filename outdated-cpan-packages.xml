@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.588 2007/03/21 21:05:50 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.589 2007/03/22 06:05:51 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-03-21</date>
+<date>2007-03-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -95,6 +95,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.999</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=getopt::mixed&amp;mode=all">Getopt-Mixed</uri></ti>
+    <ti align="right">1.09</ti>
+    <ti align="right">1.10</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
     <ti align="right">1.143</ti>
     <ti align="right">1.144</ti>
@@ -160,14 +165,24 @@ will curb some of the bugs to boot).
     <ti align="right">1.04</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::wrapper&amp;mode=all">text-wrapper</uri></ti>
+    <ti align="right">1.000</ti>
+    <ti align="right">1.01</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri></ti>
     <ti align="right">0.70</ti>
     <ti align="right">0.71</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
+    <ti align="right">0.69</ti>
+    <ti align="right">0.70</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 694
+Total packages suspected as outdated: 26 of 694
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.590 2007/03/22 21:06:00 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.591 2007/03/23 06:06:07 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-03-22</date>
+<date>2007-03-23</date>
 
 <chapter>
 <title>Intro</title>
@@ -80,9 +80,29 @@ will curb some of the bugs to boot).
     <ti align="right">0.63</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
+    <ti align="right">4.003</ti>
+    <ti align="right">4.004</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::size&amp;mode=all">Devel-Size</uri></ti>
     <ti align="right">0.66</ti>
     <ti align="right">0.67</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::abstract&amp;mode=all">Email-Abstract</uri></ti>
+    <ti align="right">2.131</ti>
+    <ti align="right">2.132</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::date&amp;mode=all">Email-Date</uri></ti>
+    <ti align="right">1.101</ti>
+    <ti align="right">1.102</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::messageid&amp;mode=all">Email-MessageID</uri></ti>
+    <ti align="right">1.35</ti>
+    <ti align="right">1.351</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::mime&amp;mode=all">Email-MIME</uri></ti>
@@ -90,9 +110,29 @@ will curb some of the bugs to boot).
     <ti align="right">1.859</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime::contenttype&amp;mode=all">Email-MIME-ContentType</uri></ti>
+    <ti align="right">1.012</ti>
+    <ti align="right">1.014</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime::creator&amp;mode=all">Email-MIME-Creator</uri></ti>
+    <ti align="right">1.451</ti>
+    <ti align="right">1.452</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime::encodings&amp;mode=all">Email-MIME-Encodings</uri></ti>
+    <ti align="right">1.310</ti>
+    <ti align="right">1.311</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::simple&amp;mode=all">Email-Simple</uri></ti>
     <ti align="right">1.998</ti>
     <ti align="right">1.999</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::simple::creator&amp;mode=all">Email-Simple-Creator</uri></ti>
+    <ti align="right">1.41</ti>
+    <ti align="right">1.420</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=getopt::mixed&amp;mode=all">Getopt-Mixed</uri></ti>
@@ -182,7 +222,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 694
+Total packages suspected as outdated: 34 of 694
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.595 2007/03/25 06:05:19 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.596 2007/03/25 21:05:26 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
+    <ti align="right">0.30</ti>
+    <ti align="right">0.31</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::dbi&amp;mode=all">Apache-DBI</uri></ti>
     <ti align="right">1.05</ti>
     <ti align="right">1.06</ti>
@@ -155,6 +160,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.05</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=ipc::run3&amp;mode=all">IPC-Run3</uri></ti>
+    <ti align="right">0.036</ti>
+    <ti align="right">0.037</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::dkim&amp;mode=all">Mail-DKIM</uri></ti>
     <ti align="right">0.23</ti>
     <ti align="right">0.24</ti>
@@ -227,7 +237,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 35 of 693
+Total packages suspected as outdated: 37 of 693
 </p>
 
 </body>

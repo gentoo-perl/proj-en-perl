@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.601 2007/03/28 06:05:43 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.602 2007/03/28 21:06:04 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,6 +50,16 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
+    <ti align="right">0.30</ti>
+    <ti align="right">0.31</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=apache::dbi&amp;mode=all">Apache-DBI</uri></ti>
+    <ti align="right">1.05</ti>
+    <ti align="right">1.06</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=axkit&amp;mode=all">AxKit</uri></ti>
     <ti align="right">1.6</ti>
     <ti align="right">1.62</ti>
@@ -150,6 +160,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.05</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=ipc::run3&amp;mode=all">IPC-Run3</uri></ti>
+    <ti align="right">0.036</ti>
+    <ti align="right">0.037</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::dkim&amp;mode=all">Mail-DKIM</uri></ti>
     <ti align="right">0.23</ti>
     <ti align="right">0.24</ti>
@@ -158,6 +173,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=mail::listdetector&amp;mode=all">Mail-ListDetector</uri></ti>
     <ti align="right">0.34</ti>
     <ti align="right">1.01</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mime::types&amp;mode=all">MIME-Types</uri></ti>
+    <ti align="right">1.18</ti>
+    <ti align="right">1.19</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">module-build</uri></ti>
+    <ti align="right">0.2806</ti>
+    <ti align="right">0.2807</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mp3::info&amp;mode=all">MP3-Info</uri></ti>
@@ -175,6 +200,16 @@ will curb some of the bugs to boot).
     <ti align="right">0.51</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::rawip&amp;mode=all">Net-RawIP</uri></ti>
+    <ti align="right">0.2</ti>
+    <ti align="right">0.21</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::server&amp;mode=all">net-server</uri></ti>
+    <ti align="right">0.95</ti>
+    <ti align="right">0.96</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
     <ti align="right">0.57</ti>
     <ti align="right">0.59002</ti>
@@ -183,6 +218,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
     <ti align="right">1.03</ti>
     <ti align="right">1.05</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
+    <ti align="right">0.9917</ti>
+    <ti align="right">0.9989</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=set::intspan&amp;mode=all">Set-IntSpan</uri></ti>
+    <ti align="right">1.10</ti>
+    <ti align="right">1.11</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=svn::mirror&amp;mode=all">SVN-Mirror</uri></ti>
@@ -217,7 +262,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 33 of 693
+Total packages suspected as outdated: 42 of 693
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.604 2007/03/29 21:14:34 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.605 2007/03/30 06:07:08 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-03-29</date>
+<date>2007-03-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -63,11 +63,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=axkit&amp;mode=all">AxKit</uri></ti>
     <ti align="right">1.6</ti>
     <ti align="right">1.62</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
-    <ti align="right">3.27</ti>
-    <ti align="right">3.28</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cisco::reconfig&amp;mode=all">Cisco-Reconfig</uri></ti>
@@ -262,7 +257,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 42 of 693
+Total packages suspected as outdated: 41 of 693
 </p>
 
 </body>

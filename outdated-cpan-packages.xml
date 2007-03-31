@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.607 2007/03/31 06:06:17 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.608 2007/03/31 21:07:23 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,11 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.31</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=apache::dbi&amp;mode=all">Apache-DBI</uri></ti>
-    <ti align="right">1.05</ti>
-    <ti align="right">1.06</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=axkit&amp;mode=all">AxKit</uri></ti>
     <ti align="right">1.6</ti>
     <ti align="right">1.62</ti>
@@ -68,11 +63,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
     <ti align="right">3.27</ti>
     <ti align="right">3.28</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi::simple&amp;mode=all">Cgi-Simple</uri></ti>
-    <ti align="right">0.079</ti>
-    <ti align="right">0.080</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cisco::reconfig&amp;mode=all">Cisco-Reconfig</uri></ti>
@@ -85,11 +75,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.06</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::factory::util&amp;mode=all">Class-Factory-Util</uri></ti>
-    <ti align="right">1.6</ti>
-    <ti align="right">1.7</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::makemethods&amp;mode=all">Class-MakeMethods</uri></ti>
     <ti align="right">1.01</ti>
     <ti align="right">1.014</ti>
@@ -98,11 +83,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=class::methodmaker&amp;mode=all">Class-MethodMaker</uri></ti>
     <ti align="right">2.08</ti>
     <ti align="right">2.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
-    <ti align="right">0.36</ti>
-    <ti align="right">0.37</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
@@ -240,11 +220,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.29</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=storable&amp;mode=all">Storable</uri> (virtual/perl-Storable)</ti>
-    <ti align="right">2.15</ti>
-    <ti align="right">2.16</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=svn::mirror&amp;mode=all">SVN-Mirror</uri></ti>
     <ti align="right">0.72</ti>
     <ti align="right">0.73</ti>
@@ -277,7 +252,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 45 of 694
+Total packages suspected as outdated: 40 of 694
 </p>
 
 </body>

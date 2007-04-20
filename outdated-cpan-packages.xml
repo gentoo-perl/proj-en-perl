@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.644 2007/04/19 21:03:35 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.645 2007/04/20 06:02:54 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-04-19</date>
+<date>2007-04-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -100,11 +100,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.67</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::mime::creator&amp;mode=all">Email-MIME-Creator</uri></ti>
-    <ti align="right">1.452</ti>
-    <ti align="right">1.453</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri> (virtual/perl-Math-BigInt)</ti>
     <ti align="right">1.82</ti>
     <ti align="right">1.83</ti>
@@ -137,7 +132,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 695
+Total packages suspected as outdated: 16 of 695
 </p>
 
 </body>

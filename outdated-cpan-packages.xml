@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.648 2007/04/21 21:04:01 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.649 2007/04/22 06:02:46 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-04-21</date>
+<date>2007-04-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,16 +60,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.62</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=bignum&amp;mode=all">bignum</uri></ti>
-    <ti align="right">0.20</ti>
-    <ti align="right">0.21</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
-    <ti align="right">3.28</ti>
-    <ti align="right">3.29</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.016</ti>
     <ti align="right">3.06</ti>
@@ -80,74 +70,19 @@ will curb some of the bugs to boot).
     <ti align="right">1.014</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=clone&amp;mode=all">Clone</uri></ti>
-    <ti align="right">0.22</ti>
-    <ti align="right">0.23</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::general&amp;mode=all">config-general</uri></ti>
-    <ti align="right">2.32</ti>
-    <ti align="right">2.33</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbi::shell&amp;mode=all">DBI-Shell</uri></ti>
-    <ti align="right">11.93</ti>
-    <ti align="right">11.94</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbix::dbschema&amp;mode=all">DBIx-DBSchema</uri></ti>
-    <ti align="right">0.31</ti>
-    <ti align="right">0.32</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::size&amp;mode=all">Devel-Size</uri></ti>
     <ti align="right">0.66</ti>
     <ti align="right">0.67</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::mime::creator&amp;mode=all">Email-MIME-Creator</uri></ti>
-    <ti align="right">1.452</ti>
-    <ti align="right">1.453</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri> (virtual/perl-Math-BigInt)</ti>
-    <ti align="right">1.82</ti>
-    <ti align="right">1.83</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::bigrat&amp;mode=all">Math-BigRat</uri></ti>
-    <ti align="right">0.18</ti>
-    <ti align="right">0.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri></ti>
-    <ti align="right">0.7201</ti>
-    <ti align="right">0.7203</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=www::bugzilla&amp;mode=all">WWW-Bugzilla</uri></ti>
-    <ti align="right">0.8</ti>
-    <ti align="right">0.9</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.69</ti>
-    <ti align="right">0.73</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::libxml&amp;mode=all">XML-LibXML</uri></ti>
-    <ti align="right">1.62001</ti>
-    <ti align="right">1.63</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=yaml::syck&amp;mode=all">YAML-Syck</uri></ti>
-    <ti align="right">0.84</ti>
-    <ti align="right">0.85</ti>
+    <ti align="right">0.70</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 695
+Total packages suspected as outdated: 6 of 695
 </p>
 
 </body>

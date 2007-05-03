@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.670 2007/05/02 21:04:18 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.671 2007/05/03 06:03:32 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-05-02</date>
+<date>2007-05-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -58,6 +58,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=axkit&amp;mode=all">AxKit</uri></ti>
     <ti align="right">1.6</ti>
     <ti align="right">1.62</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cache::memcached&amp;mode=all">Cache-Memcached</uri></ti>
+    <ti align="right">1.20</ti>
+    <ti align="right">1.21</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
@@ -135,6 +140,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.10</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::glob&amp;mode=all">Text-Glob</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right">0.08</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.69</ti>
     <ti align="right">0.74</ti>
@@ -142,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 701
+Total packages suspected as outdated: 20 of 701
 </p>
 
 </body>

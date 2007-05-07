@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.679 2007/05/07 06:04:34 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.680 2007/05/07 21:04:35 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -150,6 +150,11 @@ will curb some of the bugs to boot).
     <ti align="right">20070504</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=snowball::norwegian&amp;mode=all">Snowball-Norwegian</uri></ti>
+    <ti align="right">1.0</ti>
+    <ti align="right">1.1</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=string::ediff&amp;mode=all">String-Ediff</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right">0.09</ti>
@@ -187,7 +192,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 27 of 702
+Total packages suspected as outdated: 28 of 702
 </p>
 
 </body>

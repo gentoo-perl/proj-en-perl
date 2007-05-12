@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.688 2007/05/11 21:13:09 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.689 2007/05/12 06:04:54 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-05-11</date>
+<date>2007-05-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -85,19 +85,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.67</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel::stacktrace&amp;mode=all">Devel-StackTrace</uri></ti>
-    <ti align="right">1.14</ti>
-    <ti align="right">1.15</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::copy::recursive&amp;mode=all">File-Copy-Recursive</uri></ti>
-    <ti align="right">0.31</ti>
-    <ti align="right">0.33</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::homedir&amp;mode=all">File-HomeDir</uri></ti>
-    <ti align="right">0.64</ti>
-    <ti align="right">0.65</ti>
+    <ti><uri link="http://search.cpan.org/search?query=devel::smallprof&amp;mode=all">Devel-SmallProf</uri></ti>
+    <ti align="right">2.01</ti>
+    <ti align="right">2.02</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gdgraph&amp;mode=all">GDGraph</uri></ti>
@@ -115,11 +105,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.03</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=heap&amp;mode=all">Heap</uri></ti>
-    <ti align="right">0.71</ti>
-    <ti align="right">0.80</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=http::browserdetect&amp;mode=all">HTTP-BrowserDetect</uri></ti>
     <ti align="right">0.98</ti>
     <ti align="right">0.99</ti>
@@ -133,6 +118,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=json::xs&amp;mode=all">JSON-XS</uri></ti>
     <ti align="right">1.11</ti>
     <ti align="right">1.21</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mailtools&amp;mode=all">MailTools</uri></ti>
+    <ti align="right">1.76</ti>
+    <ti align="right">1.77</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri> (virtual/perl-Math-BigInt)</ti>
@@ -165,6 +155,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.61</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=perlbal&amp;mode=all">Perlbal</uri></ti>
+    <ti align="right">1.57</ti>
+    <ti align="right">1.58</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=perltidy&amp;mode=all">perltidy</uri></ti>
     <ti align="right">20070424</ti>
     <ti align="right">20070508</ti>
@@ -195,6 +190,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.10</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::www::mechanize&amp;mode=all">Test-WWW-Mechanize</uri></ti>
+    <ti align="right">1.12</ti>
+    <ti align="right">1.14</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=text::aspell&amp;mode=all">Text-Aspell</uri></ti>
     <ti align="right">0.07</ti>
     <ti align="right">0.08</ti>
@@ -215,6 +215,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.14</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=www::mechanize&amp;mode=all">WWW-Mechanize</uri></ti>
+    <ti align="right">1.22</ti>
+    <ti align="right">1.24</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.69</ti>
     <ti align="right">0.74</ti>
@@ -222,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 34 of 707
+Total packages suspected as outdated: 35 of 707
 </p>
 
 </body>

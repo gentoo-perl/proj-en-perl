@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.700 2007/05/17 21:04:34 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.701 2007/05/18 21:10:16 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-05-17</date>
+<date>2007-05-18</date>
 
 <chapter>
 <title>Intro</title>
@@ -100,6 +100,16 @@ will curb some of the bugs to boot).
     <ti align="right">1.16</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gearman::client::async&amp;mode=all">Gearman-Client-Async</uri></ti>
+    <ti align="right">0.93</ti>
+    <ti align="right">0.94</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gtk2::trayicon&amp;mode=all">gtk2-trayicon</uri></ti>
+    <ti align="right">0.03</ti>
+    <ti align="right">0.06</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
     <ti align="right">1.24</ti>
     <ti align="right">1.25</ti>
@@ -147,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 707
+Total packages suspected as outdated: 21 of 707
 </p>
 
 </body>

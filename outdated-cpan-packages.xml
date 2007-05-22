@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.707 2007/05/21 21:03:04 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.708 2007/05/22 06:03:20 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-05-21</date>
+<date>2007-05-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -125,6 +125,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.16</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gearman&amp;mode=all">Gearman</uri></ti>
+    <ti align="right">1.07</ti>
+    <ti align="right">1.08</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=gearman::client::async&amp;mode=all">Gearman-Client-Async</uri></ti>
     <ti align="right">0.93</ti>
     <ti align="right">0.94</ti>
@@ -187,7 +192,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 27 of 707
+Total packages suspected as outdated: 28 of 707
 </p>
 
 </body>

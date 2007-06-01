@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.728 2007/06/01 06:03:11 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.729 2007/06/01 21:08:40 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.64</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
+    <ti align="right">1.10</ti>
+    <ti align="right">1.11</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::dkim&amp;mode=all">Mail-DKIM</uri></ti>
     <ti align="right">0.24</ti>
     <ti align="right">0.26</ti>
@@ -148,6 +153,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=module::info&amp;mode=all">module-info</uri></ti>
     <ti align="right">0.30</ti>
     <ti align="right">0.31</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
+    <ti align="right">1.051</ti>
+    <ti align="right">1.052</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pgplot&amp;mode=all">PGPLOT</uri></ti>
@@ -172,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 710
+Total packages suspected as outdated: 26 of 710
 </p>
 
 </body>

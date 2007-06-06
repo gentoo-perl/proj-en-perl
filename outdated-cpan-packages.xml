@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.738 2007/06/06 06:02:53 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.739 2007/06/06 21:02:51 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.06</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
+    <ti align="right">1.06</ti>
+    <ti align="right">1.07</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=libnet&amp;mode=all">libnet</uri> (virtual/perl-libnet)</ti>
     <ti align="right">1.20</ti>
     <ti align="right">1.21</ti>
@@ -192,7 +197,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 28 of 710
+Total packages suspected as outdated: 29 of 710
 </p>
 
 </body>

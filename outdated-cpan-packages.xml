@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.740 2007/06/07 06:04:33 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.741 2007/06/07 21:02:54 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -63,6 +63,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=appconfig&amp;mode=all">AppConfig</uri></ti>
     <ti align="right">1.64</ti>
     <ti align="right">1.65</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=archive::zip&amp;mode=all">Archive-Zip</uri></ti>
+    <ti align="right">1.18</ti>
+    <ti align="right">1.20</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=axkit&amp;mode=all">AxKit</uri></ti>
@@ -130,6 +135,16 @@ will curb some of the bugs to boot).
     <ti align="right">2.06</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
+    <ti align="right">1.06</ti>
+    <ti align="right">1.07</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=json::xs&amp;mode=all">JSON-XS</uri></ti>
+    <ti align="right">1.22</ti>
+    <ti align="right">1.23</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=libnet&amp;mode=all">libnet</uri> (virtual/perl-libnet)</ti>
     <ti align="right">1.20</ti>
     <ti align="right">1.21</ti>
@@ -187,7 +202,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 27 of 710
+Total packages suspected as outdated: 30 of 710
 </p>
 
 </body>

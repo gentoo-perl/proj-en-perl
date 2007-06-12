@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.749 2007/06/11 21:03:33 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.750 2007/06/12 06:04:17 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-06-11</date>
+<date>2007-06-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -95,14 +95,29 @@ will curb some of the bugs to boot).
     <ti align="right">2.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::mimeinfo&amp;mode=all">File-MimeInfo</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right">0.14</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::spec&amp;mode=all">File-Spec</uri> (virtual/perl-File-Spec)</ti>
     <ti align="right">3.24</ti>
     <ti align="right">3.25</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::mason&amp;mode=all">HTML-Mason</uri></ti>
+    <ti align="right">1.35</ti>
+    <ti align="right">1.36</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::table&amp;mode=all">HTML-Table</uri></ti>
     <ti align="right">2.05</ti>
     <ti align="right">2.06</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=ima::dbi&amp;mode=all">Ima-DBI</uri></ti>
+    <ti align="right">0.34</ti>
+    <ti align="right">0.35</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
@@ -112,17 +127,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=json::xs&amp;mode=all">JSON-XS</uri></ti>
     <ti align="right">1.22</ti>
-    <ti align="right">1.23</ti>
+    <ti align="right">1.24</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=libnet&amp;mode=all">libnet</uri> (virtual/perl-libnet)</ti>
     <ti align="right">1.20</ti>
     <ti align="right">1.21</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=lingua::stem::it&amp;mode=all">Lingua-Stem-It</uri></ti>
-    <ti align="right">0.01</ti>
-    <ti align="right">0.02</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=locale::maketext::lexicon&amp;mode=all">locale-maketext-lexicon</uri></ti>
@@ -172,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 711
+Total packages suspected as outdated: 26 of 711
 </p>
 
 </body>

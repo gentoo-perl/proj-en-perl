@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.755 2007/06/14 21:03:13 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.756 2007/06/15 06:03:13 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-06-14</date>
+<date>2007-06-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,11 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.31</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=apache::session&amp;mode=all">Apache-Session</uri></ti>
-    <ti align="right">1.82</ti>
-    <ti align="right">1.83</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.016</ti>
     <ti align="right">3.06</ti>
@@ -70,14 +65,14 @@ will curb some of the bugs to boot).
     <ti align="right">1.014</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
-    <ti align="right">4.004</ti>
-    <ti align="right">4.005</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbi::shell&amp;mode=all">DBI-Shell</uri></ti>
     <ti align="right">11.93</ti>
     <ti align="right">11.94</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
+    <ti align="right">2.218</ti>
+    <ti align="right">2.219</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
@@ -87,7 +82,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 7 of 710
+Total packages suspected as outdated: 6 of 710
 </p>
 
 </body>

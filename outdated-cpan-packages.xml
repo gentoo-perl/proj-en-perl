@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.758 2007/06/16 06:03:16 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.759 2007/06/16 21:03:11 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -70,6 +70,11 @@ will curb some of the bugs to boot).
     <ti align="right">11.94</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=device::serialport&amp;mode=all">Device-SerialPort</uri></ti>
+    <ti align="right">1.002</ti>
+    <ti align="right">1.002001</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
     <ti align="right">2.218</ti>
     <ti align="right">2.219</ti>
@@ -79,10 +84,15 @@ will curb some of the bugs to boot).
     <ti align="right">0.69</ti>
     <ti align="right">0.74</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=yaml::syck&amp;mode=all">YAML-Syck</uri></ti>
+    <ti align="right">0.85</ti>
+    <ti align="right">0.87</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 6 of 710
+Total packages suspected as outdated: 8 of 710
 </p>
 
 </body>

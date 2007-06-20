@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.766 2007/06/20 06:03:42 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.767 2007/06/20 21:03:48 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -107,7 +107,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::amazon&amp;mode=all">Net-Amazon</uri></ti>
     <ti align="right">0.40</ti>
-    <ti align="right">0.42</ti>
+    <ti align="right">0.43</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::daemon&amp;mode=all">Net-Daemon</uri></ti>

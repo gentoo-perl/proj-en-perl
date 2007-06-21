@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.767 2007/06/20 21:03:48 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.768 2007/06/21 06:03:34 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-06-20</date>
+<date>2007-06-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.30</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=yaml&amp;mode=all">yaml</uri></ti>
+    <ti align="right">0.62</ti>
+    <ti align="right">0.63</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=yaml::syck&amp;mode=all">YAML-Syck</uri></ti>
     <ti align="right">0.85</ti>
     <ti align="right">0.88</ti>
@@ -142,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 711
+Total packages suspected as outdated: 19 of 711
 </p>
 
 </body>

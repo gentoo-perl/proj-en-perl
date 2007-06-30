@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.786 2007/06/30 06:03:07 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.787 2007/06/30 21:02:36 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.93</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=bignum&amp;mode=all">bignum</uri></ti>
+    <ti align="right">0.21</ti>
+    <ti align="right">0.22</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.016</ti>
     <ti align="right">3.06</ti>
@@ -80,6 +85,16 @@ will curb some of the bugs to boot).
     <ti align="right">1.09</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri></ti>
+    <ti align="right">1.86</ti>
+    <ti align="right">1.87</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=math::bigrat&amp;mode=all">Math-BigRat</uri></ti>
+    <ti align="right">0.19</ti>
+    <ti align="right">0.20</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.69</ti>
     <ti align="right">0.74</ti>
@@ -92,7 +107,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 8 of 714
+Total packages suspected as outdated: 11 of 714
 </p>
 
 </body>

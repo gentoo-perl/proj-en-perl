@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.787 2007/06/30 21:02:36 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.788 2007/07/01 06:02:35 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-06-30</date>
+<date>2007-07-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,6 +75,16 @@ will curb some of the bugs to boot).
     <ti align="right">1.014</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=compress::raw::zlib&amp;mode=all">Compress-Raw-Zlib</uri></ti>
+    <ti align="right">2.004</ti>
+    <ti align="right">2.005</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=compress::zlib&amp;mode=all">Compress-Zlib</uri></ti>
+    <ti align="right">2.004</ti>
+    <ti align="right">2.005</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbi::shell&amp;mode=all">DBI-Shell</uri></ti>
     <ti align="right">11.93</ti>
     <ti align="right">11.94</ti>
@@ -83,6 +93,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=gearman&amp;mode=all">Gearman</uri></ti>
     <ti align="right">1.08</ti>
     <ti align="right">1.09</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::compress::base&amp;mode=all">IO-Compress-Base</uri></ti>
+    <ti align="right">2.004</ti>
+    <ti align="right">2.005</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::compress::zlib&amp;mode=all">IO-Compress-Zlib</uri></ti>
+    <ti align="right">2.004</ti>
+    <ti align="right">2.005</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri></ti>
@@ -107,7 +127,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 11 of 714
+Total packages suspected as outdated: 15 of 714
 </p>
 
 </body>

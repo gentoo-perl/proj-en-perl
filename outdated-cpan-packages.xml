@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.798 2007/07/06 06:07:05 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.799 2007/07/06 21:16:15 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -53,6 +53,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
     <ti align="right">0.30</ti>
     <ti align="right">0.31</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=appconfig&amp;mode=all">AppConfig</uri></ti>
+    <ti align="right">1.65</ti>
+    <ti align="right">1.66</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::rar&amp;mode=all">Archive-Rar</uri></ti>
@@ -162,7 +167,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 714
+Total packages suspected as outdated: 23 of 714
 </p>
 
 </body>

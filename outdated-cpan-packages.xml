@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.800 2007/07/07 06:05:35 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.801 2007/07/07 21:04:36 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,11 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.31</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=appconfig&amp;mode=all">AppConfig</uri></ti>
-    <ti align="right">1.65</ti>
-    <ti align="right">1.66</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::rar&amp;mode=all">Archive-Rar</uri></ti>
     <ti align="right">1.92</ti>
     <ti align="right">1.93</ti>
@@ -80,24 +75,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.014</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=compress::raw::zlib&amp;mode=all">Compress-Raw-Zlib</uri></ti>
-    <ti align="right">2.004</ti>
-    <ti align="right">2.005</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=compress::zlib&amp;mode=all">Compress-Zlib</uri></ti>
-    <ti align="right">2.004</ti>
-    <ti align="right">2.005</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
-    <ti align="right">0.552</ti>
-    <ti align="right">0.562</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
-    <ti align="right">0.37</ti>
-    <ti align="right">0.38</ti>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
+    <ti align="right">0.6602</ti>
+    <ti align="right">0.6603</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbi::shell&amp;mode=all">DBI-Shell</uri></ti>
@@ -110,24 +90,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.09</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=geo::ip&amp;mode=all">Geo-IP</uri></ti>
-    <ti align="right">1.27</ti>
-    <ti align="right">1.28</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
     <ti align="right">1.144</ti>
     <ti align="right">1.145</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::compress::base&amp;mode=all">IO-Compress-Base</uri></ti>
-    <ti align="right">2.004</ti>
-    <ti align="right">2.005</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::compress::zlib&amp;mode=all">IO-Compress-Zlib</uri></ti>
-    <ti align="right">2.004</ti>
-    <ti align="right">2.005</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=json::xs&amp;mode=all">JSON-XS</uri></ti>
@@ -167,7 +132,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 714
+Total packages suspected as outdated: 16 of 714
 </p>
 
 </body>

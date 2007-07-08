@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.802 2007/07/08 06:04:48 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.803 2007/07/08 21:02:21 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,6 +55,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.31</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
+    <ti align="right">2.52</ti>
+    <ti align="right">2.53</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::rar&amp;mode=all">Archive-Rar</uri></ti>
     <ti align="right">1.92</ti>
     <ti align="right">1.93</ti>
@@ -90,6 +95,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.49</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::remove&amp;mode=all">File-Remove</uri></ti>
+    <ti align="right">0.36</ti>
+    <ti align="right">0.37</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri></ti>
     <ti align="right">1.33</ti>
     <ti align="right">1.34</ti>
@@ -98,11 +108,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=gearman&amp;mode=all">Gearman</uri></ti>
     <ti align="right">1.08</ti>
     <ti align="right">1.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
-    <ti align="right">1.144</ti>
-    <ti align="right">1.145</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=json::xs&amp;mode=all">JSON-XS</uri></ti>
@@ -135,6 +140,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.74</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=x500::dn&amp;mode=all">X500-DN</uri></ti>
+    <ti align="right">0.28</ti>
+    <ti align="right">0.29</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::rss&amp;mode=all">XML-RSS</uri></ti>
     <ti align="right">1.30</ti>
     <ti align="right">1.31</ti>
@@ -142,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 714
+Total packages suspected as outdated: 20 of 714
 </p>
 
 </body>

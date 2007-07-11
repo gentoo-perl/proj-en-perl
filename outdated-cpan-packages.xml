@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.808 2007/07/11 06:02:26 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.809 2007/07/11 21:03:24 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -70,6 +70,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.22</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::accessor&amp;mode=all">Class-Accessor</uri></ti>
+    <ti align="right">0.30</ti>
+    <ti align="right">0.31</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.016</ti>
     <ti align="right">3.06</ti>
@@ -120,7 +125,7 @@ will curb some of the bugs to boot).
     <ti align="right">1.41</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri> (virtual/perl-Math-BigInt)</ti>
     <ti align="right">1.86</ti>
     <ti align="right">1.87</ti>
   </tr>
@@ -172,7 +177,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 714
+Total packages suspected as outdated: 25 of 714
 </p>
 
 </body>

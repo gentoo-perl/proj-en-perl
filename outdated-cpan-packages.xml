@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.807 2007/07/10 21:02:29 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.808 2007/07/11 06:02:26 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-07-10</date>
+<date>2007-07-11</date>
 
 <chapter>
 <title>Intro</title>
@@ -80,6 +80,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.014</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=crypt::ssleay&amp;mode=all">Crypt-SSLeay</uri></ti>
+    <ti align="right">0.55</ti>
+    <ti align="right">0.56</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
     <ti align="right">0.6602</ti>
     <ti align="right">0.6603</ti>
@@ -137,7 +142,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::inline&amp;mode=all">Test-Inline</uri></ti>
     <ti align="right">2.201</ti>
-    <ti align="right">2.202</ti>
+    <ti align="right">2.203</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
@@ -167,7 +172,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 714
+Total packages suspected as outdated: 24 of 714
 </p>
 
 </body>

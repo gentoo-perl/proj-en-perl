@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.811 2007/07/12 21:03:54 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.812 2007/07/13 21:07:39 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-07-12</date>
+<date>2007-07-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -85,6 +85,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.014</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=clone&amp;mode=all">Clone</uri></ti>
+    <ti align="right">0.23</ti>
+    <ti align="right">0.24</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::ssleay&amp;mode=all">Crypt-SSLeay</uri></ti>
     <ti align="right">0.55</ti>
     <ti align="right">0.56</ti>
@@ -103,6 +108,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
     <ti align="right">1.48</ti>
     <ti align="right">1.49</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::simple&amp;mode=all">Email-Simple</uri></ti>
+    <ti align="right">1.999</ti>
+    <ti align="right">2.000</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::simple::creator&amp;mode=all">Email-Simple-Creator</uri></ti>
+    <ti align="right">1.420</ti>
+    <ti align="right">1.422</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::remove&amp;mode=all">File-Remove</uri></ti>
@@ -145,6 +160,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.22</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sys::statistics::linux&amp;mode=all">Sys-Statistics-Linux</uri></ti>
+    <ti align="right">0.11</ti>
+    <ti align="right">0.13</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::inline&amp;mode=all">Test-Inline</uri></ti>
     <ti align="right">2.201</ti>
     <ti align="right">2.204</ti>
@@ -177,7 +197,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 714
+Total packages suspected as outdated: 29 of 714
 </p>
 
 </body>

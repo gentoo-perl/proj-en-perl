@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.813 2007/07/14 05:04:07 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.814 2007/07/14 21:03:15 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -120,6 +120,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.860</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime::creator&amp;mode=all">Email-MIME-Creator</uri></ti>
+    <ti align="right">1.453</ti>
+    <ti align="right">1.454</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::simple&amp;mode=all">Email-Simple</uri></ti>
     <ti align="right">1.999</ti>
     <ti align="right">2.002</ti>
@@ -148,6 +153,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=json::xs&amp;mode=all">JSON-XS</uri></ti>
     <ti align="right">1.3</ti>
     <ti align="right">1.41</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
+    <ti align="right">2.219</ti>
+    <ti align="right">2.220</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri> (virtual/perl-Math-BigInt)</ti>
@@ -207,7 +217,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 31 of 714
+Total packages suspected as outdated: 33 of 714
 </p>
 
 </body>

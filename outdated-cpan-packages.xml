@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.817 2007/07/16 05:03:18 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.818 2007/07/16 21:03:42 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -125,6 +125,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.454</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime::modifier&amp;mode=all">Email-MIME-Modifier</uri></ti>
+    <ti align="right">1.441</ti>
+    <ti align="right">1.442</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::simple&amp;mode=all">Email-Simple</uri></ti>
     <ti align="right">1.999</ti>
     <ti align="right">2.002</ti>
@@ -190,6 +195,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.205</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=want&amp;mode=all">Want</uri></ti>
+    <ti align="right">0.14</ti>
+    <ti align="right">0.15</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.69</ti>
     <ti align="right">0.75</ti>
@@ -217,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 33 of 714
+Total packages suspected as outdated: 35 of 714
 </p>
 
 </body>

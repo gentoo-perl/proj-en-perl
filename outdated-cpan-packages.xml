@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.822 2007/07/18 21:03:47 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.823 2007/07/19 05:10:25 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2007-07-18</date>
+<date>2007-07-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -108,6 +108,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=clone&amp;mode=all">Clone</uri></ti>
     <ti align="right">0.23</ti>
     <ti align="right">0.24</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::crontab&amp;mode=all">Config-Crontab</uri></ti>
+    <ti align="right">1.20</ti>
+    <ti align="right">1.21</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::ssleay&amp;mode=all">Crypt-SSLeay</uri></ti>
@@ -210,6 +215,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.17</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::dbus&amp;mode=all">Net-DBus</uri></ti>
+    <ti align="right">0.334</ti>
+    <ti align="right">0.335</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=proc::simple&amp;mode=all">Proc-Simple</uri></ti>
     <ti align="right">1.21</ti>
     <ti align="right">1.22</ti>
@@ -250,6 +260,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.01</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::rai&amp;mode=all">XML-RAI</uri></ti>
+    <ti align="right">1.301</ti>
+    <ti align="right">1.3022</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::rss&amp;mode=all">XML-RSS</uri></ti>
     <ti align="right">1.30</ti>
     <ti align="right">1.31</ti>
@@ -262,7 +277,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 42 of 714
+Total packages suspected as outdated: 45 of 714
 </p>
 
 </body>

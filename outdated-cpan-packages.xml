@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.825 2007/07/20 05:09:48 mcummings Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.826 2007/07/20 21:14:39 mcummings Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -140,6 +140,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.49</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=device::serialport&amp;mode=all">Device-SerialPort</uri></ti>
+    <ti align="right">1.002001</ti>
+    <ti align="right">1.003</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::mime&amp;mode=all">Email-MIME</uri></ti>
     <ti align="right">1.859</ti>
     <ti align="right">1.860</ti>
@@ -230,6 +235,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.335</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=par::dist&amp;mode=all">PAR-Dist</uri></ti>
+    <ti align="right">0.23</ti>
+    <ti align="right">0.24</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=proc::simple&amp;mode=all">Proc-Simple</uri></ti>
     <ti align="right">1.21</ti>
     <ti align="right">1.22</ti>
@@ -287,7 +297,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 47 of 714
+Total packages suspected as outdated: 49 of 714
 </p>
 
 </body>

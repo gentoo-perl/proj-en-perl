@@ -21,22 +21,18 @@
 <longdescription>
 
   <p>
-  This is just a place holder. Coming areas will be perl-module ebuild guidelines,
-  homepages for perl-cleaner and g-cpan, etc. As I suck considerably and inventing
-  anything new, but am a real whizz at adapting someone else's hard work, I'd like
-  to say thanks to the java herd for inadvertantly providing the template this page
-  was originally built on. (~mcummings)
+  	We maintain everything perlish in gentoo.
   </p>
 
   <p>
-  <uri link="http://www.perl.org/">Perl.org</uri> 
+	<uri link="http://www.perl.org/">Perl.org</uri> 
   </p>
 
 </longdescription>
 
-<dev role="member" description="We're not sure...kind of like a bad rash ">SuperLag</dev>
-<dev role="member" description="Even forum staff can reform...">ian</dev>
-<dev role="member" description="Ask about hummus if you dare...">yuval</dev>
+<dev role="member">ian</dev>
+<dev role="member">yuval</dev>
+<dev role="member">cab</dev>
 
 <resource link="/proj/en/perl/perl-herd.xml">DRAFT Perl Herd Ebuild guide</resource>
 <resource link="/proj/en/perl/perl-cleaner.xml">DRAFT perl-cleaner guide</resource>
@@ -47,11 +43,11 @@
 <resource link="irc://irc.freenode.org/#gentoo-perl">#gentoo-perl on irc.freenode.org</resource>
 <resource link="http://anonsvn.gentoo.org/repositories/gentoo-perl/">svn co http://anonsvn.gentoo.org/repositories/gentoo-perl/ to check out a read only copy of our works in progress.</resource>
 
-<extraproject name="g-cpan" lead="mcummings">
+<extraproject name="g-cpan" lead="perl-herd">
   Build perl modules that portage keeps track of
 </extraproject>
 
-<extraproject name="perl-cleaner" lead="mcummings">
+<extraproject name="perl-cleaner" lead="perl-herd">
   Clean up those ph files and rebuild all your broken apps after a new perl
 </extraproject>
 

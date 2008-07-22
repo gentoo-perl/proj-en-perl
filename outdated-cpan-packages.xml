@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.833 2008/07/16 06:30:45 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.834 2008/07/22 07:12:49 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-07-16</date>
+<date>2008-07-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -62,7 +62,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
     <ti align="right">3.2</ti>
-    <ti align="right">4.2</ti>
+    <ti align="right">4.22</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authcookie&amp;mode=all">Apache-AuthCookie</uri></ti>
@@ -145,11 +145,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.38</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi::session&amp;mode=all">CGI-Session</uri></ti>
-    <ti align="right">4.20</ti>
-    <ti align="right">4.34</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cgi::simple&amp;mode=all">Cgi-Simple</uri></ti>
     <ti align="right">1.0</ti>
     <ti align="right">1.105</ti>
@@ -178,6 +173,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=class::member&amp;mode=all">Class-Member</uri></ti>
     <ti align="right">1.3</ti>
     <ti align="right">1.5</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::methodmaker&amp;mode=all">Class-MethodMaker</uri></ti>
+    <ti align="right">2.11</ti>
+    <ti align="right">2.12</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::returnvalue&amp;mode=all">class-returnvalue</uri></ti>
@@ -250,11 +250,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.4304</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::locale&amp;mode=all">DateTime-Locale</uri></ti>
-    <ti align="right">0.35</ti>
-    <ti align="right">0.41</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
     <ti align="right">0.75</ti>
     <ti align="right">0.78</ti>
@@ -312,7 +307,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::stacktrace&amp;mode=all">Devel-StackTrace</uri></ti>
     <ti align="right">1.19</ti>
-    <ti align="right">1.1901</ti>
+    <ti align="right">1.1902</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=device::serialport&amp;mode=all">Device-SerialPort</uri></ti>
@@ -357,7 +352,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=error&amp;mode=all">Error</uri></ti>
     <ti align="right">0.17012</ti>
-    <ti align="right">0.17014</ti>
+    <ti align="right">0.17015</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=event&amp;mode=all">Event</uri></ti>
@@ -383,6 +378,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=file::remove&amp;mode=all">File-Remove</uri></ti>
     <ti align="right">1.40</ti>
     <ti align="right">1.42</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=filehandle::unget&amp;mode=all">FileHandle-Unget</uri></ti>
+    <ti align="right">0.1621</ti>
+    <ti align="right">0.1622</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri></ti>
@@ -482,7 +482,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">2.51</ti>
-    <ti align="right">3.05</ti>
+    <ti align="right">3.06</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::interface&amp;mode=all">IO-Interface</uri></ti>
@@ -493,6 +493,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=io::socket::inet6&amp;mode=all">IO-Socket-INET6</uri></ti>
     <ti align="right">2.51</ti>
     <ti align="right">2.54</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
+    <ti align="right">1.13</ti>
+    <ti align="right">1.14</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ip::country&amp;mode=all">IP-Country</uri></ti>
@@ -517,22 +522,17 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=json&amp;mode=all">JSON</uri></ti>
     <ti align="right">2.09</ti>
-    <ti align="right">2.11</ti>
+    <ti align="right">2.12</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=json::xs&amp;mode=all">JSON-XS</uri></ti>
     <ti align="right">2.2</ti>
-    <ti align="right">2.21</ti>
+    <ti align="right">2.2222</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=lingua::en::nameparse&amp;mode=all">Lingua-EN-NameParse</uri></ti>
     <ti align="right">1.23</ti>
     <ti align="right">1.24</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=list::moreutils&amp;mode=all">List-MoreUtils</uri></ti>
-    <ti align="right">0.21</ti>
-    <ti align="right">0.22</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=locale::maketext&amp;mode=all">locale-maketext</uri> (virtual/perl-locale-maketext)</ti>
@@ -562,7 +562,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
     <ti align="right">1.13</ti>
-    <ti align="right">1.16</ti>
+    <ti align="right">1.17</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
@@ -770,11 +770,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.02</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=proc::processtable&amp;mode=all">Proc-ProcessTable</uri></ti>
-    <ti align="right">0.41</ti>
-    <ti align="right">0.42</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=proc::simple&amp;mode=all">Proc-Simple</uri></ti>
     <ti align="right">1.22</ti>
     <ti align="right">1.23</ti>
@@ -827,7 +822,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=spreadsheet::writeexcel&amp;mode=all">Spreadsheet-WriteExcel</uri></ti>
     <ti align="right">2.20</ti>
-    <ti align="right">2.21</ti>
+    <ti align="right">2.22</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sql::abstract&amp;mode=all">SQL-Abstract</uri></ti>
@@ -838,11 +833,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=svn::mirror&amp;mode=all">SVN-Mirror</uri></ti>
     <ti align="right">0.73</ti>
     <ti align="right">0.74</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sys::statistics::linux&amp;mode=all">Sys-Statistics-Linux</uri></ti>
-    <ti align="right">0.34</ti>
-    <ti align="right">0.36</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sys::syslog&amp;mode=all">Sys-Syslog</uri> (virtual/perl-Sys-Syslog)</ti>
@@ -865,24 +855,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.05</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::deep&amp;mode=all">Test-Deep</uri></ti>
-    <ti align="right">0.100</ti>
-    <ti align="right">0.103</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::warn&amp;mode=all">Test-Warn</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right">0.11</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=text::csv_xs&amp;mode=all">Text-CSV_XS</uri></ti>
     <ti align="right">0.45</ti>
     <ti align="right">0.52</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::quoted&amp;mode=all">Text-Quoted</uri></ti>
-    <ti align="right">2.02</ti>
-    <ti align="right">2.05</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=text::template&amp;mode=all">text-template</uri></ti>
@@ -900,29 +875,14 @@ will curb some of the bugs to boot).
     <ti align="right">2.51</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=tree::dag_node&amp;mode=all">Tree-DAG_Node</uri></ti>
-    <ti align="right">1.05</ti>
-    <ti align="right">1.06</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=tree::simple&amp;mode=all">Tree-Simple</uri></ti>
-    <ti align="right">1.17</ti>
-    <ti align="right">1.18</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=unix::syslog&amp;mode=all">Unix-Syslog</uri></ti>
-    <ti align="right">0.100</ti>
-    <ti align="right">1.1</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=validate::net&amp;mode=all">Validate-Net</uri></ti>
-    <ti align="right">0.5</ti>
-    <ti align="right">0.6</ti>
+    <ti><uri link="http://search.cpan.org/search?query=tie::encryptedhash&amp;mode=all">tie-encryptedhash</uri></ti>
+    <ti align="right">1.21</ti>
+    <ti align="right">1.24</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri></ti>
     <ti align="right">0.74</ti>
-    <ti align="right">0.7501</ti>
+    <ti align="right">0.76</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::bugzilla&amp;mode=all">WWW-Bugzilla</uri></ti>
@@ -935,21 +895,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.84</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::encoding&amp;mode=all">XML-Encoding</uri></ti>
-    <ti align="right">2.01</ti>
-    <ti align="right">2.03</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::rss&amp;mode=all">XML-RSS</uri></ti>
-    <ti align="right">1.32</ti>
-    <ti align="right">1.33</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::rss::feed&amp;mode=all">XML-RSS-Feed</uri></ti>
-    <ti align="right">2.212</ti>
-    <ti align="right">2.32</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=yaml::syck&amp;mode=all">YAML-Syck</uri></ti>
     <ti align="right">1.04</ti>
     <ti align="right">1.05</ti>
@@ -957,7 +902,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 181 of 753
+Total packages suspected as outdated: 170 of 753
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.837 2008/07/29 07:18:50 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.838 2008/07/30 05:53:23 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-07-29</date>
+<date>2008-07-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -93,11 +93,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=audio::flac::header&amp;mode=all">Audio-FLAC-Header</uri></ti>
     <ti align="right">2.1</ti>
     <ti align="right">2.2</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=authen::sasl&amp;mode=all">Authen-SASL</uri></ti>
-    <ti align="right">2.10</ti>
-    <ti align="right">2.12</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::keywords&amp;mode=all">B-Keywords</uri></ti>
@@ -200,11 +195,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.571</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=crypt::cracklib&amp;mode=all">Crypt-Cracklib</uri></ti>
-    <ti align="right">1.2</ti>
-    <ti align="right">1.4</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::rsa&amp;mode=all">crypt-rsa</uri></ti>
     <ti align="right">1.58</ti>
     <ti align="right">1.98</ti>
@@ -220,11 +210,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.9605</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=danga::socket&amp;mode=all">Danga-Socket</uri></ti>
-    <ti align="right">1.57</ti>
-    <ti align="right">1.59</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
     <ti align="right">0.75</ti>
     <ti align="right">0.78</ti>
@@ -233,11 +218,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=db_file&amp;mode=all">DB_File</uri> (virtual/perl-DB_File)</ti>
     <ti align="right">1.815</ti>
     <ti align="right">1.817</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
-    <ti align="right">4.005</ti>
-    <ti align="right">4.007</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
@@ -445,11 +425,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.11</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
-    <ti align="right">2.51</ti>
-    <ti align="right">3.06</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::interface&amp;mode=all">IO-Interface</uri></ti>
     <ti align="right">1.03</ti>
     <ti align="right">1.05</ti>
@@ -493,11 +468,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=json::xs&amp;mode=all">JSON-XS</uri></ti>
     <ti align="right">2.2</ti>
     <ti align="right">2.2222</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=libwww::perl&amp;mode=all">libwww-perl</uri></ti>
-    <ti align="right">5.813</ti>
-    <ti align="right">5.814</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=locale::maketext::fuzzy&amp;mode=all">locale-maketext-fuzzy</uri></ti>
@@ -553,11 +523,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri> (virtual/perl-Math-BigInt)</ti>
     <ti align="right">1.87</ti>
     <ti align="right">1.89</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::bigint::fastcalc&amp;mode=all">Math-BigInt-FastCalc</uri></ti>
-    <ti align="right">0.15</ti>
-    <ti align="right">0.19</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::bigrat&amp;mode=all">Math-BigRat</uri></ti>
@@ -735,11 +700,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.06</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=shipit&amp;mode=all">ShipIt</uri></ti>
-    <ti align="right">0.51</ti>
-    <ti align="right">0.52</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=soap::lite&amp;mode=all">SOAP-Lite</uri></ti>
     <ti align="right">0.69</ti>
     <ti align="right">0.71008</ti>
@@ -827,7 +787,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 155 of 753
+Total packages suspected as outdated: 147 of 753
 </p>
 
 </body>

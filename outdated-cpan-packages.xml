@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.841 2008/08/02 09:41:19 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.842 2008/08/03 06:28:37 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-08-02</date>
+<date>2008-08-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -85,19 +85,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.16</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=array::window&amp;mode=all">Array-Window</uri></ti>
-    <ti align="right">1.01</ti>
-    <ti align="right">1.02</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=audio::flac::header&amp;mode=all">Audio-FLAC-Header</uri></ti>
     <ti align="right">2.1</ti>
     <ti align="right">2.2</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=b::keywords&amp;mode=all">B-Keywords</uri></ti>
-    <ti align="right">1.06</ti>
-    <ti align="right">1.08</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=bio::das&amp;mode=all">Bio-Das</uri></ti>
@@ -108,11 +98,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=bsd::resource&amp;mode=all">BSD-Resource</uri></ti>
     <ti align="right">1.28</ti>
     <ti align="right">1.2901</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cache::mmap&amp;mode=all">cache-mmap</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right">0.11</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=calendar::simple&amp;mode=all">Calendar-Simple</uri></ti>
@@ -153,16 +138,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=convert::uulib&amp;mode=all">Convert-UUlib</uri></ti>
     <ti align="right">1.09</ti>
     <ti align="right">1.11</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::checksums&amp;mode=all">CPAN-Checksums</uri></ti>
-    <ti align="right">1.050</ti>
-    <ti align="right">2.00</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
-    <ti align="right">0.562</ti>
-    <ti align="right">0.571</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::rsa&amp;mode=all">crypt-rsa</uri></ti>
@@ -300,11 +275,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.1622</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri></ti>
-    <ti align="right">1.33</ti>
-    <ti align="right">1.34</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::afm&amp;mode=all">Font-AFM</uri></ti>
     <ti align="right">1.19</ti>
     <ti align="right">1.20</ti>
@@ -343,11 +313,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=gnome2::vfs::perl&amp;mode=all">gnome2-vfs-perl</uri></ti>
     <ti align="right">1.061</ti>
     <ti align="right">1.081</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=graphviz&amp;mode=all">GraphViz</uri></ti>
-    <ti align="right">2.02</ti>
-    <ti align="right">2.03</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gssapi&amp;mode=all">GSSAPI</uri></ti>
@@ -615,11 +580,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.003</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=prefork&amp;mode=all">prefork</uri></ti>
-    <ti align="right">1.01</ti>
-    <ti align="right">1.02</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=rpc::xml&amp;mode=all">RPC-XML</uri></ti>
     <ti align="right">0.59</ti>
     <ti align="right">0.60</ti>
@@ -628,16 +588,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=safe&amp;mode=all">Safe</uri> (virtual/perl-Safe)</ti>
     <ti align="right">2.11</ti>
     <ti align="right">2.16</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=scalar::properties&amp;mode=all">Scalar-Properties</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right">0.13</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=set::intspan&amp;mode=all">Set-IntSpan</uri></ti>
-    <ti align="right">1.12</ti>
-    <ti align="right">1.13</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=set::scalar&amp;mode=all">set-scalar</uri></ti>
@@ -690,11 +640,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.11</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::classapi&amp;mode=all">Test-ClassAPI</uri></ti>
-    <ti align="right">1.04</ti>
-    <ti align="right">1.05</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::differences&amp;mode=all">Test-Differences</uri></ti>
     <ti align="right">0.47</ti>
     <ti align="right">0.4801</ti>
@@ -708,16 +653,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=text::template&amp;mode=all">text-template</uri></ti>
     <ti align="right">1.44</ti>
     <ti align="right">1.45</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::wrapper&amp;mode=all">text-wrapper</uri></ti>
-    <ti align="right">1.01</ti>
-    <ti align="right">1.02</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=texttohtml&amp;mode=all">TextToHTML</uri></ti>
-    <ti align="right">2.46</ti>
-    <ti align="right">2.51</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=tie::encryptedhash&amp;mode=all">tie-encryptedhash</uri></ti>
@@ -742,7 +677,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 138 of 761
+Total packages suspected as outdated: 125 of 762
 </p>
 
 </body>

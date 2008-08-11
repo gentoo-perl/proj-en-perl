@@ -32,7 +32,6 @@
 
 <dev role="member">ian</dev>
 <dev role="member">yuval</dev>
-<dev role="member">cab</dev>
 
 <resource link="/proj/en/perl/perl-herd.xml">DRAFT Perl Herd Ebuild guide</resource>
 <resource link="/proj/en/perl/perl-cleaner.xml">DRAFT perl-cleaner guide</resource>

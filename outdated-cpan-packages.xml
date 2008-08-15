@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.846 2008/08/09 07:22:51 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.847 2008/08/15 17:02:57 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-08-09</date>
+<date>2008-08-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -128,11 +128,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=class::makemethods&amp;mode=all">Class-MakeMethods</uri></ti>
     <ti align="right">1.01</ti>
     <ti align="right">1.014</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::member&amp;mode=all">Class-Member</uri></ti>
-    <ti align="right">1.5</ti>
-    <ti align="right">1.6</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::crontab&amp;mode=all">Config-Crontab</uri></ti>
@@ -290,11 +285,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.20</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=font::ttf&amp;mode=all">Font-TTF</uri></ti>
-    <ti align="right">0.43</ti>
-    <ti align="right">0.45</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=fuse&amp;mode=all">Fuse</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right">0.09</ti>
@@ -303,6 +293,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=gd&amp;mode=all">GD</uri></ti>
     <ti align="right">2.35</ti>
     <ti align="right">2.41</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gd::svg&amp;mode=all">GD-SVG</uri></ti>
+    <ti align="right">0.28</ti>
+    <ti align="right">0.31</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=getopt::long&amp;mode=all">Getopt-Long</uri> (virtual/perl-Getopt-Long)</ti>
@@ -360,16 +355,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.01</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
-    <ti align="right">1.26</ti>
-    <ti align="right">1.28</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=imagesize&amp;mode=all">ImageSize</uri></ti>
-    <ti align="right">3.1</ti>
-    <ti align="right">3.11</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">3.06</ti>
     <ti align="right">3.07</ti>
@@ -397,7 +382,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ipc::run3&amp;mode=all">IPC-Run3</uri></ti>
     <ti align="right">0.038</ti>
-    <ti align="right">0.041</ti>
+    <ti align="right">0.042</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ipc::sharelite&amp;mode=all">IPC-ShareLite</uri></ti>
@@ -507,7 +492,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::cups&amp;mode=all">Net-CUPS</uri></ti>
     <ti align="right">0.55</ti>
-    <ti align="right">0.56</ti>
+    <ti align="right">0.57</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::domain::tld&amp;mode=all">Net-Domain-TLD</uri></ti>
@@ -562,7 +547,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
     <ti align="right">0.65</ti>
-    <ti align="right">0.69</ti>
+    <ti align="right">0.71001</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::create&amp;mode=all">PDF-Create</uri></ti>
@@ -627,7 +612,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=spreadsheet::writeexcel&amp;mode=all">Spreadsheet-WriteExcel</uri></ti>
     <ti align="right">2.20</ti>
-    <ti align="right">2.22</ti>
+    <ti align="right">2.23</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sql::abstract&amp;mode=all">SQL-Abstract</uri></ti>
@@ -643,6 +628,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=sys::syslog&amp;mode=all">Sys-Syslog</uri> (virtual/perl-Sys-Syslog)</ti>
     <ti align="right">0.18</ti>
     <ti align="right">0.26</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=template::toolkit&amp;mode=all">Template-Toolkit</uri></ti>
+    <ti align="right">2.19</ti>
+    <ti align="right">2.20</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=term::readline::gnu&amp;mode=all">Term-ReadLine-Gnu</uri></ti>
@@ -697,7 +687,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 129 of 762
+Total packages suspected as outdated: 127 of 762
 </p>
 
 </body>

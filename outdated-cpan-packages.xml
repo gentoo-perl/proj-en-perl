@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.847 2008/08/15 17:02:57 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.848 2008/08/16 05:30:22 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-08-15</date>
+<date>2008-08-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -145,6 +145,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.11</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=crypt::rijndael&amp;mode=all">Crypt-Rijndael</uri></ti>
+    <ti align="right">1.06</ti>
+    <ti align="right">1.07</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::rsa&amp;mode=all">crypt-rsa</uri></ti>
     <ti align="right">1.58</ti>
     <ti align="right">1.98</ti>
@@ -168,6 +173,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=db_file&amp;mode=all">DB_File</uri> (virtual/perl-DB_File)</ti>
     <ti align="right">1.815</ti>
     <ti align="right">1.817</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
+    <ti align="right">4.007</ti>
+    <ti align="right">4.008</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
@@ -687,7 +697,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 127 of 762
+Total packages suspected as outdated: 129 of 762
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.856 2008/09/02 08:46:27 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.857 2008/09/03 14:22:32 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-09-02</date>
+<date>2008-09-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -118,6 +118,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=class::makemethods&amp;mode=all">Class-MakeMethods</uri></ti>
     <ti align="right">1.01</ti>
     <ti align="right">1.014</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=compress::raw::zlib&amp;mode=all">Compress-Raw-Zlib</uri></ti>
+    <ti align="right">2.012</ti>
+    <ti align="right">2.014</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=compress::zlib&amp;mode=all">Compress-Zlib</uri></ti>
+    <ti align="right">2.012</ti>
+    <ti align="right">2.014</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::crontab&amp;mode=all">Config-Crontab</uri></ti>
@@ -310,6 +320,16 @@ will curb some of the bugs to boot).
     <ti align="right">3.07</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::compress::base&amp;mode=all">IO-Compress-Base</uri></ti>
+    <ti align="right">2.012</ti>
+    <ti align="right">2.014</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::compress::zlib&amp;mode=all">IO-Compress-Zlib</uri></ti>
+    <ti align="right">2.012</ti>
+    <ti align="right">2.014</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::interface&amp;mode=all">IO-Interface</uri></ti>
     <ti align="right">1.03</ti>
     <ti align="right">1.05</ti>
@@ -500,6 +520,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
+    <ti align="right">1.090</ti>
+    <ti align="right">1.092</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=perl::ldap&amp;mode=all">perl-ldap</uri></ti>
     <ti align="right">0.34</ti>
     <ti align="right">0.37</ti>
@@ -607,7 +632,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 111 of 767
+Total packages suspected as outdated: 116 of 767
 </p>
 
 </body>

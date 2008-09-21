@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.873 2008/09/20 06:33:06 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.874 2008/09/21 04:18:01 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-09-20</date>
+<date>2008-09-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -170,16 +170,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.424</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=event::rpc&amp;mode=all">Event-RPC</uri></ti>
-    <ti align="right">0.90</ti>
-    <ti align="right">1.00</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::homedir&amp;mode=all">File-HomeDir</uri></ti>
-    <ti align="right">0.69</ti>
-    <ti align="right">0.80</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::afm&amp;mode=all">Font-AFM</uri></ti>
     <ti align="right">1.19</ti>
     <ti align="right">1.20</ti>
@@ -188,6 +178,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=fuse&amp;mode=all">Fuse</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right">0.09</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=glib::perl&amp;mode=all">glib-perl</uri></ti>
+    <ti align="right">1.183</ti>
+    <ti align="right">1.200</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gnome2::gconf&amp;mode=all">gnome2-gconf</uri></ti>
@@ -215,6 +210,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.08</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
+    <ti align="right">1.183</ti>
+    <ti align="right">1.200</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::sexy&amp;mode=all">Gtk2-Sexy</uri></ti>
     <ti align="right">0.02</ti>
     <ti align="right">0.04</ti>
@@ -233,11 +233,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=io::socket::inet6&amp;mode=all">IO-Socket-INET6</uri></ti>
     <ti align="right">2.51</ti>
     <ti align="right">2.54</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
-    <ti align="right">1.15</ti>
-    <ti align="right">1.16</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ip::country&amp;mode=all">IP-Country</uri></ti>
@@ -300,11 +295,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.021</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::pluggable&amp;mode=all">Module-Pluggable</uri></ti>
-    <ti align="right">3.6</ti>
-    <ti align="right">3.8</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::server&amp;mode=all">mogilefs-server</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">2.20</ti>
@@ -360,11 +350,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.7</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=par::dist&amp;mode=all">PAR-Dist</uri></ti>
-    <ti align="right">0.31</ti>
-    <ti align="right">0.33</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
     <ti align="right">0.65</ti>
     <ti align="right">0.71001</ti>
@@ -395,11 +380,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.71</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perlio::via::dynamic&amp;mode=all">PerlIO-via-dynamic</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right">0.13</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=php::serialization&amp;mode=all">PHP-Serialization</uri></ti>
     <ti align="right">0.28</ti>
     <ti align="right">0.29</ti>
@@ -413,11 +393,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
     <ti align="right">0.9989</ti>
     <ti align="right">1.003</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=rpc::xml&amp;mode=all">RPC-XML</uri></ti>
-    <ti align="right">0.61</ti>
-    <ti align="right">0.63</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe&amp;mode=all">Safe</uri> (virtual/perl-Safe)</ti>
@@ -477,7 +452,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 85 of 774
+Total packages suspected as outdated: 80 of 774
 </p>
 
 </body>

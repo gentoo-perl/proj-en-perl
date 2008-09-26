@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.877 2008/09/25 17:02:15 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.878 2008/09/26 06:00:02 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-09-25</date>
+<date>2008-09-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -200,6 +200,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.40</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=http::server::simple&amp;mode=all">HTTP-Server-Simple</uri></ti>
+    <ti align="right">0.34</ti>
+    <ti align="right">0.35</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">3.06</ti>
     <ti align="right">3.07</ti>
@@ -273,6 +278,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=mime::lite&amp;mode=all">MIME-Lite</uri></ti>
     <ti align="right">3.01</ti>
     <ti align="right">3.021</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">module-build</uri></ti>
+    <ti align="right">0.2808</ti>
+    <ti align="right">0.30</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::server&amp;mode=all">mogilefs-server</uri></ti>
@@ -447,7 +457,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 79 of 774
+Total packages suspected as outdated: 81 of 774
 </p>
 
 </body>

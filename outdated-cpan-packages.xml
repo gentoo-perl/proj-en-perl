@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.879 2008/09/29 05:27:34 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.880 2008/09/30 05:18:03 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-09-29</date>
+<date>2008-09-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -210,6 +210,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.35</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
+    <ti align="right">0.22</ti>
+    <ti align="right">0.23</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">3.06</ti>
     <ti align="right">3.07</ti>
@@ -230,9 +235,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.13</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=json::xs&amp;mode=all">JSON-XS</uri></ti>
+    <ti align="right">2.2222</ti>
+    <ti align="right">2.23</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=libwww::perl&amp;mode=all">libwww-perl</uri></ti>
     <ti align="right">5.814</ti>
-    <ti align="right">5.815</ti>
+    <ti align="right">5.816</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=locale::maketext::fuzzy&amp;mode=all">locale-maketext-fuzzy</uri></ti>
@@ -325,6 +335,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.35</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::z3950::zoom&amp;mode=all">Net-Z3950-ZOOM</uri></ti>
+    <ti align="right">1.24</ti>
+    <ti align="right">1.25</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=news::newsrc&amp;mode=all">News-Newsrc</uri></ti>
     <ti align="right">1.08</ti>
     <ti align="right">1.09</ti>
@@ -343,11 +358,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=padwalker&amp;mode=all">PadWalker</uri></ti>
     <ti align="right">1.5</ti>
     <ti align="right">1.7</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=par::dist&amp;mode=all">PAR-Dist</uri></ti>
-    <ti align="right">0.33</ti>
-    <ti align="right">0.34</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
@@ -393,6 +403,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
     <ti align="right">0.9989</ti>
     <ti align="right">1.003</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=rpc::xml&amp;mode=all">RPC-XML</uri></ti>
+    <ti align="right">0.63</ti>
+    <ti align="right">0.64</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe&amp;mode=all">Safe</uri> (virtual/perl-Safe)</ti>
@@ -462,7 +477,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 82 of 774
+Total packages suspected as outdated: 85 of 781
 </p>
 
 </body>

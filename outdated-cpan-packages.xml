@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.881 2008/10/01 06:14:10 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.882 2008/10/02 04:57:04 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-10-01</date>
+<date>2008-10-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -178,6 +178,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=fuse&amp;mode=all">Fuse</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right">0.09</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gd::svg&amp;mode=all">GD-SVG</uri></ti>
+    <ti align="right">0.31</ti>
+    <ti align="right">0.32</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=geo::ip&amp;mode=all">Geo-IP</uri></ti>
@@ -380,6 +385,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.24</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sys::statistics::linux&amp;mode=all">Sys-Statistics-Linux</uri></ti>
+    <ti align="right">0.40</ti>
+    <ti align="right">0.41</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sys::syslog&amp;mode=all">Sys-Syslog</uri> (virtual/perl-Sys-Syslog)</ti>
     <ti align="right">0.26</ti>
     <ti align="right">0.27</ti>
@@ -407,7 +417,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 71 of 782
+Total packages suspected as outdated: 73 of 782
 </p>
 
 </body>

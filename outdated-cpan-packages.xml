@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.885 2008/10/03 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.886 2008/10/05 08:28:03 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-10-03</date>
+<date>2008-10-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,6 +53,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
     <ti align="right">0.34</ti>
     <ti align="right">0.39</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
+    <ti align="right">4.234</ti>
+    <ti align="right">4.3</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authcookie&amp;mode=all">Apache-AuthCookie</uri></ti>
@@ -110,6 +115,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.9605</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
+    <ti align="right">0.4304</ti>
+    <ti align="right">0.4305</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=db_file&amp;mode=all">DB_File</uri> (virtual/perl-DB_File)</ti>
     <ti align="right">1.815</ti>
     <ti align="right">1.817</ti>
@@ -150,6 +160,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::messageid&amp;mode=all">Email-MessageID</uri></ti>
+    <ti align="right">1.351</ti>
+    <ti align="right">1.400</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::afm&amp;mode=all">Font-AFM</uri></ti>
     <ti align="right">1.19</ti>
     <ti align="right">1.20</ti>
@@ -163,6 +178,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=gssapi&amp;mode=all">GSSAPI</uri></ti>
     <ti align="right">0.24</ti>
     <ti align="right">0.26</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gtk2::ex::podviewer&amp;mode=all">Gtk2-Ex-PodViewer</uri></ti>
+    <ti align="right">0.17</ti>
+    <ti align="right">0.18</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::mozembed&amp;mode=all">Gtk2-MozEmbed</uri></ti>
@@ -187,7 +207,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
     <ti align="right">0.22</ti>
-    <ti align="right">0.23</ti>
+    <ti align="right">0.25</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
+    <ti align="right">3.07</ti>
+    <ti align="right">3.1</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::socket::inet6&amp;mode=all">IO-Socket-INET6</uri></ti>
@@ -207,7 +232,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=locale::maketext::lexicon&amp;mode=all">locale-maketext-lexicon</uri></ti>
     <ti align="right">0.64</ti>
-    <ti align="right">0.68</ti>
+    <ti align="right">0.71</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=log::dispatch&amp;mode=all">log-dispatch</uri></ti>
@@ -263,6 +288,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=net::ping&amp;mode=all">net-ping</uri> (virtual/perl-net-ping)</ti>
     <ti align="right">2.31</ti>
     <ti align="right">2.35</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::ssh::perl&amp;mode=all">net-ssh-perl</uri></ti>
+    <ti align="right">1.30</ti>
+    <ti align="right">1.31</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=news::newsrc&amp;mode=all">News-Newsrc</uri></ti>
@@ -382,7 +412,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 66 of 782
+Total packages suspected as outdated: 72 of 782
 </p>
 
 </body>

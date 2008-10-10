@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.894 2008/10/09 17:52:18 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.895 2008/10/10 01:52:18 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-10-09</date>
+<date>2008-10-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -155,6 +155,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.400</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::copy::recursive&amp;mode=all">File-Copy-Recursive</uri></ti>
+    <ti align="right">0.36</ti>
+    <ti align="right">0.37</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::afm&amp;mode=all">Font-AFM</uri></ti>
     <ti align="right">1.19</ti>
     <ti align="right">1.20</ti>
@@ -223,11 +228,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=mail::dkim&amp;mode=all">Mail-DKIM</uri></ti>
     <ti align="right">0.31</ti>
     <ti align="right">0.32</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mail::imapclient&amp;mode=all">Mail-IMAPClient</uri></ti>
-    <ti align="right">3.10</ti>
-    <ti align="right">3.11</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::pop3client&amp;mode=all">Mail-POP3Client</uri></ti>
@@ -330,11 +330,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.16</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=schedule::at&amp;mode=all">Schedule-At</uri></ti>
-    <ti align="right">1.07</ti>
-    <ti align="right">1.08</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=shell::envimporter&amp;mode=all">Shell-EnvImporter</uri></ti>
     <ti align="right">1.04</ti>
     <ti align="right">1.06</ti>
@@ -387,7 +382,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 67 of 782
+Total packages suspected as outdated: 66 of 782
 </p>
 
 </body>

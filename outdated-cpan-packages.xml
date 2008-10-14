@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.902 2008/10/13 17:52:41 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.903 2008/10/14 09:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-10-13</date>
+<date>2008-10-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -137,7 +137,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
     <ti align="right">1.49</ti>
-    <ti align="right">2.110</ti>
+    <ti align="right">2.111</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbi&amp;mode=all">DBI</uri></ti>
@@ -178,6 +178,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=file::copy::recursive&amp;mode=all">File-Copy-Recursive</uri></ti>
     <ti align="right">0.36</ti>
     <ti align="right">0.37</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::homedir&amp;mode=all">File-HomeDir</uri></ti>
+    <ti align="right">0.81</ti>
+    <ti align="right">0.82</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::afm&amp;mode=all">Font-AFM</uri></ti>
@@ -287,7 +292,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::openid::consumer&amp;mode=all">Net-OpenID-Consumer</uri></ti>
     <ti align="right">0.14</ti>
-    <ti align="right">1.01</ti>
+    <ti align="right">1.02</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::pcap&amp;mode=all">Net-Pcap</uri></ti>
@@ -402,7 +407,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 70 of 782
+Total packages suspected as outdated: 71 of 782
 </p>
 
 </body>

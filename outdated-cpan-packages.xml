@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.907 2008/10/16 09:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.908 2008/10/16 17:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -250,6 +250,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.13</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=libwww::perl&amp;mode=all">libwww-perl</uri></ti>
+    <ti align="right">5.817</ti>
+    <ti align="right">5.818</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=linux::inotify2&amp;mode=all">Linux-Inotify2</uri></ti>
     <ti align="right">1.1</ti>
     <ti align="right">1.2</ti>
@@ -307,7 +312,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::ssh::perl&amp;mode=all">net-ssh-perl</uri></ti>
     <ti align="right">1.30</ti>
-    <ti align="right">1.31</ti>
+    <ti align="right">1.32</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=news::newsrc&amp;mode=all">News-Newsrc</uri></ti>
@@ -323,6 +328,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=ole::storagelite&amp;mode=all">OLE-StorageLite</uri></ti>
     <ti align="right">0.14</ti>
     <ti align="right">0.17</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=par::dist&amp;mode=all">PAR-Dist</uri></ti>
+    <ti align="right">0.37</ti>
+    <ti align="right">0.38</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
@@ -427,7 +437,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 75 of 782
+Total packages suspected as outdated: 77 of 782
 </p>
 
 </body>

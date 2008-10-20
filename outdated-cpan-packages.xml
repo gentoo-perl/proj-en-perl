@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.911 2008/10/20 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.912 2008/10/20 17:52:45 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -70,11 +70,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.02</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=archive::tar&amp;mode=all">Archive-Tar</uri></ti>
-    <ti align="right">1.38</ti>
-    <ti align="right">1.40</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::zip&amp;mode=all">Archive-Zip</uri></ti>
     <ti align="right">1.25</ti>
     <ti align="right">1.26</ti>
@@ -123,11 +118,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=curses::ui&amp;mode=all">Curses-UI</uri></ti>
     <ti align="right">0.95</ti>
     <ti align="right">0.9605</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">0.80</ti>
-    <ti align="right">0.82</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=db_file&amp;mode=all">DB_File</uri> (virtual/perl-DB_File)</ti>
@@ -188,11 +178,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=file::homedir&amp;mode=all">File-HomeDir</uri></ti>
     <ti align="right">0.81</ti>
     <ti align="right">0.82</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=finance::quote&amp;mode=all">Finance-Quote</uri></ti>
-    <ti align="right">1.13</ti>
-    <ti align="right">1.14</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::afm&amp;mode=all">Font-AFM</uri></ti>
@@ -258,11 +243,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=ipc::sharelite&amp;mode=all">IPC-ShareLite</uri></ti>
     <ti align="right">0.09</ti>
     <ti align="right">0.13</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=libwww::perl&amp;mode=all">libwww-perl</uri></ti>
-    <ti align="right">5.817</ti>
-    <ti align="right">5.818</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=linux::inotify2&amp;mode=all">Linux-Inotify2</uri></ti>
@@ -444,15 +424,10 @@ will curb some of the bugs to boot).
     <ti align="right">0.82</ti>
     <ti align="right">0.86</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::feed&amp;mode=all">XML-Feed</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right">0.21</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 80 of 782
+Total packages suspected as outdated: 75 of 785
 </p>
 
 </body>

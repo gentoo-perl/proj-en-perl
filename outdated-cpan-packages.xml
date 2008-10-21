@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.913 2008/10/21 01:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.914 2008/10/21 09:52:18 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -265,6 +265,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.16</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::rawip&amp;mode=all">Net-RawIP</uri></ti>
+    <ti align="right">0.23</ti>
+    <ti align="right">0.24</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::ssh::perl&amp;mode=all">net-ssh-perl</uri></ti>
     <ti align="right">1.30</ti>
     <ti align="right">1.32</ti>
@@ -288,6 +293,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=ole::storagelite&amp;mode=all">OLE-StorageLite</uri></ti>
     <ti align="right">0.14</ti>
     <ti align="right">0.17</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=par::dist&amp;mode=all">PAR-Dist</uri></ti>
+    <ti align="right">0.38</ti>
+    <ti align="right">0.39</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
@@ -377,7 +387,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 65 of 785
+Total packages suspected as outdated: 67 of 785
 </p>
 
 </body>

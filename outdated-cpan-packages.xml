@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.916 2008/10/22 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.917 2008/10/22 09:52:18 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -70,11 +70,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.02</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=authen::htpasswd&amp;mode=all">Authen-Htpasswd</uri></ti>
-    <ti align="right">0.16</ti>
-    <ti align="right">0.161</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=bio::das&amp;mode=all">Bio-Das</uri></ti>
     <ti align="right">1.03</ti>
     <ti align="right">1.09</ti>
@@ -95,11 +90,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.014</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=convert::uulib&amp;mode=all">Convert-UUlib</uri></ti>
-    <ti align="right">1.11</ti>
-    <ti align="right">1.12</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::rsa&amp;mode=all">crypt-rsa</uri></ti>
     <ti align="right">1.58</ti>
     <ti align="right">1.98</ti>
@@ -118,6 +108,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=db_file&amp;mode=all">DB_File</uri> (virtual/perl-DB_File)</ti>
     <ti align="right">1.815</ti>
     <ti align="right">1.817</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
+    <ti align="right">4.008</ti>
+    <ti align="right">4.009</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
@@ -158,6 +153,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=email::messageid&amp;mode=all">Email-MessageID</uri></ti>
     <ti align="right">1.351</ti>
     <ti align="right">1.400</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=exception::class&amp;mode=all">Exception-Class</uri></ti>
+    <ti align="right">1.24</ti>
+    <ti align="right">1.25</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::afm&amp;mode=all">Font-AFM</uri></ti>
@@ -230,11 +230,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.32</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mail::pop3client&amp;mode=all">Mail-POP3Client</uri></ti>
-    <ti align="right">2.17</ti>
-    <ti align="right">2.18</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mailtools&amp;mode=all">MailTools</uri></ti>
     <ti align="right">1.77</ti>
     <ti align="right">2.04</ti>
@@ -250,19 +245,9 @@ will curb some of the bugs to boot).
     <ti align="right">3.021</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::versions::report&amp;mode=all">Module-Versions-Report</uri></ti>
-    <ti align="right">1.05</ti>
-    <ti align="right">1.06</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::amazon&amp;mode=all">Net-Amazon</uri></ti>
     <ti align="right">0.49</ti>
     <ti align="right">0.50</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::openid::consumer&amp;mode=all">Net-OpenID-Consumer</uri></ti>
-    <ti align="right">0.14</ti>
-    <ti align="right">1.02</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::pcap&amp;mode=all">Net-Pcap</uri></ti>
@@ -387,7 +372,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 67 of 785
+Total packages suspected as outdated: 64 of 785
 </p>
 
 </body>

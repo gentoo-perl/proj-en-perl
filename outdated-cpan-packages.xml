@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.925 2008/10/26 09:52:45 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.926 2008/10/26 17:52:18 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -95,11 +95,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.014</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::mini::inject&amp;mode=all">CPAN-Mini-Inject</uri></ti>
-    <ti align="right">0.18</ti>
-    <ti align="right">0.23</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::rsa&amp;mode=all">crypt-rsa</uri></ti>
     <ti align="right">1.58</ti>
     <ti align="right">1.98</ti>
@@ -165,9 +160,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.400</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=finance::quote&amp;mode=all">Finance-Quote</uri></ti>
-    <ti align="right">1.14</ti>
-    <ti align="right">1.15</ti>
+    <ti><uri link="http://search.cpan.org/search?query=event::rpc&amp;mode=all">Event-RPC</uri></ti>
+    <ti align="right">1.00</ti>
+    <ti align="right">1.01</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::afm&amp;mode=all">Font-AFM</uri></ti>
@@ -347,7 +342,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 59 of 785
+Total packages suspected as outdated: 58 of 785
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.933 2008/10/29 09:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.934 2008/10/30 01:52:34 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-10-29</date>
+<date>2008-10-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -160,6 +160,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.400</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::spec&amp;mode=all">File-Spec</uri> (virtual/perl-File-Spec)</ti>
+    <ti align="right">3.2701</ti>
+    <ti align="right">3.29</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::afm&amp;mode=all">Font-AFM</uri></ti>
     <ti align="right">1.19</ti>
     <ti align="right">1.20</ti>
@@ -238,6 +243,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=net::pcap&amp;mode=all">Net-Pcap</uri></ti>
     <ti align="right">0.14</ti>
     <ti align="right">0.16</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::rawip&amp;mode=all">Net-RawIP</uri></ti>
+    <ti align="right">0.24</ti>
+    <ti align="right">0.25</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::ssh::perl&amp;mode=all">net-ssh-perl</uri></ti>
@@ -320,6 +330,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.24</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sys::statistics::linux&amp;mode=all">Sys-Statistics-Linux</uri></ti>
+    <ti align="right">0.42</ti>
+    <ti align="right">0.43</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::differences&amp;mode=all">Test-Differences</uri></ti>
     <ti align="right">0.47</ti>
     <ti align="right">0.4801</ti>
@@ -337,7 +352,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 57 of 786
+Total packages suspected as outdated: 60 of 786
 </p>
 
 </body>

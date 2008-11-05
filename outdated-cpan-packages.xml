@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.946 2008/11/04 17:52:37 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.947 2008/11/05 01:52:45 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-11-04</date>
+<date>2008-11-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -98,6 +98,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=class::makemethods&amp;mode=all">Class-MakeMethods</uri></ti>
     <ti align="right">1.01</ti>
     <ti align="right">1.014</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
+    <ti align="right">0.571</ti>
+    <ti align="right">0.572</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::rsa&amp;mode=all">crypt-rsa</uri></ti>
@@ -360,6 +365,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.86</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::feed&amp;mode=all">XML-Feed</uri></ti>
+    <ti align="right">0.23</ti>
+    <ti align="right">0.3</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::libxml&amp;mode=all">XML-LibXML</uri></ti>
     <ti align="right">1.66</ti>
     <ti align="right">1.67</ti>
@@ -372,7 +382,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 64 of 786
+Total packages suspected as outdated: 66 of 786
 </p>
 
 </body>

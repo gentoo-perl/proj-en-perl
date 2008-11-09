@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.953 2008/11/08 09:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.954 2008/11/09 01:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-11-08</date>
+<date>2008-11-09</date>
 
 <chapter>
 <title>Intro</title>
@@ -73,6 +73,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=archive::rar&amp;mode=all">Archive-Rar</uri></ti>
     <ti align="right">1.93</ti>
     <ti align="right">2.02</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=audio::flac::header&amp;mode=all">Audio-FLAC-Header</uri></ti>
+    <ti align="right">2.2</ti>
+    <ti align="right">2.3</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=bio::das&amp;mode=all">Bio-Das</uri></ti>
@@ -397,7 +402,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 69 of 786
+Total packages suspected as outdated: 70 of 786
 </p>
 
 </body>

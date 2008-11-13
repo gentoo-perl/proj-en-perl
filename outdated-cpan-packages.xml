@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.962 2008/11/12 17:52:18 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.963 2008/11/13 01:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-11-12</date>
+<date>2008-11-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -152,7 +152,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
     <ti align="right">1.49</ti>
-    <ti align="right">2.113</ti>
+    <ti align="right">2.114</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbi&amp;mode=all">DBI</uri></ti>
@@ -415,6 +415,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.88</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::atom&amp;mode=all">XML-Atom</uri></ti>
+    <ti align="right">0.29</ti>
+    <ti align="right">0.30</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::feed&amp;mode=all">XML-Feed</uri></ti>
     <ti align="right">0.23</ti>
     <ti align="right">0.3</ti>
@@ -432,7 +437,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 76 of 786
+Total packages suspected as outdated: 77 of 786
 </p>
 
 </body>

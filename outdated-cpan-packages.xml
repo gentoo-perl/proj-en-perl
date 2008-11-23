@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.981 2008/11/22 17:52:18 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.982 2008/11/23 01:52:22 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-11-22</date>
+<date>2008-11-23</date>
 
 <chapter>
 <title>Intro</title>
@@ -245,6 +245,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.2</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=locale::maketext::lexicon&amp;mode=all">locale-maketext-lexicon</uri></ti>
+    <ti align="right">0.73</ti>
+    <ti align="right">0.74</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::pari&amp;mode=all">math-pari</uri></ti>
     <ti align="right">2.010709</ti>
     <ti align="right">2.010800</ti>
@@ -372,7 +377,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 64 of 781
+Total packages suspected as outdated: 65 of 781
 </p>
 
 </body>

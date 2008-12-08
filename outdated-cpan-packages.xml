@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1004 2008/12/08 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1005 2008/12/08 02:45:47 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,21 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.42</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
-    <ti align="right">4.32</ti>
-    <ti align="right">4.33</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=apache::authcookie&amp;mode=all">Apache-AuthCookie</uri></ti>
-    <ti align="right">3.10</ti>
-    <ti align="right">3.12</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=apache::session&amp;mode=all">Apache-Session</uri></ti>
-    <ti align="right">1.83</ti>
-    <ti align="right">1.87</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::rar&amp;mode=all">Archive-Rar</uri></ti>
     <ti align="right">1.93</ti>
     <ti align="right">2.02</ti>
@@ -85,11 +70,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.2901</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi::session&amp;mode=all">CGI-Session</uri></ti>
-    <ti align="right">4.36</ti>
-    <ti align="right">4.38</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
@@ -100,34 +80,14 @@ will curb some of the bugs to boot).
     <ti align="right">1.014</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::methodmaker&amp;mode=all">Class-MethodMaker</uri></ti>
-    <ti align="right">2.12</ti>
-    <ti align="right">2.13</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
     <ti align="right">0.571</ti>
     <ti align="right">0.574</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=crypt::rsa&amp;mode=all">crypt-rsa</uri></ti>
-    <ti align="right">1.58</ti>
-    <ti align="right">1.98</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=curses&amp;mode=all">Curses</uri></ti>
-    <ti align="right">1.15</ti>
-    <ti align="right">1.24</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=curses::ui&amp;mode=all">Curses-UI</uri></ti>
     <ti align="right">0.95</ti>
     <ti align="right">0.9605</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::uuid&amp;mode=all">Data-UUID</uri></ti>
-    <ti align="right">1.148</ti>
-    <ti align="right">1.149</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
@@ -145,29 +105,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.817</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
-    <ti align="right">4.008</ti>
-    <ti align="right">4.010</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
     <ti align="right">1.49</ti>
     <ti align="right">2.116</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbi::shell&amp;mode=all">DBI-Shell</uri></ti>
-    <ti align="right">11.93</ti>
-    <ti align="right">11.95</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbix::dbschema&amp;mode=all">DBIx-DBSchema</uri></ti>
-    <ti align="right">0.33</ti>
-    <ti align="right">0.36</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dcop&amp;mode=all">DCOP</uri></ti>
-    <ti align="right">0.037</ti>
-    <ti align="right">0.038</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dcop::amarok&amp;mode=all">DCOP-Amarok</uri></ti>
@@ -178,31 +118,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=dcop::amarok::player&amp;mode=all">DCOP-Amarok-Player</uri></ti>
     <ti align="right">0.036</ti>
     <ti align="right">0.037</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::messageid&amp;mode=all">Email-MessageID</uri></ti>
-    <ti align="right">1.351</ti>
-    <ti align="right">1.400</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::copy::recursive&amp;mode=all">File-Copy-Recursive</uri></ti>
-    <ti align="right">0.37</ti>
-    <ti align="right">0.38</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=font::afm&amp;mode=all">Font-AFM</uri></ti>
-    <ti align="right">1.19</ti>
-    <ti align="right">1.20</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=fuse&amp;mode=all">Fuse</uri></ti>
-    <ti align="right">0.08</ti>
-    <ti align="right">0.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=graph&amp;mode=all">Graph</uri></ti>
-    <ti align="right">0.84</ti>
-    <ti align="right">0.86</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gssapi&amp;mode=all">GSSAPI</uri></ti>
@@ -225,39 +140,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.04</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=hook::lexwrap&amp;mode=all">Hook-LexWrap</uri></ti>
-    <ti align="right">0.20</ti>
-    <ti align="right">0.21</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::mason&amp;mode=all">HTML-Mason</uri></ti>
-    <ti align="right">1.37</ti>
-    <ti align="right">1.40</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=http::server::simple::mason&amp;mode=all">HTTP-Server-Simple-Mason</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right">0.11</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=image::imlib2&amp;mode=all">Image-Imlib2</uri></ti>
-    <ti align="right">2.01</ti>
-    <ti align="right">2.02</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline&amp;mode=all">Inline</uri></ti>
     <ti align="right">0.44</ti>
     <ti align="right">0.45</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::socket::inet6&amp;mode=all">IO-Socket-INET6</uri></ti>
-    <ti align="right">2.51</ti>
-    <ti align="right">2.56</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=libwww::perl&amp;mode=all">libwww-perl</uri></ti>
-    <ti align="right">5.821</ti>
-    <ti align="right">5.822</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=linux::inotify2&amp;mode=all">Linux-Inotify2</uri></ti>
@@ -265,54 +150,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.2</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::pari&amp;mode=all">math-pari</uri></ti>
-    <ti align="right">2.010709</ti>
-    <ti align="right">2.010800</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mime::types&amp;mode=all">MIME-Types</uri></ti>
-    <ti align="right">1.24</ti>
-    <ti align="right">1.25</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::amazon::s3&amp;mode=all">Net-Amazon-S3</uri></ti>
-    <ti align="right">0.45</ti>
-    <ti align="right">0.48</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::openid::consumer&amp;mode=all">Net-OpenID-Consumer</uri></ti>
-    <ti align="right">1.02</ti>
-    <ti align="right">1.03</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::pcap&amp;mode=all">Net-Pcap</uri></ti>
-    <ti align="right">0.14</ti>
-    <ti align="right">0.16</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::rawip&amp;mode=all">Net-RawIP</uri></ti>
-    <ti align="right">0.24</ti>
-    <ti align="right">0.25</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::ssh::perl&amp;mode=all">net-ssh-perl</uri></ti>
-    <ti align="right">1.30</ti>
-    <ti align="right">1.33</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=news::newsrc&amp;mode=all">News-Newsrc</uri></ti>
-    <ti align="right">1.08</ti>
-    <ti align="right">1.09</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=nmap::parser&amp;mode=all">Nmap-Parser</uri></ti>
     <ti align="right">1.16</ti>
     <ti align="right">1.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=number::format&amp;mode=all">Number-Format</uri></ti>
-    <ti align="right">1.52</ti>
-    <ti align="right">1.60</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
@@ -340,11 +180,6 @@ will curb some of the bugs to boot).
     <ti align="right">804.028</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=php::serialization&amp;mode=all">PHP-Serialization</uri></ti>
-    <ti align="right">0.28</ti>
-    <ti align="right">0.29</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
     <ti align="right">0.9989</ti>
     <ti align="right">1.003</ti>
@@ -368,11 +203,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=socket6&amp;mode=all">Socket6</uri></ti>
     <ti align="right">0.22</ti>
     <ti align="right">0.23</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sql::abstract&amp;mode=all">SQL-Abstract</uri></ti>
-    <ti align="right">1.22</ti>
-    <ti align="right">1.24</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::base&amp;mode=all">Test-Base</uri></ti>
@@ -422,7 +252,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 74 of 781
+Total packages suspected as outdated: 40 of 781
 </p>
 
 </body>

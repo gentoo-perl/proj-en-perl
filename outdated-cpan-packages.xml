@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1003 2008/12/07 09:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1004 2008/12/08 01:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2008-12-07</date>
+<date>2008-12-08</date>
 
 <chapter>
 <title>Intro</title>
@@ -123,11 +123,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=curses::ui&amp;mode=all">Curses-UI</uri></ti>
     <ti align="right">0.95</ti>
     <ti align="right">0.9605</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=danga::socket&amp;mode=all">Danga-Socket</uri></ti>
-    <ti align="right">1.59</ti>
-    <ti align="right">1.61</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::uuid&amp;mode=all">Data-UUID</uri></ti>
@@ -253,11 +248,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=inline&amp;mode=all">Inline</uri></ti>
     <ti align="right">0.44</ti>
     <ti align="right">0.45</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
-    <ti align="right">3.07</ti>
-    <ti align="right">3.17</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::socket::inet6&amp;mode=all">IO-Socket-INET6</uri></ti>
@@ -432,7 +422,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 76 of 781
+Total packages suspected as outdated: 74 of 781
 </p>
 
 </body>

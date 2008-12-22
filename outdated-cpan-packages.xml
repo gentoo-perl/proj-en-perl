@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1034 2008/12/22 01:52:34 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1035 2008/12/22 17:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -130,6 +130,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.08</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gtk2::sexy&amp;mode=all">Gtk2-Sexy</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right">0.05</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">Module-Build</uri> (virtual/perl-Module-Build)</ti>
     <ti align="right">0.30</ti>
     <ti align="right">0.31</ti>
@@ -157,7 +162,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sql::abstract::limit&amp;mode=all">SQL-Abstract-Limit</uri></ti>
     <ti align="right">0.12</ti>
-    <ti align="right">0.13</ti>
+    <ti align="right">0.14</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::bugzilla&amp;mode=all">WWW-Bugzilla</uri></ti>
@@ -172,7 +177,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 786
+Total packages suspected as outdated: 25 of 786
 </p>
 
 </body>

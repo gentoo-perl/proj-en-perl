@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1054 2009/01/01 17:52:54 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1055 2009/01/02 01:53:05 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-01-01</date>
+<date>2009-01-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=ip::country&amp;mode=all">IP-Country</uri></ti>
+    <ti align="right">2.25</ti>
+    <ti align="right">2.26</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
     <ti align="right">0.65</ti>
     <ti align="right">0.72003</ti>
@@ -83,6 +88,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=pdf::create&amp;mode=all">PDF-Create</uri></ti>
     <ti align="right">0.061</ti>
     <ti align="right">1.02</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
+    <ti align="right">1.092</ti>
+    <ti align="right">1.094</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=spreadsheet::parseexcel&amp;mode=all">Spreadsheet-ParseExcel</uri></ti>
+    <ti align="right">0.33</ti>
+    <ti align="right">0.42</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::bugzilla&amp;mode=all">WWW-Bugzilla</uri></ti>
@@ -97,7 +112,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 9 of 792
+Total packages suspected as outdated: 12 of 792
 </p>
 
 </body>

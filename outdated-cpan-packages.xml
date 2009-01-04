@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1060 2009/01/03 17:53:11 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1061 2009/01/04 17:53:02 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-01-03</date>
+<date>2009-01-04</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi::session&amp;mode=all">CGI-Session</uri></ti>
-    <ti align="right">4.39</ti>
-    <ti align="right">4.40</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
@@ -85,24 +80,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::send&amp;mode=all">Email-Send</uri></ti>
-    <ti align="right">2.193</ti>
-    <ti align="right">2.194</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=http::server::simple&amp;mode=all">HTTP-Server-Simple</uri></ti>
-    <ti align="right">0.36</ti>
-    <ti align="right">0.37</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=ip::country&amp;mode=all">IP-Country</uri></ti>
     <ti align="right">2.25</ti>
     <ti align="right">2.26</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=par::dist&amp;mode=all">PAR-Dist</uri></ti>
-    <ti align="right">0.41</ti>
-    <ti align="right">0.42</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
@@ -124,15 +104,10 @@ will curb some of the bugs to boot).
     <ti align="right">0.82</ti>
     <ti align="right">0.89</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::rss&amp;mode=all">XML-RSS</uri></ti>
-    <ti align="right">1.41</ti>
-    <ti align="right">1.42</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 793
+Total packages suspected as outdated: 11 of 793
 </p>
 
 </body>

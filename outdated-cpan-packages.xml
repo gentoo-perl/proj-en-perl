@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1065 2009/01/07 09:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1066 2009/01/08 01:52:55 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-01-07</date>
+<date>2009-01-08</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
-    <ti align="right">4.33</ti>
-    <ti align="right">4.331</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
@@ -90,16 +85,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.26</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mp3::tag&amp;mode=all">MP3-Tag</uri></ti>
-    <ti align="right">0.9713</ti>
-    <ti align="right">0.9714</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=netpacket&amp;mode=all">NetPacket</uri></ti>
-    <ti align="right">0.04</ti>
-    <ti align="right">0.411</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
     <ti align="right">0.65</ti>
     <ti align="right">0.72003</ti>
@@ -108,11 +93,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=pdf::create&amp;mode=all">PDF-Create</uri></ti>
     <ti align="right">0.061</ti>
     <ti align="right">1.02</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=time::hires&amp;mode=all">Time-HiRes</uri> (virtual/perl-Time-HiRes)</ti>
-    <ti align="right">1.9718</ti>
-    <ti align="right">1.9719</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::bugzilla&amp;mode=all">WWW-Bugzilla</uri></ti>
@@ -124,15 +104,10 @@ will curb some of the bugs to boot).
     <ti align="right">0.82</ti>
     <ti align="right">0.89</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::atom&amp;mode=all">XML-Atom</uri></ti>
-    <ti align="right">0.32</ti>
-    <ti align="right">0.33</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 793
+Total packages suspected as outdated: 11 of 793
 </p>
 
 </body>

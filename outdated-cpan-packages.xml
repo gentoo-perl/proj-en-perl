@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1088 2009/01/19 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1089 2009/01/19 17:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,19 +50,9 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=b::hooks::endofscope&amp;mode=all">B-Hooks-EndOfScope</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right">0.06</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
-    <ti align="right">2.45</ti>
-    <ti align="right">2.46</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
@@ -80,19 +70,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=graph&amp;mode=all">Graph</uri></ti>
-    <ti align="right">0.90</ti>
-    <ti align="right">0.91</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gstreamer&amp;mode=all">GStreamer</uri></ti>
-    <ti align="right">0.13</ti>
-    <ti align="right">0.14</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mime::lite&amp;mode=all">MIME-Lite</uri></ti>
-    <ti align="right">3.023</ti>
-    <ti align="right">3.024</ti>
+    <ti><uri link="http://search.cpan.org/search?query=module::load::conditional&amp;mode=all">Module-Load-Conditional</uri></ti>
+    <ti align="right">0.28</ti>
+    <ti align="right">0.30</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::server&amp;mode=all">mogilefs-server</uri></ti>
@@ -110,24 +90,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.02</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=set::scalar&amp;mode=all">set-scalar</uri></ti>
-    <ti align="right">1.22</ti>
-    <ti align="right">1.23</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sql::statement&amp;mode=all">SQL-Statement</uri></ti>
     <ti align="right">1.15</ti>
     <ti align="right">1.17</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::www::mechanize&amp;mode=all">Test-WWW-Mechanize</uri></ti>
-    <ti align="right">1.22</ti>
-    <ti align="right">1.24</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=variable::magic&amp;mode=all">Variable-Magic</uri></ti>
-    <ti align="right">0.26</ti>
-    <ti align="right">0.27</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::bugzilla&amp;mode=all">WWW-Bugzilla</uri></ti>
@@ -139,15 +104,10 @@ will curb some of the bugs to boot).
     <ti align="right">0.82</ti>
     <ti align="right">0.89</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::dt&amp;mode=all">XML-DT</uri></ti>
-    <ti align="right">0.52</ti>
-    <ti align="right">0.53</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 813
+Total packages suspected as outdated: 11 of 813
 </p>
 
 </body>

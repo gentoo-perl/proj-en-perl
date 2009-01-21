@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1092 2009/01/20 17:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1093 2009/01/21 01:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-01-20</date>
+<date>2009-01-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.576</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=curses&amp;mode=all">Curses</uri></ti>
+    <ti align="right">1.26</ti>
+    <ti align="right">1.27</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dcop::amarok&amp;mode=all">DCOP-Amarok</uri></ti>
     <ti align="right">0.035</ti>
     <ti align="right">0.036</ti>
@@ -68,6 +73,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=dcop::amarok::player&amp;mode=all">DCOP-Amarok-Player</uri></ti>
     <ti align="right">0.036</ti>
     <ti align="right">0.037</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime::creator&amp;mode=all">Email-MIME-Creator</uri></ti>
+    <ti align="right">1.454</ti>
+    <ti align="right">1.455</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::server&amp;mode=all">mogilefs-server</uri></ti>
@@ -112,7 +122,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 812
+Total packages suspected as outdated: 14 of 812
 </p>
 
 </body>

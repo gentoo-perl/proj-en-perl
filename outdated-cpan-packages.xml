@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1094 2009/01/21 17:52:41 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1095 2009/01/22 01:52:44 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-01-21</date>
+<date>2009-01-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -68,6 +68,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=curses&amp;mode=all">Curses</uri></ti>
     <ti align="right">1.26</ti>
     <ti align="right">1.27</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
+    <ti align="right">0.8301</ti>
+    <ti align="right">0.84</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dcop::amarok&amp;mode=all">DCOP-Amarok</uri></ti>
@@ -127,7 +132,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 15 of 812
+Total packages suspected as outdated: 16 of 812
 </p>
 
 </body>

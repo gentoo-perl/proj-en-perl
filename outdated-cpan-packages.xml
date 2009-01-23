@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1096 2009/01/22 09:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1097 2009/01/23 01:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-01-22</date>
+<date>2009-01-23</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,6 +53,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::mop&amp;mode=all">Class-MOP</uri></ti>
+    <ti align="right">0.75</ti>
+    <ti align="right">0.76</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
@@ -90,9 +95,19 @@ will curb some of the bugs to boot).
     <ti align="right">1.455</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
+    <ti align="right">1.20</ti>
+    <ti align="right">1.21</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::server&amp;mode=all">mogilefs-server</uri></ti>
     <ti align="right">2.20</ti>
     <ti align="right">2.30</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moose&amp;mode=all">Moose</uri></ti>
+    <ti align="right">0.64</ti>
+    <ti align="right">0.65</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
@@ -137,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 812
+Total packages suspected as outdated: 20 of 812
 </p>
 
 </body>

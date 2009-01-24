@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1099 2009/01/23 17:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1100 2009/01/24 09:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-01-23</date>
+<date>2009-01-24</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,6 +75,46 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::messageid&amp;mode=all">Email-MessageID</uri></ti>
+    <ti align="right">1.400</ti>
+    <ti align="right">1.401</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime&amp;mode=all">Email-MIME</uri></ti>
+    <ti align="right">1.861</ti>
+    <ti align="right">1.862</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime::attachment::stripper&amp;mode=all">Email-MIME-Attachment-Stripper</uri></ti>
+    <ti align="right">1.315</ti>
+    <ti align="right">1.316</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime::contenttype&amp;mode=all">Email-MIME-ContentType</uri></ti>
+    <ti align="right">1.014</ti>
+    <ti align="right">1.015</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime::encodings&amp;mode=all">Email-MIME-Encodings</uri></ti>
+    <ti align="right">1.311</ti>
+    <ti align="right">1.312</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime::modifier&amp;mode=all">Email-MIME-Modifier</uri></ti>
+    <ti align="right">1.442</ti>
+    <ti align="right">1.443</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::simple&amp;mode=all">Email-Simple</uri></ti>
+    <ti align="right">2.004</ti>
+    <ti align="right">2.005</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
+    <ti align="right">1.21</ti>
+    <ti align="right">1.22</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::server&amp;mode=all">mogilefs-server</uri></ti>
     <ti align="right">2.20</ti>
     <ti align="right">2.30</ti>
@@ -88,6 +128,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=pdf::create&amp;mode=all">PDF-Create</uri></ti>
     <ti align="right">0.061</ti>
     <ti align="right">1.02</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=spreadsheet::parseexcel&amp;mode=all">Spreadsheet-ParseExcel</uri></ti>
+    <ti align="right">0.48</ti>
+    <ti align="right">0.49</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sql::statement&amp;mode=all">SQL-Statement</uri></ti>
@@ -112,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 813
+Total packages suspected as outdated: 21 of 813
 </p>
 
 </body>

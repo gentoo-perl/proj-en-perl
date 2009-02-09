@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1128 2009/02/09 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1129 2009/02/09 17:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -80,6 +80,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::parser&amp;mode=all">HTML-Parser</uri></ti>
+    <ti align="right">3.59</ti>
+    <ti align="right">3.60</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::server&amp;mode=all">mogilefs-server</uri></ti>
     <ti align="right">2.20</ti>
     <ti align="right">2.30</ti>
@@ -90,6 +95,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.50</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=number::format&amp;mode=all">Number-Format</uri></ti>
+    <ti align="right">1.61</ti>
+    <ti align="right">1.62</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
     <ti align="right">0.65</ti>
     <ti align="right">0.72003</ti>
@@ -98,6 +108,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=pdf::create&amp;mode=all">PDF-Create</uri></ti>
     <ti align="right">0.061</ti>
     <ti align="right">1.02</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=podparser&amp;mode=all">PodParser</uri> (virtual/perl-PodParser)</ti>
+    <ti align="right">1.37</ti>
+    <ti align="right">1.38</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sphinx::search&amp;mode=all">Sphinx-Search</uri></ti>
@@ -117,7 +132,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 13 of 814
+Total packages suspected as outdated: 16 of 814
 </p>
 
 </body>

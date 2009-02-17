@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1141 2009/02/17 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1142 2009/02/17 09:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -90,6 +90,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.50</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=params::util&amp;mode=all">Params-Util</uri></ti>
+    <ti align="right">0.37</ti>
+    <ti align="right">0.38</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
     <ti align="right">0.65</ti>
     <ti align="right">0.72003</ti>
@@ -117,7 +122,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 13 of 816
+Total packages suspected as outdated: 14 of 816
 </p>
 
 </body>

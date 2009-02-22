@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1153 2009/02/21 17:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1154 2009/02/22 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-02-21</date>
+<date>2009-02-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=berkeleydb&amp;mode=all">BerkeleyDB</uri></ti>
-    <ti align="right">0.36</ti>
-    <ti align="right">0.38</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
@@ -78,11 +73,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=dcop::amarok::player&amp;mode=all">DCOP-Amarok-Player</uri></ti>
     <ti align="right">0.036</ti>
     <ti align="right">0.037</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=json&amp;mode=all">JSON</uri></ti>
-    <ti align="right">2.12</ti>
-    <ti align="right">2.13</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::pari&amp;mode=all">math-pari</uri></ti>
@@ -127,7 +117,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 15 of 816
+Total packages suspected as outdated: 13 of 816
 </p>
 
 </body>

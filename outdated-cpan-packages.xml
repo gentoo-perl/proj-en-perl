@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1166 2009/03/01 09:53:07 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1167 2009/03/01 17:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -70,11 +70,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.27</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
-    <ti align="right">0.4501</ti>
-    <ti align="right">0.46</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dcop::amarok&amp;mode=all">DCOP-Amarok</uri></ti>
     <ti align="right">0.035</ti>
     <ti align="right">0.036</ti>
@@ -85,19 +80,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri></ti>
-    <ti align="right">1.34</ti>
-    <ti align="right">1.36</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::amazon::s3&amp;mode=all">Net-Amazon-S3</uri></ti>
     <ti align="right">0.49</ti>
     <ti align="right">0.50</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::libidn&amp;mode=all">Net-LibIDN</uri></ti>
-    <ti align="right">0.11</ti>
-    <ti align="right">0.12</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
@@ -115,14 +100,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.15</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=term::ansicolor&amp;mode=all">Term-ANSIColor</uri> (virtual/perl-Term-ANSIColor)</ti>
-    <ti align="right">1.12</ti>
-    <ti align="right">2.00</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=term::readline::gnu&amp;mode=all">Term-ReadLine-Gnu</uri></ti>
-    <ti align="right">1.17</ti>
-    <ti align="right">1.18</ti>
+    <ti><uri link="http://search.cpan.org/search?query=variable::magic&amp;mode=all">Variable-Magic</uri></ti>
+    <ti align="right">0.31</ti>
+    <ti align="right">0.32</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::bugzilla&amp;mode=all">WWW-Bugzilla</uri></ti>
@@ -137,7 +117,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 816
+Total packages suspected as outdated: 13 of 817
 </p>
 
 </body>

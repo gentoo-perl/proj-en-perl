@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1176 2009/03/07 09:52:54 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1177 2009/03/07 17:52:35 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,11 +75,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=geo::ip&amp;mode=all">Geo-IP</uri></ti>
-    <ti align="right">1.36</ti>
-    <ti align="right">1.37</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=nagios::plugin&amp;mode=all">Nagios-Plugin</uri></ti>
     <ti align="right">0.31</ti>
     <ti align="right">0.32</ti>
@@ -95,9 +90,14 @@ will curb some of the bugs to boot).
     <ti align="right">1.02</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::tabs+wrap&amp;mode=all">Text-Tabs+Wrap</uri></ti>
-    <ti align="right">2006.1117</ti>
-    <ti align="right">2009.0305</ti>
+    <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
+    <ti align="right">1.096</ti>
+    <ti align="right">1.098</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sys::statistics::linux&amp;mode=all">Sys-Statistics-Linux</uri></ti>
+    <ti align="right">0.47</ti>
+    <ti align="right">0.48</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::bugzilla&amp;mode=all">WWW-Bugzilla</uri></ti>

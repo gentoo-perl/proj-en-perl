@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1186 2009/03/11 09:52:40 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1187 2009/03/11 17:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,9 +75,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=ipc::sharelite&amp;mode=all">IPC-ShareLite</uri></ti>
-    <ti align="right">0.14</ti>
-    <ti align="right">0.17</ti>
+    <ti><uri link="http://search.cpan.org/search?query=file::homedir&amp;mode=all">File-HomeDir</uri></ti>
+    <ti align="right">0.82</ti>
+    <ti align="right">0.84</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::dkim&amp;mode=all">Mail-DKIM</uri></ti>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1188 2009/03/12 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1189 2009/03/12 17:53:16 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,11 +75,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::homedir&amp;mode=all">File-HomeDir</uri></ti>
-    <ti align="right">0.82</ti>
-    <ti align="right">0.84</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::dkim&amp;mode=all">Mail-DKIM</uri></ti>
     <ti align="right">0.32</ti>
     <ti align="right">0.33</ti>
@@ -112,7 +107,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 817
+Total packages suspected as outdated: 11 of 817
 </p>
 
 </body>

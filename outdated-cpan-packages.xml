@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1208 2009/03/24 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1209 2009/03/24 17:52:54 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,14 +75,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::valid&amp;mode=all">Email-Valid</uri></ti>
-    <ti align="right">0.180</ti>
-    <ti align="right">0.181</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
     <ti align="right">1.203</ti>
     <ti align="right">1.220</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=http::dav&amp;mode=all">HTTP-DAV</uri></ti>
+    <ti align="right">0.36</ti>
+    <ti align="right">0.37</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>

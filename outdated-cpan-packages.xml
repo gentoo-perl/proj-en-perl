@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1232 2009/04/06 17:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1233 2009/04/07 01:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-04-06</date>
+<date>2009-04-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,6 +55,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.061</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
+    <ti align="right">3.42</ti>
+    <ti align="right">3.43</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
@@ -81,8 +86,8 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">0.86</ti>
     <ti align="right">0.87</ti>
+    <ti align="right">0.88</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
@@ -108,11 +113,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=http::dav&amp;mode=all">HTTP-DAV</uri></ti>
     <ti align="right">0.36</ti>
     <ti align="right">0.37</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mail::imapclient&amp;mode=all">Mail-IMAPClient</uri></ti>
-    <ti align="right">3.15</ti>
-    <ti align="right">3.16</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>

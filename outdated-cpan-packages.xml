@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1233 2009/04/07 01:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1234 2009/04/07 09:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,11 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.061</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
-    <ti align="right">3.42</ti>
-    <ti align="right">3.43</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
@@ -83,11 +78,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=curses&amp;mode=all">Curses</uri></ti>
     <ti align="right">1.26</ti>
     <ti align="right">1.27</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">0.87</ti>
-    <ti align="right">0.88</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
@@ -135,11 +125,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.3</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=www::curl&amp;mode=all">WWW-Curl</uri></ti>
-    <ti align="right">4.05</ti>
-    <ti align="right">4.06</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.82</ti>
     <ti align="right">0.89</ti>
@@ -147,7 +132,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 825
+Total packages suspected as outdated: 16 of 825
 </p>
 
 </body>

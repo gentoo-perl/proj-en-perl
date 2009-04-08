@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1236 2009/04/08 01:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1237 2009/04/08 09:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -97,7 +97,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::sqlite&amp;mode=all">DBD-SQLite</uri></ti>
     <ti align="right">1.14</ti>
-    <ti align="right">1.20</ti>
+    <ti align="right">1.21</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dcop::amarok&amp;mode=all">DCOP-Amarok</uri></ti>

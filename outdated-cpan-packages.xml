@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1242 2009/04/10 01:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1243 2009/04/10 09:52:22 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -65,11 +65,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.06</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::mop&amp;mode=all">Class-MOP</uri></ti>
-    <ti align="right">0.80</ti>
-    <ti align="right">0.81</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=compress::raw::bzip2&amp;mode=all">Compress-Raw-Bzip2</uri></ti>
     <ti align="right">2.015</ti>
     <ti align="right">2.017</ti>
@@ -78,11 +73,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=compress::raw::zlib&amp;mode=all">Compress-Raw-Zlib</uri> (virtual/perl-Compress-Raw-Zlib)</ti>
     <ti align="right">2.015</ti>
     <ti align="right">2.017</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
-    <ti align="right">2.47</ti>
-    <ti align="right">2.48</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
@@ -115,11 +105,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=geography::countries&amp;mode=all">Geography-Countries</uri></ti>
-    <ti align="right">1.4</ti>
-    <ti align="right">2009040901</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
     <ti align="right">1.203</ti>
     <ti align="right">1.220</ti>
@@ -128,16 +113,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=http::dav&amp;mode=all">HTTP-DAV</uri></ti>
     <ti align="right">0.36</ti>
     <ti align="right">0.37</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moose&amp;mode=all">Moose</uri></ti>
-    <ti align="right">0.73</ti>
-    <ti align="right">0.74</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::strictconstructor&amp;mode=all">MooseX-StrictConstructor</uri></ti>
-    <ti align="right">0.07</ti>
-    <ti align="right">0.08</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
@@ -172,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 829
+Total packages suspected as outdated: 19 of 829
 </p>
 
 </body>

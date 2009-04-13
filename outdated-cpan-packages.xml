@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1245 2009/04/11 09:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1246 2009/04/13 17:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-04-11</date>
+<date>2009-04-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,11 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.109</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
-    <ti align="right">4.35</ti>
-    <ti align="right">4.351</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cairo&amp;mode=all">Cairo</uri></ti>
     <ti align="right">1.060</ti>
     <ti align="right">1.061</ti>
@@ -90,6 +85,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.27</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
+    <ti align="right">0.88</ti>
+    <ti align="right">0.89</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
     <ti align="right">2.118</ti>
     <ti align="right">2.120</ti>
@@ -110,6 +110,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=finance::quote&amp;mode=all">Finance-Quote</uri></ti>
+    <ti align="right">1.15</ti>
+    <ti align="right">1.16</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
     <ti align="right">1.203</ti>
     <ti align="right">1.220</ti>
@@ -118,11 +123,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=http::dav&amp;mode=all">HTTP-DAV</uri></ti>
     <ti align="right">0.36</ti>
     <ti align="right">0.37</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::patricia&amp;mode=all">Net-Patricia</uri></ti>
-    <ti align="right">1.014</ti>
-    <ti align="right">1.1452</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>

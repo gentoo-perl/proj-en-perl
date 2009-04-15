@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1251 2009/04/15 09:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1252 2009/04/15 17:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -130,11 +130,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=php::serialization&amp;mode=all">PHP-Serialization</uri></ti>
-    <ti align="right">0.30</ti>
-    <ti align="right">0.31</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sphinx::search&amp;mode=all">Sphinx-Search</uri></ti>
     <ti align="right">0.15</ti>
     <ti align="right">0.19</ti>
@@ -157,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 829
+Total packages suspected as outdated: 20 of 829
 </p>
 
 </body>

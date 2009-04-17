@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1253 2009/04/17 01:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1254 2009/04/17 09:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -110,6 +110,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime::encodings&amp;mode=all">Email-MIME-Encodings</uri></ti>
+    <ti align="right">1.312</ti>
+    <ti align="right">1.313</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
     <ti align="right">1.203</ti>
     <ti align="right">1.220</ti>
@@ -162,7 +167,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 829
+Total packages suspected as outdated: 23 of 829
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1255 2009/04/18 01:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1256 2009/04/18 17:52:22 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,14 +60,9 @@ will curb some of the bugs to boot).
     <ti align="right">3.06</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=compress::raw::bzip2&amp;mode=all">Compress-Raw-Bzip2</uri></ti>
-    <ti align="right">2.015</ti>
-    <ti align="right">2.017</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=compress::raw::zlib&amp;mode=all">Compress-Raw-Zlib</uri> (virtual/perl-Compress-Raw-Zlib)</ti>
-    <ti align="right">2.015</ti>
-    <ti align="right">2.017</ti>
+    <ti><uri link="http://search.cpan.org/search?query=convert::binary::c&amp;mode=all">Convert-Binary-C</uri></ti>
+    <ti align="right">0.73</ti>
+    <ti align="right">0.74</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
@@ -152,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 829
+Total packages suspected as outdated: 19 of 829
 </p>
 
 </body>

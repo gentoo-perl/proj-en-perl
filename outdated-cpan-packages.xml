@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1257 2009/04/19 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1258 2009/04/19 17:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,11 +75,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.27</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::uuid&amp;mode=all">Data-UUID</uri></ti>
-    <ti align="right">1.149</ti>
-    <ti align="right">1.201</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
     <ti align="right">4.010</ti>
     <ti align="right">4.011</ti>
@@ -92,7 +87,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::sqlite&amp;mode=all">DBD-SQLite</uri></ti>
     <ti align="right">1.14</ti>
-    <ti align="right">1.21</ti>
+    <ti align="right">1.23</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dcop::amarok&amp;mode=all">DCOP-Amarok</uri></ti>
@@ -135,14 +130,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sql::abstract&amp;mode=all">SQL-Abstract</uri></ti>
-    <ti align="right">1.50</ti>
-    <ti align="right">1.51</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::inline&amp;mode=all">Test-Inline</uri></ti>
-    <ti align="right">2.208</ti>
-    <ti align="right">2.209</ti>
+    <ti><uri link="http://search.cpan.org/search?query=test::subcalls&amp;mode=all">Test-SubCalls</uri></ti>
+    <ti align="right">1.08</ti>
+    <ti align="right">1.09</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::bugzilla&amp;mode=all">WWW-Bugzilla</uri></ti>
@@ -162,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 829
+Total packages suspected as outdated: 20 of 829
 </p>
 
 </body>

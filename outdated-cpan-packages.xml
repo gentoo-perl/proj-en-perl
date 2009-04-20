@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1258 2009/04/19 17:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1259 2009/04/20 01:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-04-19</date>
+<date>2009-04-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=b::hooks::endofscope&amp;mode=all">B-Hooks-EndOfScope</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right">0.08</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cairo&amp;mode=all">Cairo</uri></ti>
     <ti align="right">1.060</ti>
     <ti align="right">1.061</ti>
@@ -110,6 +115,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.37</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
+    <ti align="right">3.17</ti>
+    <ti align="right">3.18</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mp3::tag&amp;mode=all">MP3-Tag</uri></ti>
     <ti align="right">0.9714</ti>
     <ti align="right">1.00</ti>
@@ -135,6 +145,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.09</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=variable::magic&amp;mode=all">Variable-Magic</uri></ti>
+    <ti align="right">0.33</ti>
+    <ti align="right">0.34</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::bugzilla&amp;mode=all">WWW-Bugzilla</uri></ti>
     <ti align="right">0.9</ti>
     <ti align="right">1.3</ti>
@@ -152,7 +167,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 829
+Total packages suspected as outdated: 23 of 829
 </p>
 
 </body>

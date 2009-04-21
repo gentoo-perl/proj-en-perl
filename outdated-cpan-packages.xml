@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1260 2009/04/20 17:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1261 2009/04/21 01:52:19 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-04-20</date>
+<date>2009-04-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,6 +55,11 @@ will curb some of the bugs to boot).
     <ti align="right">4.352</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=archive::tar&amp;mode=all">Archive-Tar</uri> (virtual/perl-Archive-Tar)</ti>
+    <ti align="right">1.46</ti>
+    <ti align="right">1.48</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::hooks::endofscope&amp;mode=all">B-Hooks-EndOfScope</uri></ti>
     <ti align="right">0.07</ti>
     <ti align="right">0.08</ti>
@@ -70,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.06</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::inspector&amp;mode=all">Class-Inspector</uri></ti>
+    <ti align="right">1.23</ti>
+    <ti align="right">1.24</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::mop&amp;mode=all">Class-MOP</uri></ti>
     <ti align="right">0.81</ti>
     <ti align="right">0.82</ti>
@@ -83,6 +93,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
     <ti align="right">0.571</ti>
     <ti align="right">0.576</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=css::squish&amp;mode=all">CSS-Squish</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right">0.08</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=curses&amp;mode=all">Curses</uri></ti>
@@ -150,6 +165,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=prefork&amp;mode=all">prefork</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right">1.03</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sphinx::search&amp;mode=all">Sphinx-Search</uri></ti>
     <ti align="right">0.15</ti>
     <ti align="right">0.19</ti>
@@ -182,7 +202,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 829
+Total packages suspected as outdated: 30 of 829
 </p>
 
 </body>

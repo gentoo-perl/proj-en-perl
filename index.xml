@@ -40,7 +40,10 @@
 <resource link="/main/en/lists.xml">[gentoo-perl] Mailing List</resource>
 <resource link="http://news.gmane.org/gmane.linux.gentoo.perl">[gentoo-perl] Mailing List Archives</resource>
 <resource link="irc://irc.freenode.org/#gentoo-perl">#gentoo-perl on irc.freenode.org</resource>
-<resource link="http://anonsvn.gentoo.org/repositories/gentoo-perl/">svn co http://anonsvn.gentoo.org/repositories/gentoo-perl/ to check out a read only copy of our works in progress.</resource>
+<resource link="http://git.overlays.gentoo.org/gitweb/?p=proj/perl-overlay.git;a=summary">Perl Overlay aka perl-experimental</resource>
+<!--
+<resource link="http://git.overlays.gentoo.org/gitweb/?p=proj/perl5-packaging.git;a=summary">Perl5 Packaging Overlay</resource>
+-->
 
 <extraproject name="g-cpan" lead="perl-herd">
   Build perl modules that portage keeps track of
@@ -58,7 +61,7 @@
   Tool to gather relevant perl data; 'emerge --info' for perl
 </extraproject>
 
-<herd name="perl"></herd>
+<herd name="perl"/>
 
 </project>
 <!-- vim: set expandtab ts=2 -->

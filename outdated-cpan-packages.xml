@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1288 2009/05/04 09:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1289 2009/05/04 17:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,19 +55,14 @@ will curb some of the bugs to boot).
     <ti align="right">1.061</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::accessor&amp;mode=all">Class-Accessor</uri></ti>
+    <ti align="right">0.31</ti>
+    <ti align="right">0.33</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=compress::raw::bzip2&amp;mode=all">Compress-Raw-Bzip2</uri> (virtual/perl-Compress-Raw-Bzip2)</ti>
-    <ti align="right">2.017</ti>
-    <ti align="right">2.018</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=compress::raw::zlib&amp;mode=all">Compress-Raw-Zlib</uri> (virtual/perl-Compress-Raw-Zlib)</ti>
-    <ti align="right">2.017</ti>
-    <ti align="right">2.018</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
@@ -115,14 +110,9 @@ will curb some of the bugs to boot).
     <ti align="right">3.19</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::compress&amp;mode=all">IO-Compress</uri> (virtual/perl-IO-Compress)</ti>
-    <ti align="right">2.017</ti>
-    <ti align="right">2.018</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">Module-Build</uri> (virtual/perl-Module-Build)</ti>
-    <ti align="right">0.32</ti>
-    <ti align="right">0.33</ti>
+    <ti><uri link="http://search.cpan.org/search?query=ipc::cmd&amp;mode=all">IPC-Cmd</uri> (virtual/perl-IPC-Cmd)</ti>
+    <ti align="right">0.42</ti>
+    <ti align="right">0.44</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mp3::tag&amp;mode=all">MP3-Tag</uri></ti>
@@ -147,7 +137,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sphinx::search&amp;mode=all">Sphinx-Search</uri></ti>
     <ti align="right">0.15</ti>
-    <ti align="right">0.20</ti>
+    <ti align="right">0.21</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=statistics::descriptive&amp;mode=all">Statistics-Descriptive</uri></ti>
@@ -162,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 828
+Total packages suspected as outdated: 20 of 828
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1312 2009/05/14 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1313 2009/05/14 09:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,6 +55,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.43</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
+    <ti align="right">4.4</ti>
+    <ti align="right">4.41</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cairo&amp;mode=all">Cairo</uri></ti>
     <ti align="right">1.060</ti>
     <ti align="right">1.061</ti>
@@ -63,11 +68,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::mop&amp;mode=all">Class-MOP</uri></ti>
-    <ti align="right">0.83</ti>
-    <ti align="right">0.84</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
@@ -115,19 +115,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.37</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io&amp;mode=all">IO</uri> (virtual/perl-IO)</ti>
+    <ti align="right">1.24</ti>
+    <ti align="right">1.25</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">3.17</ti>
     <ti align="right">3.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
-    <ti align="right">1.22</ti>
-    <ti align="right">1.23</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moose&amp;mode=all">Moose</uri></ti>
-    <ti align="right">0.77</ti>
-    <ti align="right">0.79</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
@@ -150,11 +145,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.22</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=statistics::descriptive&amp;mode=all">Statistics-Descriptive</uri></ti>
-    <ti align="right">2.8</ti>
-    <ti align="right">2.9</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::output&amp;mode=all">Test-Output</uri></ti>
     <ti align="right">0.13</ti>
     <ti align="right">0.15</ti>
@@ -167,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 830
+Total packages suspected as outdated: 21 of 830
 </p>
 
 </body>

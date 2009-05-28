@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1340 2009/05/27 01:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1341 2009/05/28 01:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-05-27</date>
+<date>2009-05-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=algorithm::c3&amp;mode=all">Algorithm-C3</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right">0.08</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cairo&amp;mode=all">Cairo</uri></ti>
     <ti align="right">1.060</ti>
     <ti align="right">1.061</ti>
@@ -115,6 +120,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.19</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mro::compat&amp;mode=all">MRO-Compat</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right">0.11</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::amazon::s3&amp;mode=all">Net-Amazon-S3</uri></ti>
     <ti align="right">0.50</ti>
     <ti align="right">0.51</ti>
@@ -137,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 832
+Total packages suspected as outdated: 19 of 832
 </p>
 
 </body>

@@ -30,6 +30,48 @@
 
 </longdescription>
 
+<recruitment>
+  <job>
+    <summary>General package maintainer</summary>
+    <details>
+      General perl package maintainer to help out with managing the herd.
+      Revision bumping, bug filing/fixing, stabilizing, updating ebuilds per
+      eclass or syntax changes, etc.
+    </details>
+    <requirements>
+      Experience with Perl on Linux, ideally Gentoo.
+    </requirements>
+    <contact>perl@gentoo.org</contact>
+  </job>
+  <job>
+    <summary>Perl core maintainer</summary>
+    <details>
+      Perl core package maintainer to help out with the core perl packages
+      (dev-lang/perl and sys-devel/libperl). Revision bumping, handling
+      security bugs, patching packages to play nice with Gentoo, following
+      upstream to handle changes and updates in a timely manner.
+    </details>
+    <requirements>
+      Experience with perl on Linux, ideally Gentoo. Knowledge of C and perl.
+      Experience with patching software.
+    </requirements>
+    <contact>perl@gentoo.org</contact>
+  </job>
+  <job>
+    <summary>g-cpan maintainer</summary>
+    <details>
+      g-cpan is a tool written in perl. It generates ebuilds and installs perl
+      modules and bundles from CPAN on-the-fly.
+      The sources are in the <uri link="http://sources.gentoo.org/viewcvs.py/gentoo-perl/g-cpan/">g-cpan
+      repository</uri>.
+    </details>
+    <requirements>
+      Experience in perl and packaging perl modules.
+    </requirements>
+    <contact>perl@gentoo.org</contact>
+  </job>
+</recruitment>
+
 <dev role="member">ian</dev>
 <dev role="member">yuval</dev>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1347 2009/05/30 09:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1348 2009/05/31 01:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-05-30</date>
+<date>2009-05-31</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,11 +70,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.576</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::mini::inject&amp;mode=all">CPAN-Mini-Inject</uri></ti>
-    <ti align="right">0.24</ti>
-    <ti align="right">0.25</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
     <ti align="right">4.010</ti>
     <ti align="right">4.011</ti>
@@ -120,14 +115,19 @@ will curb some of the bugs to boot).
     <ti align="right">3.19</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=json::xs&amp;mode=all">JSON-XS</uri></ti>
-    <ti align="right">2.232</ti>
-    <ti align="right">2.24</ti>
+    <ti><uri link="http://search.cpan.org/search?query=ipc::run3&amp;mode=all">IPC-Run3</uri></ti>
+    <ti align="right">0.042</ti>
+    <ti align="right">0.043</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::amazon::s3&amp;mode=all">Net-Amazon-S3</uri></ti>
     <ti align="right">0.50</ti>
     <ti align="right">0.51</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=params::util&amp;mode=all">Params-Util</uri></ti>
+    <ti align="right">0.38</ti>
+    <ti align="right">1.00</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
@@ -140,19 +140,29 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
+    <ti align="right">1.005</ti>
+    <ti align="right">1.006</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sphinx::search&amp;mode=all">Sphinx-Search</uri></ti>
     <ti align="right">0.15</ti>
     <ti align="right">0.22</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=statistics::descriptive&amp;mode=all">Statistics-Descriptive</uri></ti>
-    <ti align="right">2.9</ti>
-    <ti align="right">3.0000</ti>
+    <ti><uri link="http://search.cpan.org/search?query=sql::abstract&amp;mode=all">SQL-Abstract</uri></ti>
+    <ti align="right">1.55</ti>
+    <ti align="right">1.56</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::simple&amp;mode=all">Test-Simple</uri> (virtual/perl-Test-Simple)</ti>
+    <ti align="right">0.86</ti>
+    <ti align="right">0.88</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 834
+Total packages suspected as outdated: 22 of 834
 </p>
 
 </body>

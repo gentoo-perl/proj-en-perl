@@ -83,6 +83,7 @@
 <resource link="http://news.gmane.org/gmane.linux.gentoo.perl">[gentoo-perl] Mailing List Archives</resource>
 <resource link="irc://irc.freenode.org/#gentoo-perl">#gentoo-perl on irc.freenode.org</resource>
 <resource link="http://git.overlays.gentoo.org/gitweb/?p=proj/perl-overlay.git;a=summary">Perl Overlay aka perl-experimental</resource>
+<resource link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">Outdated CPAN Packages in the perl-experimental overlay</resource>
 <!--
 <resource link="http://git.overlays.gentoo.org/gitweb/?p=proj/perl5-packaging.git;a=summary">Perl5 Packaging Overlay</resource>
 -->

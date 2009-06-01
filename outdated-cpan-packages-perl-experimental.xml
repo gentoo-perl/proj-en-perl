@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.1 2009/06/01 16:40:52 tove Exp $ -->
+
+<!-- Do Not Translate !! -->
+<guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
+<title>Outdated CPAN Packages (perl-experimental vs CPAN)</title>
+
+<author title="Author">
+  Script generated using up2date-ng version 0.24_pre2
+</author>
+
+<abstract>
+  This document lists the packages suspected as outdated
+</abstract>
+
+<!-- The content of this document is licensed under the CC-BY-SA license -->
+<!-- See http://creativecommons.org/licenses/by-sa/2.5 -->
+<license/>
+
+<version>1.0</version>
+<date>2009-06-01</date>
+
+<chapter>
+<title>Intro</title>
+<section>
+<body>
+
+<p>
+This list is not exhaustive and may contain mistakes/errors. Accuracy is only
+guaranteed at 90% and is generated to inform developers about which CPAN
+modules are currently out of date in perl-experimental. Our most frequent bug request is
+for module bumping. This list is intended as acknowledgement (and hopefully
+will curb some of the bugs to boot).
+</p>
+
+</body>
+</section>
+</chapter>
+
+<chapter>
+<title>List of outdated packages</title>
+<section>
+<body>
+
+<table>
+  <tr>
+    <th>Packagename</th>
+    <th>Version in perl-experimental</th>
+    <th>Version on CPAN</th>
+  </tr>
+    <tr>
+    <ti><uri link="http://search.cpan.org/search?query=autoxs::header&amp;mode=all">AutoXS-Header</uri></ti>
+    <ti align="right">1.00</ti>
+    <ti align="right">1.01</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::ldap&amp;mode=all">Catalyst-Authentication-Store-LDAP</uri></ti>
+    <ti align="right">0.1004</ti>
+    <ti align="right">0.1005</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::controller::formbuilder&amp;mode=all">Catalyst-Controller-FormBuilder</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right">0.05</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::controller::requesttoken&amp;mode=all">Catalyst-Controller-RequestToken</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right">0.06</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
+    <ti align="right">1.13</ti>
+    <ti align="right">1.17</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::manual&amp;mode=all">Catalyst-Manual</uri></ti>
+    <ti align="right">5.7021</ti>
+    <ti align="right">5.8000</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::authorization::acl&amp;mode=all">Catalyst-Plugin-Authorization-ACL</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right">0.11</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::formvalidator&amp;mode=all">Catalyst-Plugin-FormValidator</uri></ti>
+    <ti align="right">0.02</ti>
+    <ti align="right">0.03</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::log::dispatch&amp;mode=all">Catalyst-Plugin-Log-Dispatch</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right">0.11</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session&amp;mode=all">Catalyst-Plugin-Session</uri></ti>
+    <ti align="right">0.21</ti>
+    <ti align="right">0.22</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::state::cookie&amp;mode=all">Catalyst-Plugin-Session-State-Cookie</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right">0.11</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::store::delegate&amp;mode=all">Catalyst-Plugin-Session-Store-Delegate</uri></ti>
+    <ti align="right">0.03</ti>
+    <ti align="right">0.04</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::store::fastmmap&amp;mode=all">Catalyst-Plugin-Session-Store-FastMmap</uri></ti>
+    <ti align="right">0.09</ti>
+    <ti align="right">0.10</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cgi::application::plugin::json&amp;mode=all">CGI-Application-Plugin-JSON</uri></ti>
+    <ti align="right">1.01</ti>
+    <ti align="right">1.02</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::xsaccessor&amp;mode=all">Class-XSAccessor</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right">1.03</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::xsaccessor::array&amp;mode=all">Class-XSAccessor-Array</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right">1.03</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::jfdi&amp;mode=all">Config-JFDI</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right">0.062</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::format::pg&amp;mode=all">DateTime-Format-Pg</uri></ti>
+    <ti align="right">0.16002</ti>
+    <ti align="right">0.16003</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::class&amp;mode=all">DBIx-Class</uri></ti>
+    <ti align="right">0.08102</ti>
+    <ti align="right">0.08103</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::class::datetime::epoch&amp;mode=all">DBIx-Class-DateTime-Epoch</uri></ti>
+    <ti align="right">0.03</ti>
+    <ti align="right">0.04</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=extutils::makemaker&amp;mode=all">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
+    <ti align="right">6.50</ti>
+    <ti align="right">6.52</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=finance::currency::convert::webservicex&amp;mode=all">Finance-Currency-Convert-WebserviceX</uri></ti>
+    <ti align="right">0.07000</ti>
+    <ti align="right">0.07001</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::formfu&amp;mode=all">HTML-FormFu</uri></ti>
+    <ti align="right">0.04002</ti>
+    <ti align="right">0.05000</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::formfu::model::dbic&amp;mode=all">HTML-FormFu-Model-DBIC</uri></ti>
+    <ti align="right">0.03007</ti>
+    <ti align="right">0.05000</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::emulate::class::accessor::fast&amp;mode=all">MooseX-Emulate-Class-Accessor-Fast</uri></ti>
+    <ti align="right">0.00802</ti>
+    <ti align="right">0.00900</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=orlite&amp;mode=all">ORLite</uri></ti>
+    <ti align="right">1.21</ti>
+    <ti align="right">1.22</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=universal::isa&amp;mode=all">UNIVERSAL-isa</uri></ti>
+    <ti align="right">1.01</ti>
+    <ti align="right">1.02</ti>
+  </tr>
+</table>
+
+<p>
+Total packages suspected as outdated: 27 of 336
+</p>
+
+</body>
+</section>
+</chapter>
+</guide>

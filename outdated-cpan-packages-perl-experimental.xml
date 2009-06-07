@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.4 2009/06/05 07:50:30 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.5 2009/06/07 11:20:37 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-06-05</date>
+<date>2009-06-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,6 +65,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.06</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::authentication&amp;mode=all">Catalyst-Plugin-Authentication</uri></ti>
+    <ti align="right">0.10011</ti>
+    <ti align="right">0.10012</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::authorization::acl&amp;mode=all">Catalyst-Plugin-Authorization-ACL</uri></ti>
     <ti align="right">0.10</ti>
     <ti align="right">0.11</ti>
@@ -98,6 +103,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::store::fastmmap&amp;mode=all">Catalyst-Plugin-Session-Store-FastMmap</uri></ti>
     <ti align="right">0.09</ti>
     <ti align="right">0.10</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::runtime&amp;mode=all">Catalyst-Runtime</uri></ti>
+    <ti align="right">5.80004</ti>
+    <ti align="right">5.80005</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cgi::application::plugin::json&amp;mode=all">CGI-Application-Plugin-JSON</uri></ti>
@@ -135,14 +145,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.07001</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::emulate::class::accessor::fast&amp;mode=all">MooseX-Emulate-Class-Accessor-Fast</uri></ti>
-    <ti align="right">0.00802</ti>
-    <ti align="right">0.00900</ti>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::methodattributes&amp;mode=all">MooseX-MethodAttributes</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right">0.14</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 338
+Total packages suspected as outdated: 20 of 338
 </p>
 
 </body>

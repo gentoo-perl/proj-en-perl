@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1361 2009/06/07 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1362 2009/06/07 09:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -80,6 +80,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.576</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=crypt::rsa&amp;mode=all">crypt-rsa</uri></ti>
+    <ti align="right">1.98</ti>
+    <ti align="right">1.99</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
     <ti align="right">4.010</ti>
     <ti align="right">4.011</ti>
@@ -103,6 +108,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=dcop::amarok::player&amp;mode=all">DCOP-Amarok-Player</uri></ti>
     <ti align="right">0.036</ti>
     <ti align="right">0.037</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::send&amp;mode=all">Email-Send</uri></ti>
+    <ti align="right">2.194</ti>
+    <ti align="right">2.195</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
@@ -172,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 834
+Total packages suspected as outdated: 26 of 834
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1364 2009/06/08 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1365 2009/06/08 17:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.06</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
+    <ti align="right">2.50</ti>
+    <ti align="right">2.51</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
     <ti align="right">0.571</ti>
     <ti align="right">0.576</ti>
@@ -73,6 +78,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
     <ti align="right">2.118</ti>
     <ti align="right">2.131</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbi&amp;mode=all">DBI</uri></ti>
+    <ti align="right">1.608</ti>
+    <ti align="right">1.609</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
@@ -130,6 +140,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=return::value&amp;mode=all">Return-Value</uri></ti>
+    <ti align="right">1.302</ti>
+    <ti align="right">1.666000</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sphinx::search&amp;mode=all">Sphinx-Search</uri></ti>
     <ti align="right">0.15</ti>
     <ti align="right">0.22</ti>
@@ -137,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 835
+Total packages suspected as outdated: 20 of 835
 </p>
 
 </body>

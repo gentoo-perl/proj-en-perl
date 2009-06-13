@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.10 2009/06/12 09:54:21 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.11 2009/06/13 06:57:13 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-06-12</date>
+<date>2009-06-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,9 +50,9 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=autoxs::header&amp;mode=all">AutoXS-Header</uri></ti>
-    <ti align="right">1.01</ti>
-    <ti align="right">1.02</ti>
+    <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri></ti>
+    <ti align="right">0.30</ti>
+    <ti align="right">0.32</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
@@ -60,14 +60,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.18</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::c3::adopt::next&amp;mode=all">Class-C3-Adopt-NEXT</uri></ti>
-    <ti align="right">0.11</ti>
-    <ti align="right">0.12</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::xsaccessor::array&amp;mode=all">Class-XSAccessor-Array</uri></ti>
-    <ti align="right">1.03</ti>
-    <ti align="right">1.04</ti>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::engine::http::prefork&amp;mode=all">Catalyst-Engine-HTTP-Prefork</uri></ti>
+    <ti align="right">0.50</ti>
+    <ti align="right">0.51</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::jfdi&amp;mode=all">Config-JFDI</uri></ti>
@@ -80,14 +75,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.08106</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=devel::ppport&amp;mode=all">Devel-PPPort</uri> (virtual/perl-Devel-PPPort)</ti>
+    <ti align="right">3.17</ti>
+    <ti align="right">3.18</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=extutils::makemaker&amp;mode=all">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.50</ti>
     <ti align="right">6.52</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::abstract&amp;mode=all">Pod-Abstract</uri></ti>
-    <ti align="right">0.17</ti>
-    <ti align="right">0.18</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sql::translator&amp;mode=all">SQL-Translator</uri></ti>
@@ -95,19 +90,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.09006</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=syntax::highlight::engine::kate&amp;mode=all">Syntax-Highlight-Engine-Kate</uri></ti>
-    <ti align="right">0.04</ti>
-    <ti align="right">0.05</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=threads&amp;mode=all">threads</uri> (virtual/perl-threads)</ti>
-    <ti align="right">1.72</ti>
-    <ti align="right">1.73</ti>
+    <ti><uri link="http://search.cpan.org/search?query=universal::can&amp;mode=all">UNIVERSAL-can</uri></ti>
+    <ti align="right">1.12</ti>
+    <ti align="right">1.14</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 11 of 342
+Total packages suspected as outdated: 9 of 342
 </p>
 
 </body>

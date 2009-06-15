@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1382 2009/06/15 01:52:19 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1383 2009/06/15 17:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=archive::tar&amp;mode=all">Archive-Tar</uri> (virtual/perl-Archive-Tar)</ti>
-    <ti align="right">1.50</ti>
-    <ti align="right">1.52</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
@@ -65,9 +60,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.576</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::format::natural&amp;mode=all">DateTime-Format-Natural</uri></ti>
-    <ti align="right">0.76</ti>
-    <ti align="right">0.77</ti>
+    <ti><uri link="http://search.cpan.org/search?query=cpan::mini::inject&amp;mode=all">CPAN-Mini-Inject</uri></ti>
+    <ti align="right">0.25</ti>
+    <ti align="right">0.26</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
@@ -95,14 +90,9 @@ will curb some of the bugs to boot).
     <ti align="right">3.23</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::attributehelpers&amp;mode=all">MooseX-AttributeHelpers</uri></ti>
-    <ti align="right">0.1801</ti>
-    <ti align="right">0.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::types&amp;mode=all">MooseX-Types</uri></ti>
-    <ti align="right">0.11</ti>
-    <ti align="right">0.12</ti>
+    <ti><uri link="http://search.cpan.org/search?query=path::class&amp;mode=all">Path-Class</uri></ti>
+    <ti align="right">0.16</ti>
+    <ti align="right">0.17</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
@@ -132,7 +122,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 866
+Total packages suspected as outdated: 14 of 867
 </p>
 
 </body>

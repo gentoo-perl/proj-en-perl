@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1394 2009/06/21 01:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1395 2009/06/21 17:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
-    <ti align="right">0.14</ti>
-    <ti align="right">0.16</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
@@ -105,21 +100,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.23</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=libintl::perl&amp;mode=all">libintl-perl</uri></ti>
-    <ti align="right">1.18</ti>
-    <ti align="right">1.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mail::imapclient&amp;mode=all">Mail-IMAPClient</uri></ti>
-    <ti align="right">3.18</ti>
-    <ti align="right">3.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::amazon&amp;mode=all">Net-Amazon</uri></ti>
-    <ti align="right">0.53</ti>
-    <ti align="right">0.54</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
     <ti align="right">0.65</ti>
     <ti align="right">0.73</ti>
@@ -130,24 +110,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perltidy&amp;mode=all">perltidy</uri></ti>
-    <ti align="right">20071205</ti>
-    <ti align="right">20090616</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=php::serialization&amp;mode=all">PHP-Serialization</uri></ti>
-    <ti align="right">0.31</ti>
-    <ti align="right">0.32</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=return::value&amp;mode=all">Return-Value</uri></ti>
     <ti align="right">1.302</ti>
     <ti align="right">1.666001</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=rpc::xml&amp;mode=all">RPC-XML</uri></ti>
-    <ti align="right">0.64</ti>
-    <ti align="right">0.65</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::weaken&amp;mode=all">Task-Weaken</uri></ti>
@@ -162,7 +127,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 868
+Total packages suspected as outdated: 15 of 868
 </p>
 
 </body>

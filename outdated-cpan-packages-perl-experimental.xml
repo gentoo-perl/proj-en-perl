@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.16 2009/06/21 15:04:26 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.17 2009/06/22 12:18:39 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-06-21</date>
+<date>2009-06-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=any::moose&amp;mode=all">Any-Moose</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right">0.10</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=app::nopaste&amp;mode=all">App-Nopaste</uri></ti>
     <ti align="right">0.10</ti>
     <ti align="right">0.11</ti>
@@ -70,19 +65,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.34</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
-    <ti align="right">1.17</ti>
-    <ti align="right">1.18</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::engine::http::prefork&amp;mode=all">Catalyst-Engine-HTTP-Prefork</uri></ti>
     <ti align="right">0.50</ti>
     <ti align="right">0.51</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
-    <ti align="right">0.23</ti>
-    <ti align="right">0.25</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::authentication&amp;mode=all">Catalyst-Plugin-Authentication</uri></ti>
@@ -115,9 +100,9 @@ will curb some of the bugs to boot).
     <ti align="right">6.52</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=formvalidator::simple&amp;mode=all">FormValidator-Simple</uri></ti>
     <ti align="right">0.23</ti>
-    <ti align="right">0.25</ti>
+    <ti align="right">0.28</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::abstract&amp;mode=all">Pod-Abstract</uri></ti>
@@ -137,7 +122,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 341
+Total packages suspected as outdated: 14 of 341
 </p>
 
 </body>

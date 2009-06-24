@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.18 2009/06/23 14:41:34 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.19 2009/06/24 10:42:33 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-06-23</date>
+<date>2009-06-24</date>
 
 <chapter>
 <title>Intro</title>
@@ -87,12 +87,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::jfdi&amp;mode=all">Config-JFDI</uri></ti>
     <ti align="right">0.05</ti>
-    <ti align="right">0.062</ti>
+    <ti align="right">0.063</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::class::timestamp&amp;mode=all">DBIx-Class-TimeStamp</uri></ti>
     <ti align="right">0.08</ti>
-    <ti align="right">0.09</ti>
+    <ti align="right">0.11</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::class::validation&amp;mode=all">DBIx-Class-Validation</uri></ti>
@@ -142,7 +142,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 322
+Total packages suspected as outdated: 18 of 321
 </p>
 
 </body>

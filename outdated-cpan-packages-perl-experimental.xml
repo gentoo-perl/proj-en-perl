@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.20 2009/06/25 10:43:45 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.21 2009/06/26 17:37:49 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-06-25</date>
+<date>2009-06-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,36 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::nopaste&amp;mode=all">App-Nopaste</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right">0.11</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri></ti>
-    <ti align="right">0.30</ti>
-    <ti align="right">0.32</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cache::fastmmap&amp;mode=all">Cache-FastMmap</uri></ti>
-    <ti align="right">1.30</ti>
-    <ti align="right">1.34</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::engine::http::prefork&amp;mode=all">Catalyst-Engine-HTTP-Prefork</uri></ti>
-    <ti align="right">0.50</ti>
-    <ti align="right">0.51</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::authentication&amp;mode=all">Catalyst-Plugin-Authentication</uri></ti>
-    <ti align="right">0.10012</ti>
-    <ti align="right">0.10013</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session&amp;mode=all">Catalyst-Plugin-Session</uri></ti>
-    <ti align="right">0.23</ti>
-    <ti align="right">0.24</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::store::fastmmap&amp;mode=all">Catalyst-Plugin-Session-Store-FastMmap</uri></ti>
     <ti align="right">0.10</ti>
     <ti align="right">0.11</ti>
@@ -88,16 +58,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=config::jfdi&amp;mode=all">Config-JFDI</uri></ti>
     <ti align="right">0.05</ti>
     <ti align="right">0.063</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbix::class::timestamp&amp;mode=all">DBIx-Class-TimeStamp</uri></ti>
-    <ti align="right">0.08</ti>
-    <ti align="right">0.11</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbix::class::validation&amp;mode=all">DBIx-Class-Validation</uri></ti>
-    <ti align="right">0.02003</ti>
-    <ti align="right">0.02004</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::ppport&amp;mode=all">Devel-PPPort</uri> (virtual/perl-Devel-PPPort)</ti>
@@ -110,44 +70,19 @@ will curb some of the bugs to boot).
     <ti align="right">6.52</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=formvalidator::simple&amp;mode=all">FormValidator-Simple</uri></ti>
-    <ti align="right">0.23</ti>
-    <ti align="right">0.28</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=orlite&amp;mode=all">ORLite</uri></ti>
     <ti align="right">1.22</ti>
     <ti align="right">1.23</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::abstract&amp;mode=all">Pod-Abstract</uri></ti>
-    <ti align="right">0.18</ti>
-    <ti align="right">0.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sql::translator&amp;mode=all">SQL-Translator</uri></ti>
-    <ti align="right">0.09004</ti>
-    <ti align="right">0.09006</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=threads::shared&amp;mode=all">threads-shared</uri> (virtual/perl-threads-shared)</ti>
     <ti align="right">1.28</ti>
     <ti align="right">1.29</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=universal::can&amp;mode=all">UNIVERSAL-can</uri></ti>
-    <ti align="right">1.14</ti>
-    <ti align="right">1.15</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=universal::isa&amp;mode=all">UNIVERSAL-isa</uri></ti>
-    <ti align="right">1.02</ti>
-    <ti align="right">1.03</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 321
+Total packages suspected as outdated: 6 of 323
 </p>
 
 </body>

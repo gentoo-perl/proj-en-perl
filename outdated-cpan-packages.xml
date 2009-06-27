@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1407 2009/06/27 09:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1408 2009/06/27 17:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -105,11 +105,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.25</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::types&amp;mode=all">MooseX-Types</uri></ti>
-    <ti align="right">0.13</ti>
-    <ti align="right">0.14</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
     <ti align="right">0.65</ti>
     <ti align="right">0.73</ti>
@@ -118,6 +113,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=pdf::create&amp;mode=all">PDF-Create</uri></ti>
     <ti align="right">0.061</ti>
     <ti align="right">1.03</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=proc::simple&amp;mode=all">Proc-Simple</uri></ti>
+    <ti align="right">1.24</ti>
+    <ti align="right">1.25</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=return::value&amp;mode=all">Return-Value</uri></ti>
@@ -130,6 +130,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=time::piece&amp;mode=all">Time-Piece</uri> (virtual/perl-Time-Piece)</ti>
+    <ti align="right">1.14</ti>
+    <ti align="right">1.15</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::autowriter&amp;mode=all">XML-AutoWriter</uri></ti>
     <ti align="right">0.39</ti>
     <ti align="right">0.4</ti>
@@ -137,7 +142,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 936
+Total packages suspected as outdated: 18 of 936
 </p>
 
 </body>

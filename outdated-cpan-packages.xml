@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1411 2009/06/29 09:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1412 2009/06/29 17:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,14 +50,14 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=archive::zip&amp;mode=all">Archive-Zip</uri></ti>
+    <ti align="right">1.28</ti>
+    <ti align="right">1.29</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
-    <ti align="right">2.51</ti>
-    <ti align="right">2.52</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan&amp;mode=all">CPAN</uri> (virtual/perl-CPAN)</ti>
@@ -100,11 +100,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::temp&amp;mode=all">File-Temp</uri> (virtual/perl-File-Temp)</ti>
-    <ti align="right">0.21</ti>
-    <ti align="right">0.22</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::parser&amp;mode=all">HTML-Parser</uri></ti>
     <ti align="right">3.60</ti>
     <ti align="right">3.61</ti>
@@ -115,9 +110,9 @@ will curb some of the bugs to boot).
     <ti align="right">3.25</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::types&amp;mode=all">MooseX-Types</uri></ti>
-    <ti align="right">0.14</ti>
-    <ti align="right">0.15</ti>
+    <ti><uri link="http://search.cpan.org/search?query=libintl::perl&amp;mode=all">libintl-perl</uri></ti>
+    <ti align="right">1.19</ti>
+    <ti align="right">1.20</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
@@ -140,19 +135,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.666001</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=safe&amp;mode=all">Safe</uri> (virtual/perl-Safe)</ti>
-    <ti align="right">2.16</ti>
-    <ti align="right">2.17</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::weaken&amp;mode=all">Task-Weaken</uri></ti>
     <ti align="right">1.02</ti>
     <ti align="right">1.03</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=time::piece&amp;mode=all">Time-Piece</uri> (virtual/perl-Time-Piece)</ti>
-    <ti align="right">1.14</ti>
-    <ti align="right">1.15</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::autowriter&amp;mode=all">XML-AutoWriter</uri></ti>
@@ -162,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 936
+Total packages suspected as outdated: 19 of 936
 </p>
 
 </body>

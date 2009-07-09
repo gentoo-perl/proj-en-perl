@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1439 2009/07/09 09:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1440 2009/07/09 17:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
+    <ti align="right">4.8</ti>
+    <ti align="right">4.81</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
@@ -78,6 +83,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
     <ti align="right">2.118</ti>
     <ti align="right">2.131</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::class&amp;mode=all">DBIx-Class</uri></ti>
+    <ti align="right">0.08107</ti>
+    <ti align="right">0.08108</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
@@ -145,9 +155,19 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=rpc::xml&amp;mode=all">RPC-XML</uri></ti>
+    <ti align="right">0.65</ti>
+    <ti align="right">0.66</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::toolkit&amp;mode=all">Template-Toolkit</uri></ti>
     <ti align="right">2.20</ti>
     <ti align="right">2.21</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=www::curl&amp;mode=all">WWW-Curl</uri></ti>
+    <ti align="right">4.08</ti>
+    <ti align="right">4.09</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::autowriter&amp;mode=all">XML-AutoWriter</uri></ti>
@@ -157,7 +177,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 946
+Total packages suspected as outdated: 25 of 946
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.28 2009/07/08 10:57:26 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.29 2009/07/09 07:17:02 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-07-08</date>
+<date>2009-07-09</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.11</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session&amp;mode=all">Catalyst-Plugin-Session</uri></ti>
+    <ti align="right">0.24</ti>
+    <ti align="right">0.25</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::store::dbic&amp;mode=all">Catalyst-Plugin-Session-Store-DBIC</uri></ti>
     <ti align="right">0.09</ti>
     <ti align="right">0.10</ti>
@@ -115,6 +120,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.12</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=encode&amp;mode=all">Encode</uri> (virtual/perl-Encode)</ti>
+    <ti align="right">2.33</ti>
+    <ti align="right">2.34</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=extutils::makemaker&amp;mode=all">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.50</ti>
     <ti align="right">6.54</ti>
@@ -123,6 +133,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=file::changenotify&amp;mode=all">File-ChangeNotify</uri></ti>
     <ti align="right">0.06</ti>
     <ti align="right">0.07</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::find::rule::vcs&amp;mode=all">File-Find-Rule-VCS</uri></ti>
+    <ti align="right">1.05</ti>
+    <ti align="right">1.06</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::formfu::model::dbic&amp;mode=all">HTML-FormFu-Model-DBIC</uri></ti>
@@ -162,7 +177,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 315
+Total packages suspected as outdated: 25 of 315
 </p>
 
 </body>

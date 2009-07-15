@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.32 2009/07/11 18:00:18 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.33 2009/07/15 19:11:10 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-07-11</date>
+<date>2009-07-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,9 +55,29 @@ will curb some of the bugs to boot).
     <ti align="right">0.12</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::state::uri&amp;mode=all">Catalyst-Plugin-Session-State-URI</uri></ti>
+    <ti align="right">0.09</ti>
+    <ti align="right">0.10</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=crypt::skip32&amp;mode=all">Crypt-Skip32</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right">0.14</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::class::querylog&amp;mode=all">DBIx-Class-QueryLog</uri></ti>
+    <ti align="right">1.15</ti>
+    <ti align="right">1.20</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::class::validation&amp;mode=all">DBIx-Class-Validation</uri></ti>
     <ti align="right">0.02004</ti>
     <ti align="right">0.02005</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=encode&amp;mode=all">Encode</uri> (virtual/perl-Encode)</ti>
+    <ti align="right">2.34</ti>
+    <ti align="right">2.35</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=extutils::makemaker&amp;mode=all">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
@@ -65,14 +85,14 @@ will curb some of the bugs to boot).
     <ti align="right">6.54</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=parse::exuberantctags&amp;mode=all">Parse-ExuberantCTags</uri></ti>
-    <ti align="right">1.00</ti>
-    <ti align="right">1.01</ti>
+    <ti><uri link="http://search.cpan.org/search?query=ppix::editortools&amp;mode=all">PPIx-EditorTools</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right">0.06</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 317
+Total packages suspected as outdated: 8 of 317
 </p>
 
 </body>

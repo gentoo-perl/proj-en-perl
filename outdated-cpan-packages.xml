@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1454 2009/07/15 17:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1455 2009/07/16 01:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-07-15</date>
+<date>2009-07-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,11 +70,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.26</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::format::strptime&amp;mode=all">DateTime-Format-Strptime</uri></ti>
-    <ti align="right">1.0901</ti>
-    <ti align="right">1.1000</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
     <ti align="right">4.011</ti>
     <ti align="right">4.012</ti>
@@ -105,14 +100,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.037</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::send&amp;mode=all">Email-Send</uri></ti>
-    <ti align="right">2.197</ti>
-    <ti align="right">2.198</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
-    <ti align="right">0.091870</ti>
-    <ti align="right">0.091940</ti>
+    <ti><uri link="http://search.cpan.org/search?query=devel::stacktrace&amp;mode=all">Devel-StackTrace</uri></ti>
+    <ti align="right">1.21</ti>
+    <ti align="right">1.22</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=glib::perl&amp;mode=all">glib-perl</uri></ti>
@@ -130,19 +120,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.05</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::parser&amp;mode=all">HTML-Parser</uri></ti>
-    <ti align="right">3.60</ti>
-    <ti align="right">3.61</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">3.17</ti>
     <ti align="right">3.261</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::zlib&amp;mode=all">IO-Zlib</uri> (virtual/perl-IO-Zlib)</ti>
-    <ti align="right">1.09</ti>
-    <ti align="right">1.10</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=libintl::perl&amp;mode=all">libintl-perl</uri></ti>
@@ -165,34 +145,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.73</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pdf::create&amp;mode=all">PDF-Create</uri></ti>
-    <ti align="right">0.061</ti>
-    <ti align="right">1.04</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=php::serialization&amp;mode=all">PHP-Serialization</uri></ti>
-    <ti align="right">0.32</ti>
-    <ti align="right">0.33</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::toolkit&amp;mode=all">Template-Toolkit</uri></ti>
     <ti align="right">2.20</ti>
     <ti align="right">2.21</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::inline&amp;mode=all">Test-Inline</uri></ti>
-    <ti align="right">2.210</ti>
-    <ti align="right">2.211</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::pod&amp;mode=all">Test-Pod</uri></ti>
     <ti align="right">1.26</ti>
     <ti align="right">1.40</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=www::mechanize&amp;mode=all">WWW-Mechanize</uri></ti>
-    <ti align="right">1.56</ti>
-    <ti align="right">1.58</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::autowriter&amp;mode=all">XML-AutoWriter</uri></ti>
@@ -202,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 945
+Total packages suspected as outdated: 22 of 945
 </p>
 
 </body>

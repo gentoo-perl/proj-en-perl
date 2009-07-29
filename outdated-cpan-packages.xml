@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1489 2009/07/28 17:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1490 2009/07/29 01:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-07-28</date>
+<date>2009-07-29</date>
 
 <chapter>
 <title>Intro</title>
@@ -85,6 +85,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.15</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=date::calc&amp;mode=all">Date-Calc</uri></ti>
+    <ti align="right">5.4</ti>
+    <ti align="right">5.6</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
     <ti align="right">4.011</ti>
     <ti align="right">4.012</ti>
@@ -92,7 +97,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
     <ti align="right">2.118</ti>
-    <ti align="right">2.140</ti>
+    <ti align="right">2.141</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dcop::amarok&amp;mode=all">DCOP-Amarok</uri></ti>
@@ -132,6 +137,11 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::webkit&amp;mode=all">Gtk2-WebKit</uri></ti>
     <ti align="right">0.04</ti>
+    <ti align="right">0.06</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=http::response::encoding&amp;mode=all">HTTP-Response-Encoding</uri></ti>
+    <ti align="right">0.05</ti>
     <ti align="right">0.06</ti>
   </tr>
   <tr>
@@ -207,7 +217,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 31 of 946
+Total packages suspected as outdated: 33 of 946
 </p>
 
 </body>

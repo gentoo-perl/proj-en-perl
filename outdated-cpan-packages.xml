@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1498 2009/07/31 17:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1499 2009/08/01 01:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-07-31</date>
+<date>2009-08-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -130,6 +130,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.2002</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::next&amp;mode=all">File-Next</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right">1.04</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::which&amp;mode=all">File-Which</uri></ti>
     <ti align="right">0.05</ti>
     <ti align="right">1.07</ti>
@@ -148,6 +153,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=gtk2::webkit&amp;mode=all">Gtk2-WebKit</uri></ti>
     <ti align="right">0.04</ti>
     <ti align="right">0.06</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
+    <ti align="right">1.28</ti>
+    <ti align="right">1.29</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
@@ -237,7 +247,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 37 of 944
+Total packages suspected as outdated: 39 of 944
 </p>
 
 </body>

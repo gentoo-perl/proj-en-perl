@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1517 2009/08/10 17:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1518 2009/08/11 01:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-08-10</date>
+<date>2009-08-11</date>
 
 <chapter>
 <title>Intro</title>
@@ -62,7 +62,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=bit::vector&amp;mode=all">Bit-Vector</uri></ti>
     <ti align="right">6.6</ti>
-    <ti align="right">6.7</ti>
+    <ti align="right">6.8</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
@@ -170,6 +170,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.07</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::scandeps&amp;mode=all">Module-ScanDeps</uri></ti>
+    <ti align="right">0.93</ti>
+    <ti align="right">0.94</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::cups&amp;mode=all">Net-CUPS</uri></ti>
     <ti align="right">0.59</ti>
     <ti align="right">0.60</ti>
@@ -215,6 +220,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.05</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::deep&amp;mode=all">Test-Deep</uri></ti>
+    <ti align="right">0.104</ti>
+    <ti align="right">0.106</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::autowriter&amp;mode=all">XML-AutoWriter</uri></ti>
     <ti align="right">0.39</ti>
     <ti align="right">0.4</ti>
@@ -229,10 +239,15 @@ will curb some of the bugs to boot).
     <ti align="right">1.44</ti>
     <ti align="right">1.45</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=yaml&amp;mode=all">yaml</uri></ti>
+    <ti align="right">0.68</ti>
+    <ti align="right">0.70</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 36 of 943
+Total packages suspected as outdated: 39 of 943
 </p>
 
 </body>

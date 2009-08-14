@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1526 2009/08/14 09:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1527 2009/08/14 17:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,9 +60,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.28</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=bit::vector&amp;mode=all">Bit-Vector</uri></ti>
-    <ti align="right">6.8</ti>
-    <ti align="right">6.9</ti>
+    <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
+    <ti align="right">3.44</ti>
+    <ti align="right">3.45</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
@@ -103,11 +103,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=dcop::amarok::player&amp;mode=all">DCOP-Amarok-Player</uri></ti>
     <ti align="right">0.036</ti>
     <ti align="right">0.037</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel::declare&amp;mode=all">Devel-Declare</uri></ti>
-    <ti align="right">0.005007</ti>
-    <ti align="right">0.005011</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::valid&amp;mode=all">Email-Valid</uri></ti>
@@ -272,7 +267,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 44 of 943
+Total packages suspected as outdated: 43 of 943
 </p>
 
 </body>

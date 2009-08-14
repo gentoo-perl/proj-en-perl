@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.40 2009/08/13 04:41:23 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.41 2009/08/14 17:07:49 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-08-13</date>
+<date>2009-08-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -67,7 +67,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::configloader&amp;mode=all">Catalyst-Plugin-ConfigLoader</uri></ti>
     <ti align="right">0.24</ti>
-    <ti align="right">0.26</ti>
+    <ti align="right">0.27</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::fillinform&amp;mode=all">Catalyst-Plugin-FillInForm</uri></ti>
@@ -110,6 +110,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.12</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mojomojo&amp;mode=all">MojoMojo</uri></ti>
+    <ti align="right">0.999032</ti>
+    <ti align="right">0.999033</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::semiaffordanceaccessor&amp;mode=all">MooseX-SemiAffordanceAccessor</uri></ti>
     <ti align="right">0.04</ti>
     <ti align="right">0.05</ti>
@@ -147,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 318
+Total packages suspected as outdated: 20 of 318
 </p>
 
 </body>

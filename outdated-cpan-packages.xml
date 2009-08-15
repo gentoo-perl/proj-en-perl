@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1528 2009/08/15 01:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1529 2009/08/15 17:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -68,11 +68,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=class::dbi&amp;mode=all">Class-DBI</uri></ti>
     <ti align="right">3.017</ti>
     <ti align="right">3.06</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::mop&amp;mode=all">Class-MOP</uri></ti>
-    <ti align="right">0.91</ti>
-    <ti align="right">0.92</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
@@ -155,44 +150,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.20</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=libwww::perl&amp;mode=all">libwww-perl</uri></ti>
-    <ti align="right">5.830</ti>
-    <ti align="right">5.831</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=lwpx::paranoidagent&amp;mode=all">LWPx-ParanoidAgent</uri></ti>
-    <ti align="right">1.06</ti>
-    <ti align="right">1.07</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=marc::xml&amp;mode=all">MARC-XML</uri></ti>
     <ti align="right">0.88</ti>
     <ti align="right">0.92</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::calc::units&amp;mode=all">Math-Calc-Units</uri></ti>
-    <ti align="right">1.06</ti>
-    <ti align="right">1.07</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::scandeps&amp;mode=all">Module-ScanDeps</uri></ti>
-    <ti align="right">0.93</ti>
-    <ti align="right">0.94</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moose&amp;mode=all">Moose</uri></ti>
-    <ti align="right">0.88</ti>
-    <ti align="right">0.89</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::cups&amp;mode=all">Net-CUPS</uri></ti>
-    <ti align="right">0.59</ti>
-    <ti align="right">0.60</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::upnp&amp;mode=all">Net-UPnP</uri></ti>
-    <ti align="right">1.41</ti>
-    <ti align="right">1.42</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pango&amp;mode=all">Pango</uri></ti>
@@ -255,11 +215,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::rai&amp;mode=all">XML-RAI</uri></ti>
-    <ti align="right">1.3022</ti>
-    <ti align="right">1.3031</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::rss&amp;mode=all">XML-RSS</uri></ti>
     <ti align="right">1.44</ti>
     <ti align="right">1.45</ti>
@@ -267,7 +222,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 43 of 943
+Total packages suspected as outdated: 34 of 943
 </p>
 
 </body>

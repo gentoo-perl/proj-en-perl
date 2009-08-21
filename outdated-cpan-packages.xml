@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1539 2009/08/20 09:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1540 2009/08/21 01:52:22 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-08-20</date>
+<date>2009-08-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -112,7 +112,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=getopt::long::descriptive&amp;mode=all">Getopt-Long-Descriptive</uri></ti>
     <ti align="right">0.074</ti>
-    <ti align="right">0.075</ti>
+    <ti align="right">0.076</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=glib::perl&amp;mode=all">glib-perl</uri></ti>
@@ -168,11 +168,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=mime::lite&amp;mode=all">MIME-Lite</uri></ti>
     <ti align="right">3.024</ti>
     <ti align="right">3.025</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::types&amp;mode=all">MooseX-Types</uri></ti>
-    <ti align="right">0.16</ti>
-    <ti align="right">0.17</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::datetime::butmaintained&amp;mode=all">MooseX-Types-DateTime-ButMaintained</uri></ti>
@@ -233,6 +228,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::base&amp;mode=all">Test-Base</uri></ti>
+    <ti align="right">0.58</ti>
+    <ti align="right">0.59</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::mechanize&amp;mode=all">WWW-Mechanize</uri></ti>

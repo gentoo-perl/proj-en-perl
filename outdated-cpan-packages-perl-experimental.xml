@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.43 2009/08/21 10:17:36 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.44 2009/08/22 13:06:49 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-08-21</date>
+<date>2009-08-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=autoloader&amp;mode=all">AutoLoader</uri> (virtual/perl-AutoLoader)</ti>
-    <ti align="right">5.68</ti>
-    <ti align="right">5.69</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::model::adaptor&amp;mode=all">Catalyst-Model-Adaptor</uri></ti>
     <ti align="right">0.03</ti>
     <ti align="right">0.05</ti>
@@ -88,6 +83,21 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::state::cookie&amp;mode=all">Catalyst-Plugin-Session-State-Cookie</uri></ti>
     <ti align="right">0.11</ti>
     <ti align="right">0.13</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::static::simple&amp;mode=all">Catalyst-Plugin-Static-Simple</uri></ti>
+    <ti align="right">0.21</ti>
+    <ti align="right">0.22</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::runtime&amp;mode=all">Catalyst-Runtime</uri></ti>
+    <ti align="right">5.80007</ti>
+    <ti align="right">5.80010</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalystx::declare&amp;mode=all">CatalystX-Declare</uri></ti>
+    <ti align="right">0.008</ti>
+    <ti align="right">0.009</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cgi::application&amp;mode=all">CGI-Application</uri></ti>
@@ -140,6 +150,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.05</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::traits&amp;mode=all">MooseX-Traits</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right">0.07</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=orlite&amp;mode=all">ORLite</uri></ti>
     <ti align="right">1.23</ti>
     <ti align="right">1.25</ti>
@@ -179,10 +194,15 @@ will curb some of the bugs to boot).
     <ti align="right">1.29</ti>
     <ti align="right">1.31</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=www::facebook::api&amp;mode=all">WWW-Facebook-API</uri></ti>
+    <ti align="right">0.414</ti>
+    <ti align="right">0.415</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 329
+Total packages suspected as outdated: 30 of 333
 </p>
 
 </body>

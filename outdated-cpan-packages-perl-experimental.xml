@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.47 2009/08/26 18:54:42 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.48 2009/08/27 07:56:45 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-08-26</date>
+<date>2009-08-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -49,11 +49,30 @@ will curb some of the bugs to boot).
     <th>Version in perl-experimental</th>
     <th>Version on CPAN</th>
   </tr>
-  
+    <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
+    <ti align="right">0.76</ti>
+    <ti align="right">0.77</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::traits::pluggable&amp;mode=all">MooseX-Traits-Pluggable</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right">0.08</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::ldap::server::test&amp;mode=all">Net-LDAP-Server-Test</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right">0.08</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sub::exporter::formethods&amp;mode=all">Sub-Exporter-ForMethods</uri></ti>
+    <ti align="right">0.091810</ti>
+    <ti align="right">0.091970</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 0 of 369
+Total packages suspected as outdated: 4 of 377
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1563 2009/08/29 09:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1564 2009/08/29 17:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=array::compare&amp;mode=all">Array-Compare</uri></ti>
+    <ti align="right">1.17</ti>
+    <ti align="right">2.01</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.28</ti>
@@ -60,9 +65,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.576</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=extutils::cbuilder&amp;mode=all">ExtUtils-CBuilder</uri> (virtual/perl-ExtUtils-CBuilder)</ti>
+    <ti align="right">0.2603</ti>
+    <ti align="right">0.260301</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=extutils::parsexs&amp;mode=all">ExtUtils-ParseXS</uri> (virtual/perl-ExtUtils-ParseXS)</ti>
     <ti align="right">2.20</ti>
     <ti align="right">2.2002</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sdl::perl&amp;mode=all">sdl-perl</uri></ti>
+    <ti align="right">2.218</ti>
+    <ti align="right">2.221</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
@@ -77,7 +92,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 945
+Total packages suspected as outdated: 8 of 945
 </p>
 
 </body>

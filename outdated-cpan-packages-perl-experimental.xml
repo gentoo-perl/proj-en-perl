@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.50 2009/08/29 07:22:12 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.51 2009/08/30 13:47:38 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-08-29</date>
+<date>2009-08-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
+    <ti align="right">0.86</ti>
+    <ti align="right">0.87</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::coverage::trustpod&amp;mode=all">Pod-Coverage-TrustPod</uri></ti>
     <ti align="right">0.091470</ti>
     <ti align="right">0.092400</ti>
@@ -57,7 +62,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 1 of 417
+Total packages suspected as outdated: 2 of 419
 </p>
 
 </body>

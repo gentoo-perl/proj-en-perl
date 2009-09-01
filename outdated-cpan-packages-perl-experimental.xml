@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.51 2009/08/30 13:47:38 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.52 2009/09/01 04:03:22 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-08-30</date>
+<date>2009-09-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,9 +50,9 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
-    <ti align="right">0.86</ti>
-    <ti align="right">0.87</ti>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::authentication&amp;mode=all">Catalyst-Plugin-Authentication</uri></ti>
+    <ti align="right">0.10014</ti>
+    <ti align="right">0.10015</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::coverage::trustpod&amp;mode=all">Pod-Coverage-TrustPod</uri></ti>

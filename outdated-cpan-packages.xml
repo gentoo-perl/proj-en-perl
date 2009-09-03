@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1571 2009/09/02 01:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1572 2009/09/03 01:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-09-02</date>
+<date>2009-09-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,6 +65,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.08</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=bio::das&amp;mode=all">Bio-Das</uri></ti>
+    <ti align="right">1.12</ti>
+    <ti align="right">1.14</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=common::sense&amp;mode=all">common-sense</uri></ti>
     <ti align="right">1.0</ti>
     <ti align="right">2.0</ti>
@@ -95,6 +100,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::simple&amp;mode=all">Test-Simple</uri> (virtual/perl-Test-Simple)</ti>
+    <ti align="right">0.92</ti>
+    <ti align="right">0.94</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::autowriter&amp;mode=all">XML-AutoWriter</uri></ti>
     <ti align="right">0.39</ti>
     <ti align="right">0.4</ti>
@@ -102,7 +112,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 10 of 948
+Total packages suspected as outdated: 12 of 948
 </p>
 
 </body>

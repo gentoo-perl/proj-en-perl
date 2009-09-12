@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1591 2009/09/11 17:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1592 2009/09/12 01:52:32 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-09-11</date>
+<date>2009-09-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,6 +70,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.16</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
+    <ti align="right">0.97</ti>
+    <ti align="right">0.98</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=extutils::cbuilder&amp;mode=all">ExtUtils-CBuilder</uri> (virtual/perl-ExtUtils-CBuilder)</ti>
     <ti align="right">0.2603</ti>
     <ti align="right">0.260301</ti>
@@ -107,7 +112,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 11 of 952
+Total packages suspected as outdated: 12 of 952
 </p>
 
 </body>

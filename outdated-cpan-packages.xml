@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1594 2009/09/13 09:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1595 2009/09/13 17:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.2002</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=log::dispatch&amp;mode=all">log-dispatch</uri></ti>
+    <ti align="right">2.23</ti>
+    <ti align="right">2.24</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::snmp&amp;mode=all">Net-SNMP</uri></ti>
     <ti align="right">5.20</ti>
     <ti align="right">6.00</ti>
@@ -97,7 +102,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 9 of 952
+Total packages suspected as outdated: 10 of 952
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.59 2009/09/12 16:15:29 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.60 2009/09/13 19:44:45 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-09-12</date>
+<date>2009-09-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,9 +50,24 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::request::rest::forbrowsers&amp;mode=all">Catalyst-Request-REST-ForBrowsers</uri></ti>
+    <ti align="right">0.02</ti>
+    <ti align="right">0.03</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::runtime&amp;mode=all">Catalyst-Runtime</uri></ti>
     <ti align="right">5.80011</ti>
     <ti align="right">5.80012</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::view::tt&amp;mode=all">Catalyst-View-TT</uri></ti>
+    <ti align="right">0.29</ti>
+    <ti align="right">0.30</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalystx::declare&amp;mode=all">CatalystX-Declare</uri></ti>
+    <ti align="right">0.009</ti>
+    <ti align="right">0.010</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
@@ -79,10 +94,20 @@ will curb some of the bugs to boot).
     <ti align="right">0.007</ti>
     <ti align="right">0.008</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=parse::method::signatures&amp;mode=all">Parse-Method-Signatures</uri></ti>
+    <ti align="right">1.003011</ti>
+    <ti align="right">1.003012</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=trycatch&amp;mode=all">TryCatch</uri></ti>
+    <ti align="right">1.001001</ti>
+    <ti align="right">1.002000</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 6 of 427
+Total packages suspected as outdated: 11 of 427
 </p>
 
 </body>

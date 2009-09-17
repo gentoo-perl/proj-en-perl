@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1604 2009/09/17 01:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1605 2009/09/17 17:52:42 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,16 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.29</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::accessor&amp;mode=all">Class-Accessor</uri></ti>
-    <ti align="right">0.33</ti>
-    <ti align="right">0.34</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::mop&amp;mode=all">Class-MOP</uri></ti>
-    <ti align="right">0.92</ti>
-    <ti align="right">0.93</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=common::sense&amp;mode=all">common-sense</uri></ti>
     <ti align="right">1.0</ti>
     <ti align="right">2.0</ti>
@@ -100,6 +90,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.25</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mime::lite&amp;mode=all">MIME-Lite</uri></ti>
+    <ti align="right">3.025</ti>
+    <ti align="right">3.026</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::scandeps&amp;mode=all">Module-ScanDeps</uri></ti>
     <ti align="right">0.94</ti>
     <ti align="right">0.95</ti>
@@ -123,6 +118,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::script&amp;mode=all">Test-Script</uri></ti>
+    <ti align="right">1.05</ti>
+    <ti align="right">1.06</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::autowriter&amp;mode=all">XML-AutoWriter</uri></ti>

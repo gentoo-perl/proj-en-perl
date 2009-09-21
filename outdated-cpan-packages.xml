@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1613 2009/09/20 17:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1614 2009/09/21 09:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-09-20</date>
+<date>2009-09-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -90,6 +90,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.05</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=linux::inotify2&amp;mode=all">Linux-Inotify2</uri></ti>
+    <ti align="right">1.2</ti>
+    <ti align="right">1.21</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::irc&amp;mode=all">Net-IRC</uri></ti>
     <ti align="right">0.75</ti>
     <ti align="right">0.76</ti>
@@ -105,6 +110,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::class&amp;mode=all">Test-Class</uri></ti>
+    <ti align="right">0.31</ti>
+    <ti align="right">0.33</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::autowriter&amp;mode=all">XML-AutoWriter</uri></ti>
     <ti align="right">0.39</ti>
     <ti align="right">0.4</ti>
@@ -112,7 +122,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 954
+Total packages suspected as outdated: 14 of 954
 </p>
 
 </body>

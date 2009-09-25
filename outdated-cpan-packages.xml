@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1622 2009/09/24 17:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1623 2009/09/25 01:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-09-24</date>
+<date>2009-09-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=authen::sasl&amp;mode=all">Authen-SASL</uri></ti>
+    <ti align="right">2.12</ti>
+    <ti align="right">2.13</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.29</ti>
@@ -90,6 +95,16 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=timedate&amp;mode=all">TimeDate</uri></ti>
+    <ti align="right">1.17</ti>
+    <ti align="right">1.18</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
+    <ti align="right">0.92</ti>
+    <ti align="right">0.93</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::autowriter&amp;mode=all">XML-AutoWriter</uri></ti>
     <ti align="right">0.39</ti>
     <ti align="right">0.4</ti>
@@ -97,7 +112,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 9 of 954
+Total packages suspected as outdated: 12 of 954
 </p>
 
 </body>

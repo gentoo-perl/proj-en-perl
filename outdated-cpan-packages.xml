@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1631 2009/09/29 09:52:37 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1632 2009/09/29 17:52:22 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
+    <ti align="right">5.2</ti>
+    <ti align="right">5.201</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.29</ti>
@@ -80,9 +85,19 @@ will curb some of the bugs to boot).
     <ti align="right">1.09</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=http::server::simple&amp;mode=all">HTTP-Server-Simple</uri></ti>
+    <ti align="right">0.40</ti>
+    <ti align="right">0.41</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::irc&amp;mode=all">Net-IRC</uri></ti>
     <ti align="right">0.75</ti>
     <ti align="right">0.76</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sdl::perl&amp;mode=all">sdl-perl</uri></ti>
+    <ti align="right">2.227</ti>
+    <ti align="right">2.23</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
@@ -97,7 +112,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 9 of 955
+Total packages suspected as outdated: 12 of 955
 </p>
 
 </body>

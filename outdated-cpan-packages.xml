@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1635 2009/09/30 17:52:20 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1636 2009/10/01 01:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-09-30</date>
+<date>2009-10-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,19 +50,9 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
-    <ti align="right">5.2</ti>
-    <ti align="right">5.201</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.29</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=bit::vector&amp;mode=all">Bit-Vector</uri></ti>
-    <ti align="right">7.0</ti>
-    <ti align="right">7.1</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::isa&amp;mode=all">Class-ISA</uri> (virtual/perl-Class-ISA)</ti>
@@ -85,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">4.013</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=event&amp;mode=all">Event</uri></ti>
+    <ti align="right">1.12</ti>
+    <ti align="right">1.13</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=extutils::cbuilder&amp;mode=all">ExtUtils-CBuilder</uri> (virtual/perl-ExtUtils-CBuilder)</ti>
     <ti align="right">0.2603</ti>
     <ti align="right">0.260301</ti>
@@ -100,11 +95,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.42</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=http::server::simple&amp;mode=all">HTTP-Server-Simple</uri></ti>
-    <ti align="right">0.40</ti>
-    <ti align="right">0.41</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::irc&amp;mode=all">Net-IRC</uri></ti>
     <ti align="right">0.75</ti>
     <ti align="right">0.76</ti>
@@ -117,12 +107,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=soap::lite&amp;mode=all">SOAP-Lite</uri></ti>
     <ti align="right">0.71008</ti>
-    <ti align="right">0.71009</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=spreadsheet::parseexcel&amp;mode=all">Spreadsheet-ParseExcel</uri></ti>
-    <ti align="right">0.54</ti>
-    <ti align="right">0.55</ti>
+    <ti align="right">0.71010</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
@@ -137,7 +122,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 955
+Total packages suspected as outdated: 14 of 955
 </p>
 
 </body>

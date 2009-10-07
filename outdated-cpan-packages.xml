@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1644 2009/10/06 01:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1645 2009/10/07 01:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-10-06</date>
+<date>2009-10-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,21 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.29</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::accessor::grouped&amp;mode=all">Class-Accessor-Grouped</uri></ti>
-    <ti align="right">0.09000</ti>
-    <ti align="right">0.09001</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::isa&amp;mode=all">Class-ISA</uri> (virtual/perl-Class-ISA)</ti>
-    <ti align="right">0.35</ti>
-    <ti align="right">0.36</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=common::sense&amp;mode=all">common-sense</uri></ti>
-    <ti align="right">2.0</ti>
-    <ti align="right">2.01</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=convert::uulib&amp;mode=all">Convert-UUlib</uri></ti>
     <ti align="right">1.30</ti>
     <ti align="right">1.32</ti>
@@ -85,29 +70,14 @@ will curb some of the bugs to boot).
     <ti align="right">4.013</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=event&amp;mode=all">Event</uri></ti>
-    <ti align="right">1.12</ti>
-    <ti align="right">1.13</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=extutils::cbuilder&amp;mode=all">ExtUtils-CBuilder</uri> (virtual/perl-ExtUtils-CBuilder)</ti>
     <ti align="right">0.2603</ti>
     <ti align="right">0.260301</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=extutils::parsexs&amp;mode=all">ExtUtils-ParseXS</uri> (virtual/perl-ExtUtils-ParseXS)</ti>
-    <ti align="right">2.200401</ti>
-    <ti align="right">2.21</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::which&amp;mode=all">File-Which</uri></ti>
     <ti align="right">1.08</ti>
     <ti align="right">1.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=finance::quote&amp;mode=all">Finance-Quote</uri></ti>
-    <ti align="right">1.16</ti>
-    <ti align="right">1.17</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gearman&amp;mode=all">Gearman</uri></ti>
@@ -120,19 +90,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.10</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gnupg::interface&amp;mode=all">GnuPG-Interface</uri></ti>
-    <ti align="right">0.36</ti>
-    <ti align="right">0.42</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
-    <ti align="right">2.18</ti>
-    <ti align="right">2.20</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::getopt&amp;mode=all">MooseX-Getopt</uri></ti>
-    <ti align="right">0.22</ti>
-    <ti align="right">0.23</ti>
+    <ti><uri link="http://search.cpan.org/search?query=libwww::perl&amp;mode=all">libwww-perl</uri></ti>
+    <ti align="right">5.832</ti>
+    <ti align="right">5.833</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::irc&amp;mode=all">Net-IRC</uri></ti>
@@ -160,21 +120,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::csv_xs&amp;mode=all">Text-CSV_XS</uri></ti>
-    <ti align="right">0.67</ti>
-    <ti align="right">0.68</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::markdown&amp;mode=all">Text-Markdown</uri></ti>
-    <ti align="right">1.025</ti>
-    <ti align="right">1.026</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=variable::magic&amp;mode=all">Variable-Magic</uri></ti>
-    <ti align="right">0.37</ti>
-    <ti align="right">0.38</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::autowriter&amp;mode=all">XML-AutoWriter</uri></ti>
     <ti align="right">0.39</ti>
     <ti align="right">0.4</ti>
@@ -182,7 +127,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 955
+Total packages suspected as outdated: 15 of 958
 </p>
 
 </body>

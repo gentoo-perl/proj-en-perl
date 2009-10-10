@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1651 2009/10/10 09:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1652 2009/10/10 17:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -140,6 +140,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.71010</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sql::statement&amp;mode=all">SQL-Statement</uri></ti>
+    <ti align="right">1.20</ti>
+    <ti align="right">1.21</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
@@ -149,20 +154,10 @@ will curb some of the bugs to boot).
     <ti align="right">0.39</ti>
     <ti align="right">0.4</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::libxml&amp;mode=all">XML-LibXML</uri></ti>
-    <ti align="right">1.69</ti>
-    <ti align="right">1.70</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::libxslt&amp;mode=all">XML-LibXSLT</uri></ti>
-    <ti align="right">1.68</ti>
-    <ti align="right">1.70</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 958
+Total packages suspected as outdated: 21 of 968
 </p>
 
 </body>

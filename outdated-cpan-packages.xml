@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1653 2009/10/11 01:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1654 2009/10/11 17:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -77,7 +77,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
     <ti align="right">0.091940</ti>
-    <ti align="right">0.092820</ti>
+    <ti align="right">0.092840</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=extutils::cbuilder&amp;mode=all">ExtUtils-CBuilder</uri> (virtual/perl-ExtUtils-CBuilder)</ti>

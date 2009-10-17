@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1664 2009/10/17 01:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1665 2009/10/17 09:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -77,7 +77,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=carp::clan&amp;mode=all">Carp-Clan</uri></ti>
     <ti align="right">6.00</ti>
-    <ti align="right">6.01</ti>
+    <ti align="right">6.02</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=convert::uulib&amp;mode=all">Convert-UUlib</uri></ti>

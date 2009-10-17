@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1665 2009/10/17 09:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1666 2009/10/17 17:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,29 +55,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.45</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
-    <ti align="right">5.201</ti>
-    <ti align="right">5.202</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
     <ti align="right">0.40</ti>
     <ti align="right">0.90</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::nopaste&amp;mode=all">App-Nopaste</uri></ti>
-    <ti align="right">0.15</ti>
-    <ti align="right">0.16</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.29</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=carp::clan&amp;mode=all">Carp-Clan</uri></ti>
-    <ti align="right">6.00</ti>
-    <ti align="right">6.02</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=convert::uulib&amp;mode=all">Convert-UUlib</uri></ti>
@@ -98,6 +83,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=date::pcalc&amp;mode=all">Date-Pcalc</uri></ti>
     <ti align="right">6.0</ti>
     <ti align="right">6.1</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
+    <ti align="right">0.99</ti>
+    <ti align="right">1.00</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
@@ -130,11 +120,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.022</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=json&amp;mode=all">JSON</uri></ti>
-    <ti align="right">2.15</ti>
-    <ti align="right">2.16</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::client&amp;mode=all">MogileFS-Client</uri></ti>
     <ti align="right">1.08</ti>
     <ti align="right">1.09</ti>
@@ -155,16 +140,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.73</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
-    <ti align="right">1.269</ti>
-    <ti align="right">1.280</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=poe::test::loops&amp;mode=all">POE-Test-Loops</uri></ti>
-    <ti align="right">1.022</ti>
-    <ti align="right">1.030</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sdl::perl&amp;mode=all">sdl-perl</uri></ti>
     <ti align="right">2.227</ti>
     <ti align="right">2.231</ti>
@@ -180,14 +155,9 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::csv&amp;mode=all">Text-CSV</uri></ti>
-    <ti align="right">1.14</ti>
-    <ti align="right">1.15</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::csv_xs&amp;mode=all">Text-CSV_XS</uri></ti>
-    <ti align="right">0.68</ti>
-    <ti align="right">0.69</ti>
+    <ti><uri link="http://search.cpan.org/search?query=test::differences&amp;mode=all">Test-Differences</uri></ti>
+    <ti align="right">0.4801</ti>
+    <ti align="right">0.500</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::autowriter&amp;mode=all">XML-AutoWriter</uri></ti>
@@ -197,7 +167,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 970
+Total packages suspected as outdated: 23 of 970
 </p>
 
 </body>

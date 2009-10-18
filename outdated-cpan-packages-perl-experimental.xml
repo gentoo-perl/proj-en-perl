@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.72 2009/10/12 07:28:40 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.73 2009/10/18 21:40:19 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-10-12</date>
+<date>2009-10-18</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,9 +50,39 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::log::log4perl&amp;mode=all">Catalyst-Log-Log4perl</uri></ti>
+    <ti align="right">1.03</ti>
+    <ti align="right">1.04</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
+    <ti align="right">0.29</ti>
+    <ti align="right">0.31</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::authorization::acl&amp;mode=all">Catalyst-Plugin-Authorization-ACL</uri></ti>
+    <ti align="right">0.14</ti>
+    <ti align="right">0.15</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session&amp;mode=all">Catalyst-Plugin-Session</uri></ti>
     <ti align="right">0.26</ti>
     <ti align="right">0.27</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::state::cookie&amp;mode=all">Catalyst-Plugin-Session-State-Cookie</uri></ti>
+    <ti align="right">0.15</ti>
+    <ti align="right">0.17</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::state::uri&amp;mode=all">Catalyst-Plugin-Session-State-URI</uri></ti>
+    <ti align="right">0.12</ti>
+    <ti align="right">0.13</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::store::dbic&amp;mode=all">Catalyst-Plugin-Session-Store-DBIC</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right">0.11</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::store::delegate&amp;mode=all">Catalyst-Plugin-Session-Store-Delegate</uri></ti>
@@ -60,9 +90,34 @@ will curb some of the bugs to boot).
     <ti align="right">0.05</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::store::fastmmap&amp;mode=all">Catalyst-Plugin-Session-Store-FastMmap</uri></ti>
+    <ti align="right">0.11</ti>
+    <ti align="right">0.13</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::store::file&amp;mode=all">Catalyst-Plugin-Session-Store-File</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.18</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::store::memcached&amp;mode=all">Catalyst-Plugin-Session-Store-Memcached</uri></ti>
+    <ti align="right">0.03</ti>
+    <ti align="right">0.04</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::static::simple&amp;mode=all">Catalyst-Plugin-Static-Simple</uri></ti>
+    <ti align="right">0.23</ti>
+    <ti align="right">0.24</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::subrequest&amp;mode=all">Catalyst-Plugin-SubRequest</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right">0.14</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::unicode::encoding&amp;mode=all">Catalyst-Plugin-Unicode-Encoding</uri></ti>
+    <ti align="right">0.3</ti>
+    <ti align="right">0.4</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::view::contentnegotiation::xhtml&amp;mode=all">Catalyst-View-ContentNegotiation-XHTML</uri></ti>
@@ -75,9 +130,24 @@ will curb some of the bugs to boot).
     <ti align="right">0.011</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cgi::application::plugin::authentication&amp;mode=all">CGI-Application-Plugin-Authentication</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right">0.14</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=digest::whirlpool&amp;mode=all">Digest-Whirlpool</uri></ti>
+    <ti align="right">1.06</ti>
+    <ti align="right">1.07</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
+    <ti align="right">1.092680</ti>
+    <ti align="right">1.092850</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::compiletests&amp;mode=all">Dist-Zilla-Plugin-CompileTests</uri></ti>
     <ti align="right">1.092460</ti>
-    <ti align="right">1.092840</ti>
+    <ti align="right">1.092870</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::repository&amp;mode=all">Dist-Zilla-Plugin-Repository</uri></ti>
@@ -85,9 +155,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.11</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
-    <ti align="right">0.092361</ti>
-    <ti align="right">0.092830</ti>
+    <ti><uri link="http://search.cpan.org/search?query=html::superform&amp;mode=all">HTML-SuperForm</uri></ti>
+    <ti align="right">1.05</ti>
+    <ti align="right">1.06</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
@@ -95,19 +165,49 @@ will curb some of the bugs to boot).
     <ti align="right">0.92</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=local::lib&amp;mode=all">local-lib</uri></ti>
+    <ti align="right">1.004007</ti>
+    <ti align="right">1.004008</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moose::autobox&amp;mode=all">Moose-Autobox</uri></ti>
+    <ti align="right">0.09</ti>
+    <ti align="right">0.10</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::method::signatures&amp;mode=all">MooseX-Method-Signatures</uri></ti>
+    <ti align="right">0.28</ti>
+    <ti align="right">0.29</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::multimethods&amp;mode=all">MooseX-MultiMethods</uri></ti>
+    <ti align="right">0.08</ti>
+    <ti align="right">0.09</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::role::restricted&amp;mode=all">MooseX-Role-Restricted</uri></ti>
+    <ti align="right">1.01</ti>
+    <ti align="right">1.02</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::coverage::trustpod&amp;mode=all">Pod-Coverage-TrustPod</uri></ti>
     <ti align="right">0.092400</ti>
     <ti align="right">0.092830</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=threads::shared&amp;mode=all">threads-shared</uri> (virtual/perl-threads-shared)</ti>
+    <ti align="right">1.31</ti>
+    <ti align="right">1.32</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wx::perl::processstream&amp;mode=all">Wx-Perl-ProcessStream</uri></ti>
     <ti align="right">0.11</ti>
-    <ti align="right">0.20</ti>
+    <ti align="right">0.22</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 11 of 438
+Total packages suspected as outdated: 31 of 437
 </p>
 
 </body>

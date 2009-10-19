@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1669 2009/10/18 17:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1670 2009/10/19 01:52:20 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-10-18</date>
+<date>2009-10-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.76</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=perlbal&amp;mode=all">Perlbal</uri></ti>
+    <ti align="right">1.72</ti>
+    <ti align="right">1.73</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sdl::perl&amp;mode=all">sdl-perl</uri></ti>
     <ti align="right">2.227</ti>
     <ti align="right">2.231</ti>
@@ -157,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 970
+Total packages suspected as outdated: 22 of 970
 </p>
 
 </body>

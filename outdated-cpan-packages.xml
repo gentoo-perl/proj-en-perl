@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1675 2009/10/21 09:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1676 2009/10/22 01:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-10-21</date>
+<date>2009-10-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -63,6 +63,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.29</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cache::memcached&amp;mode=all">Cache-Memcached</uri></ti>
+    <ti align="right">1.27</ti>
+    <ti align="right">1.28</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=carp::clan&amp;mode=all">Carp-Clan</uri></ti>
@@ -187,7 +192,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 27 of 970
+Total packages suspected as outdated: 28 of 970
 </p>
 
 </body>

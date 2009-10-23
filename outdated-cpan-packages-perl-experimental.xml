@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.76 2009/10/22 06:05:08 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.77 2009/10/23 06:36:43 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-10-22</date>
+<date>2009-10-23</date>
 
 <chapter>
 <title>Intro</title>
@@ -122,7 +122,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::static::simple&amp;mode=all">Catalyst-Plugin-Static-Simple</uri></ti>
     <ti align="right">0.23</ti>
-    <ti align="right">0.24</ti>
+    <ti align="right">0.25</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::subrequest&amp;mode=all">Catalyst-Plugin-SubRequest</uri></ti>
@@ -190,6 +190,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.092941</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::multimarkdown&amp;mode=all">Text-MultiMarkdown</uri></ti>
+    <ti align="right">1.029</ti>
+    <ti align="right">1.030</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=webservice::musicbrainz&amp;mode=all">WebService-MusicBrainz</uri></ti>
     <ti align="right">0.90</ti>
     <ti align="right">0.91</ti>
@@ -202,7 +207,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 439
+Total packages suspected as outdated: 31 of 439
 </p>
 
 </body>

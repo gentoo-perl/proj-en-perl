@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1681 2009/10/24 01:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1682 2009/10/24 17:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -125,11 +125,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.022</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::load::conditional&amp;mode=all">Module-Load-Conditional</uri> (virtual/perl-Module-Load-Conditional)</ti>
-    <ti align="right">0.30</ti>
-    <ti align="right">0.32</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::client&amp;mode=all">MogileFS-Client</uri></ti>
     <ti align="right">1.08</ti>
     <ti align="right">1.09</ti>
@@ -138,11 +133,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::server&amp;mode=all">mogilefs-server</uri></ti>
     <ti align="right">2.30</ti>
     <ti align="right">2.32</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::getopt&amp;mode=all">MooseX-Getopt</uri></ti>
-    <ti align="right">0.23</ti>
-    <ti align="right">0.24</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::datetime::butmaintained&amp;mode=all">MooseX-Types-DateTime-ButMaintained</uri></ti>
@@ -155,9 +145,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.76</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::twitter&amp;mode=all">Net-Twitter</uri></ti>
-    <ti align="right">3.07003</ti>
-    <ti align="right">3.07004</ti>
+    <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
+    <ti align="right">2.44</ti>
+    <ti align="right">2.45</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perlbal&amp;mode=all">Perlbal</uri></ti>
@@ -180,11 +170,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri> (virtual/perl-version)</ti>
-    <ti align="right">0.7702</ti>
-    <ti align="right">0.78</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::autowriter&amp;mode=all">XML-AutoWriter</uri></ti>
     <ti align="right">0.39</ti>
     <ti align="right">0.4</ti>
@@ -192,7 +177,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 28 of 970
+Total packages suspected as outdated: 25 of 970
 </p>
 
 </body>

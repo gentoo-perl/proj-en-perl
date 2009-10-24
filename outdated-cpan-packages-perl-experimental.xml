@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.77 2009/10/23 06:36:43 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.78 2009/10/24 15:18:05 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-10-23</date>
+<date>2009-10-24</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,9 +50,9 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=business::creditcard&amp;mode=all">Business-CreditCard</uri></ti>
-    <ti align="right">0.30</ti>
-    <ti align="right">0.31</ti>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::action::renderview&amp;mode=all">Catalyst-Action-RenderView</uri></ti>
+    <ti align="right">0.11</ti>
+    <ti align="right">0.13</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
@@ -155,26 +155,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.14</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::jfdi&amp;mode=all">Config-JFDI</uri></ti>
-    <ti align="right">0.063</ti>
-    <ti align="right">0.064</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=crypt::util&amp;mode=all">Crypt-Util</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right">0.10</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=digest::whirlpool&amp;mode=all">Digest-Whirlpool</uri></ti>
-    <ti align="right">1.06</ti>
-    <ti align="right">1.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::superform&amp;mode=all">HTML-SuperForm</uri></ti>
-    <ti align="right">1.05</ti>
-    <ti align="right">1.06</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
     <ti align="right">0.90</ti>
     <ti align="right">0.92</ti>
@@ -190,24 +170,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.092941</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::multimarkdown&amp;mode=all">Text-MultiMarkdown</uri></ti>
-    <ti align="right">1.029</ti>
-    <ti align="right">1.030</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=webservice::musicbrainz&amp;mode=all">WebService-MusicBrainz</uri></ti>
     <ti align="right">0.90</ti>
     <ti align="right">0.91</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=wx::perl::processstream&amp;mode=all">Wx-Perl-ProcessStream</uri></ti>
-    <ti align="right">0.11</ti>
-    <ti align="right">0.22</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 31 of 439
+Total packages suspected as outdated: 25 of 439
 </p>
 
 </body>

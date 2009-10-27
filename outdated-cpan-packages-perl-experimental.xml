@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.80 2009/10/26 07:50:04 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.81 2009/10/27 07:08:21 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-10-26</date>
+<date>2009-10-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,11 +53,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=catalyst::action::renderview&amp;mode=all">Catalyst-Action-RenderView</uri></ti>
     <ti align="right">0.11</ti>
     <ti align="right">0.13</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
-    <ti align="right">1.20</ti>
-    <ti align="right">1.21</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::log::log4perl&amp;mode=all">Catalyst-Log-Log4perl</uri></ti>
@@ -160,9 +155,29 @@ will curb some of the bugs to boot).
     <ti align="right">0.08</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::ini::mvp&amp;mode=all">Config-INI-MVP</uri></ti>
+    <ti align="right">0.023</ti>
+    <ti align="right">0.024</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::mvp&amp;mode=all">Config-MVP</uri></ti>
+    <ti align="right">0.092360</ti>
+    <ti align="right">0.092990</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
+    <ti align="right">1.092930</ti>
+    <ti align="right">1.093000</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podweaver&amp;mode=all">Dist-Zilla-Plugin-PodWeaver</uri></ti>
+    <ti align="right">3.092971</ti>
+    <ti align="right">3.092990</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
-    <ti align="right">0.092830</ti>
     <ti align="right">0.092971</ti>
+    <ti align="right">0.092990</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
@@ -180,9 +195,14 @@ will curb some of the bugs to boot).
     <ti align="right">1.004008</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::elemental&amp;mode=all">Pod-Elemental</uri></ti>
-    <ti align="right">0.092940</ti>
-    <ti align="right">0.092970</ti>
+    <ti><uri link="http://search.cpan.org/search?query=mojomojo&amp;mode=all">MojoMojo</uri></ti>
+    <ti align="right">0.999040</ti>
+    <ti align="right">0.999041</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
+    <ti align="right">3.092972</ti>
+    <ti align="right">3.092990</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=webservice::musicbrainz&amp;mode=all">WebService-MusicBrainz</uri></ti>
@@ -192,7 +212,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 28 of 440
+Total packages suspected as outdated: 32 of 442
 </p>
 
 </body>

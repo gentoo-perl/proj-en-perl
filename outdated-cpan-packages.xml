@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1688 2009/10/28 17:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1689 2009/10/29 17:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-10-28</date>
+<date>2009-10-29</date>
 
 <chapter>
 <title>Intro</title>
@@ -125,6 +125,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.022</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::moose&amp;mode=all">IO-Moose</uri></ti>
+    <ti align="right">0.1003</ti>
+    <ti align="right">0.1004</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=lingua::en::inflect&amp;mode=all">Lingua-EN-Inflect</uri></ti>
     <ti align="right">1.89</ti>
     <ti align="right">1.891</ti>
@@ -133,6 +138,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=math::pari&amp;mode=all">math-pari</uri></ti>
     <ti align="right">2.010801</ti>
     <ti align="right">2.010802</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::load::conditional&amp;mode=all">Module-Load-Conditional</uri> (virtual/perl-Module-Load-Conditional)</ti>
+    <ti align="right">0.32</ti>
+    <ti align="right">0.34</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::client&amp;mode=all">MogileFS-Client</uri></ti>
@@ -197,7 +207,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 970
+Total packages suspected as outdated: 31 of 970
 </p>
 
 </body>

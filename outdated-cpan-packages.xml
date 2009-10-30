@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1691 2009/10/30 09:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1692 2009/10/30 17:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -93,6 +93,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=date::pcalc&amp;mode=all">Date-Pcalc</uri></ti>
     <ti align="right">6.0</ti>
     <ti align="right">6.1</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::format::natural&amp;mode=all">DateTime-Format-Natural</uri></ti>
+    <ti align="right">0.79</ti>
+    <ti align="right">0.80</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
@@ -212,7 +217,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 32 of 970
+Total packages suspected as outdated: 33 of 970
 </p>
 
 </body>

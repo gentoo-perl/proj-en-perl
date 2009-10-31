@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1693 2009/10/31 01:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1694 2009/10/31 17:52:22 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -87,7 +87,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=date::calc&amp;mode=all">Date-Calc</uri></ti>
     <ti align="right">6.0</ti>
-    <ti align="right">6.2</ti>
+    <ti align="right">6.3</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=date::pcalc&amp;mode=all">Date-Pcalc</uri></ti>
@@ -130,6 +130,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.07</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
+    <ti align="right">1.29</ti>
+    <ti align="right">1.30</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::compress&amp;mode=all">IO-Compress</uri> (virtual/perl-IO-Compress)</ti>
     <ti align="right">2.021</ti>
     <ti align="right">2.022</ti>
@@ -147,7 +152,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::pari&amp;mode=all">math-pari</uri></ti>
     <ti align="right">2.010801</ti>
-    <ti align="right">2.010803</ti>
+    <ti align="right">2.010804</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::load::conditional&amp;mode=all">Module-Load-Conditional</uri> (virtual/perl-Module-Load-Conditional)</ti>
@@ -217,7 +222,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 33 of 970
+Total packages suspected as outdated: 34 of 970
 </p>
 
 </body>

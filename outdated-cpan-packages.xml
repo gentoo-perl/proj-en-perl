@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1699 2009/11/02 17:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1700 2009/11/03 01:52:22 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-11-02</date>
+<date>2009-11-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -58,6 +58,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
     <ti align="right">0.40</ti>
     <ti align="right">0.90</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=app::nopaste&amp;mode=all">App-Nopaste</uri></ti>
+    <ti align="right">0.16</ti>
+    <ti align="right">0.17</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
@@ -215,6 +220,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.76</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::twitter&amp;mode=all">Net-Twitter</uri></ti>
+    <ti align="right">3.07004</ti>
+    <ti align="right">3.08000</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
     <ti align="right">2.44</ti>
     <ti align="right">2.45</ti>
@@ -257,7 +267,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 41 of 970
+Total packages suspected as outdated: 43 of 970
 </p>
 
 </body>

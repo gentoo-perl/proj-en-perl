@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1701 2009/11/03 09:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1702 2009/11/04 01:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-11-03</date>
+<date>2009-11-04</date>
 
 <chapter>
 <title>Intro</title>
@@ -95,6 +95,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.576</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::uuid&amp;mode=all">Data-UUID</uri></ti>
+    <ti align="right">1.202</ti>
+    <ti align="right">1.203</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=date::calc&amp;mode=all">Date-Calc</uri></ti>
     <ti align="right">6.0</ti>
     <ti align="right">6.3</ti>
@@ -128,6 +133,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
     <ti align="right">4.012</ti>
     <ti align="right">4.013</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::mime&amp;mode=all">Email-MIME</uri></ti>
+    <ti align="right">1.863</ti>
+    <ti align="right">1.900</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=extutils::cbuilder&amp;mode=all">ExtUtils-CBuilder</uri> (virtual/perl-ExtUtils-CBuilder)</ti>
@@ -267,7 +277,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 43 of 970
+Total packages suspected as outdated: 45 of 965
 </p>
 
 </body>

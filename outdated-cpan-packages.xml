@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1712 2009/11/09 01:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1713 2009/11/09 09:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -190,6 +190,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.30</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=imagesize&amp;mode=all">ImageSize</uri></ti>
+    <ti align="right">3.210</ti>
+    <ti align="right">3.220</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::compress&amp;mode=all">IO-Compress</uri> (virtual/perl-IO-Compress)</ti>
     <ti align="right">2.021</ti>
     <ti align="right">2.022</ti>
@@ -282,7 +287,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 46 of 965
+Total packages suspected as outdated: 47 of 965
 </p>
 
 </body>

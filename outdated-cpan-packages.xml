@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1713 2009/11/09 09:52:21 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1714 2009/11/10 01:52:21 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-11-09</date>
+<date>2009-11-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -85,6 +85,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=compress::raw::bzip2&amp;mode=all">Compress-Raw-Bzip2</uri> (virtual/perl-Compress-Raw-Bzip2)</ti>
+    <ti align="right">2.021</ti>
+    <ti align="right">2.023</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=convert::ber&amp;mode=all">Convert-BER</uri></ti>
     <ti align="right">1.3101</ti>
     <ti align="right">1.32</ti>
@@ -132,7 +137,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
     <ti align="right">1.01</ti>
-    <ti align="right">1.03</ti>
+    <ti align="right">1.04</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
@@ -287,7 +292,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 47 of 965
+Total packages suspected as outdated: 48 of 965
 </p>
 
 </body>

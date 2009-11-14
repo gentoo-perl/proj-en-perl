@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.87 2009/11/13 08:40:24 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.88 2009/11/14 11:43:56 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-11-13</date>
+<date>2009-11-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -92,7 +92,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podweaver&amp;mode=all">Dist-Zilla-Plugin-PodWeaver</uri></ti>
     <ti align="right">3.092971</ti>
-    <ti align="right">3.093020</ti>
+    <ti align="right">3.093170</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.093000</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pod::eventual&amp;mode=all">Pod-Eventual</uri></ti>
+    <ti align="right">0.091480</ti>
+    <ti align="right">0.093170</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
     <ti align="right">3.092972</ti>
     <ti align="right">3.093130</ti>
@@ -142,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 445
+Total packages suspected as outdated: 19 of 442
 </p>
 
 </body>

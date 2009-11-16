@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.88 2009/11/14 11:43:56 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.89 2009/11/16 10:19:58 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-11-14</date>
+<date>2009-11-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::manual&amp;mode=all">Catalyst-Manual</uri></ti>
+    <ti align="right">5.8001</ti>
+    <ti align="right">5.8002</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
     <ti align="right">0.29</ti>
     <ti align="right">0.31</ti>
@@ -110,6 +115,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.01</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=imager&amp;mode=all">Imager</uri></ti>
+    <ti align="right">0.70</ti>
+    <ti align="right">0.71</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=local::lib&amp;mode=all">local-lib</uri></ti>
     <ti align="right">1.004008</ti>
     <ti align="right">1.004009</ti>
@@ -147,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 442
+Total packages suspected as outdated: 21 of 441
 </p>
 
 </body>

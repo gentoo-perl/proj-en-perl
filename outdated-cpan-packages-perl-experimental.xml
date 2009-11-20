@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.90 2009/11/17 09:07:20 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.91 2009/11/20 07:25:45 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-11-17</date>
+<date>2009-11-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,19 +60,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.31</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::authorization::roles&amp;mode=all">Catalyst-Plugin-Authorization-Roles</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right">0.08</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::compress::zlib&amp;mode=all">Catalyst-Plugin-Compress-Zlib</uri></ti>
+    <ti align="right">0.03</ti>
+    <ti align="right">0.04</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session&amp;mode=all">Catalyst-Plugin-Session</uri></ti>
     <ti align="right">0.28</ti>
     <ti align="right">0.29</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::unicode::encoding&amp;mode=all">Catalyst-Plugin-Unicode-Encoding</uri></ti>
-    <ti align="right">0.5</ti>
-    <ti align="right">0.6</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalystx::component::traits&amp;mode=all">CatalystX-Component-Traits</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right">0.14</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::ini::mvp&amp;mode=all">Config-INI-MVP</uri></ti>
@@ -85,14 +85,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.093120</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel::partialdump&amp;mode=all">Devel-PartialDump</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right">0.12</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
     <ti align="right">1.092930</ti>
-    <ti align="right">1.093160</ti>
+    <ti align="right">1.093220</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podpurler&amp;mode=all">Dist-Zilla-Plugin-PodPurler</uri></ti>
@@ -130,11 +125,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.004009</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::simpleconfig&amp;mode=all">MooseX-SimpleConfig</uri></ti>
-    <ti align="right">0.03</ti>
-    <ti align="right">0.04</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
     <ti align="right">0.21</ti>
     <ti align="right">0.23</ti>
@@ -150,19 +140,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.36</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::eventual&amp;mode=all">Pod-Eventual</uri></ti>
-    <ti align="right">0.091480</ti>
-    <ti align="right">0.093170</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
     <ti align="right">3.092972</ti>
     <ti align="right">3.093130</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
+    <ti align="right">0.17</ti>
+    <ti align="right">0.18</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 441
+Total packages suspected as outdated: 20 of 442
 </p>
 
 </body>

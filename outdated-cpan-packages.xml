@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1739 2009/11/20 17:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1740 2009/11/21 01:52:22 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-11-20</date>
+<date>2009-11-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -145,6 +145,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.22</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sql::statement&amp;mode=all">SQL-Statement</uri></ti>
+    <ti align="right">1.22</ti>
+    <ti align="right">1.23</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sru&amp;mode=all">SRU</uri></ti>
     <ti align="right">0.97</ti>
     <ti align="right">0.98</ti>
@@ -162,7 +167,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 974
+Total packages suspected as outdated: 23 of 970
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1740 2009/11/21 01:52:22 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1741 2009/11/21 09:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -95,14 +95,14 @@ will curb some of the bugs to boot).
     <ti align="right">1.05</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbix::class&amp;mode=all">DBIx-Class</uri></ti>
-    <ti align="right">0.08113</ti>
-    <ti align="right">0.08114</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=encode&amp;mode=all">Encode</uri> (virtual/perl-Encode)</ti>
     <ti align="right">2.37</ti>
     <ti align="right">2.38</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=exception::warning&amp;mode=all">Exception-Warning</uri></ti>
+    <ti align="right">0.03</ti>
+    <ti align="right">0.04</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ipc::cmd&amp;mode=all">IPC-Cmd</uri> (virtual/perl-IPC-Cmd)</ti>

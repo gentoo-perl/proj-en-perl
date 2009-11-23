@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.93 2009/11/23 11:42:24 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.94 2009/11/23 17:55:33 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -50,129 +50,24 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::manual&amp;mode=all">Catalyst-Manual</uri></ti>
-    <ti align="right">5.8001</ti>
-    <ti align="right">5.8002</ti>
+    <ti><uri link="http://search.cpan.org/search?query=class::adapter&amp;mode=all">Class-Adapter</uri></ti>
+    <ti align="right">1.05</ti>
+    <ti align="right">1.06</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
-    <ti align="right">0.29</ti>
-    <ti align="right">0.31</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::authorization::roles&amp;mode=all">Catalyst-Plugin-Authorization-Roles</uri></ti>
-    <ti align="right">0.07</ti>
-    <ti align="right">0.08</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::compress::zlib&amp;mode=all">Catalyst-Plugin-Compress-Zlib</uri></ti>
-    <ti align="right">0.03</ti>
-    <ti align="right">0.04</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session&amp;mode=all">Catalyst-Plugin-Session</uri></ti>
-    <ti align="right">0.28</ti>
-    <ti align="right">0.29</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::runtime&amp;mode=all">Catalyst-Runtime</uri></ti>
-    <ti align="right">5.80013</ti>
-    <ti align="right">5.80014</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::view::contentnegotiation::xhtml&amp;mode=all">Catalyst-View-ContentNegotiation-XHTML</uri></ti>
-    <ti align="right">1.102</ti>
-    <ti align="right">1.103</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::ini::mvp&amp;mode=all">Config-INI-MVP</uri></ti>
-    <ti align="right">0.023</ti>
-    <ti align="right">0.024</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::mvp&amp;mode=all">Config-MVP</uri></ti>
-    <ti align="right">0.093000</ti>
-    <ti align="right">0.093120</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::entropy&amp;mode=all">Data-Entropy</uri></ti>
-    <ti align="right">0.005</ti>
-    <ti align="right">0.006</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
-    <ti align="right">1.092930</ti>
-    <ti align="right">1.093250</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podpurler&amp;mode=all">Dist-Zilla-Plugin-PodPurler</uri></ti>
-    <ti align="right">0.092930001</ti>
-    <ti align="right">0.093020</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podweaver&amp;mode=all">Dist-Zilla-Plugin-PodWeaver</uri></ti>
-    <ti align="right">3.092971</ti>
-    <ti align="right">3.093170</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
-    <ti align="right">0.092971</ti>
-    <ti align="right">0.093200</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::changenotify&amp;mode=all">File-ChangeNotify</uri></ti>
-    <ti align="right">0.07</ti>
-    <ti align="right">0.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=find::lib&amp;mode=all">Find-Lib</uri></ti>
-    <ti align="right">1.0</ti>
-    <ti align="right">1.01</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=imager&amp;mode=all">Imager</uri></ti>
-    <ti align="right">0.70</ti>
-    <ti align="right">0.71</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=local::lib&amp;mode=all">local-lib</uri></ti>
-    <ti align="right">1.004008</ti>
-    <ti align="right">1.004009</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
-    <ti align="right">0.21</ti>
-    <ti align="right">0.23</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::types::structured&amp;mode=all">MooseX-Types-Structured</uri></ti>
-    <ti align="right">0.18</ti>
-    <ti align="right">0.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=parse::backpan::packages&amp;mode=all">Parse-BACKPAN-Packages</uri></ti>
-    <ti align="right">0.35</ti>
-    <ti align="right">0.36</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
-    <ti align="right">3.092972</ti>
-    <ti align="right">3.093130</ti>
+    <ti><uri link="http://search.cpan.org/search?query=pip&amp;mode=all">pip</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right">1.16</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=rpc::xml&amp;mode=all">RPC-XML</uri></ti>
     <ti align="right">0.67</ti>
     <ti align="right">0.69</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
-    <ti align="right">0.17</ti>
-    <ti align="right">0.18</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 443
+Total packages suspected as outdated: 3 of 452
 </p>
 
 </body>

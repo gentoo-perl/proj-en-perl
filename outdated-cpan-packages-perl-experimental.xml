@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.95 2009/11/24 09:55:31 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.96 2009/11/25 08:21:55 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-11-24</date>
+<date>2009-11-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,24 +50,19 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::subrequest&amp;mode=all">Catalyst-Plugin-SubRequest</uri></ti>
-    <ti align="right">0.14</ti>
-    <ti align="right">0.15</ti>
+    <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri></ti>
+    <ti align="right">0.34</ti>
+    <ti align="right">0.36</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::adapter&amp;mode=all">Class-Adapter</uri></ti>
-    <ti align="right">1.05</ti>
-    <ti align="right">1.06</ti>
+    <ti><uri link="http://search.cpan.org/search?query=mojo&amp;mode=all">Mojo</uri></ti>
+    <ti align="right">0.999910</ti>
+    <ti align="right">0.999912</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
-    <ti align="right">0.92</ti>
-    <ti align="right">0.93</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pip&amp;mode=all">pip</uri></ti>
-    <ti align="right">0.13</ti>
-    <ti align="right">1.16</ti>
+    <ti><uri link="http://search.cpan.org/search?query=pod::elemental&amp;mode=all">Pod-Elemental</uri></ti>
+    <ti align="right">0.093000</ti>
+    <ti align="right">0.093280</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=rpc::xml&amp;mode=all">RPC-XML</uri></ti>
@@ -75,14 +70,24 @@ will curb some of the bugs to boot).
     <ti align="right">0.69</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=tie::trace&amp;mode=all">Tie-Trace</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=sub::curried&amp;mode=all">Sub-Curried</uri></ti>
+    <ti align="right">0.10</ti>
     <ti align="right">0.11</ti>
-    <ti align="right">0.12</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::findindent&amp;mode=all">Text-FindIndent</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right">0.05</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=threads&amp;mode=all">threads</uri> (virtual/perl-threads)</ti>
+    <ti align="right">1.74</ti>
+    <ti align="right">1.75</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 6 of 454
+Total packages suspected as outdated: 7 of 457
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.96 2009/11/25 08:21:55 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.97 2009/11/28 10:15:22 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-11-25</date>
+<date>2009-11-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,14 +50,54 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=app::cmd&amp;mode=all">App-Cmd</uri></ti>
+    <ti align="right">0.301</ti>
+    <ti align="right">0.303</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri></ti>
     <ti align="right">0.34</ti>
     <ti align="right">0.36</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::controller::html::formfu&amp;mode=all">Catalyst-Controller-HTML-FormFu</uri></ti>
+    <ti align="right">0.05000</ti>
+    <ti align="right">0.06000</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::model::kiokudb&amp;mode=all">Catalyst-Model-KiokuDB</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right">0.11</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
+    <ti align="right">1.093280</ti>
+    <ti align="right">1.093290</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=git::pureperl&amp;mode=all">Git-PurePerl</uri></ti>
+    <ti align="right">0.41</ti>
+    <ti align="right">0.43</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::formfu&amp;mode=all">HTML-FormFu</uri></ti>
+    <ti align="right">0.05001</ti>
+    <ti align="right">0.05002</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::formfu::model::dbic&amp;mode=all">HTML-FormFu-Model-DBIC</uri></ti>
+    <ti align="right">0.05002</ti>
+    <ti align="right">0.05003</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=kiokudb::backend::dbi&amp;mode=all">KiokuDB-Backend-DBI</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right">0.08</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mojo&amp;mode=all">Mojo</uri></ti>
     <ti align="right">0.999910</ti>
-    <ti align="right">0.999912</ti>
+    <ti align="right">0.999913</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::elemental&amp;mode=all">Pod-Elemental</uri></ti>
@@ -84,10 +124,20 @@ will curb some of the bugs to boot).
     <ti align="right">1.74</ti>
     <ti align="right">1.75</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=webservice::musicbrainz&amp;mode=all">WebService-MusicBrainz</uri></ti>
+    <ti align="right">0.92</ti>
+    <ti align="right">0.93</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=www::facebook::api&amp;mode=all">WWW-Facebook-API</uri></ti>
+    <ti align="right">0.416</ti>
+    <ti align="right">0.417</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 7 of 457
+Total packages suspected as outdated: 17 of 457
 </p>
 
 </body>

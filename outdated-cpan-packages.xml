@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1763 2009/11/28 17:52:23 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1764 2009/11/29 09:52:23 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-11-28</date>
+<date>2009-11-29</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,6 +65,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.39</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=spreadsheet::writeexcel&amp;mode=all">Spreadsheet-WriteExcel</uri></ti>
+    <ti align="right">2.29</ti>
+    <ti align="right">2.30</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
@@ -72,7 +77,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 972
+Total packages suspected as outdated: 5 of 972
 </p>
 
 </body>

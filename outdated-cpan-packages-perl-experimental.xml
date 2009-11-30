@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.98 2009/11/29 13:11:08 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.99 2009/11/30 07:50:21 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-11-29</date>
+<date>2009-11-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,6 +70,26 @@ will curb some of the bugs to boot).
     <ti align="right">0.11</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::mvp&amp;mode=all">Config-MVP</uri></ti>
+    <ti align="right">0.093120</ti>
+    <ti align="right">0.093330</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpan::uploader&amp;mode=all">CPAN-Uploader</uri></ti>
+    <ti align="right">0.092340</ti>
+    <ti align="right">0.093330</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpanplus::dist::gentoo&amp;mode=all">CPANPLUS-Dist-Gentoo</uri></ti>
+    <ti align="right">0.08</ti>
+    <ti align="right">0.09</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::section&amp;mode=all">Data-Section</uri></ti>
+    <ti align="right">0.091820</ti>
+    <ti align="right">0.093330</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
     <ti align="right">1.093280</ti>
     <ti align="right">1.093290</ti>
@@ -78,6 +98,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podweaver&amp;mode=all">Dist-Zilla-Plugin-PodWeaver</uri></ti>
     <ti align="right">3.093170</ti>
     <ti align="right">3.093321</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
+    <ti align="right">0.093200</ti>
+    <ti align="right">0.093330</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=git::pureperl&amp;mode=all">Git-PurePerl</uri></ti>
@@ -105,9 +130,24 @@ will curb some of the bugs to boot).
     <ti align="right">0.999913</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::params::validate&amp;mode=all">MooseX-Params-Validate</uri></ti>
+    <ti align="right">0.12</ti>
+    <ti align="right">0.13</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::elemental&amp;mode=all">Pod-Elemental</uri></ti>
     <ti align="right">0.093000</ti>
     <ti align="right">0.093280</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pod::elemental::perlmunger&amp;mode=all">Pod-Elemental-PerlMunger</uri></ti>
+    <ti align="right">0.093020</ti>
+    <ti align="right">0.093330</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pod::eventual&amp;mode=all">Pod-Eventual</uri></ti>
+    <ti align="right">0.093170</ti>
+    <ti align="right">0.093330</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=rpc::xml&amp;mode=all">RPC-XML</uri></ti>
@@ -142,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 461
+Total packages suspected as outdated: 26 of 461
 </p>
 
 </body>

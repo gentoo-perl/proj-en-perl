@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.101 2009/12/01 11:38:29 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.102 2009/12/01 11:43:07 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -48,6 +48,7 @@ will curb some of the bugs to boot).
     <th>Packagename</th>
     <th>Version in perl-experimental</th>
     <th>Version on CPAN</th>
+    <th>Diff</th>
   </tr>
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=app::cmd&amp;mode=all">App-Cmd</uri></ti>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1768 2009/12/02 01:52:23 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1769 2009/12/02 17:52:22 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,9 +60,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.02</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=encode&amp;mode=all">Encode</uri> (virtual/perl-Encode)</ti>
-    <ti align="right">2.38</ti>
-    <ti align="right">2.39</ti>
+    <ti><uri link="http://search.cpan.org/search?query=cql::parser&amp;mode=all">CQL-Parser</uri></ti>
+    <ti align="right">1.0</ti>
+    <ti align="right">1.10</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=exception::warning&amp;mode=all">Exception-Warning</uri></ti>
@@ -95,6 +95,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.30</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sru&amp;mode=all">SRU</uri></ti>
+    <ti align="right">0.98</ti>
+    <ti align="right">0.99</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
@@ -112,7 +117,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 972
+Total packages suspected as outdated: 13 of 972
 </p>
 
 </body>

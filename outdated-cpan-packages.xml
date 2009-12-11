@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1787 2009/12/10 17:52:23 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1788 2009/12/11 01:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-12-10</date>
+<date>2009-12-11</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,6 +65,16 @@ will curb some of the bugs to boot).
     <ti align="right">2.03</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::dumper::concise&amp;mode=all">Data-Dumper-Concise</uri></ti>
+    <ti align="right">1.002</ti>
+    <ti align="right">1.100</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::format::sqlite&amp;mode=all">DateTime-Format-SQLite</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right">0.11</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::class&amp;mode=all">DBIx-Class</uri></ti>
     <ti align="right">0.08114</ti>
     <ti align="right">0.08115</ti>
@@ -78,6 +88,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::utils&amp;mode=all">MogileFS-Utils</uri></ti>
     <ti align="right">2.14</ti>
     <ti align="right">2.15</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::getopt&amp;mode=all">MooseX-Getopt</uri></ti>
+    <ti align="right">0.25</ti>
+    <ti align="right">0.26</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
@@ -102,7 +117,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 10 of 975
+Total packages suspected as outdated: 13 of 975
 </p>
 
 </body>

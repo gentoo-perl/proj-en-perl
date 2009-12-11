@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.106 2009/12/10 06:54:33 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.107 2009/12/11 05:40:56 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-12-10</date>
+<date>2009-12-11</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,16 +51,16 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::cache&amp;mode=all">App-Cache</uri></ti>
-    <ti align="right">0.36</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-Cache-0.37/">0.37</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-Cache-0.36&amp;to=App-Cache-0.37&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
+    <ti align="right">0.78</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.79/">0.79</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-REST-0.78&amp;to=Catalyst-Action-REST-0.79&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri></ti>
-    <ti align="right">0.34</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Archive-Extract-0.36/">0.36</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Archive-Extract-0.34&amp;to=Archive-Extract-0.36&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::controller::html::formfu&amp;mode=all">Catalyst-Controller-HTML-FormFu</uri></ti>
+    <ti align="right">0.06000</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Controller-HTML-FormFu-0.06001/">0.06001</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Controller-HTML-FormFu-0.06000&amp;to=Catalyst-Controller-HTML-FormFu-0.06001&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
@@ -69,28 +69,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Devel-1.21&amp;to=Catalyst-Devel-1.24&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::model::ldap&amp;mode=all">Catalyst-Model-LDAP</uri></ti>
-    <ti align="right">0.16</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-LDAP-0.17/">0.17</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-LDAP-0.16&amp;to=Catalyst-Model-LDAP-0.17&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::static::simple&amp;mode=all">Catalyst-Plugin-Static-Simple</uri></ti>
-    <ti align="right">0.25</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Static-Simple-0.26/">0.26</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Static-Simple-0.25&amp;to=Catalyst-Plugin-Static-Simple-0.26&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podpurler&amp;mode=all">Dist-Zilla-Plugin-PodPurler</uri></ti>
     <ti align="right">0.093020</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-PodPurler-0.093400/">0.093400</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-PodPurler-0.093020&amp;to=Dist-Zilla-Plugin-PodPurler-0.093400&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podweaver&amp;mode=all">Dist-Zilla-Plugin-PodWeaver</uri></ti>
-    <ti align="right">3.093170</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-PodWeaver-3.093321/">3.093321</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-PodWeaver-3.093170&amp;to=Dist-Zilla-Plugin-PodWeaver-3.093321&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
@@ -99,28 +81,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-0.093200&amp;to=Dist-Zilla-PluginBundle-RJBS-0.093330&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::changenotify&amp;mode=all">File-ChangeNotify</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/File-ChangeNotify-0.11/">0.11</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=File-ChangeNotify-0.09&amp;to=File-ChangeNotify-0.11&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=html::formfu&amp;mode=all">HTML-FormFu</uri></ti>
+    <ti align="right">0.05004</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormFu-0.06000/">0.06000</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormFu-0.05004&amp;to=HTML-FormFu-0.06000&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::formfu::model::dbic&amp;mode=all">HTML-FormFu-Model-DBIC</uri></ti>
     <ti align="right">0.05002</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormFu-Model-DBIC-0.05003/">0.05003</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormFu-Model-DBIC-0.05002&amp;to=HTML-FormFu-Model-DBIC-0.05003&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::formhandler&amp;mode=all">HTML-FormHandler</uri></ti>
-    <ti align="right">0.28001</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormHandler-0.29/">0.29</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormHandler-0.28001&amp;to=HTML-FormHandler-0.29&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=http::request::ascgi&amp;mode=all">HTTP-Request-AsCGI</uri></ti>
-    <ti align="right">0.9</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTTP-Request-AsCGI-1.0/">1.0</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTTP-Request-AsCGI-0.9&amp;to=HTTP-Request-AsCGI-1.0&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormFu-Model-DBIC-0.06000/">0.06000</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormFu-Model-DBIC-0.05002&amp;to=HTML-FormFu-Model-DBIC-0.06000&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=imager&amp;mode=all">Imager</uri></ti>
@@ -129,46 +99,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Imager-0.71&amp;to=Imager-0.72&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::starter&amp;mode=all">Module-Starter</uri></ti>
-    <ti align="right">1.52</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Module-Starter-1.54/">1.54</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Module-Starter-1.52&amp;to=Module-Starter-1.54&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mojomojo&amp;mode=all">MojoMojo</uri></ti>
-    <ti align="right">0.999041</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MojoMojo-0.999042/">0.999042</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-0.999041&amp;to=MojoMojo-0.999042&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::params::validate&amp;mode=all">MooseX-Params-Validate</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Params-Validate-0.13/">0.13</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Params-Validate-0.12&amp;to=MooseX-Params-Validate-0.13&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::role::parameterized&amp;mode=all">MooseX-Role-Parameterized</uri></ti>
-    <ti align="right">0.13</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.14/">0.14</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.13&amp;to=MooseX-Role-Parameterized-0.14&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::eventual&amp;mode=all">Pod-Eventual</uri></ti>
-    <ti align="right">0.093170</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Eventual-0.093330/">0.093330</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Pod-Eventual-0.093170&amp;to=Pod-Eventual-0.093330&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=rpc::xml&amp;mode=all">RPC-XML</uri></ti>
-    <ti align="right">0.67</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/RPC-XML-0.71/">0.71</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=RPC-XML-0.67&amp;to=RPC-XML-0.71&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=string::rewriteprefix&amp;mode=all">String-RewritePrefix</uri></ti>
-    <ti align="right">0.004</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/String-RewritePrefix-0.005/">0.005</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=String-RewritePrefix-0.004&amp;to=String-RewritePrefix-0.005&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=mojo&amp;mode=all">Mojo</uri></ti>
+    <ti align="right">0.999913</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Mojo-0.999914/">0.999914</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Mojo-0.999913&amp;to=Mojo-0.999914&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sub::curried&amp;mode=all">Sub-Curried</uri></ti>
@@ -176,28 +110,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Sub-Curried-0.11/">0.11</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Sub-Curried-0.10&amp;to=Sub-Curried-0.11&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::compile&amp;mode=all">Test-Compile</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Test-Compile-0.11/">0.11</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Test-Compile-0.10&amp;to=Test-Compile-0.11&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=webservice::musicbrainz&amp;mode=all">WebService-MusicBrainz</uri></ti>
-    <ti align="right">0.92</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/WebService-MusicBrainz-0.93/">0.93</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=WebService-MusicBrainz-0.92&amp;to=WebService-MusicBrainz-0.93&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=www::facebook::api&amp;mode=all">WWW-Facebook-API</uri></ti>
-    <ti align="right">0.416</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/WWW-Facebook-API-0.417/">0.417</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=WWW-Facebook-API-0.416&amp;to=WWW-Facebook-API-0.417&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 463
+Total packages suspected as outdated: 10 of 463
 </p>
 
 </body>

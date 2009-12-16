@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1798 2009/12/15 09:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1799 2009/12/16 01:52:23 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-12-15</date>
+<date>2009-12-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -80,9 +80,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.44</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::twitter&amp;mode=all">Net-Twitter</uri></ti>
+    <ti align="right">3.10001</ti>
+    <ti align="right">3.10002</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe&amp;mode=all">Safe</uri> (virtual/perl-Safe)</ti>
     <ti align="right">2.19</ti>
     <ti align="right">2.20</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=shipit&amp;mode=all">ShipIt</uri></ti>
+    <ti align="right">0.52</ti>
+    <ti align="right">0.53</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
@@ -92,7 +102,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 8 of 975
+Total packages suspected as outdated: 10 of 975
 </p>
 
 </body>

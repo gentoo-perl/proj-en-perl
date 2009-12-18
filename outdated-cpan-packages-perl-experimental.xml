@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.111 2009/12/17 10:38:02 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.112 2009/12/18 07:45:49 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-12-17</date>
+<date>2009-12-18</date>
 
 <chapter>
 <title>Intro</title>
@@ -81,6 +81,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Devel-1.21&amp;to=Catalyst-Devel-1.24&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpanplus&amp;mode=all">CPANPLUS</uri> (virtual/perl-CPANPLUS)</ti>
+    <ti align="right">0.88</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPANPLUS-0.90/">0.90</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPANPLUS-0.88&amp;to=CPANPLUS-0.90&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podpurler&amp;mode=all">Dist-Zilla-Plugin-PodPurler</uri></ti>
     <ti align="right">0.093020</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-PodPurler-0.093400/">0.093400</uri></ti>
@@ -91,6 +97,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.093200</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-RJBS-0.093330/">0.093330</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-0.093200&amp;to=Dist-Zilla-PluginBundle-RJBS-0.093330&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=extutils::makemaker&amp;mode=all">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
+    <ti align="right">6.54</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/ExtUtils-MakeMaker-6.56/">6.56</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=ExtUtils-MakeMaker-6.54&amp;to=ExtUtils-MakeMaker-6.56&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::formfu&amp;mode=all">HTML-FormFu</uri></ti>
@@ -137,7 +149,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 14 of 464
+Total packages suspected as outdated: 16 of 464
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.115 2009/12/23 10:52:06 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.116 2009/12/24 10:53:39 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-12-23</date>
+<date>2009-12-24</date>
 
 <chapter>
 <title>Intro</title>
@@ -164,10 +164,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Sub-Curried-0.11/">0.11</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Sub-Curried-0.10&amp;to=Sub-Curried-0.11&amp;w=1">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::findindent&amp;mode=all">Text-FindIndent</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Text-FindIndent-0.07/">0.07</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Text-FindIndent-0.05&amp;to=Text-FindIndent-0.07&amp;w=1">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 472
+Total packages suspected as outdated: 20 of 472
 </p>
 
 </body>

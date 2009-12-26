@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1819 2009/12/25 09:52:25 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1820 2009/12/26 01:52:23 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-12-25</date>
+<date>2009-12-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
+    <ti align="right">0.47</ti>
+    <ti align="right">0.48</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.29</ti>
@@ -69,10 +74,15 @@ will curb some of the bugs to boot).
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
+    <ti align="right">0.94</ti>
+    <ti align="right">0.95</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 976
+Total packages suspected as outdated: 6 of 976
 </p>
 
 </body>

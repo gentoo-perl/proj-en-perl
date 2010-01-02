@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1831 2010/01/01 17:52:23 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1832 2010/01/02 01:52:23 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-01-01</date>
+<date>2010-01-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.43</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::attributehelpers&amp;mode=all">MooseX-AttributeHelpers</uri></ti>
+    <ti align="right">0.22</ti>
+    <ti align="right">0.23</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.40</ti>
     <ti align="right">0.4501</ti>
@@ -68,6 +73,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=net::irc&amp;mode=all">Net-IRC</uri></ti>
     <ti align="right">0.76</ti>
     <ti align="right">0.79</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
+    <ti align="right">2.45</ti>
+    <ti align="right">2.46</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=podlators&amp;mode=all">podlators</uri> (virtual/perl-podlators)</ti>
@@ -92,7 +102,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 8 of 976
+Total packages suspected as outdated: 10 of 976
 </p>
 
 </body>

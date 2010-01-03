@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.119 2009/12/31 08:32:58 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.120 2010/01/03 10:35:44 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2009-12-31</date>
+<date>2010-01-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,12 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
+    <ti align="right">1.24</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Devel-1.25/">1.25</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Devel-1.24&amp;to=Catalyst-Devel-1.25&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cgi::application::dispatch&amp;mode=all">CGI-Application-Dispatch</uri></ti>
     <ti align="right">2.16</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Dispatch-2.17/">2.17</uri></ti>
@@ -62,10 +68,28 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Data-FormValidator-4.65/">4.65</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Data-FormValidator-4.63&amp;to=Data-FormValidator-4.65&amp;w=1">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=lexical::types&amp;mode=all">Lexical-Types</uri></ti>
+    <ti align="right">0.08</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Lexical-Types-0.09/">0.09</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Lexical-Types-0.08&amp;to=Lexical-Types-0.09&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=orlite&amp;mode=all">ORLite</uri></ti>
+    <ti align="right">1.28</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/ORLite-1.31/">1.31</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=ORLite-1.28&amp;to=ORLite-1.31&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pod::abstract&amp;mode=all">Pod-Abstract</uri></ti>
+    <ti align="right">0.19</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Abstract-0.20/">0.20</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Pod-Abstract-0.19&amp;to=Pod-Abstract-0.20&amp;w=1">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 2 of 481
+Total packages suspected as outdated: 6 of 485
 </p>
 
 </body>

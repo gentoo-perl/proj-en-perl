@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.122 2010/01/07 09:55:35 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.123 2010/01/09 11:41:41 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-01-07</date>
+<date>2010-01-09</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,12 +51,6 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
-    <ti align="right">0.36</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Archive-Extract-0.38/">0.38</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Archive-Extract-0.36&amp;to=Archive-Extract-0.38&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
     <ti align="right">1.24</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Devel-1.25/">1.25</uri></ti>
@@ -87,16 +81,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Data-FormValidator-4.63&amp;to=Data-FormValidator-4.65&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::fetch&amp;mode=all">File-Fetch</uri> (virtual/perl-File-Fetch)</ti>
-    <ti align="right">0.22</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/File-Fetch-0.24/">0.24</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=File-Fetch-0.22&amp;to=File-Fetch-0.24&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=devel::partialdump&amp;mode=all">Devel-PartialDump</uri></ti>
+    <ti align="right">0.12</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-PartialDump-0.13/">0.13</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Devel-PartialDump-0.12&amp;to=Devel-PartialDump-0.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=lexical::types&amp;mode=all">Lexical-Types</uri></ti>
-    <ti align="right">0.08</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Lexical-Types-0.09/">0.09</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Lexical-Types-0.08&amp;to=Lexical-Types-0.09&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=html::formfu&amp;mode=all">HTML-FormFu</uri></ti>
+    <ti align="right">0.06000</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormFu-0.06001/">0.06001</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormFu-0.06000&amp;to=HTML-FormFu-0.06001&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=ipc::system::simple&amp;mode=all">IPC-System-Simple</uri></ti>
+    <ti align="right">1.19</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/IPC-System-Simple-1.20/">1.20</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=IPC-System-Simple-1.19&amp;to=IPC-System-Simple-1.20&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::multimethods&amp;mode=all">MooseX-MultiMethods</uri></ti>
@@ -129,39 +129,15 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Types-VariantTable-0.03&amp;to=MooseX-Types-VariantTable-0.04&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=orlite&amp;mode=all">ORLite</uri></ti>
-    <ti align="right">1.28</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/ORLite-1.31/">1.31</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=ORLite-1.28&amp;to=ORLite-1.31&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::abstract&amp;mode=all">Pod-Abstract</uri></ti>
-    <ti align="right">0.19</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Abstract-0.20/">0.20</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Pod-Abstract-0.19&amp;to=Pod-Abstract-0.20&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sub::exporter::formethods&amp;mode=all">Sub-Exporter-ForMethods</uri></ti>
-    <ti align="right">0.091970</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Sub-Exporter-ForMethods-0.100050/">0.100050</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Sub-Exporter-ForMethods-0.091970&amp;to=Sub-Exporter-ForMethods-0.100050&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::findindent&amp;mode=all">Text-FindIndent</uri></ti>
-    <ti align="right">0.07</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Text-FindIndent-0.08/">0.08</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Text-FindIndent-0.07&amp;to=Text-FindIndent-0.08&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=wx::perl::processstream&amp;mode=all">Wx-Perl-ProcessStream</uri></ti>
-    <ti align="right">0.22</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Wx-Perl-ProcessStream-0.24/">0.24</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Wx-Perl-ProcessStream-0.22&amp;to=Wx-Perl-ProcessStream-0.24&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=test::yaml::valid&amp;mode=all">Test-YAML-Valid</uri></ti>
+    <ti align="right">0.03</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Test-YAML-Valid-0.04/">0.04</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Test-YAML-Valid-0.03&amp;to=Test-YAML-Valid-0.04&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 485
+Total packages suspected as outdated: 14 of 485
 </p>
 
 </body>

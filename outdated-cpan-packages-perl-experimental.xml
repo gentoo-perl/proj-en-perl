@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.123 2010/01/09 11:41:41 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.124 2010/01/10 09:12:20 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-01-09</date>
+<date>2010-01-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,93 +51,33 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
-    <ti align="right">1.24</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Devel-1.25/">1.25</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Devel-1.24&amp;to=Catalyst-Devel-1.25&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::runtime&amp;mode=all">Catalyst-Runtime</uri></ti>
+    <ti align="right">5.80016</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Runtime-5.80017/">5.80017</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Runtime-5.80016&amp;to=Catalyst-Runtime-5.80017&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::model::adaptor&amp;mode=all">Catalyst-Model-Adaptor</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-Adaptor-0.06/">0.06</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-Adaptor-0.05&amp;to=Catalyst-Model-Adaptor-0.06&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=http::body&amp;mode=all">HTTP-Body</uri></ti>
+    <ti align="right">1.05</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTTP-Body-1.06/">1.06</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTTP-Body-1.05&amp;to=HTTP-Body-1.06&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::static::simple&amp;mode=all">Catalyst-Plugin-Static-Simple</uri></ti>
-    <ti align="right">0.26</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Static-Simple-0.28/">0.28</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Static-Simple-0.26&amp;to=Catalyst-Plugin-Static-Simple-0.28&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi::application::dispatch&amp;mode=all">CGI-Application-Dispatch</uri></ti>
-    <ti align="right">2.16</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Dispatch-2.17/">2.17</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Dispatch-2.16&amp;to=CGI-Application-Dispatch-2.17&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::formvalidator&amp;mode=all">Data-FormValidator</uri></ti>
-    <ti align="right">4.63</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Data-FormValidator-4.65/">4.65</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Data-FormValidator-4.63&amp;to=Data-FormValidator-4.65&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel::partialdump&amp;mode=all">Devel-PartialDump</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-PartialDump-0.13/">0.13</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Devel-PartialDump-0.12&amp;to=Devel-PartialDump-0.13&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::formfu&amp;mode=all">HTML-FormFu</uri></ti>
-    <ti align="right">0.06000</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormFu-0.06001/">0.06001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormFu-0.06000&amp;to=HTML-FormFu-0.06001&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=ipc::system::simple&amp;mode=all">IPC-System-Simple</uri></ti>
-    <ti align="right">1.19</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/IPC-System-Simple-1.20/">1.20</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=IPC-System-Simple-1.19&amp;to=IPC-System-Simple-1.20&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::multimethods&amp;mode=all">MooseX-MultiMethods</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-MultiMethods-0.10/">0.10</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-MultiMethods-0.09&amp;to=MooseX-MultiMethods-0.10&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::role::parameterized&amp;mode=all">MooseX-Role-Parameterized</uri></ti>
-    <ti align="right">0.14</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.15/">0.15</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.14&amp;to=MooseX-Role-Parameterized-0.15&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::methodattributes&amp;mode=all">MooseX-MethodAttributes</uri></ti>
+    <ti align="right">0.18</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-MethodAttributes-0.19/">0.19</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-MethodAttributes-0.18&amp;to=MooseX-MethodAttributes-0.19&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::role::withoverloading&amp;mode=all">MooseX-Role-WithOverloading</uri></ti>
-    <ti align="right">0.03</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-WithOverloading-0.04/">0.04</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-WithOverloading-0.03&amp;to=MooseX-Role-WithOverloading-0.04&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::types::common&amp;mode=all">MooseX-Types-Common</uri></ti>
-    <ti align="right">0.001000</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Types-Common-0.001001/">0.001001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Types-Common-0.001000&amp;to=MooseX-Types-Common-0.001001&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::types::varianttable&amp;mode=all">MooseX-Types-VariantTable</uri></ti>
-    <ti align="right">0.03</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Types-VariantTable-0.04/">0.04</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Types-VariantTable-0.03&amp;to=MooseX-Types-VariantTable-0.04&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::yaml::valid&amp;mode=all">Test-YAML-Valid</uri></ti>
-    <ti align="right">0.03</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Test-YAML-Valid-0.04/">0.04</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Test-YAML-Valid-0.03&amp;to=Test-YAML-Valid-0.04&amp;w=1">Diff</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-WithOverloading-0.05/">0.05</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-WithOverloading-0.04&amp;to=MooseX-Role-WithOverloading-0.05&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 14 of 485
+Total packages suspected as outdated: 4 of 486
 </p>
 
 </body>

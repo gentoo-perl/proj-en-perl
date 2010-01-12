@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1856 2010/01/12 09:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1857 2010/01/12 17:52:25 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,49 +50,14 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
-    <ti align="right">0.48</ti>
-    <ti align="right">0.50</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.29</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=berkeleydb&amp;mode=all">BerkeleyDB</uri></ti>
-    <ti align="right">0.39</ti>
-    <ti align="right">0.41</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=bio::graphics&amp;mode=all">Bio-Graphics</uri></ti>
     <ti align="right">1.994</ti>
     <ti align="right">1.995</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=compress::raw::bzip2&amp;mode=all">Compress-Raw-Bzip2</uri> (virtual/perl-Compress-Raw-Bzip2)</ti>
-    <ti align="right">2.023</ti>
-    <ti align="right">2.024</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=compress::raw::zlib&amp;mode=all">Compress-Raw-Zlib</uri> (virtual/perl-Compress-Raw-Zlib)</ti>
-    <ti align="right">2.023</ti>
-    <ti align="right">2.024</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=digest::hmac&amp;mode=all">Digest-HMAC</uri></ti>
-    <ti align="right">1.01</ti>
-    <ti align="right">1.02</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
-    <ti align="right">0.093110</ti>
-    <ti align="right">0.100110</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=extutils::parsexs&amp;mode=all">ExtUtils-ParseXS</uri> (virtual/perl-ExtUtils-ParseXS)</ti>
-    <ti align="right">2.21</ti>
-    <ti align="right">2.22</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::mason&amp;mode=all">HTML-Mason</uri></ti>
@@ -103,11 +68,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">3.31</ti>
     <ti align="right">3.6</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::compress&amp;mode=all">IO-Compress</uri> (virtual/perl-IO-Compress)</ti>
-    <ti align="right">2.023</ti>
-    <ti align="right">2.024</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
@@ -125,49 +85,19 @@ will curb some of the bugs to boot).
     <ti align="right">2.46</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=spreadsheet::writeexcel&amp;mode=all">Spreadsheet-WriteExcel</uri></ti>
-    <ti align="right">2.34</ti>
-    <ti align="right">2.35</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::exception&amp;mode=all">Test-Exception</uri></ti>
-    <ti align="right">0.27</ti>
-    <ti align="right">0.29</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::longstring&amp;mode=all">Test-LongString</uri></ti>
-    <ti align="right">0.11</ti>
-    <ti align="right">0.12</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::nowarnings&amp;mode=all">Test-NoWarnings</uri></ti>
     <ti align="right">0.084</ti>
     <ti align="right">1.00</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=time::piece&amp;mode=all">Time-Piece</uri> (virtual/perl-Time-Piece)</ti>
-    <ti align="right">1.15</ti>
-    <ti align="right">1.16</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri> (virtual/perl-version)</ti>
-    <ti align="right">0.78</ti>
-    <ti align="right">0.79</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
-    <ti align="right">0.95</ti>
-    <ti align="right">0.96</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 977
+Total packages suspected as outdated: 9 of 978
 </p>
 
 </body>

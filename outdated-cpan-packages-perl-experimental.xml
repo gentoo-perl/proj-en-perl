@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.125 2010/01/12 09:00:42 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.126 2010/01/14 09:09:46 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-01-12</date>
+<date>2010-01-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -63,10 +63,28 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Unicode-Encoding-0.7&amp;to=Catalyst-Plugin-Unicode-Encoding-0.8&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::runtime&amp;mode=all">Catalyst-Runtime</uri></ti>
-    <ti align="right">5.80016</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Runtime-5.80017/">5.80017</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Runtime-5.80016&amp;to=Catalyst-Runtime-5.80017&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::view::email&amp;mode=all">Catalyst-View-Email</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-Email-0.16/">0.16</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-Email-0.13&amp;to=Catalyst-View-Email-0.16&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cgi::application::plugin::authentication&amp;mode=all">CGI-Application-Plugin-Authentication</uri></ti>
+    <ti align="right">0.14</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Plugin-Authentication-0.15/">0.15</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Plugin-Authentication-0.14&amp;to=CGI-Application-Plugin-Authentication-0.15&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::class::querylog&amp;mode=all">DBIx-Class-QueryLog</uri></ti>
+    <ti align="right">1.22</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-QueryLog-1.23/">1.23</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-QueryLog-1.22&amp;to=DBIx-Class-QueryLog-1.23&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
+    <ti align="right">1.093400</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-1.100130/">1.100130</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-1.093400&amp;to=Dist-Zilla-1.100130&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=git::pureperl&amp;mode=all">Git-PurePerl</uri></ti>
@@ -81,16 +99,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=HTTP-Body-1.05&amp;to=HTTP-Body-1.06&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::methodattributes&amp;mode=all">MooseX-MethodAttributes</uri></ti>
-    <ti align="right">0.18</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-MethodAttributes-0.19/">0.19</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-MethodAttributes-0.18&amp;to=MooseX-MethodAttributes-0.19&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=http::request::ascgi&amp;mode=all">HTTP-Request-AsCGI</uri></ti>
+    <ti align="right">1.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTTP-Request-AsCGI-1.2/">1.2</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTTP-Request-AsCGI-1.0&amp;to=HTTP-Request-AsCGI-1.2&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::role::withoverloading&amp;mode=all">MooseX-Role-WithOverloading</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::clone&amp;mode=all">MooseX-Clone</uri></ti>
     <ti align="right">0.04</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-WithOverloading-0.05/">0.05</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-WithOverloading-0.04&amp;to=MooseX-Role-WithOverloading-0.05&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Clone-0.05/">0.05</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Clone-0.04&amp;to=MooseX-Clone-0.05&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
@@ -101,7 +119,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 8 of 484
+Total packages suspected as outdated: 11 of 484
 </p>
 
 </body>

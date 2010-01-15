@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.126 2010/01/14 09:09:46 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.127 2010/01/15 15:26:39 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-01-14</date>
+<date>2010-01-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,10 +51,22 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
+    <ti align="right">0.80</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.81/">0.81</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-REST-0.80&amp;to=Catalyst-Action-REST-0.81&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
     <ti align="right">1.25</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Devel-1.26/">1.26</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Devel-1.25&amp;to=Catalyst-Devel-1.26&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
+    <ti align="right">0.35</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema-0.38/">0.38</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-DBIC-Schema-0.35&amp;to=Catalyst-Model-DBIC-Schema-0.38&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::unicode::encoding&amp;mode=all">Catalyst-Plugin-Unicode-Encoding</uri></ti>
@@ -65,8 +77,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::view::email&amp;mode=all">Catalyst-View-Email</uri></ti>
     <ti align="right">0.13</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-Email-0.16/">0.16</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-Email-0.13&amp;to=Catalyst-View-Email-0.16&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-Email-0.17/">0.17</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-Email-0.13&amp;to=Catalyst-View-Email-0.17&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cgi::application::plugin::authentication&amp;mode=all">CGI-Application-Plugin-Authentication</uri></ti>
@@ -116,10 +128,22 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.24/">0.24</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Storage-0.23&amp;to=MooseX-Storage-0.24&amp;w=1">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=orlite&amp;mode=all">ORLite</uri></ti>
+    <ti align="right">1.31</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/ORLite-1.32/">1.32</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=ORLite-1.31&amp;to=ORLite-1.32&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perltidy&amp;mode=all">Padre-Plugin-PerlTidy</uri></ti>
+    <ti align="right">0.08</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlTidy-0.09/">0.09</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlTidy-0.08&amp;to=Padre-Plugin-PerlTidy-0.09&amp;w=1">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 11 of 484
+Total packages suspected as outdated: 15 of 484
 </p>
 
 </body>

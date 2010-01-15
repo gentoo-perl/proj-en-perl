@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1863 2010/01/15 01:52:23 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1864 2010/01/15 09:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -102,7 +102,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.40</ti>
-    <ti align="right">0.46</ti>
+    <ti align="right">0.47</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=namespace::clean&amp;mode=all">namespace-clean</uri></ti>
@@ -118,6 +118,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
     <ti align="right">2.45</ti>
     <ti align="right">2.46</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=perlbal::xs::httpheaders&amp;mode=all">Perlbal-XS-HTTPHeaders</uri></ti>
+    <ti align="right">0.19</ti>
+    <ti align="right">0.20</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
@@ -142,7 +147,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::nowarnings&amp;mode=all">Test-NoWarnings</uri></ti>
     <ti align="right">0.084</ti>
-    <ti align="right">1.00</ti>
+    <ti align="right">1.01</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::pod&amp;mode=all">Test-Pod</uri></ti>
@@ -157,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 978
+Total packages suspected as outdated: 22 of 978
 </p>
 
 </body>

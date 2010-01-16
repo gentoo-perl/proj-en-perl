@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1864 2010/01/15 09:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1865 2010/01/16 01:52:22 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-01-15</date>
+<date>2010-01-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -159,10 +159,15 @@ will curb some of the bugs to boot).
     <ti align="right">1.15</ti>
     <ti align="right">1.16</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::twig&amp;mode=all">XML-Twig</uri></ti>
+    <ti align="right">3.32</ti>
+    <ti align="right">3.33</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 978
+Total packages suspected as outdated: 23 of 978
 </p>
 
 </body>

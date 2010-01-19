@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1872 2010/01/19 01:52:23 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1873 2010/01/19 09:52:23 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -100,6 +100,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.6</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">Module-Build</uri> (virtual/perl-Module-Build)</ti>
+    <ti align="right">0.3601</ti>
+    <ti align="right">0.3603</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moose&amp;mode=all">Moose</uri></ti>
     <ti align="right">0.93</ti>
     <ti align="right">0.94</ti>
@@ -147,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 978
+Total packages suspected as outdated: 20 of 978
 </p>
 
 </body>

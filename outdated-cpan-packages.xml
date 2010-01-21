@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1875 2010/01/20 17:52:23 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1876 2010/01/21 01:52:23 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-01-20</date>
+<date>2010-01-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -80,6 +80,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.09</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
+    <ti align="right">2.160</ti>
+    <ti align="right">2.161</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=gearman&amp;mode=all">Gearman</uri></ti>
     <ti align="right">1.10</ti>
     <ti align="right">1.11</ti>
@@ -105,6 +110,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.3603</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
+    <ti align="right">2.24</ti>
+    <ti align="right">2.25</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moose&amp;mode=all">Moose</uri></ti>
     <ti align="right">0.93</ti>
     <ti align="right">0.94</ti>
@@ -118,6 +128,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=net::irc&amp;mode=all">Net-IRC</uri></ti>
     <ti align="right">0.76</ti>
     <ti align="right">0.79</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=parse::recdescent&amp;mode=all">Parse-RecDescent</uri></ti>
+    <ti align="right">1.9622</ti>
+    <ti align="right">1.963</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
@@ -150,6 +165,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.13</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=www::shorten&amp;mode=all">WWW-Shorten</uri></ti>
+    <ti align="right">2.06</ti>
+    <ti align="right">3.00</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::twig&amp;mode=all">XML-Twig</uri></ti>
     <ti align="right">3.32</ti>
     <ti align="right">3.34</ti>
@@ -157,7 +177,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 978
+Total packages suspected as outdated: 25 of 978
 </p>
 
 </body>

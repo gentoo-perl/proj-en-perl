@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.129 2010/01/19 07:56:04 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.130 2010/01/22 07:44:29 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-01-19</date>
+<date>2010-01-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,12 +51,6 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
-    <ti align="right">0.80</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.81/">0.81</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-REST-0.80&amp;to=Catalyst-Action-REST-0.81&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
     <ti align="right">1.25</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Devel-1.26/">1.26</uri></ti>
@@ -81,10 +75,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-Email-0.13&amp;to=Catalyst-View-Email-0.19&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::view::gd::barcode&amp;mode=all">Catalyst-View-GD-Barcode</uri></ti>
+    <ti align="right">0.03</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-GD-Barcode-0.04/">0.04</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-GD-Barcode-0.03&amp;to=Catalyst-View-GD-Barcode-0.04&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cgi::application::plugin::authentication&amp;mode=all">CGI-Application-Plugin-Authentication</uri></ti>
     <ti align="right">0.14</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Plugin-Authentication-0.16/">0.16</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Plugin-Authentication-0.14&amp;to=CGI-Application-Plugin-Authentication-0.16&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::treedumper&amp;mode=all">Data-TreeDumper</uri></ti>
+    <ti align="right">0.35</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Data-TreeDumper-0.37/">0.37</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Data-TreeDumper-0.35&amp;to=Data-TreeDumper-0.37&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::class::encodedcolumn&amp;mode=all">DBIx-Class-EncodedColumn</uri></ti>
@@ -147,12 +153,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Aliases-0.07&amp;to=MooseX-Aliases-0.08&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::clone&amp;mode=all">MooseX-Clone</uri></ti>
-    <ti align="right">0.04</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Clone-0.05/">0.05</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Clone-0.04&amp;to=MooseX-Clone-0.05&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
     <ti align="right">0.23</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.24/">0.24</uri></ti>
@@ -165,15 +165,21 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=ORLite-1.31&amp;to=ORLite-1.32&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=scope::upper&amp;mode=all">Scope-Upper</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perltidy&amp;mode=all">Padre-Plugin-PerlTidy</uri></ti>
     <ti align="right">0.09</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Scope-Upper-0.10/">0.10</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Scope-Upper-0.09&amp;to=Scope-Upper-0.10&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlTidy-0.10/">0.10</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlTidy-0.09&amp;to=Padre-Plugin-PerlTidy-0.10&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::multimarkdown&amp;mode=all">Text-MultiMarkdown</uri></ti>
+    <ti align="right">1.000031</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Text-MultiMarkdown-1.000032/">1.000032</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Text-MultiMarkdown-1.000031&amp;to=Text-MultiMarkdown-1.000032&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 484
+Total packages suspected as outdated: 21 of 499
 </p>
 
 </body>

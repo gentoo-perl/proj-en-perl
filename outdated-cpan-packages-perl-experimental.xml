@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.132 2010/01/23 13:58:24 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.133 2010/01/24 19:16:28 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-01-23</date>
+<date>2010-01-24</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,12 +51,6 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
-    <ti align="right">0.35</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema-0.38/">0.38</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-DBIC-Schema-0.35&amp;to=Catalyst-Model-DBIC-Schema-0.38&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::authentication&amp;mode=all">Catalyst-Plugin-Authentication</uri></ti>
     <ti align="right">0.10015</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Authentication-0.10016/">0.10016</uri></ti>
@@ -69,22 +63,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Session-PerUser-0.04&amp;to=Catalyst-Plugin-Session-PerUser-0.05&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::unicode::encoding&amp;mode=all">Catalyst-Plugin-Unicode-Encoding</uri></ti>
-    <ti align="right">0.7</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Unicode-Encoding-0.8/">0.8</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Unicode-Encoding-0.7&amp;to=Catalyst-Plugin-Unicode-Encoding-0.8&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::view::email&amp;mode=all">Catalyst-View-Email</uri></ti>
     <ti align="right">0.13</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-Email-0.19/">0.19</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-Email-0.13&amp;to=Catalyst-View-Email-0.19&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::view::gd::barcode&amp;mode=all">Catalyst-View-GD-Barcode</uri></ti>
-    <ti align="right">0.03</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-GD-Barcode-0.04/">0.04</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-GD-Barcode-0.03&amp;to=Catalyst-View-GD-Barcode-0.04&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
@@ -99,39 +81,27 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-CompileTests-1.092870&amp;to=Dist-Zilla-Plugin-CompileTests-1.100220&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=git::pureperl&amp;mode=all">Git-PurePerl</uri></ti>
-    <ti align="right">0.45</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Git-PurePerl-0.46/">0.46</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Git-PurePerl-0.45&amp;to=Git-PurePerl-0.46&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::aliases&amp;mode=all">MooseX-Aliases</uri></ti>
-    <ti align="right">0.07</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Aliases-0.08/">0.08</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Aliases-0.07&amp;to=MooseX-Aliases-0.08&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::simpleconfig&amp;mode=all">MooseX-SimpleConfig</uri></ti>
-    <ti align="right">0.04</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-SimpleConfig-0.05/">0.05</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-SimpleConfig-0.04&amp;to=MooseX-SimpleConfig-0.05&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
     <ti align="right">0.23</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.24/">0.24</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Storage-0.23&amp;to=MooseX-Storage-0.24&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::elemental&amp;mode=all">Pod-Elemental</uri></ti>
-    <ti align="right">0.093280</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Elemental-0.100220/">0.100220</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Pod-Elemental-0.093280&amp;to=Pod-Elemental-0.100220&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=orlite&amp;mode=all">ORLite</uri></ti>
+    <ti align="right">1.32</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/ORLite-1.33/">1.33</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=ORLite-1.32&amp;to=ORLite-1.33&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=template::tiny&amp;mode=all">Template-Tiny</uri></ti>
+    <ti align="right">0.09</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Template-Tiny-0.10/">0.10</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Template-Tiny-0.09&amp;to=Template-Tiny-0.10&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 13 of 507
+Total packages suspected as outdated: 8 of 516
 </p>
 
 </body>

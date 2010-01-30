@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1894 2010/01/29 17:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1895 2010/01/30 01:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-01-29</date>
+<date>2010-01-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -85,6 +85,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.44</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
+    <ti align="right">0.31</ti>
+    <ti align="right">0.32</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">3.31</ti>
     <ti align="right">3.6</ti>
@@ -103,6 +108,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=net::irc&amp;mode=all">Net-IRC</uri></ti>
     <ti align="right">0.76</ti>
     <ti align="right">0.79</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::twitter&amp;mode=all">Net-Twitter</uri></ti>
+    <ti align="right">3.11002</ti>
+    <ti align="right">3.11003</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
@@ -132,7 +142,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 977
+Total packages suspected as outdated: 18 of 977
 </p>
 
 </body>

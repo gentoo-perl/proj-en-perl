@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1895 2010/01/30 01:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1896 2010/01/30 17:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -130,6 +130,16 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::harness&amp;mode=all">Test-Harness</uri> (virtual/perl-Test-Harness)</ti>
+    <ti align="right">3.20</ti>
+    <ti align="right">3.21</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::longstring&amp;mode=all">Test-LongString</uri></ti>
+    <ti align="right">0.12</ti>
+    <ti align="right">0.13</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri> (virtual/perl-version)</ti>
     <ti align="right">0.79</ti>
     <ti align="right">0.80</ti>
@@ -142,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 977
+Total packages suspected as outdated: 20 of 977
 </p>
 
 </body>

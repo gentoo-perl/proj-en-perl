@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.139 2010/02/03 17:46:05 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.140 2010/02/05 07:49:00 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-02-03</date>
+<date>2010-02-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,10 +51,16 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
+    <ti align="right">0.81</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.82/">0.82</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-REST-0.81&amp;to=Catalyst-Action-REST-0.82&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
     <ti align="right">0.38</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema-0.39/">0.39</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-DBIC-Schema-0.38&amp;to=Catalyst-Model-DBIC-Schema-0.39&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema-0.40/">0.40</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-DBIC-Schema-0.38&amp;to=Catalyst-Model-DBIC-Schema-0.40&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::devel::moduleversions&amp;mode=all">Catalyst-Plugin-Devel-ModuleVersions</uri></ti>
@@ -85,6 +91,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.04</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-UploadProgress-0.05/">0.05</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-UploadProgress-0.04&amp;to=Catalyst-Plugin-UploadProgress-0.05&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::runtime&amp;mode=all">Catalyst-Runtime</uri></ti>
+    <ti align="right">5.80019</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Runtime-5.80020/">5.80020</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Runtime-5.80019&amp;to=Catalyst-Runtime-5.80020&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cgi::application::plugin::authentication&amp;mode=all">CGI-Application-Plugin-Authentication</uri></ti>
@@ -147,6 +159,36 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=HTML-FormHandler-0.29002&amp;to=HTML-FormHandler-0.30&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=log::dispatch::config&amp;mode=all">Log-Dispatch-Config</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Log-Dispatch-Config-1.03/">1.03</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Log-Dispatch-Config-1.02&amp;to=Log-Dispatch-Config-1.03&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::declare&amp;mode=all">MooseX-Declare</uri></ti>
+    <ti align="right">0.32</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Declare-0.33/">0.33</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Declare-0.32&amp;to=MooseX-Declare-0.33&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::method::signatures&amp;mode=all">MooseX-Method-Signatures</uri></ti>
+    <ti align="right">0.29</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Method-Signatures-0.30/">0.30</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Method-Signatures-0.29&amp;to=MooseX-Method-Signatures-0.30&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::role::parameterized&amp;mode=all">MooseX-Role-Parameterized</uri></ti>
+    <ti align="right">0.15</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.16/">0.16</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.15&amp;to=MooseX-Role-Parameterized-0.16&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::types::structured&amp;mode=all">MooseX-Types-Structured</uri></ti>
+    <ti align="right">0.19</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Types-Structured-0.20/">0.20</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Types-Structured-0.19&amp;to=MooseX-Types-Structured-0.20&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
     <ti align="right">3.093530</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Weaver-3.100310/">3.100310</uri></ti>
@@ -155,7 +197,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 518
+Total packages suspected as outdated: 24 of 518
 </p>
 
 </body>

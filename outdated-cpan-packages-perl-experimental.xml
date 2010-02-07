@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.140 2010/02/05 07:49:00 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.141 2010/02/07 09:49:32 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-02-05</date>
+<date>2010-02-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -131,8 +131,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::class::schema::loader&amp;mode=all">DBIx-Class-Schema-Loader</uri></ti>
     <ti align="right">0.04006</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Schema-Loader-0.05000/">0.05000</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Schema-Loader-0.04006&amp;to=DBIx-Class-Schema-Loader-0.05000&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Schema-Loader-0.05001/">0.05001</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Schema-Loader-0.04006&amp;to=DBIx-Class-Schema-Loader-0.05001&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::compiletests&amp;mode=all">Dist-Zilla-Plugin-CompileTests</uri></ti>
@@ -155,8 +155,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::formhandler&amp;mode=all">HTML-FormHandler</uri></ti>
     <ti align="right">0.29002</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormHandler-0.30/">0.30</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormHandler-0.29002&amp;to=HTML-FormHandler-0.30&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormHandler-0.30001/">0.30001</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormHandler-0.29002&amp;to=HTML-FormHandler-0.30001&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=kiokudb&amp;mode=all">KiokuDB</uri></ti>
+    <ti align="right">0.34</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.35/">0.35</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-0.34&amp;to=KiokuDB-0.35&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=log::dispatch::config&amp;mode=all">Log-Dispatch-Config</uri></ti>
@@ -183,6 +189,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.15&amp;to=MooseX-Role-Parameterized-0.16&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::traits::pluggable&amp;mode=all">MooseX-Traits-Pluggable</uri></ti>
+    <ti align="right">0.08</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Traits-Pluggable-0.09/">0.09</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Traits-Pluggable-0.08&amp;to=MooseX-Traits-Pluggable-0.09&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::structured&amp;mode=all">MooseX-Types-Structured</uri></ti>
     <ti align="right">0.19</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Types-Structured-0.20/">0.20</uri></ti>
@@ -197,7 +209,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 518
+Total packages suspected as outdated: 26 of 517
 </p>
 
 </body>

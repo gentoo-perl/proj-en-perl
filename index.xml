@@ -5,7 +5,7 @@
 <project>
 <name>Perl</name>
 <longname>The Perl Maintenance Project</longname>
-<date>2006-04-25</date>
+<date>2010-02-13</date>
 
 <author title="Author">
   <mail link="mcummings@gentoo.org">Michael Cummings</mail>
@@ -57,6 +57,7 @@
     </requirements>
     <contact>perl@gentoo.org</contact>
   </job>
+<!--
   <job>
     <summary>g-cpan maintainer</summary>
     <details>
@@ -70,6 +71,7 @@
     </requirements>
     <contact>perl@gentoo.org</contact>
   </job>
+-->
 </recruitment>
 
 <dev role="member">ian</dev>
@@ -88,7 +90,7 @@
 <resource link="http://git.overlays.gentoo.org/gitweb/?p=proj/perl5-packaging.git;a=summary">Perl5 Packaging Overlay</resource>
 -->
 
-<extraproject name="g-cpan" lead="perl-herd">
+<extraproject name="g-cpan" lead="robbat2">
   Build perl modules that portage keeps track of
 </extraproject>
 

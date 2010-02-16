@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1925 2010/02/15 17:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1926 2010/02/16 01:52:25 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-02-15</date>
+<date>2010-02-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=crypt::blowfish&amp;mode=all">Crypt-Blowfish</uri></ti>
+    <ti align="right">2.10</ti>
+    <ti align="right">2.11</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=css::squish&amp;mode=all">CSS-Squish</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right">0.09</ti>
@@ -77,7 +82,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
     <ti align="right">0.100110</ti>
-    <ti align="right">0.100450</ti>
+    <ti align="right">0.100460</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=fcgi&amp;mode=all">FCGI</uri></ti>
+    <ti align="right">0.68</ti>
+    <ti align="right">0.69</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gearman&amp;mode=all">Gearman</uri></ti>
@@ -88,6 +98,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=gearman::server&amp;mode=all">Gearman-Server</uri></ti>
     <ti align="right">1.10</ti>
     <ti align="right">1.11</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=hash::merge&amp;mode=all">Hash-Merge</uri></ti>
+    <ti align="right">0.11</ti>
+    <ti align="right">0.12</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::mason&amp;mode=all">HTML-Mason</uri></ti>
@@ -140,6 +155,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.20</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=ppi&amp;mode=all">PPI</uri></ti>
+    <ti align="right">1.209</ti>
+    <ti align="right">1.210</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
     <ti align="right">0.0801</ti>
     <ti align="right">0.09</ti>
@@ -157,7 +177,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 1006
+Total packages suspected as outdated: 25 of 1010
 </p>
 
 </body>

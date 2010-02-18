@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.147 2010/02/16 07:06:27 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.148 2010/02/18 16:06:48 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-02-16</date>
+<date>2010-02-18</date>
 
 <chapter>
 <title>Intro</title>
@@ -61,6 +61,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.81</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.83/">0.83</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-REST-0.81&amp;to=Catalyst-Action-REST-0.83&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::manual&amp;mode=all">Catalyst-Manual</uri></ti>
+    <ti align="right">5.8003</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Manual-5.8004/">5.8004</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Manual-5.8003&amp;to=Catalyst-Manual-5.8004&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::model::adaptor&amp;mode=all">Catalyst-Model-Adaptor</uri></ti>
@@ -111,6 +117,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-GD-Barcode-0.04&amp;to=Catalyst-View-GD-Barcode-0.05&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::view::tt&amp;mode=all">Catalyst-View-TT</uri></ti>
+    <ti align="right">0.31</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-TT-0.32/">0.32</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-TT-0.31&amp;to=Catalyst-View-TT-0.32&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=color::calc&amp;mode=all">Color-Calc</uri></ti>
     <ti align="right">1.060</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Color-Calc-1.061/">1.061</uri></ti>
@@ -119,8 +131,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::reporter&amp;mode=all">CPAN-Reporter</uri></ti>
     <ti align="right">1.1708</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.1710/">1.1710</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Reporter-1.1708&amp;to=CPAN-Reporter-1.1710&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.1711/">1.1711</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Reporter-1.1708&amp;to=CPAN-Reporter-1.1711&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::class::schema::loader&amp;mode=all">DBIx-Class-Schema-Loader</uri></ti>
@@ -167,8 +179,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=locale::codes&amp;mode=all">Locale-Codes</uri></ti>
     <ti align="right">2.07</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Locale-Codes-3.01/">3.01</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Locale-Codes-2.07&amp;to=Locale-Codes-3.01&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Locale-Codes-3.10/">3.10</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Locale-Codes-2.07&amp;to=Locale-Codes-3.10&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=log::dispatch::config&amp;mode=all">Log-Dispatch-Config</uri></ti>
@@ -231,6 +243,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Types-Structured-0.19&amp;to=MooseX-Types-Structured-0.20&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::workers&amp;mode=all">MooseX-Workers</uri></ti>
+    <ti align="right">0.09</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Workers-0.10/">0.10</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Workers-0.09&amp;to=MooseX-Workers-0.10&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::ldap::server::test&amp;mode=all">Net-LDAP-Server-Test</uri></ti>
+    <ti align="right">0.08</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Net-LDAP-Server-Test-0.09/">0.09</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Net-LDAP-Server-Test-0.08&amp;to=Net-LDAP-Server-Test-0.09&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
     <ti align="right">3.093530</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Weaver-3.100310/">3.100310</uri></ti>
@@ -245,7 +269,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 32 of 499
+Total packages suspected as outdated: 36 of 499
 </p>
 
 </body>

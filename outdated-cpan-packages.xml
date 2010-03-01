@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1942 2010/02/23 17:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1943 2010/03/01 09:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-02-23</date>
+<date>2010-03-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,9 +50,14 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=apache::test&amp;mode=all">Apache-Test</uri></ti>
+    <ti align="right">1.30</ti>
+    <ti align="right">1.31</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=audio::scan&amp;mode=all">Audio-Scan</uri></ti>
     <ti align="right">0.59</ti>
-    <ti align="right">0.60</ti>
+    <ti align="right">0.61</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
@@ -60,9 +65,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.29</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=bio::graphics&amp;mode=all">Bio-Graphics</uri></ti>
+    <ti align="right">2.00</ti>
+    <ti align="right">2.01</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::any&amp;mode=all">Config-Any</uri></ti>
     <ti align="right">0.18</ti>
     <ti align="right">0.19</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpan::mini&amp;mode=all">CPAN-Mini</uri></ti>
+    <ti align="right">0.576</ti>
+    <ti align="right">1.100593</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::blowfish&amp;mode=all">Crypt-Blowfish</uri></ti>
@@ -75,9 +90,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::format::flexible&amp;mode=all">DateTime-Format-Flexible</uri></ti>
+    <ti align="right">0.09</ti>
+    <ti align="right">0.14</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
     <ti align="right">2.160</ti>
     <ti align="right">2.161</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::class&amp;mode=all">DBIx-Class</uri></ti>
+    <ti align="right">0.08119</ti>
+    <ti align="right">0.08120</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
@@ -125,14 +150,29 @@ will curb some of the bugs to boot).
     <ti align="right">0.78</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
+    <ti align="right">1.27</ti>
+    <ti align="right">1.28</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mldbm&amp;mode=all">MLDBM</uri></ti>
     <ti align="right">2.01</ti>
-    <ti align="right">2.02</ti>
+    <ti align="right">2.03</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::find&amp;mode=all">Module-Find</uri></ti>
+    <ti align="right">0.08</ti>
+    <ti align="right">0.10</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::install&amp;mode=all">Module-Install</uri></ti>
     <ti align="right">0.91</ti>
     <ti align="right">0.94</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::getopt&amp;mode=all">MooseX-Getopt</uri></ti>
+    <ti align="right">0.26</ti>
+    <ti align="right">0.27</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
@@ -145,9 +185,24 @@ will curb some of the bugs to boot).
     <ti align="right">0.79</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::patricia&amp;mode=all">Net-Patricia</uri></ti>
+    <ti align="right">1.15</ti>
+    <ti align="right">1.16</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::twitter&amp;mode=all">Net-Twitter</uri></ti>
     <ti align="right">3.11003</ti>
-    <ti align="right">3.11004</ti>
+    <ti align="right">3.11007</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=paradns&amp;mode=all">ParaDNS</uri></ti>
+    <ti align="right">1.9</ti>
+    <ti align="right">2.0</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pdf::create&amp;mode=all">PDF-Create</uri></ti>
+    <ti align="right">1.04</ti>
+    <ti align="right">1.05</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perlbal::xs::httpheaders&amp;mode=all">Perlbal-XS-HTTPHeaders</uri></ti>
@@ -165,9 +220,24 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sql::translator&amp;mode=all">SQL-Translator</uri></ti>
+    <ti align="right">0.11004</ti>
+    <ti align="right">0.11005</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=tie::ixhash&amp;mode=all">Tie-IxHash</uri></ti>
+    <ti align="right">1.21</ti>
+    <ti align="right">1.22</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=wx::perl::processstream&amp;mode=all">Wx-Perl-ProcessStream</uri></ti>
+    <ti align="right">0.24</ti>
+    <ti align="right">0.27</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::twig&amp;mode=all">XML-Twig</uri></ti>
@@ -177,7 +247,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 1011
+Total packages suspected as outdated: 39 of 1011
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1948 2010/03/03 17:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1949 2010/03/04 01:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-03-03</date>
+<date>2010-03-04</date>
 
 <chapter>
 <title>Intro</title>
@@ -90,11 +90,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::format::flexible&amp;mode=all">DateTime-Format-Flexible</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right">0.14</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
     <ti align="right">2.160</ti>
     <ti align="right">2.161</ti>
@@ -145,24 +140,14 @@ will curb some of the bugs to boot).
     <ti align="right">3.6</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=locale::maketext::lexicon&amp;mode=all">locale-maketext-lexicon</uri></ti>
-    <ti align="right">0.77</ti>
-    <ti align="right">0.79</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
-    <ti align="right">1.27</ti>
-    <ti align="right">1.28</ti>
+    <ti><uri link="http://search.cpan.org/search?query=math::pari&amp;mode=all">math-pari</uri></ti>
+    <ti align="right">2.01080603</ti>
+    <ti align="right">2.01080604</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mldbm&amp;mode=all">MLDBM</uri></ti>
     <ti align="right">2.01</ti>
     <ti align="right">2.03</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::find&amp;mode=all">Module-Find</uri></ti>
-    <ti align="right">0.08</ti>
-    <ti align="right">0.10</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::install&amp;mode=all">Module-Install</uri></ti>
@@ -242,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 38 of 1011
+Total packages suspected as outdated: 35 of 1011
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1955 2010/03/06 09:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1956 2010/03/07 01:52:23 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-03-06</date>
+<date>2010-03-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -95,6 +95,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.11</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gstreamer::interfaces&amp;mode=all">GStreamer-Interfaces</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right">0.05</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::fu&amp;mode=all">gtk2-fu</uri></ti>
     <ti align="right">0.10</ti>
     <ti align="right">0.11</ti>
@@ -152,7 +157,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe&amp;mode=all">Safe</uri> (virtual/perl-Safe)</ti>
     <ti align="right">2.22</ti>
-    <ti align="right">2.23</ti>
+    <ti align="right">2.24</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
@@ -177,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 1012
+Total packages suspected as outdated: 26 of 1012
 </p>
 
 </body>

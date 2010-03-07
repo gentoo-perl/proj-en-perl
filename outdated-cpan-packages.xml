@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1956 2010/03/07 01:52:23 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1957 2010/03/07 09:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -152,6 +152,11 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=poe::xs::loop::epoll&amp;mode=all">POE-XS-Loop-EPoll</uri></ti>
     <ti align="right">0.001</ti>
+    <ti align="right">1.001</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=poe::xs::loop::poll&amp;mode=all">POE-XS-Loop-Poll</uri></ti>
+    <ti align="right">0.007</ti>
     <ti align="right">1.000</ti>
   </tr>
   <tr>
@@ -182,7 +187,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 1012
+Total packages suspected as outdated: 27 of 1012
 </p>
 
 </body>

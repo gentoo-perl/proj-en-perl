@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1960 2010/03/08 09:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1961 2010/03/08 17:52:23 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.29</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cddb&amp;mode=all">CDDB</uri></ti>
+    <ti align="right">1.21</ti>
+    <ti align="right">1.220</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::any&amp;mode=all">Config-Any</uri></ti>
     <ti align="right">0.18</ti>
     <ti align="right">0.19</ti>
@@ -78,6 +83,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
     <ti align="right">2.160</ti>
     <ti align="right">2.161</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=devel::repl&amp;mode=all">Devel-REPL</uri></ti>
+    <ti align="right">1.003007</ti>
+    <ti align="right">1.003009</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
@@ -125,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.6</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=lexical::persistence&amp;mode=all">Lexical-Persistence</uri></ti>
+    <ti align="right">1.01</ti>
+    <ti align="right">1.020</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mldbm&amp;mode=all">MLDBM</uri></ti>
     <ti align="right">2.01</ti>
     <ti align="right">2.04</ti>
@@ -170,6 +185,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::class&amp;mode=all">Test-Class</uri></ti>
+    <ti align="right">0.33</ti>
+    <ti align="right">0.34</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=tie::ixhash&amp;mode=all">Tie-IxHash</uri></ti>
     <ti align="right">1.21</ti>
     <ti align="right">1.22</ti>
@@ -182,7 +202,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 1012
+Total packages suspected as outdated: 30 of 1012
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.156 2010/03/11 07:01:18 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.157 2010/03/12 07:08:00 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-03-11</date>
+<date>2010-03-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -195,6 +195,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=CPAN-Uploader-0.093390&amp;to=CPAN-Uploader-0.100660&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=crypt::eksblowfish&amp;mode=all">Crypt-Eksblowfish</uri></ti>
+    <ti align="right">0.007</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Crypt-Eksblowfish-0.008/">0.008</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Crypt-Eksblowfish-0.007&amp;to=Crypt-Eksblowfish-0.008&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::formvalidator&amp;mode=all">Data-FormValidator</uri></ti>
     <ti align="right">4.65</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Data-FormValidator-4.66/">4.66</uri></ti>
@@ -233,8 +239,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::readmefrompod&amp;mode=all">Dist-Zilla-Plugin-ReadmeFromPod</uri></ti>
     <ti align="right">0.04</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-ReadmeFromPod-0.05/">0.05</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-ReadmeFromPod-0.04&amp;to=Dist-Zilla-Plugin-ReadmeFromPod-0.05&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-ReadmeFromPod-0.06/">0.06</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-ReadmeFromPod-0.04&amp;to=Dist-Zilla-Plugin-ReadmeFromPod-0.06&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
@@ -377,8 +383,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
     <ti align="right">0.9031</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9915/">0.9915</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9031&amp;to=Plack-0.9915&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9916/">0.9916</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9031&amp;to=Plack-0.9916&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
@@ -431,8 +437,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=text::simpletable&amp;mode=all">Text-SimpleTable</uri></ti>
     <ti align="right">2.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Text-SimpleTable-2.02/">2.02</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Text-SimpleTable-2.0&amp;to=Text-SimpleTable-2.02&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Text-SimpleTable-2.03/">2.03</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Text-SimpleTable-2.0&amp;to=Text-SimpleTable-2.03&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=time::y2038&amp;mode=all">Time-y2038</uri></ti>
@@ -443,7 +449,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 65 of 498
+Total packages suspected as outdated: 66 of 498
 </p>
 
 </body>

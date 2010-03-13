@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.157 2010/03/12 07:08:00 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.158 2010/03/13 07:59:33 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-03-12</date>
+<date>2010-03-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -195,6 +195,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=CPAN-Uploader-0.093390&amp;to=CPAN-Uploader-0.100660&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpanplus&amp;mode=all">CPANPLUS</uri> (virtual/perl-CPANPLUS)</ti>
+    <ti align="right">0.9001</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPANPLUS-0.9002/">0.9002</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPANPLUS-0.9001&amp;to=CPANPLUS-0.9002&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::eksblowfish&amp;mode=all">Crypt-Eksblowfish</uri></ti>
     <ti align="right">0.007</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Crypt-Eksblowfish-0.008/">0.008</uri></ti>
@@ -215,8 +221,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
     <ti align="right">1.100160</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-1.100660/">1.100660</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-1.100160&amp;to=Dist-Zilla-1.100660&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-1.100711/">1.100711</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-1.100160&amp;to=Dist-Zilla-1.100711&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::compiletests&amp;mode=all">Dist-Zilla-Plugin-CompileTests</uri></ti>
@@ -233,8 +239,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podweaver&amp;mode=all">Dist-Zilla-Plugin-PodWeaver</uri></ti>
     <ti align="right">3.093321</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-PodWeaver-3.100680/">3.100680</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-PodWeaver-3.093321&amp;to=Dist-Zilla-Plugin-PodWeaver-3.100680&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-PodWeaver-3.100710/">3.100710</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-PodWeaver-3.093321&amp;to=Dist-Zilla-Plugin-PodWeaver-3.100710&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::readmefrompod&amp;mode=all">Dist-Zilla-Plugin-ReadmeFromPod</uri></ti>
@@ -389,8 +395,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
     <ti align="right">3.093530</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Weaver-3.100680/">3.100680</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Pod-Weaver-3.093530&amp;to=Pod-Weaver-3.100680&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Weaver-3.100710/">3.100710</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Pod-Weaver-3.093530&amp;to=Pod-Weaver-3.100710&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=search::gin&amp;mode=all">Search-GIN</uri></ti>
@@ -423,6 +429,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Test-Compile-0.12&amp;to=Test-Compile-0.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::reporter&amp;mode=all">Test-Reporter</uri></ti>
+    <ti align="right">1.54</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Test-Reporter-1.55/">1.55</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Test-Reporter-1.54&amp;to=Test-Reporter-1.55&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::strict&amp;mode=all">Test-Strict</uri></ti>
     <ti align="right">0.13</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Test-Strict-0.14/">0.14</uri></ti>
@@ -449,7 +461,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 66 of 498
+Total packages suspected as outdated: 68 of 498
 </p>
 
 </body>

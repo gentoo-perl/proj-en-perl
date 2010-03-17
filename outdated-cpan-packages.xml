@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1982 2010/03/16 17:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1983 2010/03/17 01:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-03-16</date>
+<date>2010-03-17</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,9 +75,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
+    <ti align="right">0.54</ti>
+    <ti align="right">0.55</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
     <ti align="right">2.160</ti>
     <ti align="right">2.161</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=devel::nytprof&amp;mode=all">Devel-NYTProf</uri></ti>
+    <ti align="right">3.02</ti>
+    <ti align="right">3.11</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::repl&amp;mode=all">Devel-REPL</uri></ti>
@@ -88,6 +98,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
     <ti align="right">0.100110</ti>
     <ti align="right">0.100460</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=extutils::cbuilder&amp;mode=all">ExtUtils-CBuilder</uri> (virtual/perl-ExtUtils-CBuilder)</ti>
+    <ti align="right">0.2702</ti>
+    <ti align="right">0.2703</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gearman&amp;mode=all">Gearman</uri></ti>
@@ -128,6 +143,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=lexical::persistence&amp;mode=all">Lexical-Persistence</uri></ti>
     <ti align="right">1.01</ti>
     <ti align="right">1.020</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mime::types&amp;mode=all">MIME-Types</uri></ti>
+    <ti align="right">1.28</ti>
+    <ti align="right">1.29</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mldbm&amp;mode=all">MLDBM</uri></ti>
@@ -190,6 +210,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.22</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::namespacesupport&amp;mode=all">XML-NamespaceSupport</uri></ti>
+    <ti align="right">1.10</ti>
+    <ti align="right">1.11</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::twig&amp;mode=all">XML-Twig</uri></ti>
     <ti align="right">3.32</ti>
     <ti align="right">3.34</ti>
@@ -197,7 +222,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 1008
+Total packages suspected as outdated: 34 of 1008
 </p>
 
 </body>

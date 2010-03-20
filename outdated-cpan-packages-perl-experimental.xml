@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.163 2010/03/19 07:44:33 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.164 2010/03/20 07:25:46 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-03-19</date>
+<date>2010-03-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -71,8 +71,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=autobox::core&amp;mode=all">autobox-Core</uri></ti>
     <ti align="right">0.6</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/autobox-Core-1.0/">1.0</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=autobox-Core-0.6&amp;to=autobox-Core-1.0&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/autobox-Core-1.2/">1.2</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=autobox-Core-0.6&amp;to=autobox-Core-1.2&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=autodie&amp;mode=all">autodie</uri></ti>
@@ -97,6 +97,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.1082</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-DBIx-Class-0.1083/">0.1083</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-DBIx-Class-0.1082&amp;to=Catalyst-Authentication-Store-DBIx-Class-0.1083&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::ldap&amp;mode=all">Catalyst-Authentication-Store-LDAP</uri></ti>
+    <ti align="right">1.006</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-LDAP-1.007/">1.007</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-LDAP-1.006&amp;to=Catalyst-Authentication-Store-LDAP-1.007&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
@@ -187,6 +193,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.060</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Color-Calc-1.061/">1.061</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Color-Calc-1.060&amp;to=Color-Calc-1.061&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::mvp&amp;mode=all">Config-MVP</uri></ti>
+    <ti align="right">0.093350</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Config-MVP-0.100780/">0.100780</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Config-MVP-0.093350&amp;to=Config-MVP-0.100780&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::reporter&amp;mode=all">CPAN-Reporter</uri></ti>
@@ -333,6 +345,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Mixin-Linewise-0.002&amp;to=Mixin-Linewise-0.003&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::runtime&amp;mode=all">Module-Runtime</uri></ti>
+    <ti align="right">0.006</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Module-Runtime-0.007/">0.007</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Module-Runtime-0.006&amp;to=Module-Runtime-0.007&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::declare&amp;mode=all">MooseX-Declare</uri></ti>
     <ti align="right">0.32</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Declare-0.33/">0.33</uri></ti>
@@ -413,8 +431,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
     <ti align="right">0.9031</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9919/">0.9919</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9031&amp;to=Plack-0.9919&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9920/">0.9920</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9031&amp;to=Plack-0.9920&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=software::license&amp;mode=all">Software-License</uri></ti>
@@ -437,7 +455,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 64 of 502
+Total packages suspected as outdated: 67 of 502
 </p>
 
 </body>

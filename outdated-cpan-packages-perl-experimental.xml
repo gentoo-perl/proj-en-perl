@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.164 2010/03/20 07:25:46 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.165 2010/03/22 15:19:42 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-03-20</date>
+<date>2010-03-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -85,12 +85,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.34</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Cache-FastMmap-1.35/">1.35</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Cache-FastMmap-1.34&amp;to=Cache-FastMmap-1.35&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
-    <ti align="right">0.81</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.83/">0.83</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-REST-0.81&amp;to=Catalyst-Action-REST-0.83&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::dbix::class&amp;mode=all">Catalyst-Authentication-Store-DBIx-Class</uri></ti>
@@ -311,8 +305,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=kiokudb&amp;mode=all">KiokuDB</uri></ti>
     <ti align="right">0.34</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.39/">0.39</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-0.34&amp;to=KiokuDB-0.39&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.41/">0.41</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-0.34&amp;to=KiokuDB-0.41&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=kiokudb::backend::dbi&amp;mode=all">KiokuDB-Backend-DBI</uri></ti>
@@ -349,6 +343,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.006</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Module-Runtime-0.007/">0.007</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Module-Runtime-0.006&amp;to=Module-Runtime-0.007&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mojolicious&amp;mode=all">Mojolicious</uri></ti>
+    <ti align="right">0.999923</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-0.999924/">0.999924</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-0.999923&amp;to=Mojolicious-0.999924&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::declare&amp;mode=all">MooseX-Declare</uri></ti>
@@ -441,6 +441,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Software-License-0.012&amp;to=Software-License-0.013&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=task::catalyst&amp;mode=all">Task-Catalyst</uri></ti>
+    <ti align="right">3.0000</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Catalyst-4.00/">4.00</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Catalyst-3.0000&amp;to=Task-Catalyst-4.00&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
     <ti align="right">0.20</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.21/">0.21</uri></ti>
@@ -452,10 +458,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Test-WWW-Mechanize-Catalyst-0.52/">0.52</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Test-WWW-Mechanize-Catalyst-0.51&amp;to=Test-WWW-Mechanize-Catalyst-0.52&amp;w=1">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::multimarkdown&amp;mode=all">Text-MultiMarkdown</uri></ti>
+    <ti align="right">1.000032</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Text-MultiMarkdown-1.000033/">1.000033</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Text-MultiMarkdown-1.000032&amp;to=Text-MultiMarkdown-1.000033&amp;w=1">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 67 of 502
+Total packages suspected as outdated: 69 of 501
 </p>
 
 </body>

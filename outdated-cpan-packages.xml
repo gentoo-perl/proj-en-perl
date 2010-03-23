@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1997 2010/03/23 01:52:23 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1998 2010/03/23 09:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,9 +75,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">1.13</ti>
-    <ti align="right">1.14</ti>
+    <ti><uri link="http://search.cpan.org/search?query=data::objectdriver&amp;mode=all">Data-ObjectDriver</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right">0.07</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::repl&amp;mode=all">Devel-REPL</uri></ti>
@@ -90,19 +90,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.100460</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=exception::class&amp;mode=all">Exception-Class</uri></ti>
-    <ti align="right">1.29</ti>
-    <ti align="right">1.30</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=extutils::cbuilder&amp;mode=all">ExtUtils-CBuilder</uri> (virtual/perl-ExtUtils-CBuilder)</ti>
     <ti align="right">0.2702</ti>
     <ti align="right">0.2703</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=fcgi&amp;mode=all">FCGI</uri></ti>
-    <ti align="right">0.69</ti>
-    <ti align="right">0.70</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gearman&amp;mode=all">Gearman</uri></ti>
@@ -113,11 +103,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=gearman::server&amp;mode=all">Gearman-Server</uri></ti>
     <ti align="right">1.10</ti>
     <ti align="right">1.11</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gstreamer::interfaces&amp;mode=all">GStreamer-Interfaces</uri></ti>
-    <ti align="right">0.04</ti>
-    <ti align="right">0.06</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::fu&amp;mode=all">gtk2-fu</uri></ti>
@@ -145,6 +130,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.59</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=ipc::run&amp;mode=all">IPC-Run</uri></ti>
+    <ti align="right">0.84</ti>
+    <ti align="right">0.85</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=lexical::persistence&amp;mode=all">Lexical-Persistence</uri></ti>
     <ti align="right">1.01</ti>
     <ti align="right">1.020</ti>
@@ -168,11 +158,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=net::irc&amp;mode=all">Net-IRC</uri></ti>
     <ti align="right">0.76</ti>
     <ti align="right">0.79</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::oauth&amp;mode=all">Net-OAuth</uri></ti>
-    <ti align="right">0.23</ti>
-    <ti align="right">0.25</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=nmap::parser&amp;mode=all">Nmap-Parser</uri></ti>
@@ -222,7 +207,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 34 of 1010
+Total packages suspected as outdated: 31 of 1010
 </p>
 
 </body>

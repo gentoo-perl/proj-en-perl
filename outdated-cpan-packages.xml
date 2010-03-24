@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.1999 2010/03/24 01:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2000 2010/03/24 09:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=audio::scan&amp;mode=all">Audio-Scan</uri></ti>
-    <ti align="right">0.59</ti>
-    <ti align="right">0.70</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.29</ti>
@@ -73,11 +68,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=css::squish&amp;mode=all">CSS-Squish</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right">0.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::objectdriver&amp;mode=all">Data-ObjectDriver</uri></ti>
-    <ti align="right">0.06</ti>
-    <ti align="right">0.07</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::repl&amp;mode=all">Devel-REPL</uri></ti>
@@ -212,7 +202,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 32 of 1010
+Total packages suspected as outdated: 30 of 1010
 </p>
 
 </body>

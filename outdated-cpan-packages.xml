@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2001 2010/03/24 17:52:25 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2002 2010/03/25 01:52:23 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-03-24</date>
+<date>2010-03-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -122,7 +122,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ipc::run&amp;mode=all">IPC-Run</uri></ti>
     <ti align="right">0.84</ti>
-    <ti align="right">0.85</ti>
+    <ti align="right">0.86</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=lexical::persistence&amp;mode=all">Lexical-Persistence</uri></ti>
@@ -158,6 +158,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=nmap::parser&amp;mode=all">Nmap-Parser</uri></ti>
     <ti align="right">1.19</ti>
     <ti align="right">1.2</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=perl::ldap&amp;mode=all">perl-ldap</uri></ti>
+    <ti align="right">0.40</ti>
+    <ti align="right">0.4001</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perlbal&amp;mode=all">Perlbal</uri></ti>
@@ -207,7 +212,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 31 of 1010
+Total packages suspected as outdated: 32 of 1011
 </p>
 
 </body>

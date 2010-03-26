@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.166 2010/03/24 10:46:46 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.167 2010/03/26 14:04:38 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-03-24</date>
+<date>2010-03-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,18 +51,6 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::cmd&amp;mode=all">App-Cmd</uri></ti>
-    <ti align="right">0.304</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-Cmd-0.307/">0.307</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-Cmd-0.304&amp;to=App-Cmd-0.307&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=audio::ofa&amp;mode=all">Audio-Ofa</uri></ti>
-    <ti align="right">0.02</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Audio-Ofa-1.01/">1.01</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Audio-Ofa-0.02&amp;to=Audio-Ofa-1.01&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=autobox&amp;mode=all">autobox</uri></ti>
     <ti align="right">2.55</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/autobox-2.70/">2.70</uri></ti>
@@ -73,12 +61,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.6</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/autobox-Core-1.2/">1.2</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=autobox-Core-0.6&amp;to=autobox-Core-1.2&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=autodie&amp;mode=all">autodie</uri></ti>
-    <ti align="right">2.06</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/autodie-2.10/">2.10</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=autodie-2.06&amp;to=autodie-2.10&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::fastmmap&amp;mode=all">Cache-FastMmap</uri></ti>
@@ -189,34 +171,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-TT-0.31&amp;to=Catalyst-View-TT-0.33&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=color::calc&amp;mode=all">Color-Calc</uri></ti>
-    <ti align="right">1.060</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Color-Calc-1.061/">1.061</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Color-Calc-1.060&amp;to=Color-Calc-1.061&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::mvp&amp;mode=all">Config-MVP</uri></ti>
     <ti align="right">0.093350</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Config-MVP-0.100780/">0.100780</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Config-MVP-0.093350&amp;to=Config-MVP-0.100780&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::reporter&amp;mode=all">CPAN-Reporter</uri></ti>
-    <ti align="right">1.1708</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.1711/">1.1711</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Reporter-1.1708&amp;to=CPAN-Reporter-1.1711&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::uploader&amp;mode=all">CPAN-Uploader</uri></ti>
-    <ti align="right">0.093390</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Uploader-0.100760/">0.100760</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Uploader-0.093390&amp;to=CPAN-Uploader-0.100760&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpanplus&amp;mode=all">CPANPLUS</uri> (virtual/perl-CPANPLUS)</ti>
-    <ti align="right">0.9001</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPANPLUS-0.9003/">0.9003</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPANPLUS-0.9001&amp;to=CPANPLUS-0.9003&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::eksblowfish&amp;mode=all">Crypt-Eksblowfish</uri></ti>
@@ -241,6 +199,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.04006</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Schema-Loader-0.05003/">0.05003</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Schema-Loader-0.04006&amp;to=DBIx-Class-Schema-Loader-0.05003&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=devel::stacktrace::ashtml&amp;mode=all">Devel-StackTrace-AsHTML</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-StackTrace-AsHTML-0.06/">0.06</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Devel-StackTrace-AsHTML-0.05&amp;to=Devel-StackTrace-AsHTML-0.06&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
@@ -307,12 +271,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.1101</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/IO-CaptureOutput-1.1102/">1.1102</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=IO-CaptureOutput-1.1101&amp;to=IO-CaptureOutput-1.1102&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=ipc::system::simple&amp;mode=all">IPC-System-Simple</uri></ti>
-    <ti align="right">1.20</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/IPC-System-Simple-1.21/">1.21</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=IPC-System-Simple-1.20&amp;to=IPC-System-Simple-1.21&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=kiokudb&amp;mode=all">KiokuDB</uri></ti>
@@ -401,8 +359,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
     <ti align="right">0.24</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.25/">0.25</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Storage-0.24&amp;to=MooseX-Storage-0.25&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.26/">0.26</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Storage-0.24&amp;to=MooseX-Storage-0.26&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::traits&amp;mode=all">MooseX-Traits</uri></ti>
@@ -441,6 +399,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Net-LDAP-Server-Test-0.08&amp;to=Net-LDAP-Server-Test-0.09&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=orlite::migrate&amp;mode=all">ORLite-Migrate</uri></ti>
+    <ti align="right">1.06</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/ORLite-Migrate-1.07/">1.07</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=ORLite-Migrate-1.06&amp;to=ORLite-Migrate-1.07&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::catalyst&amp;mode=all">Task-Catalyst</uri></ti>
     <ti align="right">3.0000</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Catalyst-4.00/">4.00</uri></ti>
@@ -453,6 +417,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.20&amp;to=Task-Kensho-0.21&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=template::plugin::json&amp;mode=all">Template-Plugin-JSON</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Template-Plugin-JSON-0.06/">0.06</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Template-Plugin-JSON-0.05&amp;to=Template-Plugin-JSON-0.06&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::reporter&amp;mode=all">Test-Reporter</uri></ti>
+    <ti align="right">1.56</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Test-Reporter-1.57/">1.57</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Test-Reporter-1.56&amp;to=Test-Reporter-1.57&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::www::mechanize::catalyst&amp;mode=all">Test-WWW-Mechanize-Catalyst</uri></ti>
     <ti align="right">0.51</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Test-WWW-Mechanize-Catalyst-0.52/">0.52</uri></ti>
@@ -461,7 +437,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 68 of 502
+Total packages suspected as outdated: 64 of 508
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2005 2010/03/26 09:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2006 2010/03/26 17:52:24 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -63,11 +63,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=cddb&amp;mode=all">CDDB</uri></ti>
     <ti align="right">1.21</ti>
     <ti align="right">1.220</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::mop&amp;mode=all">Class-MOP</uri></ti>
-    <ti align="right">0.98</ti>
-    <ti align="right">1.00</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::blowfish&amp;mode=all">Crypt-Blowfish</uri></ti>
@@ -135,11 +130,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.61</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=ipc::run&amp;mode=all">IPC-Run</uri></ti>
-    <ti align="right">0.84</ti>
-    <ti align="right">0.86</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=lexical::persistence&amp;mode=all">Lexical-Persistence</uri></ti>
     <ti align="right">1.01</ti>
     <ti align="right">1.020</ti>
@@ -160,19 +150,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.62</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moose&amp;mode=all">Moose</uri></ti>
-    <ti align="right">0.99</ti>
-    <ti align="right">1.00</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.40</ti>
     <ti align="right">0.51</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::cidr::lite&amp;mode=all">Net-CIDR-Lite</uri></ti>
-    <ti align="right">0.20</ti>
-    <ti align="right">0.21</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::irc&amp;mode=all">Net-IRC</uri></ti>
@@ -188,11 +168,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=nmap::parser&amp;mode=all">Nmap-Parser</uri></ti>
     <ti align="right">1.19</ti>
     <ti align="right">1.2</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perl::ldap&amp;mode=all">perl-ldap</uri></ti>
-    <ti align="right">0.40</ti>
-    <ti align="right">0.4001</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perlbal&amp;mode=all">Perlbal</uri></ti>
@@ -220,14 +195,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sql::abstract&amp;mode=all">SQL-Abstract</uri></ti>
-    <ti align="right">1.62</ti>
-    <ti align="right">1.63</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=threads&amp;mode=all">threads</uri> (virtual/perl-threads)</ti>
+    <ti align="right">1.76</ti>
+    <ti align="right">1.77</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=tie::ixhash&amp;mode=all">Tie-IxHash</uri></ti>
@@ -247,7 +222,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 39 of 1011
+Total packages suspected as outdated: 34 of 1011
 </p>
 
 </body>

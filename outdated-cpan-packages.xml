@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2008 2010/03/27 09:52:24 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2009 2010/03/27 17:52:23 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::dbschema&amp;mode=all">DBIx-DBSchema</uri></ti>
+    <ti align="right">0.38</ti>
+    <ti align="right">0.39</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::repl&amp;mode=all">Devel-REPL</uri></ti>
     <ti align="right">1.003007</ti>
     <ti align="right">1.003009</ti>
@@ -147,7 +152,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.40</ti>
-    <ti align="right">0.51</ti>
+    <ti align="right">0.52</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::irc&amp;mode=all">Net-IRC</uri></ti>
@@ -173,6 +178,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=perlbal::xs::httpheaders&amp;mode=all">Perlbal-XS-HTTPHeaders</uri></ti>
     <ti align="right">0.19</ti>
     <ti align="right">0.20</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=scalar::properties&amp;mode=all">Scalar-Properties</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right">1.100860</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=shipit&amp;mode=all">ShipIt</uri></ti>
+    <ti align="right">0.53</ti>
+    <ti align="right">0.55</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=soap::lite&amp;mode=all">SOAP-Lite</uri></ti>
@@ -207,7 +222,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 31 of 1011
+Total packages suspected as outdated: 34 of 1011
 </p>
 
 </body>

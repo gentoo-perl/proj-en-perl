@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.167 2010/03/26 14:04:38 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.168 2010/03/27 13:57:37 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-03-26</date>
+<date>2010-03-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -171,6 +171,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-TT-0.31&amp;to=Catalyst-View-TT-0.33&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::json&amp;mode=all">Config-JSON</uri></ti>
+    <ti align="right">1.40</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Config-JSON-1.5000/">1.5000</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Config-JSON-1.40&amp;to=Config-JSON-1.5000&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::mvp&amp;mode=all">Config-MVP</uri></ti>
     <ti align="right">0.093350</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Config-MVP-0.100780/">0.100780</uri></ti>
@@ -259,6 +265,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.30001</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormHandler-0.30003/">0.30003</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=HTML-FormHandler-0.30001&amp;to=HTML-FormHandler-0.30003&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
+    <ti align="right">0.93</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-Template-Pro-0.94/">0.94</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-Template-Pro-0.93&amp;to=HTML-Template-Pro-0.94&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=imager&amp;mode=all">Imager</uri></ti>
@@ -383,8 +395,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::structured&amp;mode=all">MooseX-Types-Structured</uri></ti>
     <ti align="right">0.19</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Types-Structured-0.20/">0.20</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Types-Structured-0.19&amp;to=MooseX-Types-Structured-0.20&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Types-Structured-0.21/">0.21</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Types-Structured-0.19&amp;to=MooseX-Types-Structured-0.21&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::workers&amp;mode=all">MooseX-Workers</uri></ti>
@@ -403,6 +415,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.06</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/ORLite-Migrate-1.07/">1.07</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=ORLite-Migrate-1.06&amp;to=ORLite-Migrate-1.07&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=software::license&amp;mode=all">Software-License</uri></ti>
+    <ti align="right">0.014</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Software-License-0.015/">0.015</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Software-License-0.014&amp;to=Software-License-0.015&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::catalyst&amp;mode=all">Task-Catalyst</uri></ti>
@@ -429,6 +447,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Test-Reporter-1.56&amp;to=Test-Reporter-1.57&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::requires&amp;mode=all">Test-Requires</uri></ti>
+    <ti align="right">0.03</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Test-Requires-0.05/">0.05</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Test-Requires-0.03&amp;to=Test-Requires-0.05&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::www::mechanize::catalyst&amp;mode=all">Test-WWW-Mechanize-Catalyst</uri></ti>
     <ti align="right">0.51</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Test-WWW-Mechanize-Catalyst-0.52/">0.52</uri></ti>
@@ -437,7 +461,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 64 of 508
+Total packages suspected as outdated: 68 of 517
 </p>
 
 </body>

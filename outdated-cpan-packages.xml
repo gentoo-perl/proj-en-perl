@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2010 2010/03/27 22:35:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2011 2010/03/28 00:57:53 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-03-27</date>
+<date>2010-03-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,19 +55,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.29</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel::repl&amp;mode=all">Devel-REPL</uri></ti>
-    <ti align="right">1.003007</ti>
-    <ti align="right">1.003009</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
     <ti align="right">0.100110</ti>
     <ti align="right">0.100460</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gtk2::fu&amp;mode=all">gtk2-fu</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right">0.11</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::mason&amp;mode=all">HTML-Mason</uri></ti>
@@ -75,24 +65,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.44</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
-    <ti align="right">0.31</ti>
-    <ti align="right">0.34</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=lexical::persistence&amp;mode=all">Lexical-Persistence</uri></ti>
-    <ti align="right">1.01</ti>
-    <ti align="right">1.020</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::install&amp;mode=all">Module-Install</uri></ti>
     <ti align="right">0.91</ti>
     <ti align="right">0.95</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::signature&amp;mode=all">Module-Signature</uri></ti>
-    <ti align="right">0.61</ti>
-    <ti align="right">0.62</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
@@ -100,19 +75,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.52</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=netpacket&amp;mode=all">NetPacket</uri></ti>
-    <ti align="right">0.411</ti>
-    <ti align="right">0.420</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=nmap::parser&amp;mode=all">Nmap-Parser</uri></ti>
     <ti align="right">1.19</ti>
     <ti align="right">1.2</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perlbal::xs::httpheaders&amp;mode=all">Perlbal-XS-HTTPHeaders</uri></ti>
-    <ti align="right">0.19</ti>
-    <ti align="right">0.20</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=scalar::properties&amp;mode=all">Scalar-Properties</uri></ti>
@@ -129,15 +94,10 @@ will curb some of the bugs to boot).
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=tie::ixhash&amp;mode=all">Tie-IxHash</uri></ti>
-    <ti align="right">1.21</ti>
-    <ti align="right">1.22</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 1011
+Total packages suspected as outdated: 9 of 1013
 </p>
 
 </body>

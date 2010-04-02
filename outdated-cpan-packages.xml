@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2026 2010/04/02 09:52:25 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2027 2010/04/02 17:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -52,7 +52,7 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=audio::scan&amp;mode=all">Audio-Scan</uri></ti>
     <ti align="right">0.71</ti>
-    <ti align="right">0.73</ti>
+    <ti align="right">0.74</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.2</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pod::pom&amp;mode=all">Pod-POM</uri></ti>
+    <ti align="right">0.25</ti>
+    <ti align="right">0.27</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=scalar::properties&amp;mode=all">Scalar-Properties</uri></ti>
     <ti align="right">0.13</ti>
     <ti align="right">1.100860</ti>
@@ -162,7 +167,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 1013
+Total packages suspected as outdated: 23 of 1013
 </p>
 
 </body>

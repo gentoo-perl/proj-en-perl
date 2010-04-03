@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2028 2010/04/03 01:52:25 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2029 2010/04/03 09:52:26 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -63,6 +63,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.29</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=common::sense&amp;mode=all">common-sense</uri></ti>
+    <ti align="right">3.0</ti>
+    <ti align="right">3.1</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=compress::raw::bzip2&amp;mode=all">Compress-Raw-Bzip2</uri> (virtual/perl-Compress-Raw-Bzip2)</ti>
@@ -182,7 +187,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 1013
+Total packages suspected as outdated: 27 of 1013
 </p>
 
 </body>

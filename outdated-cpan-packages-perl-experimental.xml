@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.171 2010/04/02 06:17:23 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.172 2010/04/04 07:21:55 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-04-02</date>
+<date>2010-04-04</date>
 
 <chapter>
 <title>Intro</title>
@@ -77,8 +77,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::ldap&amp;mode=all">Catalyst-Authentication-Store-LDAP</uri></ti>
     <ti align="right">1.006</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-LDAP-1.007/">1.007</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-LDAP-1.006&amp;to=Catalyst-Authentication-Store-LDAP-1.007&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-LDAP-1.008/">1.008</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-LDAP-1.006&amp;to=Catalyst-Authentication-Store-LDAP-1.008&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
@@ -171,6 +171,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=CatalystX-Declare-0.011&amp;to=CatalystX-Declare-0.012&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::gitlike&amp;mode=all">Config-GitLike</uri></ti>
+    <ti align="right">1.03</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Config-GitLike-1.04/">1.04</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Config-GitLike-1.03&amp;to=Config-GitLike-1.04&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::json&amp;mode=all">Config-JSON</uri></ti>
     <ti align="right">1.40</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Config-JSON-1.5000/">1.5000</uri></ti>
@@ -221,8 +227,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
     <ti align="right">1.100160</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-2.100880/">2.100880</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-1.100160&amp;to=Dist-Zilla-2.100880&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-2.100922/">2.100922</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-1.100160&amp;to=Dist-Zilla-2.100922&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::compiletests&amp;mode=all">Dist-Zilla-Plugin-CompileTests</uri></ti>
@@ -497,7 +503,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 74 of 516
+Total packages suspected as outdated: 75 of 519
 </p>
 
 </body>

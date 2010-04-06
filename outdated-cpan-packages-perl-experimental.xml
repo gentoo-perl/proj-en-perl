@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.172 2010/04/04 07:21:55 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.173 2010/04/06 20:11:10 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-04-04</date>
+<date>2010-04-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -213,10 +213,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Data-Section-0.100270&amp;to=Data-Section-0.100770&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::class::querylog&amp;mode=all">DBIx-Class-QueryLog</uri></ti>
+    <ti align="right">1.23</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-QueryLog-1.30/">1.30</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-QueryLog-1.23&amp;to=DBIx-Class-QueryLog-1.30&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::class::schema::loader&amp;mode=all">DBIx-Class-Schema-Loader</uri></ti>
     <ti align="right">0.04006</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Schema-Loader-0.05003/">0.05003</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Schema-Loader-0.04006&amp;to=DBIx-Class-Schema-Loader-0.05003&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Schema-Loader-0.06000/">0.06000</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Schema-Loader-0.04006&amp;to=DBIx-Class-Schema-Loader-0.06000&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::stacktrace::ashtml&amp;mode=all">Devel-StackTrace-AsHTML</uri></ti>
@@ -239,8 +245,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::git&amp;mode=all">Dist-Zilla-Plugin-Git</uri></ti>
     <ti align="right">1.093410</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.100900/">1.100900</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.093410&amp;to=Dist-Zilla-Plugin-Git-1.100900&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.100960/">1.100960</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.093410&amp;to=Dist-Zilla-Plugin-Git-1.100960&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podweaver&amp;mode=all">Dist-Zilla-Plugin-PodWeaver</uri></ti>
@@ -335,8 +341,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=locale::codes&amp;mode=all">Locale-Codes</uri></ti>
     <ti align="right">2.07</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Locale-Codes-3.11/">3.11</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Locale-Codes-2.07&amp;to=Locale-Codes-3.11&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Locale-Codes-3.12/">3.12</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Locale-Codes-2.07&amp;to=Locale-Codes-3.12&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=log::dispatch::config&amp;mode=all">Log-Dispatch-Config</uri></ti>
@@ -500,10 +506,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Test-WWW-Mechanize-Catalyst-0.52/">0.52</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Test-WWW-Mechanize-Catalyst-0.51&amp;to=Test-WWW-Mechanize-Catalyst-0.52&amp;w=1">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=time::y2038&amp;mode=all">Time-y2038</uri></ti>
+    <ti align="right">20100225</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Time-y2038-20100403/">20100403</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Time-y2038-20100225&amp;to=Time-y2038-20100403&amp;w=1">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 75 of 519
+Total packages suspected as outdated: 77 of 519
 </p>
 
 </body>

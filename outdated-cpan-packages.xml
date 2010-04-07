@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2030 2010/04/06 17:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2031 2010/04/07 01:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-04-06</date>
+<date>2010-04-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,6 +70,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.29</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
+    <ti align="right">0.17</ti>
+    <ti align="right">0.18</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=common::sense&amp;mode=all">common-sense</uri></ti>
     <ti align="right">3.0</ti>
     <ti align="right">3.1</ti>
@@ -98,6 +103,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
     <ti align="right">1.15</ti>
     <ti align="right">1.16</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
+    <ti align="right">2.161</ti>
+    <ti align="right">2.170</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=fcgi&amp;mode=all">FCGI</uri></ti>
@@ -247,7 +257,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 39 of 1013
+Total packages suspected as outdated: 41 of 1013
 </p>
 
 </body>

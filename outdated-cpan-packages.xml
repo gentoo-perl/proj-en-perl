@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2042 2010/04/11 09:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2043 2010/04/11 17:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -65,19 +65,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.18</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::general&amp;mode=all">config-general</uri></ti>
-    <ti align="right">2.46</ti>
-    <ti align="right">2.48</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::format::dateparse&amp;mode=all">DateTime-Format-DateParse</uri></ti>
-    <ti align="right">0.04</ti>
-    <ti align="right">0.05</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">1.16</ti>
-    <ti align="right">1.17</ti>
+    <ti><uri link="http://search.cpan.org/search?query=class::adapter&amp;mode=all">Class-Adapter</uri></ti>
+    <ti align="right">1.06</ti>
+    <ti align="right">1.07</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
@@ -100,19 +90,9 @@ will curb some of the bugs to boot).
     <ti align="right">3.65</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=locale::maketext::lexicon&amp;mode=all">locale-maketext-lexicon</uri></ti>
-    <ti align="right">0.80</ti>
-    <ti align="right">0.81</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::install&amp;mode=all">Module-Install</uri></ti>
     <ti align="right">0.91</ti>
     <ti align="right">0.95</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::scandeps&amp;mode=all">Module-ScanDeps</uri></ti>
-    <ti align="right">0.96</ti>
-    <ti align="right">0.97</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::signature&amp;mode=all">Module-Signature</uri></ti>
@@ -135,11 +115,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.2</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=par&amp;mode=all">PAR</uri></ti>
-    <ti align="right">0.994</ti>
-    <ti align="right">1.000</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=perlbal&amp;mode=all">Perlbal</uri></ti>
     <ti align="right">1.74</ti>
     <ti align="right">1.75</ti>
@@ -148,11 +123,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
     <ti align="right">0.0801</ti>
     <ti align="right">0.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sql::statement&amp;mode=all">SQL-Statement</uri></ti>
-    <ti align="right">1.25</ti>
-    <ti align="right">1.26</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
@@ -177,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 1014
+Total packages suspected as outdated: 19 of 1014
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2041 2010/04/11 01:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2042 2010/04/11 09:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -122,7 +122,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.40</ti>
-    <ti align="right">0.52</ti>
+    <ti align="right">0.53</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::amazon::s3&amp;mode=all">Net-Amazon-S3</uri></ti>
@@ -165,6 +165,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.26</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=www::mechanize&amp;mode=all">WWW-Mechanize</uri></ti>
+    <ti align="right">1.60</ti>
+    <ti align="right">1.62</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::writer&amp;mode=all">XML-Writer</uri></ti>
     <ti align="right">0.607</ti>
     <ti align="right">0.610</ti>
@@ -172,7 +177,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 1014
+Total packages suspected as outdated: 25 of 1014
 </p>
 
 </body>

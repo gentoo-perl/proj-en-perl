@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.175 2010/04/10 06:30:55 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.176 2010/04/14 13:07:12 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-04-10</date>
+<date>2010-04-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -71,8 +71,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::dbix::class&amp;mode=all">Catalyst-Authentication-Store-DBIx-Class</uri></ti>
     <ti align="right">0.1082</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-DBIx-Class-0.1083/">0.1083</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-DBIx-Class-0.1082&amp;to=Catalyst-Authentication-Store-DBIx-Class-0.1083&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-DBIx-Class-0.1200/">0.1200</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-DBIx-Class-0.1082&amp;to=Catalyst-Authentication-Store-DBIx-Class-0.1200&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::ldap&amp;mode=all">Catalyst-Authentication-Store-LDAP</uri></ti>
@@ -159,6 +159,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-GD-Barcode-0.04&amp;to=Catalyst-View-GD-Barcode-0.05&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::view::json&amp;mode=all">Catalyst-View-JSON</uri></ti>
+    <ti align="right">0.28</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-JSON-0.30/">0.30</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-JSON-0.28&amp;to=Catalyst-View-JSON-0.30&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::view::tt&amp;mode=all">Catalyst-View-TT</uri></ti>
     <ti align="right">0.31</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-TT-0.34/">0.34</uri></ti>
@@ -225,6 +231,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Schema-Loader-0.04006&amp;to=DBIx-Class-Schema-Loader-0.06001&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=devel::cover&amp;mode=all">Devel-Cover</uri></ti>
+    <ti align="right">0.65</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-Cover-0.66/">0.66</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Devel-Cover-0.65&amp;to=Devel-Cover-0.66&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::stacktrace::ashtml&amp;mode=all">Devel-StackTrace-AsHTML</uri></ti>
     <ti align="right">0.05</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Devel-StackTrace-AsHTML-0.09/">0.09</uri></ti>
@@ -255,6 +267,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-PodWeaver-3.093321&amp;to=Dist-Zilla-Plugin-PodWeaver-3.100710&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::readmefrompod&amp;mode=all">Dist-Zilla-Plugin-ReadmeFromPod</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-ReadmeFromPod-0.08/">0.08</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-ReadmeFromPod-0.04&amp;to=Dist-Zilla-Plugin-ReadmeFromPod-0.08&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::taskweaver&amp;mode=all">Dist-Zilla-Plugin-TaskWeaver</uri></ti>
     <ti align="right">0.093450</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-TaskWeaver-0.100890/">0.100890</uri></ti>
@@ -263,8 +281,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
     <ti align="right">0.093580</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-RJBS-0.100990/">0.100990</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-0.093580&amp;to=Dist-Zilla-PluginBundle-RJBS-0.100990&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-RJBS-0.101020/">0.101020</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-0.093580&amp;to=Dist-Zilla-PluginBundle-RJBS-0.101020&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=eval::context&amp;mode=all">Eval-Context</uri></ti>
@@ -411,6 +429,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.15&amp;to=MooseX-Role-Parameterized-0.18&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::simpleconfig&amp;mode=all">MooseX-SimpleConfig</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-SimpleConfig-0.06/">0.06</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-SimpleConfig-0.05&amp;to=MooseX-SimpleConfig-0.06&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
     <ti align="right">0.24</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.26/">0.26</uri></ti>
@@ -467,8 +491,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
     <ti align="right">0.9920</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9929/">0.9929</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9920&amp;to=Plack-0.9929&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9930/">0.9930</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9920&amp;to=Plack-0.9930&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::pseudopod&amp;mode=all">Pod-PseudoPod</uri></ti>
@@ -527,7 +551,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 79 of 519
+Total packages suspected as outdated: 83 of 520
 </p>
 
 </body>

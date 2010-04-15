@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2050 2010/04/15 01:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2051 2010/04/15 09:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,11 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.12</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=audio::scan&amp;mode=all">Audio-Scan</uri></ti>
-    <ti align="right">0.75</ti>
-    <ti align="right">0.77</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.29</ti>
@@ -68,16 +63,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.18</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbd::pg&amp;mode=all">DBD-Pg</uri></ti>
-    <ti align="right">2.161</ti>
-    <ti align="right">2.171</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=extutils::xspp&amp;mode=all">ExtUtils-XSpp</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right">0.10</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::mason&amp;mode=all">HTML-Mason</uri></ti>
@@ -130,24 +115,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sysadm::install&amp;mode=all">Sysadm-Install</uri></ti>
-    <ti align="right">0.34</ti>
-    <ti align="right">0.35</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::www::mechanize&amp;mode=all">Test-WWW-Mechanize</uri></ti>
-    <ti align="right">1.24</ti>
-    <ti align="right">1.28</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=www::mechanize&amp;mode=all">WWW-Mechanize</uri></ti>
-    <ti align="right">1.60</ti>
-    <ti align="right">1.62</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::writer&amp;mode=all">XML-Writer</uri></ti>
@@ -157,7 +127,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 1017
+Total packages suspected as outdated: 15 of 1017
 </p>
 
 </body>

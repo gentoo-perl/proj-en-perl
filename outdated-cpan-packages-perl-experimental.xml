@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.176 2010/04/14 13:07:12 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.177 2010/04/16 05:52:36 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-04-14</date>
+<date>2010-04-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,12 +51,6 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=autobox&amp;mode=all">autobox</uri></ti>
-    <ti align="right">2.55</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/autobox-2.70/">2.70</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=autobox-2.55&amp;to=autobox-2.70&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=autobox::core&amp;mode=all">autobox-Core</uri></ti>
     <ti align="right">0.6</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/autobox-Core-1.2/">1.2</uri></ti>
@@ -79,12 +73,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.006</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-LDAP-1.008/">1.008</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-LDAP-1.006&amp;to=Catalyst-Authentication-Store-LDAP-1.008&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
-    <ti align="right">1.26</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Devel-1.27/">1.27</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Devel-1.26&amp;to=Catalyst-Devel-1.27&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::manual&amp;mode=all">Catalyst-Manual</uri></ti>
@@ -151,6 +139,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.23</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-Email-0.27/">0.27</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-Email-0.23&amp;to=Catalyst-View-Email-0.27&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::view::excel::template::plus&amp;mode=all">Catalyst-View-Excel-Template-Plus</uri></ti>
+    <ti align="right">0.01</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-Excel-Template-Plus-0.02/">0.02</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-Excel-Template-Plus-0.01&amp;to=Catalyst-View-Excel-Template-Plus-0.02&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::view::gd::barcode&amp;mode=all">Catalyst-View-GD-Barcode</uri></ti>
@@ -245,8 +239,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
     <ti align="right">1.100160</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-2.100991/">2.100991</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-1.100160&amp;to=Dist-Zilla-2.100991&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-2.101040/">2.101040</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-1.100160&amp;to=Dist-Zilla-2.101040&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::compiletests&amp;mode=all">Dist-Zilla-Plugin-CompileTests</uri></ti>
@@ -281,8 +275,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
     <ti align="right">0.093580</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-RJBS-0.101020/">0.101020</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-0.093580&amp;to=Dist-Zilla-PluginBundle-RJBS-0.101020&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-RJBS-0.101040/">0.101040</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-0.093580&amp;to=Dist-Zilla-PluginBundle-RJBS-0.101040&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=eval::context&amp;mode=all">Eval-Context</uri></ti>
@@ -437,8 +431,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
     <ti align="right">0.24</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.26/">0.26</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Storage-0.24&amp;to=MooseX-Storage-0.26&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.27/">0.27</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Storage-0.24&amp;to=MooseX-Storage-0.27&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::traits&amp;mode=all">MooseX-Traits</uri></ti>
@@ -548,10 +542,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Time-y2038-20100403/">20100403</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Time-y2038-20100225&amp;to=Time-y2038-20100403&amp;w=1">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=yaml::libyaml&amp;mode=all">YAML-LibYAML</uri></ti>
+    <ti align="right">0.32</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/YAML-LibYAML-0.33/">0.33</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=YAML-LibYAML-0.32&amp;to=YAML-LibYAML-0.33&amp;w=1">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 83 of 520
+Total packages suspected as outdated: 83 of 519
 </p>
 
 </body>

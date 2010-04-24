@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2063 2010/04/23 17:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2064 2010/04/24 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-04-23</date>
+<date>2010-04-24</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,11 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.12</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=archive::tar&amp;mode=all">Archive-Tar</uri> (virtual/perl-Archive-Tar)</ti>
-    <ti align="right">1.58</ti>
-    <ti align="right">1.60</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.29</ti>
@@ -70,19 +65,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.18</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::mason&amp;mode=all">HTML-Mason</uri></ti>
-    <ti align="right">1.44</ti>
-    <ti align="right">1.45</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
-    <ti align="right">0.34</ti>
-    <ti align="right">0.35</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
-    <ti align="right">3.6</ti>
-    <ti align="right">3.65</ti>
+    <ti><uri link="http://search.cpan.org/search?query=class::accessor::grouped&amp;mode=all">Class-Accessor-Grouped</uri></ti>
+    <ti align="right">0.09002</ti>
+    <ti align="right">0.09003</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::install&amp;mode=all">Module-Install</uri></ti>
@@ -90,29 +75,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.95</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::load::conditional&amp;mode=all">Module-Load-Conditional</uri> (virtual/perl-Module-Load-Conditional)</ti>
-    <ti align="right">0.36</ti>
-    <ti align="right">0.38</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::signature&amp;mode=all">Module-Signature</uri></ti>
-    <ti align="right">0.62</ti>
-    <ti align="right">0.63</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mogilefs::server&amp;mode=all">mogilefs-server</uri></ti>
-    <ti align="right">2.35</ti>
-    <ti align="right">2.36</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.40</ti>
     <ti align="right">0.55</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::amazon::s3&amp;mode=all">Net-Amazon-S3</uri></ti>
-    <ti align="right">0.52</ti>
-    <ti align="right">0.53</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=nmap::parser&amp;mode=all">Nmap-Parser</uri></ti>
@@ -120,19 +85,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.2</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perlbal&amp;mode=all">Perlbal</uri></ti>
-    <ti align="right">1.74</ti>
-    <ti align="right">1.75</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
     <ti align="right">0.0801</ti>
     <ti align="right">0.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sys::syscall&amp;mode=all">Sys-Syscall</uri></ti>
-    <ti align="right">0.22</ti>
-    <ti align="right">0.23</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
@@ -144,20 +99,10 @@ will curb some of the bugs to boot).
     <ti align="right">0.100090</ti>
     <ti align="right">0.101110</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::rss&amp;mode=all">XML-RSS</uri></ti>
-    <ti align="right">1.47</ti>
-    <ti align="right">1.48</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::writer&amp;mode=all">XML-Writer</uri></ti>
-    <ti align="right">0.607</ti>
-    <ti align="right">0.611</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 1018
+Total packages suspected as outdated: 10 of 1018
 </p>
 
 </body>

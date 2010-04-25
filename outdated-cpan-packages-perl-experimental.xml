@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.183 2010/04/23 05:34:56 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.184 2010/04/25 06:26:57 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-04-23</date>
+<date>2010-04-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -351,6 +351,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-0.999923&amp;to=Mojolicious-0.999924&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moose::autobox&amp;mode=all">Moose-Autobox</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Moose-Autobox-0.11/">0.11</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Moose-Autobox-0.10&amp;to=Moose-Autobox-0.11&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::daemonize&amp;mode=all">MooseX-Daemonize</uri></ti>
     <ti align="right">0.09</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Daemonize-0.10/">0.10</uri></ti>
@@ -443,8 +449,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::plack&amp;mode=all">Padre-Plugin-Plack</uri></ti>
     <ti align="right">0.04</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Plack-0.100970/">0.100970</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Plack-0.04&amp;to=Padre-Plugin-Plack-0.100970&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Plack-0.101150/">0.101150</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Plack-0.04&amp;to=Padre-Plugin-Plack-0.101150&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
@@ -509,7 +515,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 76 of 534
+Total packages suspected as outdated: 77 of 534
 </p>
 
 </body>

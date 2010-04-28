@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2073 2010/04/28 09:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2074 2010/04/28 17:53:05 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -53,6 +53,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=any::moose&amp;mode=all">Any-Moose</uri></ti>
     <ti align="right">0.11</ti>
     <ti align="right">0.12</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
+    <ti align="right">5.26</ti>
+    <ti align="right">5.261</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=audio::scan&amp;mode=all">Audio-Scan</uri></ti>
@@ -135,6 +140,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::class&amp;mode=all">Test-Class</uri></ti>
+    <ti align="right">0.34</ti>
+    <ti align="right">0.35</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::pod&amp;mode=all">Test-Pod</uri></ti>
     <ti align="right">1.43</ti>
     <ti align="right">1.44</ti>
@@ -147,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 1018
+Total packages suspected as outdated: 21 of 1018
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2074 2010/04/28 17:53:05 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2075 2010/04/29 09:52:32 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-04-28</date>
+<date>2010-04-29</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,11 +60,6 @@ will curb some of the bugs to boot).
     <ti align="right">5.261</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=audio::scan&amp;mode=all">Audio-Scan</uri></ti>
-    <ti align="right">0.78</ti>
-    <ti align="right">0.79</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::opcheck&amp;mode=all">B-OPCheck</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right">0.29</ti>
@@ -73,11 +68,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=calendar::simple&amp;mode=all">Calendar-Simple</uri></ti>
-    <ti align="right">1.20</ti>
-    <ti align="right">1.21</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::unload&amp;mode=all">Class-Unload</uri></ti>
@@ -90,11 +80,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.1003</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=imagesize&amp;mode=all">ImageSize</uri></ti>
-    <ti align="right">3.220</ti>
-    <ti align="right">3.221</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::install&amp;mode=all">Module-Install</uri></ti>
     <ti align="right">0.91</ti>
     <ti align="right">0.95</ti>
@@ -102,12 +87,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.40</ti>
-    <ti align="right">0.55</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::ssh::authorizedkeysfile&amp;mode=all">Net-SSH-AuthorizedKeysFile</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right">0.13</ti>
+    <ti align="right">0.56</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=nmap::parser&amp;mode=all">Nmap-Parser</uri></ti>
@@ -115,24 +95,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.2</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::simple&amp;mode=all">Pod-Simple</uri> (virtual/perl-Pod-Simple)</ti>
-    <ti align="right">3.13</ti>
-    <ti align="right">3.14</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=set::infinite&amp;mode=all">Set-Infinite</uri></ti>
-    <ti align="right">0.63</ti>
-    <ti align="right">0.65</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
     <ti align="right">0.0801</ti>
     <ti align="right">0.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sql::abstract&amp;mode=all">SQL-Abstract</uri></ti>
-    <ti align="right">1.65</ti>
-    <ti align="right">1.66</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
@@ -145,11 +110,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.35</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::pod&amp;mode=all">Test-Pod</uri></ti>
-    <ti align="right">1.43</ti>
-    <ti align="right">1.44</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=throwable&amp;mode=all">Throwable</uri></ti>
     <ti align="right">0.100090</ti>
     <ti align="right">0.101110</ti>
@@ -157,7 +117,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 1018
+Total packages suspected as outdated: 13 of 1018
 </p>
 
 </body>

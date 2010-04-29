@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.188 2010/04/29 08:01:05 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.189 2010/04/29 20:52:17 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -195,12 +195,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=HTML-Template-Pro-0.93&amp;to=HTML-Template-Pro-0.94&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=imager&amp;mode=all">Imager</uri></ti>
-    <ti align="right">0.72</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Imager-0.73/">0.73</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Imager-0.72&amp;to=Imager-0.73&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::captureoutput&amp;mode=all">IO-CaptureOutput</uri></ti>
     <ti align="right">1.1101</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/IO-CaptureOutput-1.1102/">1.1102</uri></ti>
@@ -237,64 +231,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Mixin-Linewise-0.002&amp;to=Mixin-Linewise-0.003&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::install::readmefrompod&amp;mode=all">Module-Install-ReadmeFromPod</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Module-Install-ReadmeFromPod-0.08/">0.08</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Module-Install-ReadmeFromPod-0.06&amp;to=Module-Install-ReadmeFromPod-0.08&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::runtime&amp;mode=all">Module-Runtime</uri></ti>
     <ti align="right">0.006</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Module-Runtime-0.007/">0.007</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Module-Runtime-0.006&amp;to=Module-Runtime-0.007&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moose::autobox&amp;mode=all">Moose-Autobox</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Moose-Autobox-0.11/">0.11</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Moose-Autobox-0.10&amp;to=Moose-Autobox-0.11&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::logdispatch&amp;mode=all">MooseX-LogDispatch</uri></ti>
-    <ti align="right">1.2000</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-LogDispatch-1.2002/">1.2002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-LogDispatch-1.2000&amp;to=MooseX-LogDispatch-1.2002&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::methodattributes&amp;mode=all">MooseX-MethodAttributes</uri></ti>
-    <ti align="right">0.19</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-MethodAttributes-0.20/">0.20</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-MethodAttributes-0.19&amp;to=MooseX-MethodAttributes-0.20&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::params::validate&amp;mode=all">MooseX-Params-Validate</uri></ti>
-    <ti align="right">0.13</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Params-Validate-0.14/">0.14</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Params-Validate-0.13&amp;to=MooseX-Params-Validate-0.14&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::role::cmd&amp;mode=all">MooseX-Role-Cmd</uri></ti>
-    <ti align="right">0.06</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Cmd-0.09/">0.09</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Cmd-0.06&amp;to=MooseX-Role-Cmd-0.09&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::role::parameterized&amp;mode=all">MooseX-Role-Parameterized</uri></ti>
-    <ti align="right">0.15</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.18/">0.18</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.15&amp;to=MooseX-Role-Parameterized-0.18&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
-    <ti align="right">0.24</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.27/">0.27</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Storage-0.24&amp;to=MooseX-Storage-0.27&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::traits&amp;mode=all">MooseX-Traits</uri></ti>
-    <ti align="right">0.07</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Traits-0.09/">0.09</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Traits-0.07&amp;to=MooseX-Traits-0.09&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::traits::pluggable&amp;mode=all">MooseX-Traits-Pluggable</uri></ti>
-    <ti align="right">0.08</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Traits-Pluggable-0.09/">0.09</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Traits-Pluggable-0.08&amp;to=MooseX-Traits-Pluggable-0.09&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::log::log4perl&amp;mode=all">MooseX-Log-Log4perl</uri></ti>
+    <ti align="right">0.40</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Log-Log4perl-0.41/">0.41</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Log-Log4perl-0.40&amp;to=MooseX-Log-Log4perl-0.41&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::ldap::server::test&amp;mode=all">Net-LDAP-Server-Test</uri></ti>
@@ -329,7 +281,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 46 of 534
+Total packages suspected as outdated: 38 of 534
 </p>
 
 </body>

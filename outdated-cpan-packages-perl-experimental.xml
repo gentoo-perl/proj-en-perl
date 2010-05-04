@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.193 2010/05/03 09:19:57 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.194 2010/05/04 06:06:49 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-05-03</date>
+<date>2010-05-04</date>
 
 <chapter>
 <title>Intro</title>
@@ -67,6 +67,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.71</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Cache-Memcached-0.8/">0.8</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Cache-Memcached-0.71&amp;to=Catalyst-Plugin-Cache-Memcached-0.8&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::scheduler&amp;mode=all">Catalyst-Plugin-Scheduler</uri></ti>
+    <ti align="right">0.09</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Scheduler-0.10/">0.10</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Scheduler-0.09&amp;to=Catalyst-Plugin-Scheduler-0.10&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::gitlike&amp;mode=all">Config-GitLike</uri></ti>
@@ -131,8 +137,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
     <ti align="right">1.100160</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-2.101170/">2.101170</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-1.100160&amp;to=Dist-Zilla-2.101170&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-2.101230/">2.101230</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-1.100160&amp;to=Dist-Zilla-2.101230&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::compiletests&amp;mode=all">Dist-Zilla-Plugin-CompileTests</uri></ti>
@@ -143,8 +149,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::git&amp;mode=all">Dist-Zilla-Plugin-Git</uri></ti>
     <ti align="right">1.093410</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.100970/">1.100970</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.093410&amp;to=Dist-Zilla-Plugin-Git-1.100970&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.101230/">1.101230</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.093410&amp;to=Dist-Zilla-Plugin-Git-1.101230&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podweaver&amp;mode=all">Dist-Zilla-Plugin-PodWeaver</uri></ti>
@@ -293,7 +299,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 40 of 521
+Total packages suspected as outdated: 41 of 521
 </p>
 
 </body>

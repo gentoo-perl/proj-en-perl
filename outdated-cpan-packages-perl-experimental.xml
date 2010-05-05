@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.194 2010/05/04 06:06:49 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.195 2010/05/05 06:17:45 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-05-04</date>
+<date>2010-05-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -73,6 +73,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Scheduler-0.10/">0.10</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Scheduler-0.09&amp;to=Catalyst-Plugin-Scheduler-0.10&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::unicode::encoding&amp;mode=all">Catalyst-Plugin-Unicode-Encoding</uri></ti>
+    <ti align="right">0.9</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Unicode-Encoding-1.0/">1.0</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Unicode-Encoding-0.9&amp;to=Catalyst-Plugin-Unicode-Encoding-1.0&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::gitlike&amp;mode=all">Config-GitLike</uri></ti>
@@ -137,8 +143,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
     <ti align="right">1.100160</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-2.101230/">2.101230</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-1.100160&amp;to=Dist-Zilla-2.101230&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-2.101241/">2.101241</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-1.100160&amp;to=Dist-Zilla-2.101241&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::compiletests&amp;mode=all">Dist-Zilla-Plugin-CompileTests</uri></ti>
@@ -267,6 +273,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Net-LDAP-Server-Test-0.08&amp;to=Net-LDAP-Server-Test-0.09&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
+    <ti align="right">0.9933</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9934/">0.9934</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9933&amp;to=Plack-0.9934&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=scope::upper&amp;mode=all">Scope-Upper</uri></ti>
     <ti align="right">0.10</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Scope-Upper-0.11/">0.11</uri></ti>
@@ -281,8 +293,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=string::flogger&amp;mode=all">String-Flogger</uri></ti>
     <ti align="right">1.001</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/String-Flogger-1.101170/">1.101170</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=String-Flogger-1.001&amp;to=String-Flogger-1.101170&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/String-Flogger-1.101240/">1.101240</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=String-Flogger-1.001&amp;to=String-Flogger-1.101240&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
@@ -299,7 +311,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 41 of 521
+Total packages suspected as outdated: 43 of 521
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2091 2010/05/06 01:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2092 2010/05/06 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,44 +60,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.29</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=bio::graphics&amp;mode=all">Bio-Graphics</uri></ti>
-    <ti align="right">2.05</ti>
-    <ti align="right">2.06</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=business::ups&amp;mode=all">Business-UPS</uri></ti>
-    <ti align="right">2.0</ti>
-    <ti align="right">2.01</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.19</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::mop&amp;mode=all">Class-MOP</uri></ti>
-    <ti align="right">1.00</ti>
-    <ti align="right">1.01</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=http::browserdetect&amp;mode=all">HTTP-BrowserDetect</uri></ti>
-    <ti align="right">1.09</ti>
-    <ti align="right">1.10</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=libwww::perl&amp;mode=all">libwww-perl</uri></ti>
-    <ti align="right">5.834</ti>
-    <ti align="right">5.835</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=marc::record&amp;mode=all">MARC-Record</uri></ti>
-    <ti align="right">2.01</ti>
-    <ti align="right">2.02</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::install&amp;mode=all">Module-Install</uri></ti>
     <ti align="right">0.91</ti>
     <ti align="right">0.95</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moose&amp;mode=all">Moose</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right">1.03</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
@@ -124,20 +99,10 @@ will curb some of the bugs to boot).
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=uri::find&amp;mode=all">URI-Find</uri></ti>
-    <ti align="right">20100211</ti>
-    <ti align="right">20100504.1039</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
-    <ti align="right">0.9701</ti>
-    <ti align="right">0.9702</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 1032
+Total packages suspected as outdated: 10 of 1032
 </p>
 
 </body>

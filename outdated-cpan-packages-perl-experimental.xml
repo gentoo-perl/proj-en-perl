@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.196 2010/05/06 06:01:07 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.197 2010/05/07 06:42:40 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-05-06</date>
+<date>2010-05-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,6 +55,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.34</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Cache-FastMmap-1.35/">1.35</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Cache-FastMmap-1.34&amp;to=Cache-FastMmap-1.35&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
+    <ti align="right">0.83</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.84/">0.84</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-REST-0.83&amp;to=Catalyst-Action-REST-0.84&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::controller::actionrole&amp;mode=all">Catalyst-Controller-ActionRole</uri></ti>
@@ -97,6 +103,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-DistnameInfo-0.10/">0.10</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=CPAN-DistnameInfo-0.09&amp;to=CPAN-DistnameInfo-0.10&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpan::uploader&amp;mode=all">CPAN-Uploader</uri></ti>
+    <ti align="right">0.100760</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Uploader-0.101260/">0.101260</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Uploader-0.100760&amp;to=CPAN-Uploader-0.101260&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::eksblowfish&amp;mode=all">Crypt-Eksblowfish</uri></ti>
@@ -225,6 +237,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=HTML-Template-Pro-0.93&amp;to=HTML-Template-Pro-0.94&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=imager&amp;mode=all">Imager</uri></ti>
+    <ti align="right">0.73</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Imager-0.74/">0.74</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Imager-0.73&amp;to=Imager-0.74&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::captureoutput&amp;mode=all">IO-CaptureOutput</uri></ti>
     <ti align="right">1.1101</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/IO-CaptureOutput-1.1102/">1.1102</uri></ti>
@@ -265,6 +283,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.40</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Log-Log4perl-0.42/">0.42</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Log-Log4perl-0.40&amp;to=MooseX-Log-Log4perl-0.42&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::methodattributes&amp;mode=all">MooseX-MethodAttributes</uri></ti>
+    <ti align="right">0.20</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-MethodAttributes-0.21/">0.21</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-MethodAttributes-0.20&amp;to=MooseX-MethodAttributes-0.21&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::ldap::server::test&amp;mode=all">Net-LDAP-Server-Test</uri></ti>
@@ -311,7 +335,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 43 of 521
+Total packages suspected as outdated: 47 of 521
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.197 2010/05/07 06:42:40 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.198 2010/05/08 06:37:50 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-05-07</date>
+<date>2010-05-08</date>
 
 <chapter>
 <title>Intro</title>
@@ -85,6 +85,18 @@ will curb some of the bugs to boot).
     <ti align="right">0.9</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Unicode-Encoding-1.0/">1.0</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Unicode-Encoding-0.9&amp;to=Catalyst-Plugin-Unicode-Encoding-1.0&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::runtime&amp;mode=all">Catalyst-Runtime</uri></ti>
+    <ti align="right">5.80022</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Runtime-5.80023/">5.80023</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Runtime-5.80022&amp;to=Catalyst-Runtime-5.80023&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::c3::adopt::next&amp;mode=all">Class-C3-Adopt-NEXT</uri></ti>
+    <ti align="right">0.12</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Class-C3-Adopt-NEXT-0.13/">0.13</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Class-C3-Adopt-NEXT-0.12&amp;to=Class-C3-Adopt-NEXT-0.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::gitlike&amp;mode=all">Config-GitLike</uri></ti>
@@ -167,8 +179,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::git&amp;mode=all">Dist-Zilla-Plugin-Git</uri></ti>
     <ti align="right">1.093410</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.101230/">1.101230</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.093410&amp;to=Dist-Zilla-Plugin-Git-1.101230&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.101270/">1.101270</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.093410&amp;to=Dist-Zilla-Plugin-Git-1.101270&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podweaver&amp;mode=all">Dist-Zilla-Plugin-PodWeaver</uri></ti>
@@ -197,8 +209,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
     <ti align="right">0.093580</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-RJBS-0.101040/">0.101040</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-0.093580&amp;to=Dist-Zilla-PluginBundle-RJBS-0.101040&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-RJBS-0.101270/">0.101270</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-0.093580&amp;to=Dist-Zilla-PluginBundle-RJBS-0.101270&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=eval::context&amp;mode=all">Eval-Context</uri></ti>
@@ -279,6 +291,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Module-Install-ReadmeFromPod-0.06&amp;to=Module-Install-ReadmeFromPod-0.08&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::lazyrequire&amp;mode=all">MooseX-LazyRequire</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-LazyRequire-0.05/">0.05</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-LazyRequire-0.04&amp;to=MooseX-LazyRequire-0.05&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::log::log4perl&amp;mode=all">MooseX-Log-Log4perl</uri></ti>
     <ti align="right">0.40</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Log-Log4perl-0.42/">0.42</uri></ti>
@@ -291,6 +309,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-MethodAttributes-0.20&amp;to=MooseX-MethodAttributes-0.21&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::role::withoverloading&amp;mode=all">MooseX-Role-WithOverloading</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-WithOverloading-0.06/">0.06</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-WithOverloading-0.05&amp;to=MooseX-Role-WithOverloading-0.06&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::ldap::server::test&amp;mode=all">Net-LDAP-Server-Test</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Net-LDAP-Server-Test-0.09/">0.09</uri></ti>
@@ -301,6 +325,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.9933</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9935/">0.9935</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9933&amp;to=Plack-0.9935&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
+    <ti align="right">3.100710</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Weaver-3.101270/">3.101270</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Pod-Weaver-3.100710&amp;to=Pod-Weaver-3.101270&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=scope::upper&amp;mode=all">Scope-Upper</uri></ti>
@@ -335,7 +365,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 47 of 521
+Total packages suspected as outdated: 52 of 521
 </p>
 
 </body>

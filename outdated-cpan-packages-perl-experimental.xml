@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.201 2010/05/12 15:36:20 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.202 2010/05/13 07:17:13 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-05-12</date>
+<date>2010-05-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -297,6 +297,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-WithOverloading-0.05&amp;to=MooseX-Role-WithOverloading-0.06&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::traits&amp;mode=all">MooseX-Traits</uri></ti>
+    <ti align="right">0.09</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Traits-0.10/">0.10</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Traits-0.09&amp;to=MooseX-Traits-0.10&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::ldap::server::test&amp;mode=all">Net-LDAP-Server-Test</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Net-LDAP-Server-Test-0.09/">0.09</uri></ti>
@@ -311,7 +317,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 43 of 521
+Total packages suspected as outdated: 44 of 522
 </p>
 
 </body>

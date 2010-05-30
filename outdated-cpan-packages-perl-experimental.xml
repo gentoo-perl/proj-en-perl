@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.216 2010/05/29 07:02:53 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.217 2010/05/30 06:58:57 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-05-29</date>
+<date>2010-05-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -127,12 +127,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.100760</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Uploader-0.101260/">0.101260</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=CPAN-Uploader-0.100760&amp;to=CPAN-Uploader-0.101260&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=crypt::eksblowfish&amp;mode=all">Crypt-Eksblowfish</uri></ti>
-    <ti align="right">0.007</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Crypt-Eksblowfish-0.008/">0.008</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Crypt-Eksblowfish-0.007&amp;to=Crypt-Eksblowfish-0.008&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::util&amp;mode=all">Crypt-Util</uri></ti>
@@ -351,18 +345,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Pod-Weaver-3.101270&amp;to=Pod-Weaver-3.101460&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=scope::upper&amp;mode=all">Scope-Upper</uri></ti>
-    <ti align="right">0.11</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Scope-Upper-0.12/">0.12</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Scope-Upper-0.11&amp;to=Scope-Upper-0.12&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=software::license&amp;mode=all">Software-License</uri></ti>
-    <ti align="right">0.016</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Software-License-0.101410/">0.101410</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Software-License-0.016&amp;to=Software-License-0.101410&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
     <ti align="right">0.20</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.22/">0.22</uri></ti>
@@ -371,7 +353,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 53 of 532
+Total packages suspected as outdated: 50 of 532
 </p>
 
 </body>

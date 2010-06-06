@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.224 2010/06/05 06:16:22 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.225 2010/06/06 05:20:33 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-06-05</date>
+<date>2010-06-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,12 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.13</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Controller-ActionRole-0.14/">0.14</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Controller-ActionRole-0.13&amp;to=Catalyst-Controller-ActionRole-0.14&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::engine::psgi&amp;mode=all">Catalyst-Engine-PSGI</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Engine-PSGI-0.10/">0.10</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Engine-PSGI-0.09&amp;to=Catalyst-Engine-PSGI-0.10&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::cache&amp;mode=all">Catalyst-Plugin-Cache</uri></ti>
@@ -103,12 +97,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CatalystX-SimpleLogin-0.10/">0.10</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=CatalystX-SimpleLogin-0.09&amp;to=CatalystX-SimpleLogin-0.10&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi::application::plugin::tt&amp;mode=all">CGI-Application-Plugin-TT</uri></ti>
-    <ti align="right">1.04</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Plugin-TT-1.05/">1.05</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Plugin-TT-1.04&amp;to=CGI-Application-Plugin-TT-1.05&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::discover&amp;mode=all">Class-Discover</uri></ti>
@@ -183,22 +171,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-PodWeaver-3.093321&amp;to=Dist-Zilla-Plugin-PodWeaver-3.101530&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::readmefrompod&amp;mode=all">Dist-Zilla-Plugin-ReadmeFromPod</uri></ti>
-    <ti align="right">0.04</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-ReadmeFromPod-0.11/">0.11</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-ReadmeFromPod-0.04&amp;to=Dist-Zilla-Plugin-ReadmeFromPod-0.11&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::repository&amp;mode=all">Dist-Zilla-Plugin-Repository</uri></ti>
     <ti align="right">0.11</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Repository-0.13/">0.13</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Repository-0.11&amp;to=Dist-Zilla-Plugin-Repository-0.13&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::taskweaver&amp;mode=all">Dist-Zilla-Plugin-TaskWeaver</uri></ti>
-    <ti align="right">0.093450</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-TaskWeaver-0.100890/">0.100890</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-TaskWeaver-0.093450&amp;to=Dist-Zilla-Plugin-TaskWeaver-0.100890&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
@@ -213,16 +189,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Eval-Context-0.07&amp;to=Eval-Context-0.0911&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::changenotify&amp;mode=all">File-ChangeNotify</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/File-ChangeNotify-0.13/">0.13</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=File-ChangeNotify-0.12&amp;to=File-ChangeNotify-0.13&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::find::rule::vcs&amp;mode=all">File-Find-Rule-VCS</uri></ti>
     <ti align="right">1.06</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/File-Find-Rule-VCS-1.07/">1.07</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=File-Find-Rule-VCS-1.06&amp;to=File-Find-Rule-VCS-1.07&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=git::cpan::patch&amp;mode=all">Git-CPAN-Patch</uri></ti>
+    <ti align="right">0.32</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Git-CPAN-Patch-0.40/">0.40</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Git-CPAN-Patch-0.32&amp;to=Git-CPAN-Patch-0.40&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=git::wrapper&amp;mode=all">Git-Wrapper</uri></ti>
+    <ti align="right">0.008</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Git-Wrapper-0.009/">0.009</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Git-Wrapper-0.008&amp;to=Git-Wrapper-0.009&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gitalist&amp;mode=all">Gitalist</uri></ti>
@@ -257,8 +239,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=kiokudb&amp;mode=all">KiokuDB</uri></ti>
     <ti align="right">0.42</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.44/">0.44</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-0.42&amp;to=KiokuDB-0.44&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.45/">0.45</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-0.42&amp;to=KiokuDB-0.45&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=linux::dvb&amp;mode=all">Linux-DVB</uri></ti>
@@ -291,12 +273,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-LazyRequire-0.04&amp;to=MooseX-LazyRequire-0.05&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::log::log4perl&amp;mode=all">MooseX-Log-Log4perl</uri></ti>
-    <ti align="right">0.40</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Log-Log4perl-0.42/">0.42</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Log-Log4perl-0.40&amp;to=MooseX-Log-Log4perl-0.42&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::method::signatures&amp;mode=all">MooseX-Method-Signatures</uri></ti>
     <ti align="right">0.30</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Method-Signatures-0.31/">0.31</uri></ti>
@@ -321,12 +297,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-SimpleConfig-0.06&amp;to=MooseX-SimpleConfig-0.07&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::traits&amp;mode=all">MooseX-Traits</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Traits-0.11/">0.11</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Traits-0.09&amp;to=MooseX-Traits-0.11&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::structured&amp;mode=all">MooseX-Types-Structured</uri></ti>
     <ti align="right">0.21</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Types-Structured-0.22/">0.22</uri></ti>
@@ -344,16 +314,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.22/">0.22</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.20&amp;to=Task-Kensho-0.22&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=user&amp;mode=all">User</uri></ti>
-    <ti align="right">1.8</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/User-1.9/">1.9</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=User-1.8&amp;to=User-1.9&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 50 of 534
+Total packages suspected as outdated: 44 of 534
 </p>
 
 </body>

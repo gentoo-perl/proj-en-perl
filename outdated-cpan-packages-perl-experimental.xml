@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.225 2010/06/06 05:20:33 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.226 2010/06/07 06:07:09 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-06-06</date>
+<date>2010-06-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -105,12 +105,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Class-Discover-1.000001&amp;to=Class-Discover-1.000002&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::gitlike&amp;mode=all">Config-GitLike</uri></ti>
-    <ti align="right">1.03</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Config-GitLike-1.04/">1.04</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Config-GitLike-1.03&amp;to=Config-GitLike-1.04&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::mvp&amp;mode=all">Config-MVP</uri></ti>
     <ti align="right">0.100780</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Config-MVP-2.101540/">2.101540</uri></ti>
@@ -123,34 +117,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=CPAN-Uploader-0.100760&amp;to=CPAN-Uploader-0.101550&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=crypt::util&amp;mode=all">Crypt-Util</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Crypt-Util-0.11/">0.11</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Crypt-Util-0.10&amp;to=Crypt-Util-0.11&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::formvalidator::constraints::datetime&amp;mode=all">Data-FormValidator-Constraints-DateTime</uri></ti>
-    <ti align="right">1.09</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Data-FormValidator-Constraints-DateTime-1.10/">1.10</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Data-FormValidator-Constraints-DateTime-1.09&amp;to=Data-FormValidator-Constraints-DateTime-1.10&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::section&amp;mode=all">Data-Section</uri></ti>
-    <ti align="right">0.100270</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Data-Section-0.100770/">0.100770</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Data-Section-0.100270&amp;to=Data-Section-0.100770&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbix::class::querylog&amp;mode=all">DBIx-Class-QueryLog</uri></ti>
-    <ti align="right">1.23</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-QueryLog-1.30/">1.30</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-QueryLog-1.23&amp;to=DBIx-Class-QueryLog-1.30&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
     <ti align="right">2.101310</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.101550/">4.101550</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-2.101310&amp;to=Dist-Zilla-4.101550&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.101570/">4.101570</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-2.101310&amp;to=Dist-Zilla-4.101570&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::compiletests&amp;mode=all">Dist-Zilla-Plugin-CompileTests</uri></ti>
@@ -189,46 +159,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Eval-Context-0.07&amp;to=Eval-Context-0.0911&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::find::rule::vcs&amp;mode=all">File-Find-Rule-VCS</uri></ti>
-    <ti align="right">1.06</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/File-Find-Rule-VCS-1.07/">1.07</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=File-Find-Rule-VCS-1.06&amp;to=File-Find-Rule-VCS-1.07&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=git::cpan::patch&amp;mode=all">Git-CPAN-Patch</uri></ti>
     <ti align="right">0.32</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Git-CPAN-Patch-0.40/">0.40</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Git-CPAN-Patch-0.32&amp;to=Git-CPAN-Patch-0.40&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=git::wrapper&amp;mode=all">Git-Wrapper</uri></ti>
-    <ti align="right">0.008</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Git-Wrapper-0.009/">0.009</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Git-Wrapper-0.008&amp;to=Git-Wrapper-0.009&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gitalist&amp;mode=all">Gitalist</uri></ti>
-    <ti align="right">0.001007</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Gitalist-0.001008/">0.001008</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Gitalist-0.001007&amp;to=Gitalist-0.001008&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::formfu&amp;mode=all">HTML-FormFu</uri></ti>
-    <ti align="right">0.06001</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormFu-0.07001/">0.07001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormFu-0.06001&amp;to=HTML-FormFu-0.07001&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::formhandler&amp;mode=all">HTML-FormHandler</uri></ti>
-    <ti align="right">0.30001</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormHandler-0.31003/">0.31003</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormHandler-0.30001&amp;to=HTML-FormHandler-0.31003&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
-    <ti align="right">0.94</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-Template-Pro-0.95/">0.95</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-Template-Pro-0.94&amp;to=HTML-Template-Pro-0.95&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Git-CPAN-Patch-0.43/">0.43</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Git-CPAN-Patch-0.32&amp;to=Git-CPAN-Patch-0.43&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=imager&amp;mode=all">Imager</uri></ti>
@@ -249,12 +183,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Linux-DVB-1.0&amp;to=Linux-DVB-1.01&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=locale::codes&amp;mode=all">Locale-Codes</uri></ti>
-    <ti align="right">3.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Locale-Codes-3.13/">3.13</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Locale-Codes-3.12&amp;to=Locale-Codes-3.13&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mixin::extrafields&amp;mode=all">Mixin-ExtraFields</uri></ti>
     <ti align="right">0.008</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Mixin-ExtraFields-0.100971/">0.100971</uri></ti>
@@ -265,42 +193,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.999042</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MojoMojo-1.01/">1.01</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-0.999042&amp;to=MojoMojo-1.01&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::lazyrequire&amp;mode=all">MooseX-LazyRequire</uri></ti>
-    <ti align="right">0.04</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-LazyRequire-0.05/">0.05</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-LazyRequire-0.04&amp;to=MooseX-LazyRequire-0.05&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::method::signatures&amp;mode=all">MooseX-Method-Signatures</uri></ti>
-    <ti align="right">0.30</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Method-Signatures-0.31/">0.31</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Method-Signatures-0.30&amp;to=MooseX-Method-Signatures-0.31&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::methodattributes&amp;mode=all">MooseX-MethodAttributes</uri></ti>
-    <ti align="right">0.20</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-MethodAttributes-0.22/">0.22</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-MethodAttributes-0.20&amp;to=MooseX-MethodAttributes-0.22&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::role::withoverloading&amp;mode=all">MooseX-Role-WithOverloading</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-WithOverloading-0.06/">0.06</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-WithOverloading-0.05&amp;to=MooseX-Role-WithOverloading-0.06&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::simpleconfig&amp;mode=all">MooseX-SimpleConfig</uri></ti>
-    <ti align="right">0.06</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-SimpleConfig-0.07/">0.07</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-SimpleConfig-0.06&amp;to=MooseX-SimpleConfig-0.07&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::types::structured&amp;mode=all">MooseX-Types-Structured</uri></ti>
-    <ti align="right">0.21</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Types-Structured-0.22/">0.22</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Types-Structured-0.21&amp;to=MooseX-Types-Structured-0.22&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
@@ -317,7 +209,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 44 of 534
+Total packages suspected as outdated: 26 of 533
 </p>
 
 </body>

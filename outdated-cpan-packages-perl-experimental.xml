@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.228 2010/06/09 04:52:42 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.229 2010/06/10 05:54:22 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-06-09</date>
+<date>2010-06-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -123,6 +123,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=CPAN-Uploader-0.100760&amp;to=CPAN-Uploader-0.101550&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::formvalidator::constraints::datetime&amp;mode=all">Data-FormValidator-Constraints-DateTime</uri></ti>
+    <ti align="right">1.10</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Data-FormValidator-Constraints-DateTime-1.11/">1.11</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Data-FormValidator-Constraints-DateTime-1.10&amp;to=Data-FormValidator-Constraints-DateTime-1.11&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
     <ti align="right">2.101310</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.101582/">4.101582</uri></ti>
@@ -131,8 +137,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::compiletests&amp;mode=all">Dist-Zilla-Plugin-CompileTests</uri></ti>
     <ti align="right">1.092870</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-CompileTests-1.101500/">1.101500</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-CompileTests-1.092870&amp;to=Dist-Zilla-Plugin-CompileTests-1.101500&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-CompileTests-1.101600/">1.101600</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-CompileTests-1.092870&amp;to=Dist-Zilla-Plugin-CompileTests-1.101600&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::git&amp;mode=all">Dist-Zilla-Plugin-Git</uri></ti>
@@ -201,6 +207,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Linux-DVB-1.0&amp;to=Linux-DVB-1.01&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=local::lib&amp;mode=all">local-lib</uri></ti>
+    <ti align="right">1.006000</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/local-lib-1.006002/">1.006002</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=local-lib-1.006000&amp;to=local-lib-1.006002&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mixin::extrafields&amp;mode=all">Mixin-ExtraFields</uri></ti>
     <ti align="right">0.008</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Mixin-ExtraFields-0.100971/">0.100971</uri></ti>
@@ -231,15 +243,27 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Pod-Weaver-3.101270&amp;to=Pod-Weaver-3.101460&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=software::license&amp;mode=all">Software-License</uri></ti>
+    <ti align="right">0.101410</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Software-License-0.101600/">0.101600</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Software-License-0.101410&amp;to=Software-License-0.101600&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
     <ti align="right">0.20</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.22/">0.22</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.20&amp;to=Task-Kensho-0.22&amp;w=1">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xxx&amp;mode=all">XXX</uri></ti>
+    <ti align="right">0.12</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/XXX-0.15/">0.15</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=XXX-0.12&amp;to=XXX-0.15&amp;w=1">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 31 of 533
+Total packages suspected as outdated: 35 of 533
 </p>
 
 </body>

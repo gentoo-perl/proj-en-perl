@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2164 2010/06/11 09:53:12 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2165 2010/06/11 17:52:45 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.16</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::dump::streamer&amp;mode=all">Data-Dump-Streamer</uri></ti>
+    <ti align="right">2.14</ti>
+    <ti align="right">2.17</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::nytprof&amp;mode=all">Devel-NYTProf</uri></ti>
     <ti align="right">3.11</ti>
     <ti align="right">4.00</ti>
@@ -97,7 +102,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::socket::inet6&amp;mode=all">IO-Socket-INET6</uri></ti>
     <ti align="right">2.63</ti>
-    <ti align="right">2.64</ti>
+    <ti align="right">2.65</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
@@ -107,7 +112,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::ident&amp;mode=all">Net-Ident</uri></ti>
     <ti align="right">1.20</ti>
-    <ti align="right">1.21</ti>
+    <ti align="right">1.22</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe::hole&amp;mode=all">Safe-Hole</uri></ti>
@@ -134,10 +139,15 @@ will curb some of the bugs to boot).
     <ti align="right">1.28</ti>
     <ti align="right">1.30</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=thread::semaphore&amp;mode=all">Thread-Semaphore</uri></ti>
+    <ti align="right">2.09</ti>
+    <ti align="right">2.11</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 1037
+Total packages suspected as outdated: 19 of 1037
 </p>
 
 </body>

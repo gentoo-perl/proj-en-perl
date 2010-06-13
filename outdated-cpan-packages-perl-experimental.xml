@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.231 2010/06/12 06:50:45 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.232 2010/06/13 06:07:09 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-06-12</date>
+<date>2010-06-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -191,8 +191,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=encode::zapcp1252&amp;mode=all">Encode-ZapCP1252</uri></ti>
     <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Encode-ZapCP1252-0.20/">0.20</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Encode-ZapCP1252-0.12&amp;to=Encode-ZapCP1252-0.20&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Encode-ZapCP1252-0.30/">0.30</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Encode-ZapCP1252-0.12&amp;to=Encode-ZapCP1252-0.30&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=eval::context&amp;mode=all">Eval-Context</uri></ti>
@@ -281,8 +281,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
     <ti align="right">3.101270</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Weaver-3.101460/">3.101460</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Pod-Weaver-3.101270&amp;to=Pod-Weaver-3.101460&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Weaver-3.101630/">3.101630</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Pod-Weaver-3.101270&amp;to=Pod-Weaver-3.101630&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=poe::component::client::keepalive&amp;mode=all">POE-Component-Client-Keepalive</uri></ti>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.234 2010/06/15 04:57:51 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.235 2010/06/16 05:14:57 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-06-15</date>
+<date>2010-06-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,6 +55,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.13</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Controller-ActionRole-0.14/">0.14</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Controller-ActionRole-0.13&amp;to=Catalyst-Controller-ActionRole-0.14&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
+    <ti align="right">1.27</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Devel-1.28/">1.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Devel-1.27&amp;to=Catalyst-Devel-1.28&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::cache&amp;mode=all">Catalyst-Plugin-Cache</uri></ti>
@@ -101,8 +107,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::discover&amp;mode=all">Class-Discover</uri></ti>
     <ti align="right">1.000001</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Class-Discover-1.000002/">1.000002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Class-Discover-1.000001&amp;to=Class-Discover-1.000002&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Class-Discover-1.000003/">1.000003</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Class-Discover-1.000001&amp;to=Class-Discover-1.000003&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::gitlike&amp;mode=all">Config-GitLike</uri></ti>
@@ -267,6 +273,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Mixin-ExtraFields-0.008&amp;to=Mixin-ExtraFields-0.100971&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::manifest&amp;mode=all">Module-Manifest</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Module-Manifest-1.08/">1.08</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Module-Manifest-0.07&amp;to=Module-Manifest-1.08&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mojolicious&amp;mode=all">Mojolicious</uri></ti>
     <ti align="right">0.999924</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-0.999926/">0.999926</uri></ti>
@@ -283,6 +295,24 @@ will curb some of the bugs to boot).
     <ti align="right">0.31</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Method-Signatures-0.34/">0.34</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Method-Signatures-0.31&amp;to=MooseX-Method-Signatures-0.34&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::methodattributes&amp;mode=all">MooseX-MethodAttributes</uri></ti>
+    <ti align="right">0.22</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-MethodAttributes-0.23/">0.23</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-MethodAttributes-0.22&amp;to=MooseX-MethodAttributes-0.23&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::nonmoose&amp;mode=all">MooseX-NonMoose</uri></ti>
+    <ti align="right">0.08</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-NonMoose-0.09/">0.09</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-NonMoose-0.08&amp;to=MooseX-NonMoose-0.09&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::ldap::server::test&amp;mode=all">Net-LDAP-Server-Test</uri></ti>
+    <ti align="right">0.09</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Net-LDAP-Server-Test-0.10/">0.10</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Net-LDAP-Server-Test-0.09&amp;to=Net-LDAP-Server-Test-0.10&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::elemental&amp;mode=all">Pod-Elemental</uri></ti>
@@ -335,7 +365,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 47 of 534
+Total packages suspected as outdated: 52 of 536
 </p>
 
 </body>

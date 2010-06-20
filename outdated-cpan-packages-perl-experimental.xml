@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.237 2010/06/19 06:41:32 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.238 2010/06/20 07:18:41 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-06-19</date>
+<date>2010-06-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -159,28 +159,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-CompileTests-1.092870&amp;to=Dist-Zilla-Plugin-CompileTests-1.101600&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::git&amp;mode=all">Dist-Zilla-Plugin-Git</uri></ti>
-    <ti align="right">1.093410</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.101680/">1.101680</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.093410&amp;to=Dist-Zilla-Plugin-Git-1.101680&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podweaver&amp;mode=all">Dist-Zilla-Plugin-PodWeaver</uri></ti>
-    <ti align="right">3.093321</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-PodWeaver-3.101640/">3.101640</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-PodWeaver-3.093321&amp;to=Dist-Zilla-Plugin-PodWeaver-3.101640&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::readmefrompod&amp;mode=all">Dist-Zilla-Plugin-ReadmeFromPod</uri></ti>
     <ti align="right">0.11</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-ReadmeFromPod-0.12/">0.12</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-ReadmeFromPod-0.11&amp;to=Dist-Zilla-Plugin-ReadmeFromPod-0.12&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::repository&amp;mode=all">Dist-Zilla-Plugin-Repository</uri></ti>
-    <ti align="right">0.11</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Repository-0.13/">0.13</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Repository-0.11&amp;to=Dist-Zilla-Plugin-Repository-0.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::taskweaver&amp;mode=all">Dist-Zilla-Plugin-TaskWeaver</uri></ti>
@@ -189,34 +171,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-TaskWeaver-0.100890&amp;to=Dist-Zilla-Plugin-TaskWeaver-0.101620&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
-    <ti align="right">0.093580</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-RJBS-0.101620/">0.101620</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-0.093580&amp;to=Dist-Zilla-PluginBundle-RJBS-0.101620&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=encode::zapcp1252&amp;mode=all">Encode-ZapCP1252</uri></ti>
     <ti align="right">0.12</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Encode-ZapCP1252-0.32/">0.32</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Encode-ZapCP1252-0.12&amp;to=Encode-ZapCP1252-0.32&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=eval::context&amp;mode=all">Eval-Context</uri></ti>
-    <ti align="right">0.07</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Eval-Context-0.0911/">0.0911</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Eval-Context-0.07&amp;to=Eval-Context-0.0911&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=git::cpan::patch&amp;mode=all">Git-CPAN-Patch</uri></ti>
-    <ti align="right">0.32</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Git-CPAN-Patch-0.44/">0.44</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Git-CPAN-Patch-0.32&amp;to=Git-CPAN-Patch-0.44&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=git::wrapper&amp;mode=all">Git-Wrapper</uri></ti>
-    <ti align="right">0.009</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Git-Wrapper-0.010/">0.010</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Git-Wrapper-0.009&amp;to=Git-Wrapper-0.010&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::defang&amp;mode=all">HTML-Defang</uri></ti>
@@ -279,12 +237,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Module-Manifest-0.07&amp;to=Module-Manifest-1.08&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mojolicious&amp;mode=all">Mojolicious</uri></ti>
-    <ti align="right">0.999924</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-0.999926/">0.999926</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-0.999924&amp;to=Mojolicious-0.999926&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mojomojo&amp;mode=all">MojoMojo</uri></ti>
     <ti align="right">0.999042</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MojoMojo-1.01/">1.01</uri></ti>
@@ -315,18 +267,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Net-LDAP-Server-Test-0.09&amp;to=Net-LDAP-Server-Test-0.10&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::elemental&amp;mode=all">Pod-Elemental</uri></ti>
-    <ti align="right">0.100220</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Elemental-0.101620/">0.101620</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Pod-Elemental-0.100220&amp;to=Pod-Elemental-0.101620&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::elemental::transformer::list&amp;mode=all">Pod-Elemental-Transformer-List</uri></ti>
-    <ti align="right">0.093580</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Elemental-Transformer-List-0.101620/">0.101620</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Pod-Elemental-Transformer-List-0.093580&amp;to=Pod-Elemental-Transformer-List-0.101620&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=poe::component::client::keepalive&amp;mode=all">POE-Component-Client-Keepalive</uri></ti>
     <ti align="right">0.262</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/POE-Component-Client-Keepalive-0.263/">0.263</uri></ti>
@@ -350,16 +290,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.22/">0.22</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.20&amp;to=Task-Kensho-0.22&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xxx&amp;mode=all">XXX</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/XXX-0.16/">0.16</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=XXX-0.12&amp;to=XXX-0.16&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 51 of 539
+Total packages suspected as outdated: 40 of 539
 </p>
 
 </body>

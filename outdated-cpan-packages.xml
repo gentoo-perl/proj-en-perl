@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2185 2010/06/22 01:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2186 2010/06/22 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -100,29 +100,14 @@ will curb some of the bugs to boot).
     <ti align="right">4.03</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
-    <ti align="right">1.28</ti>
-    <ti align="right">1.29</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mime::encwords&amp;mode=all">MIME-EncWords</uri></ti>
-    <ti align="right">1.0111</ti>
-    <ti align="right">1.012</ti>
+    <ti><uri link="http://search.cpan.org/search?query=module::install&amp;mode=all">Module-Install</uri></ti>
+    <ti align="right">0.99</ti>
+    <ti align="right">1.00</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.40</ti>
     <ti align="right">0.61</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::oauth&amp;mode=all">Net-OAuth</uri></ti>
-    <ti align="right">0.25</ti>
-    <ti align="right">0.27</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::twitter&amp;mode=all">Net-Twitter</uri></ti>
-    <ti align="right">3.13003</ti>
-    <ti align="right">3.13006</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perlbal&amp;mode=all">Perlbal</uri></ti>
@@ -145,19 +130,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=statistics::descriptive&amp;mode=all">Statistics-Descriptive</uri></ti>
-    <ti align="right">3.0102</ti>
-    <ti align="right">3.0200</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::csv&amp;mode=all">Text-CSV</uri></ti>
-    <ti align="right">1.17</ti>
-    <ti align="right">1.18</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=thread::semaphore&amp;mode=all">Thread-Semaphore</uri></ti>
@@ -167,7 +142,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 1037
+Total packages suspected as outdated: 18 of 1037
 </p>
 
 </body>

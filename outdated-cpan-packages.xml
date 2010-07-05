@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2208 2010/07/04 09:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2209 2010/07/05 01:52:35 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-07-04</date>
+<date>2010-07-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -125,6 +125,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.32</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=extutils::parsexs&amp;mode=all">ExtUtils-ParseXS</uri> (virtual/perl-ExtUtils-ParseXS)</ti>
+    <ti align="right">2.2205</ti>
+    <ti align="right">2.2206</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
     <ti align="right">0.35</ti>
     <ti align="right">0.36</ti>
@@ -215,6 +220,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.43</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=www::curl&amp;mode=all">WWW-Curl</uri></ti>
+    <ti align="right">4.11</ti>
+    <ti align="right">4.12</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::mechanize&amp;mode=all">WWW-Mechanize</uri></ti>
     <ti align="right">1.62</ti>
     <ti align="right">1.64</ti>
@@ -227,7 +237,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 35 of 1038
+Total packages suspected as outdated: 37 of 1038
 </p>
 
 </body>

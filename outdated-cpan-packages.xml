@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2209 2010/07/05 01:52:35 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2210 2010/07/05 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.36</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=ipc::cmd&amp;mode=all">IPC-Cmd</uri> (virtual/perl-IPC-Cmd)</ti>
+    <ti align="right">0.58</ti>
+    <ti align="right">0.60</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=lingua::en::inflect&amp;mode=all">Lingua-EN-Inflect</uri></ti>
     <ti align="right">1.891</ti>
     <ti align="right">1.892</ti>
@@ -237,7 +242,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 37 of 1038
+Total packages suspected as outdated: 38 of 1038
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2212 2010/07/06 17:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2213 2010/07/07 01:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-07-06</date>
+<date>2010-07-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -160,6 +160,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.35</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::getopt&amp;mode=all">MooseX-Getopt</uri></ti>
+    <ti align="right">0.29</ti>
+    <ti align="right">0.30</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.40</ti>
     <ti align="right">0.62</ti>
@@ -168,6 +173,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=net::cidr&amp;mode=all">Net-CIDR</uri></ti>
     <ti align="right">0.13</ti>
     <ti align="right">0.14</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::twitter&amp;mode=all">Net-Twitter</uri></ti>
+    <ti align="right">3.13006</ti>
+    <ti align="right">3.13007</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pdf::create&amp;mode=all">PDF-Create</uri></ti>
+    <ti align="right">1.05</ti>
+    <ti align="right">1.06</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
@@ -247,7 +262,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 39 of 1038
+Total packages suspected as outdated: 42 of 1038
 </p>
 
 </body>

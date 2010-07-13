@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2220 2010/07/12 09:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2221 2010/07/13 01:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-07-12</date>
+<date>2010-07-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -205,6 +205,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.13007</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=netaddr::ip&amp;mode=all">NetAddr-IP</uri></ti>
+    <ti align="right">4.028</ti>
+    <ti align="right">4.029</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdf::create&amp;mode=all">PDF-Create</uri></ti>
     <ti align="right">1.05</ti>
     <ti align="right">1.06</ti>
@@ -280,6 +285,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.64</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::sax::writer&amp;mode=all">XML-SAX-Writer</uri></ti>
+    <ti align="right">0.52</ti>
+    <ti align="right">0.53</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=yaml::tiny&amp;mode=all">YAML-Tiny</uri></ti>
     <ti align="right">1.41</ti>
     <ti align="right">1.43</ti>
@@ -287,7 +297,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 47 of 1040
+Total packages suspected as outdated: 49 of 1040
 </p>
 
 </body>

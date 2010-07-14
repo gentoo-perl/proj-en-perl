@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.240 2010/07/12 07:13:58 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.241 2010/07/14 04:56:18 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-07-12</date>
+<date>2010-07-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -123,6 +123,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Scheduler-0.09&amp;to=Catalyst-Plugin-Scheduler-0.10&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::server&amp;mode=all">Catalyst-Plugin-Server</uri></ti>
+    <ti align="right">0.26</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Server-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Server-0.26&amp;to=Catalyst-Plugin-Server-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::unicode::encoding&amp;mode=all">Catalyst-Plugin-Unicode-Encoding</uri></ti>
     <ti align="right">0.9</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Unicode-Encoding-1.1/">1.1</uri></ti>
@@ -167,8 +173,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpanplus&amp;mode=all">CPANPLUS</uri> (virtual/perl-CPANPLUS)</ti>
     <ti align="right">0.9005</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPANPLUS-0.9006/">0.9006</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPANPLUS-0.9005&amp;to=CPANPLUS-0.9006&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPANPLUS-0.9007/">0.9007</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPANPLUS-0.9005&amp;to=CPANPLUS-0.9007&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=css::tiny&amp;mode=all">CSS-Tiny</uri></ti>
@@ -245,8 +251,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::changenotify&amp;mode=all">File-ChangeNotify</uri></ti>
     <ti align="right">0.13</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/File-ChangeNotify-0.15/">0.15</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=File-ChangeNotify-0.13&amp;to=File-ChangeNotify-0.15&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/File-ChangeNotify-0.16/">0.16</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=File-ChangeNotify-0.13&amp;to=File-ChangeNotify-0.16&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::defang&amp;mode=all">HTML-Defang</uri></ti>
@@ -299,8 +305,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=local::lib&amp;mode=all">local-lib</uri></ti>
     <ti align="right">1.006000</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/local-lib-1.006004/">1.006004</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=local-lib-1.006000&amp;to=local-lib-1.006004&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/local-lib-1.006005/">1.006005</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=local-lib-1.006000&amp;to=local-lib-1.006005&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=method::signatures::simple&amp;mode=all">Method-Signatures-Simple</uri></ti>
@@ -319,6 +325,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.999042</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MojoMojo-1.01/">1.01</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-0.999042&amp;to=MojoMojo-1.01&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::blessed::reconstruct&amp;mode=all">MooseX-Blessed-Reconstruct</uri></ti>
+    <ti align="right">0.03</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Blessed-Reconstruct-0.04/">0.04</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Blessed-Reconstruct-0.03&amp;to=MooseX-Blessed-Reconstruct-0.04&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::daemonize&amp;mode=all">MooseX-Daemonize</uri></ti>
@@ -407,7 +419,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 59 of 545
+Total packages suspected as outdated: 61 of 545
 </p>
 
 </body>

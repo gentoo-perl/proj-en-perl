@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2228 2010/07/16 01:52:34 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2229 2010/07/16 09:52:32 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,16 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.29</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=bio::das&amp;mode=all">Bio-Das</uri></ti>
-    <ti align="right">1.15</ti>
-    <ti align="right">1.17</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=bio::graphics&amp;mode=all">Bio-Graphics</uri></ti>
-    <ti align="right">2.10</ti>
-    <ti align="right">2.11</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached&amp;mode=all">Cache-Memcached</uri></ti>
     <ti align="right">1.28</ti>
     <ti align="right">1.29</ti>
@@ -73,11 +63,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=daemon::generic&amp;mode=all">Daemon-Generic</uri></ti>
-    <ti align="right">0.61</ti>
-    <ti align="right">0.71</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::dump::streamer&amp;mode=all">Data-Dump-Streamer</uri></ti>
@@ -95,54 +80,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.08123</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel::nytprof&amp;mode=all">Devel-NYTProf</uri></ti>
-    <ti align="right">4.03</ti>
-    <ti align="right">4.04</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::messageid&amp;mode=all">Email-MessageID</uri></ti>
-    <ti align="right">1.401</ti>
-    <ti align="right">1.402</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
     <ti align="right">0.35</ti>
     <ti align="right">0.36</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=lingua::en::inflect&amp;mode=all">Lingua-EN-Inflect</uri></ti>
-    <ti align="right">1.891</ti>
-    <ti align="right">1.892</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=lingua::en::nameparse&amp;mode=all">Lingua-EN-NameParse</uri></ti>
-    <ti align="right">1.24</ti>
-    <ti align="right">1.27</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mail::listdetector&amp;mode=all">Mail-ListDetector</uri></ti>
-    <ti align="right">1.02</ti>
-    <ti align="right">1.03</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.34</ti>
     <ti align="right">2.35</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::classattribute&amp;mode=all">MooseX-ClassAttribute</uri></ti>
-    <ti align="right">0.13</ti>
-    <ti align="right">0.16</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::getopt&amp;mode=all">MooseX-Getopt</uri></ti>
-    <ti align="right">0.29</ti>
-    <ti align="right">0.31</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::strictconstructor&amp;mode=all">MooseX-StrictConstructor</uri></ti>
-    <ti align="right">0.08</ti>
-    <ti align="right">0.09</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
@@ -160,19 +105,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.14</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::twitter&amp;mode=all">Net-Twitter</uri></ti>
-    <ti align="right">3.13006</ti>
-    <ti align="right">3.13007</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=netaddr::ip&amp;mode=all">NetAddr-IP</uri></ti>
     <ti align="right">4.028</ti>
     <ti align="right">4.029</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=padwalker&amp;mode=all">PadWalker</uri></ti>
-    <ti align="right">1.9</ti>
-    <ti align="right">1.92</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perlbal&amp;mode=all">Perlbal</uri></ti>
@@ -217,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 33 of 1045
+Total packages suspected as outdated: 20 of 1045
 </p>
 
 </body>

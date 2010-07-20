@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.242 2010/07/15 07:11:28 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.243 2010/07/20 08:49:41 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-07-15</date>
+<date>2010-07-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -129,6 +129,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Server-0.26&amp;to=Catalyst-Plugin-Server-0.28&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::state::uri&amp;mode=all">Catalyst-Plugin-Session-State-URI</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Session-State-URI-0.14/">0.14</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Session-State-URI-0.13&amp;to=Catalyst-Plugin-Session-State-URI-0.14&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::unicode::encoding&amp;mode=all">Catalyst-Plugin-Unicode-Encoding</uri></ti>
     <ti align="right">0.9</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Unicode-Encoding-1.1/">1.1</uri></ti>
@@ -205,6 +211,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.2901</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/DateTime-Format-Excel-0.30/">0.30</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=DateTime-Format-Excel-0.2901&amp;to=DateTime-Format-Excel-0.30&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=devel::stacktrace::withlexicals&amp;mode=all">Devel-StackTrace-WithLexicals</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-StackTrace-WithLexicals-0.06/">0.06</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Devel-StackTrace-WithLexicals-0.05&amp;to=Devel-StackTrace-WithLexicals-0.06&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
@@ -291,6 +303,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Imager-0.73&amp;to=Imager-0.75&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=javascript::packer&amp;mode=all">JavaScript-Packer</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/JavaScript-Packer-0.0401/">0.0401</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=JavaScript-Packer-0.04&amp;to=JavaScript-Packer-0.0401&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=kiokudb&amp;mode=all">KiokuDB</uri></ti>
     <ti align="right">0.42</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.46/">0.46</uri></ti>
@@ -327,6 +345,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Mixin-ExtraFields-0.008&amp;to=Mixin-ExtraFields-0.100971&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::install::readmefrompod&amp;mode=all">Module-Install-ReadmeFromPod</uri></ti>
+    <ti align="right">0.08</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Module-Install-ReadmeFromPod-0.10/">0.10</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Module-Install-ReadmeFromPod-0.08&amp;to=Module-Install-ReadmeFromPod-0.10&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mojomojo&amp;mode=all">MojoMojo</uri></ti>
     <ti align="right">0.999042</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MojoMojo-1.01/">1.01</uri></ti>
@@ -345,22 +369,28 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Daemonize-0.10&amp;to=MooseX-Daemonize-0.12&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::lazyrequire&amp;mode=all">MooseX-LazyRequire</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-LazyRequire-0.06/">0.06</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-LazyRequire-0.05&amp;to=MooseX-LazyRequire-0.06&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::method::signatures&amp;mode=all">MooseX-Method-Signatures</uri></ti>
     <ti align="right">0.31</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Method-Signatures-0.34/">0.34</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Method-Signatures-0.31&amp;to=MooseX-Method-Signatures-0.34&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Method-Signatures-0.35/">0.35</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Method-Signatures-0.31&amp;to=MooseX-Method-Signatures-0.35&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::methodattributes&amp;mode=all">MooseX-MethodAttributes</uri></ti>
     <ti align="right">0.22</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-MethodAttributes-0.23/">0.23</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-MethodAttributes-0.22&amp;to=MooseX-MethodAttributes-0.23&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-MethodAttributes-0.24/">0.24</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-MethodAttributes-0.22&amp;to=MooseX-MethodAttributes-0.24&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::nonmoose&amp;mode=all">MooseX-NonMoose</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-NonMoose-0.11/">0.11</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-NonMoose-0.09&amp;to=MooseX-NonMoose-0.11&amp;w=1">Diff</uri></ti>
+    <ti align="right">0.11</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-NonMoose-0.14/">0.14</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-NonMoose-0.11&amp;to=MooseX-NonMoose-0.14&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::role::parameterized&amp;mode=all">MooseX-Role-Parameterized</uri></ti>
@@ -369,10 +399,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.18&amp;to=MooseX-Role-Parameterized-0.19&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::role::withoverloading&amp;mode=all">MooseX-Role-WithOverloading</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-WithOverloading-0.08/">0.08</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-WithOverloading-0.06&amp;to=MooseX-Role-WithOverloading-0.08&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::semiaffordanceaccessor&amp;mode=all">MooseX-SemiAffordanceAccessor</uri></ti>
     <ti align="right">0.05</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-SemiAffordanceAccessor-0.07/">0.07</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-SemiAffordanceAccessor-0.05&amp;to=MooseX-SemiAffordanceAccessor-0.07&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::singleton&amp;mode=all">MooseX-Singleton</uri></ti>
+    <ti align="right">0.22</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Singleton-0.24/">0.24</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Singleton-0.22&amp;to=MooseX-Singleton-0.24&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::structured&amp;mode=all">MooseX-Types-Structured</uri></ti>
@@ -425,13 +467,13 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
     <ti align="right">0.20</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.22/">0.22</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.20&amp;to=Task-Kensho-0.22&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.23/">0.23</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.20&amp;to=Task-Kensho-0.23&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 63 of 545
+Total packages suspected as outdated: 70 of 547
 </p>
 
 </body>

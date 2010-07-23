@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.244 2010/07/22 16:08:03 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.245 2010/07/23 07:56:13 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-07-22</date>
+<date>2010-07-23</date>
 
 <chapter>
 <title>Intro</title>
@@ -357,114 +357,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-0.999042&amp;to=MojoMojo-1.01&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::blessed::reconstruct&amp;mode=all">MooseX-Blessed-Reconstruct</uri></ti>
-    <ti align="right">0.03</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Blessed-Reconstruct-0.04/">0.04</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Blessed-Reconstruct-0.03&amp;to=MooseX-Blessed-Reconstruct-0.04&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::daemonize&amp;mode=all">MooseX-Daemonize</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Daemonize-0.12/">0.12</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Daemonize-0.10&amp;to=MooseX-Daemonize-0.12&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::lazyrequire&amp;mode=all">MooseX-LazyRequire</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-LazyRequire-0.06/">0.06</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-LazyRequire-0.05&amp;to=MooseX-LazyRequire-0.06&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::method::signatures&amp;mode=all">MooseX-Method-Signatures</uri></ti>
-    <ti align="right">0.31</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Method-Signatures-0.35/">0.35</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Method-Signatures-0.31&amp;to=MooseX-Method-Signatures-0.35&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::methodattributes&amp;mode=all">MooseX-MethodAttributes</uri></ti>
-    <ti align="right">0.22</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-MethodAttributes-0.24/">0.24</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-MethodAttributes-0.22&amp;to=MooseX-MethodAttributes-0.24&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::nonmoose&amp;mode=all">MooseX-NonMoose</uri></ti>
-    <ti align="right">0.11</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-NonMoose-0.14/">0.14</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-NonMoose-0.11&amp;to=MooseX-NonMoose-0.14&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::role::parameterized&amp;mode=all">MooseX-Role-Parameterized</uri></ti>
-    <ti align="right">0.18</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.19/">0.19</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.18&amp;to=MooseX-Role-Parameterized-0.19&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::role::withoverloading&amp;mode=all">MooseX-Role-WithOverloading</uri></ti>
-    <ti align="right">0.06</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-WithOverloading-0.08/">0.08</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-WithOverloading-0.06&amp;to=MooseX-Role-WithOverloading-0.08&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::semiaffordanceaccessor&amp;mode=all">MooseX-SemiAffordanceAccessor</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-SemiAffordanceAccessor-0.08/">0.08</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-SemiAffordanceAccessor-0.05&amp;to=MooseX-SemiAffordanceAccessor-0.08&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::singleton&amp;mode=all">MooseX-Singleton</uri></ti>
-    <ti align="right">0.22</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Singleton-0.24/">0.24</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Singleton-0.22&amp;to=MooseX-Singleton-0.24&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::types::structured&amp;mode=all">MooseX-Types-Structured</uri></ti>
-    <ti align="right">0.22</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Types-Structured-0.23/">0.23</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Types-Structured-0.22&amp;to=MooseX-Types-Structured-0.23&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::ldap::server::test&amp;mode=all">Net-LDAP-Server-Test</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Net-LDAP-Server-Test-0.10/">0.10</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Net-LDAP-Server-Test-0.09&amp;to=Net-LDAP-Server-Test-0.10&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perl::prereqscanner&amp;mode=all">Perl-PrereqScanner</uri></ti>
-    <ti align="right">0.101480</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Perl-PrereqScanner-0.101890/">0.101890</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Perl-PrereqScanner-0.101480&amp;to=Perl-PrereqScanner-0.101890&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
-    <ti align="right">0.9938</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9941/">0.9941</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9938&amp;to=Plack-0.9941&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=poe::component::client::keepalive&amp;mode=all">POE-Component-Client-Keepalive</uri></ti>
-    <ti align="right">0.262</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/POE-Component-Client-Keepalive-0.263/">0.263</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=POE-Component-Client-Keepalive-0.262&amp;to=POE-Component-Client-Keepalive-0.263&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=software::license&amp;mode=all">Software-License</uri></ti>
-    <ti align="right">0.101410</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Software-License-0.101620/">0.101620</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Software-License-0.101410&amp;to=Software-License-0.101620&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=starman&amp;mode=all">Starman</uri></ti>
-    <ti align="right">0.2004</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Starman-0.2006/">0.2006</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Starman-0.2004&amp;to=Starman-0.2006&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=string::formatter&amp;mode=all">String-Formatter</uri></ti>
-    <ti align="right">0.100720</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/String-Formatter-0.101620/">0.101620</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=String-Formatter-0.100720&amp;to=String-Formatter-0.101620&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
     <ti align="right">0.20</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.23/">0.23</uri></ti>
@@ -473,7 +365,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 70 of 547
+Total packages suspected as outdated: 52 of 547
 </p>
 
 </body>

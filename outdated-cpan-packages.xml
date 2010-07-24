@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2242 2010/07/23 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2243 2010/07/24 17:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-07-23</date>
+<date>2010-07-24</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,6 +65,16 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=compress::raw::bzip2&amp;mode=all">Compress-Raw-Bzip2</uri> (virtual/perl-Compress-Raw-Bzip2)</ti>
+    <ti align="right">2.027</ti>
+    <ti align="right">2.030</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=compress::raw::zlib&amp;mode=all">Compress-Raw-Zlib</uri> (virtual/perl-Compress-Raw-Zlib)</ti>
+    <ti align="right">2.027</ti>
+    <ti align="right">2.030</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::dump::streamer&amp;mode=all">Data-Dump-Streamer</uri></ti>
     <ti align="right">2.21</ti>
     <ti align="right">2.22</ti>
@@ -78,6 +88,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
     <ti align="right">0.35</ti>
     <ti align="right">0.36</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::compress&amp;mode=all">IO-Compress</uri> (virtual/perl-IO-Compress)</ti>
+    <ti align="right">2.027</ti>
+    <ti align="right">2.030</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
@@ -137,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 1047
+Total packages suspected as outdated: 20 of 1047
 </p>
 
 </body>

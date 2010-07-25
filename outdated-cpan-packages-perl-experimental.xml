@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.247 2010/07/24 08:18:53 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.248 2010/07/25 07:55:35 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-07-24</date>
+<date>2010-07-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,12 +51,6 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
-    <ti align="right">0.40</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Archive-Extract-0.42/">0.42</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Archive-Extract-0.40&amp;to=Archive-Extract-0.42&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=captcha::recaptcha&amp;mode=all">Captcha-reCAPTCHA</uri></ti>
     <ti align="right">0.92</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Captcha-reCAPTCHA-0.94/">0.94</uri></ti>
@@ -85,6 +79,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.27</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Devel-1.28/">1.28</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Devel-1.27&amp;to=Catalyst-Devel-1.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
+    <ti align="right">0.41</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema-0.43/">0.43</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-DBIC-Schema-0.41&amp;to=Catalyst-Model-DBIC-Schema-0.43&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::cache&amp;mode=all">Catalyst-Plugin-Cache</uri></ti>
@@ -177,16 +177,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Config-GitLike-1.03&amp;to=Config-GitLike-1.04&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpanplus&amp;mode=all">CPANPLUS</uri> (virtual/perl-CPANPLUS)</ti>
-    <ti align="right">0.9005</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPANPLUS-0.9007/">0.9007</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPANPLUS-0.9005&amp;to=CPANPLUS-0.9007&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::format::excel&amp;mode=all">DateTime-Format-Excel</uri></ti>
     <ti align="right">0.2901</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/DateTime-Format-Excel-0.30/">0.30</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=DateTime-Format-Excel-0.2901&amp;to=DateTime-Format-Excel-0.30&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::class::schema::loader&amp;mode=all">DBIx-Class-Schema-Loader</uri></ti>
+    <ti align="right">0.07000</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Schema-Loader-0.07001/">0.07001</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Schema-Loader-0.07000&amp;to=DBIx-Class-Schema-Loader-0.07001&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
@@ -279,6 +279,24 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-0.999042&amp;to=MojoMojo-1.01&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::has::sugar&amp;mode=all">MooseX-Has-Sugar</uri></ti>
+    <ti align="right">0.0405</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Has-Sugar-0.05044303/">0.05044303</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Has-Sugar-0.0405&amp;to=MooseX-Has-Sugar-0.05044303&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=padre::plugin::vi&amp;mode=all">Padre-Plugin-Vi</uri></ti>
+    <ti align="right">0.22</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi-0.230/">0.230</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.22&amp;to=Padre-Plugin-Vi-0.230&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
+    <ti align="right">0.9941</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9942/">0.9942</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9941&amp;to=Plack-0.9942&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
     <ti align="right">0.20</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.23/">0.23</uri></ti>
@@ -287,7 +305,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 39 of 547
+Total packages suspected as outdated: 42 of 547
 </p>
 
 </body>

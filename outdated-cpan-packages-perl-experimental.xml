@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.249 2010/07/26 05:24:15 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.250 2010/07/27 06:20:10 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-07-26</date>
+<date>2010-07-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -177,6 +177,24 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Config-GitLike-1.03&amp;to=Config-GitLike-1.04&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpan::reporter&amp;mode=all">CPAN-Reporter</uri></ti>
+    <ti align="right">1.1711</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.1800/">1.1800</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Reporter-1.1711&amp;to=CPAN-Reporter-1.1800&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::float&amp;mode=all">Data-Float</uri></ti>
+    <ti align="right">0.009</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Data-Float-0.010/">0.010</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Data-Float-0.009&amp;to=Data-Float-0.010&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::integer&amp;mode=all">Data-Integer</uri></ti>
+    <ti align="right">0.003</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Data-Integer-0.004/">0.004</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Data-Integer-0.003&amp;to=Data-Integer-0.004&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::format::excel&amp;mode=all">DateTime-Format-Excel</uri></ti>
     <ti align="right">0.2901</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/DateTime-Format-Excel-0.30/">0.30</uri></ti>
@@ -217,6 +235,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.100890</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-TaskWeaver-0.101620/">0.101620</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-TaskWeaver-0.100890&amp;to=Dist-Zilla-Plugin-TaskWeaver-0.101620&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::twitter&amp;mode=all">Dist-Zilla-Plugin-Twitter</uri></ti>
+    <ti align="right">0.007</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Twitter-0.008/">0.008</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Twitter-0.007&amp;to=Dist-Zilla-Plugin-Twitter-0.008&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=git::wrapper&amp;mode=all">Git-Wrapper</uri></ti>
@@ -311,7 +335,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 43 of 548
+Total packages suspected as outdated: 47 of 548
 </p>
 
 </body>

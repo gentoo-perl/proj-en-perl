@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.250 2010/07/27 06:20:10 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.251 2010/07/29 05:39:54 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-07-27</date>
+<date>2010-07-29</date>
 
 <chapter>
 <title>Intro</title>
@@ -141,6 +141,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Unicode-Encoding-0.9&amp;to=Catalyst-Plugin-Unicode-Encoding-1.1&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::runtime&amp;mode=all">Catalyst-Runtime</uri></ti>
+    <ti align="right">5.80024</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Runtime-5.80025/">5.80025</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Runtime-5.80024&amp;to=Catalyst-Runtime-5.80025&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::view::component::subinclude&amp;mode=all">Catalyst-View-Component-SubInclude</uri></ti>
     <ti align="right">0.07</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-Component-SubInclude-0.09/">0.09</uri></ti>
@@ -221,8 +227,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::git&amp;mode=all">Dist-Zilla-Plugin-Git</uri></ti>
     <ti align="right">1.101680</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.102040/">1.102040</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.101680&amp;to=Dist-Zilla-Plugin-Git-1.102040&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.102090/">1.102090</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.101680&amp;to=Dist-Zilla-Plugin-Git-1.102090&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::readmefrompod&amp;mode=all">Dist-Zilla-Plugin-ReadmeFromPod</uri></ti>
@@ -239,8 +245,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::twitter&amp;mode=all">Dist-Zilla-Plugin-Twitter</uri></ti>
     <ti align="right">0.007</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Twitter-0.008/">0.008</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Twitter-0.007&amp;to=Dist-Zilla-Plugin-Twitter-0.008&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Twitter-0.009/">0.009</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Twitter-0.007&amp;to=Dist-Zilla-Plugin-Twitter-0.009&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=git::wrapper&amp;mode=all">Git-Wrapper</uri></ti>
@@ -309,10 +315,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Has-Sugar-0.0405&amp;to=MooseX-Has-Sugar-0.05044303&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::poe&amp;mode=all">MooseX-POE</uri></ti>
+    <ti align="right">0.205</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-POE-0.207/">0.207</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-POE-0.205&amp;to=MooseX-POE-0.207&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::traits::pluggable&amp;mode=all">MooseX-Traits-Pluggable</uri></ti>
     <ti align="right">0.09</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Traits-Pluggable-0.10/">0.10</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Traits-Pluggable-0.09&amp;to=MooseX-Traits-Pluggable-0.10&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perlcritic&amp;mode=all">Padre-Plugin-PerlCritic</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlCritic-0.08/">0.08</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlCritic-0.07&amp;to=Padre-Plugin-PerlCritic-0.08&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::vi&amp;mode=all">Padre-Plugin-Vi</uri></ti>
@@ -327,6 +345,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9941&amp;to=Plack-0.9942&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=string::formatter&amp;mode=all">String-Formatter</uri></ti>
+    <ti align="right">0.101620</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/String-Formatter-0.102080/">0.102080</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=String-Formatter-0.101620&amp;to=String-Formatter-0.102080&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
     <ti align="right">0.20</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.23/">0.23</uri></ti>
@@ -335,7 +359,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 47 of 548
+Total packages suspected as outdated: 51 of 548
 </p>
 
 </body>

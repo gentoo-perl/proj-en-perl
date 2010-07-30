@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.251 2010/07/29 05:39:54 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.252 2010/07/30 06:56:49 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-07-29</date>
+<date>2010-07-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -255,6 +255,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Git-Wrapper-0.010&amp;to=Git-Wrapper-0.011&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::formhandler&amp;mode=all">HTML-FormHandler</uri></ti>
+    <ti align="right">0.32001</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormHandler-0.32002/">0.32002</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormHandler-0.32001&amp;to=HTML-FormHandler-0.32002&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=imager&amp;mode=all">Imager</uri></ti>
     <ti align="right">0.73</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Imager-0.75/">0.75</uri></ti>
@@ -269,8 +275,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=kiokudb&amp;mode=all">KiokuDB</uri></ti>
     <ti align="right">0.42</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.46/">0.46</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-0.42&amp;to=KiokuDB-0.46&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.47/">0.47</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-0.42&amp;to=KiokuDB-0.47&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=kiokudb::backend::dbi&amp;mode=all">KiokuDB-Backend-DBI</uri></ti>
@@ -327,6 +333,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Traits-Pluggable-0.09&amp;to=MooseX-Traits-Pluggable-0.10&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mp4::info&amp;mode=all">MP4-Info</uri></ti>
+    <ti align="right">1.12</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MP4-Info-1.13/">1.13</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MP4-Info-1.12&amp;to=MP4-Info-1.13&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perlcritic&amp;mode=all">Padre-Plugin-PerlCritic</uri></ti>
     <ti align="right">0.07</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlCritic-0.08/">0.08</uri></ti>
@@ -345,6 +357,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9941&amp;to=Plack-0.9942&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=scalar::string&amp;mode=all">Scalar-String</uri></ti>
+    <ti align="right">0.000</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Scalar-String-0.001/">0.001</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Scalar-String-0.000&amp;to=Scalar-String-0.001&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=string::formatter&amp;mode=all">String-Formatter</uri></ti>
     <ti align="right">0.101620</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/String-Formatter-0.102080/">0.102080</uri></ti>
@@ -359,7 +377,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 51 of 548
+Total packages suspected as outdated: 54 of 547
 </p>
 
 </body>

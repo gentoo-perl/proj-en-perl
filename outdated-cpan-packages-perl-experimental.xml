@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.252 2010/07/30 06:56:49 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.253 2010/08/01 07:40:34 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-07-30</date>
+<date>2010-08-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,18 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=authen::dechpwd&amp;mode=all">Authen-DecHpwd</uri></ti>
+    <ti align="right">2.004</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Authen-DecHpwd-2.005/">2.005</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Authen-DecHpwd-2.004&amp;to=Authen-DecHpwd-2.005&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=authen::passphrase&amp;mode=all">Authen-Passphrase</uri></ti>
+    <ti align="right">0.006</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Authen-Passphrase-0.007/">0.007</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Authen-Passphrase-0.006&amp;to=Authen-Passphrase-0.007&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=captcha::recaptcha&amp;mode=all">Captcha-reCAPTCHA</uri></ti>
     <ti align="right">0.92</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Captcha-reCAPTCHA-0.94/">0.94</uri></ti>
@@ -79,6 +91,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.27</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Devel-1.28/">1.28</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Devel-1.27&amp;to=Catalyst-Devel-1.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::engine::psgi&amp;mode=all">Catalyst-Engine-PSGI</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Engine-PSGI-0.11/">0.11</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Engine-PSGI-0.10&amp;to=Catalyst-Engine-PSGI-0.11&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
@@ -275,8 +293,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=kiokudb&amp;mode=all">KiokuDB</uri></ti>
     <ti align="right">0.42</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.47/">0.47</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-0.42&amp;to=KiokuDB-0.47&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.48/">0.48</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-0.42&amp;to=KiokuDB-0.48&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=kiokudb::backend::dbi&amp;mode=all">KiokuDB-Backend-DBI</uri></ti>
@@ -353,14 +371,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
     <ti align="right">0.9941</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9942/">0.9942</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9941&amp;to=Plack-0.9942&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=scalar::string&amp;mode=all">Scalar-String</uri></ti>
-    <ti align="right">0.000</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Scalar-String-0.001/">0.001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Scalar-String-0.000&amp;to=Scalar-String-0.001&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9943/">0.9943</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9941&amp;to=Plack-0.9943&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=string::formatter&amp;mode=all">String-Formatter</uri></ti>
@@ -377,7 +389,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 54 of 547
+Total packages suspected as outdated: 56 of 547
 </p>
 
 </body>

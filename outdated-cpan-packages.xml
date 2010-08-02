@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2257 2010/08/02 01:52:35 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2258 2010/08/02 09:52:37 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -145,6 +145,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.76</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
+    <ti align="right">1.291</ti>
+    <ti align="right">1.292</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe::hole&amp;mode=all">Safe-Hole</uri></ti>
     <ti align="right">0.10</ti>
     <ti align="right">0.13</ti>
@@ -177,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 1045
+Total packages suspected as outdated: 26 of 1045
 </p>
 
 </body>

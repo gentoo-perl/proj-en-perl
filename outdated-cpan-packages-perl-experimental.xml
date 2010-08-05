@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.254 2010/08/04 07:38:28 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.255 2010/08/05 07:10:07 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-08-04</date>
+<date>2010-08-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -97,6 +97,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.10</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Engine-PSGI-0.11/">0.11</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Engine-PSGI-0.10&amp;to=Catalyst-Engine-PSGI-0.11&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::model::adaptor&amp;mode=all">Catalyst-Model-Adaptor</uri></ti>
+    <ti align="right">0.08</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-Adaptor-0.09/">0.09</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-Adaptor-0.08&amp;to=Catalyst-Model-Adaptor-0.09&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
@@ -199,6 +205,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.03</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Config-GitLike-1.04/">1.04</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Config-GitLike-1.03&amp;to=Config-GitLike-1.04&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpan::meta&amp;mode=all">CPAN-Meta</uri></ti>
+    <ti align="right">2.101670</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Meta-2.102160/">2.102160</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Meta-2.101670&amp;to=CPAN-Meta-2.102160&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::reporter&amp;mode=all">CPAN-Reporter</uri></ti>
@@ -407,7 +419,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 59 of 547
+Total packages suspected as outdated: 61 of 547
 </p>
 
 </body>

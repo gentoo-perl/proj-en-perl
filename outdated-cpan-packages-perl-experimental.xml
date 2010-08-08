@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.256 2010/08/07 07:59:49 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.257 2010/08/08 06:57:50 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-08-07</date>
+<date>2010-08-08</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,6 +55,18 @@ will curb some of the bugs to boot).
     <ti align="right">0.006</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Authen-Passphrase-0.007/">0.007</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Authen-Passphrase-0.006&amp;to=Authen-Passphrase-0.007&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=captcha::recaptcha&amp;mode=all">Captcha-reCAPTCHA</uri></ti>
+    <ti align="right">0.92</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Captcha-reCAPTCHA-0.94/">0.94</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Captcha-reCAPTCHA-0.92&amp;to=Captcha-reCAPTCHA-0.94&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::dbix::class&amp;mode=all">Catalyst-Authentication-Store-DBIx-Class</uri></ti>
+    <ti align="right">0.1200</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-DBIx-Class-0.1300/">0.1300</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-DBIx-Class-0.1200&amp;to=Catalyst-Authentication-Store-DBIx-Class-0.1300&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::ldap&amp;mode=all">Catalyst-Authentication-Store-LDAP</uri></ti>
@@ -261,6 +273,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Git-Wrapper-0.010&amp;to=Git-Wrapper-0.011&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gitalist&amp;mode=all">Gitalist</uri></ti>
+    <ti align="right">0.001008</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Gitalist-0.002004/">0.002004</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Gitalist-0.001008&amp;to=Gitalist-0.002004&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=handel&amp;mode=all">Handel</uri></ti>
     <ti align="right">1.00011</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Handel-1.00012/">1.00012</uri></ti>
@@ -341,7 +359,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 48 of 547
+Total packages suspected as outdated: 51 of 547
 </p>
 
 </body>

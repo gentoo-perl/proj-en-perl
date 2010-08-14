@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.262 2010/08/12 07:40:17 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.263 2010/08/14 17:59:24 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-08-12</date>
+<date>2010-08-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -89,26 +89,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gitalist&amp;mode=all">Gitalist</uri></ti>
     <ti align="right">0.001008</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Gitalist-0.002004/">0.002004</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Gitalist-0.001008&amp;to=Gitalist-0.002004&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Gitalist-0.002005/">0.002005</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Gitalist-0.001008&amp;to=Gitalist-0.002005&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=imager&amp;mode=all">Imager</uri></ti>
     <ti align="right">0.75</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Imager-0.77/">0.77</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Imager-0.75&amp;to=Imager-0.77&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=kiokux::user&amp;mode=all">KiokuX-User</uri></ti>
-    <ti align="right">0.01</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuX-User-0.02/">0.02</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=KiokuX-User-0.01&amp;to=KiokuX-User-0.02&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=log::dispatchouli&amp;mode=all">Log-Dispatchouli</uri></ti>
-    <ti align="right">1.100712</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Log-Dispatchouli-1.102220/">1.102220</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Log-Dispatchouli-1.100712&amp;to=Log-Dispatchouli-1.102220&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mixin::extrafields&amp;mode=all">Mixin-ExtraFields</uri></ti>
@@ -123,22 +111,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Module-Install-ReadmeFromPod-0.08&amp;to=Module-Install-ReadmeFromPod-0.10&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::poe&amp;mode=all">MooseX-POE</uri></ti>
-    <ti align="right">0.207</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-POE-0.208/">0.208</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-POE-0.207&amp;to=MooseX-POE-0.208&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::simpleconfig&amp;mode=all">MooseX-SimpleConfig</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-SimpleConfig-0.08/">0.08</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-SimpleConfig-0.07&amp;to=MooseX-SimpleConfig-0.08&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
-    <ti align="right">0.9943</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9944/">0.9944</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9943&amp;to=Plack-0.9944&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
-    <ti align="right">0.20</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.23/">0.23</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.20&amp;to=Task-Kensho-0.23&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=software::license&amp;mode=all">Software-License</uri></ti>
+    <ti align="right">0.101620</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Software-License-0.102250/">0.102250</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Software-License-0.101620&amp;to=Software-License-0.102250&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::tcp&amp;mode=all">Test-TCP</uri></ti>
@@ -149,7 +131,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 549
+Total packages suspected as outdated: 13 of 562
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2275 2010/08/14 01:52:36 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2276 2010/08/14 17:52:38 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.613</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=extutils::xspp&amp;mode=all">ExtUtils-XSpp</uri></ti>
+    <ti align="right">0.14</ti>
+    <ti align="right">0.15</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=http::browserdetect&amp;mode=all">HTTP-BrowserDetect</uri></ti>
     <ti align="right">1.12</ti>
     <ti align="right">1.13</ti>
@@ -122,7 +127,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 14 of 1045
+Total packages suspected as outdated: 15 of 1045
 </p>
 
 </body>

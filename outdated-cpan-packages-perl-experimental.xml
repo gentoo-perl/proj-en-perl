@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.263 2010/08/14 17:59:24 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.264 2010/08/15 15:54:27 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-08-14</date>
+<date>2010-08-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,12 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.71</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Cache-Memcached-0.8/">0.8</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Cache-Memcached-0.71&amp;to=Catalyst-Plugin-Cache-Memcached-0.8&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi::application::plugin::authentication&amp;mode=all">CGI-Application-Plugin-Authentication</uri></ti>
-    <ti align="right">0.17</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Plugin-Authentication-0.18/">0.18</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Plugin-Authentication-0.17&amp;to=CGI-Application-Plugin-Authentication-0.18&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::discover&amp;mode=all">Class-Discover</uri></ti>
@@ -117,6 +111,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-SimpleConfig-0.07&amp;to=MooseX-SimpleConfig-0.08&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=padre::plugin::autoformat&amp;mode=all">Padre-Plugin-Autoformat</uri></ti>
+    <ti align="right">1.12</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Autoformat-1.20/">1.20</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Autoformat-1.12&amp;to=Padre-Plugin-Autoformat-1.20&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=software::license&amp;mode=all">Software-License</uri></ti>
     <ti align="right">0.101620</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Software-License-0.102250/">0.102250</uri></ti>
@@ -124,14 +124,14 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::tcp&amp;mode=all">Test-TCP</uri></ti>
-    <ti align="right">0.16</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Test-TCP-1.00/">1.00</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Test-TCP-0.16&amp;to=Test-TCP-1.00&amp;w=1">Diff</uri></ti>
+    <ti align="right">1.00</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Test-TCP-1.01/">1.01</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Test-TCP-1.00&amp;to=Test-TCP-1.01&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 13 of 562
+Total packages suspected as outdated: 13 of 563
 </p>
 
 </body>

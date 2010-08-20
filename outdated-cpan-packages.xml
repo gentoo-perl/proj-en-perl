@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2286 2010/08/20 09:52:27 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2287 2010/08/20 17:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -65,6 +65,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
+    <ti align="right">1.20</ti>
+    <ti align="right">1.21</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbi&amp;mode=all">DBI</uri></ti>
     <ti align="right">1.612</ti>
     <ti align="right">1.613</ti>
@@ -125,6 +130,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.36</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::vfile::asdata&amp;mode=all">Text-vFile-asData</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right">0.06</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.9702</ti>
     <ti align="right">0.98</ti>
@@ -132,7 +142,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 1045
+Total packages suspected as outdated: 18 of 1045
 </p>
 
 </body>

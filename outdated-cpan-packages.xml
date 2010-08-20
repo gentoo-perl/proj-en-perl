@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2284 2010/08/18 01:52:35 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2285 2010/08/20 01:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-08-18</date>
+<date>2010-08-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,14 +70,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.613</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::parser&amp;mode=all">HTML-Parser</uri></ti>
-    <ti align="right">3.66</ti>
-    <ti align="right">3.67</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=json::xs&amp;mode=all">JSON-XS</uri></ti>
-    <ti align="right">2.29</ti>
-    <ti align="right">2.3</ti>
+    <ti><uri link="http://search.cpan.org/search?query=http::browserdetect&amp;mode=all">HTTP-BrowserDetect</uri></ti>
+    <ti align="right">1.13</ti>
+    <ti align="right">1.15</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
@@ -105,9 +100,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.76</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=path::class&amp;mode=all">Path-Class</uri></ti>
-    <ti align="right">0.19</ti>
-    <ti align="right">0.21</ti>
+    <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
+    <ti align="right">2.46</ti>
+    <ti align="right">2.47</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe::hole&amp;mode=all">Safe-Hole</uri></ti>
@@ -124,10 +119,20 @@ will curb some of the bugs to boot).
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::class&amp;mode=all">Test-Class</uri></ti>
+    <ti align="right">0.35</ti>
+    <ti align="right">0.36</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
+    <ti align="right">0.9702</ti>
+    <ti align="right">0.98</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 15 of 1045
+Total packages suspected as outdated: 16 of 1045
 </p>
 
 </body>

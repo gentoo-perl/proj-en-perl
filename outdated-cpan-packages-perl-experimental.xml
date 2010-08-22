@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.271 2010/08/21 08:13:43 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.272 2010/08/22 10:27:51 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-08-21</date>
+<date>2010-08-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,12 +51,6 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::cpanminus&amp;mode=all">App-cpanminus</uri></ti>
-    <ti align="right">1.0011</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.0012/">1.0012</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.0011&amp;to=App-cpanminus-1.0012&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::cache::memcached&amp;mode=all">Catalyst-Plugin-Cache-Memcached</uri></ti>
     <ti align="right">0.71</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Cache-Memcached-0.8/">0.8</uri></ti>
@@ -64,15 +58,9 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::configloader&amp;mode=all">Catalyst-Plugin-ConfigLoader</uri></ti>
-    <ti align="right">0.28</ti>
+    <ti align="right">0.29</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-ConfigLoader-0.30/">0.30</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-ConfigLoader-0.28&amp;to=Catalyst-Plugin-ConfigLoader-0.30&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::nonmoose&amp;mode=all">MooseX-NonMoose</uri></ti>
-    <ti align="right">0.14</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-NonMoose-0.15/">0.15</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-NonMoose-0.14&amp;to=MooseX-NonMoose-0.15&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-ConfigLoader-0.29&amp;to=Catalyst-Plugin-ConfigLoader-0.30&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::autoformat&amp;mode=all">Padre-Plugin-Autoformat</uri></ti>
@@ -80,28 +68,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Autoformat-1.20/">1.20</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Autoformat-1.12&amp;to=Padre-Plugin-Autoformat-1.20&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=params::classify&amp;mode=all">Params-Classify</uri></ti>
-    <ti align="right">0.009</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Params-Classify-0.010/">0.010</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Params-Classify-0.009&amp;to=Params-Classify-0.010&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
-    <ti align="right">0.9944</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9945/">0.9945</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9944&amp;to=Plack-0.9945&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xxx&amp;mode=all">XXX</uri></ti>
-    <ti align="right">0.16</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/XXX-0.17/">0.17</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=XXX-0.16&amp;to=XXX-0.17&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 8 of 581
+Total packages suspected as outdated: 3 of 583
 </p>
 
 </body>

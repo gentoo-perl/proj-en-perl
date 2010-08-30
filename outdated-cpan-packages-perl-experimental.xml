@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.279 2010/08/29 11:23:41 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.280 2010/08/30 06:04:10 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-08-29</date>
+<date>2010-08-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,8 +65,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::cover&amp;mode=all">Devel-Cover</uri></ti>
     <ti align="right">0.68</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-Cover-0.69/">0.69</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Devel-Cover-0.68&amp;to=Devel-Cover-0.69&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-Cover-0.70/">0.70</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Devel-Cover-0.68&amp;to=Devel-Cover-0.70&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
+    <ti align="right">0.9502</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-Template-Pro-0.9503/">0.9503</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-Template-Pro-0.9502&amp;to=HTML-Template-Pro-0.9503&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::autoformat&amp;mode=all">Padre-Plugin-Autoformat</uri></ti>
@@ -83,7 +89,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 606
+Total packages suspected as outdated: 6 of 606
 </p>
 
 </body>

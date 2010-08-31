@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2311 2010/08/30 09:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2312 2010/08/31 09:52:26 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-08-30</date>
+<date>2010-08-31</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,9 +55,29 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::amf&amp;mode=all">Data-AMF</uri></ti>
+    <ti align="right">0.08</ti>
+    <ti align="right">0.09</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::dumper::concise&amp;mode=all">Data-Dumper-Concise</uri></ti>
+    <ti align="right">2.010</ti>
+    <ti align="right">2.011</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
+    <ti align="right">1.889</ti>
+    <ti align="right">1.891</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=imagesize&amp;mode=all">ImageSize</uri></ti>
     <ti align="right">3.221</ti>
     <ti align="right">3.230</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
+    <ti align="right">1.29</ti>
+    <ti align="right">1.30</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
@@ -82,7 +102,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 6 of 1046
+Total packages suspected as outdated: 10 of 1046
 </p>
 
 </body>

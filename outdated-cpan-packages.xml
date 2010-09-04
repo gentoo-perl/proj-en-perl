@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2319 2010/09/04 01:52:27 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2320 2010/09/04 09:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,34 +55,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::tiny&amp;mode=all">Config-Tiny</uri></ti>
-    <ti align="right">2.12</ti>
-    <ti align="right">2.13</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::amf&amp;mode=all">Data-AMF</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right">0.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel::stacktrace&amp;mode=all">Devel-StackTrace</uri></ti>
-    <ti align="right">1.22</ti>
-    <ti align="right">1.24</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri> (virtual/perl-Math-BigInt)</ti>
-    <ti align="right">1.89</ti>
-    <ti align="right">1.90</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::bigint::fastcalc&amp;mode=all">Math-BigInt-FastCalc</uri> (virtual/perl-Math-BigInt-FastCalc)</ti>
-    <ti align="right">0.19</ti>
-    <ti align="right">0.21</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::signature&amp;mode=all">Module-Signature</uri></ti>
-    <ti align="right">0.64</ti>
-    <ti align="right">0.65</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe::hole&amp;mode=all">Safe-Hole</uri></ti>
@@ -102,7 +77,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 10 of 1046
+Total packages suspected as outdated: 5 of 1046
 </p>
 
 </body>

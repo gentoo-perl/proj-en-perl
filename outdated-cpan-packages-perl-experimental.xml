@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.286 2010/09/07 07:49:32 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.287 2010/09/08 08:35:50 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-07</date>
+<date>2010-09-08</date>
 
 <chapter>
 <title>Intro</title>
@@ -159,6 +159,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=HTML-Template-Pro-0.9502&amp;to=HTML-Template-Pro-0.9503&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=http::parser::xs&amp;mode=all">HTTP-Parser-XS</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTTP-Parser-XS-0.09/">0.09</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTTP-Parser-XS-0.07&amp;to=HTTP-Parser-XS-0.09&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mojomojo&amp;mode=all">MojoMojo</uri></ti>
     <ti align="right">1.01</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MojoMojo-1.02/">1.02</uri></ti>
@@ -197,7 +203,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 606
+Total packages suspected as outdated: 25 of 606
 </p>
 
 </body>

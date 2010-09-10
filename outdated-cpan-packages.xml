@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2334 2010/09/10 01:52:27 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2335 2010/09/10 09:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=audio::scan&amp;mode=all">Audio-Scan</uri></ti>
-    <ti align="right">0.84</ti>
-    <ti align="right">0.85</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.19</ti>
@@ -70,14 +65,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.216</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::strictconstructor&amp;mode=all">MooseX-StrictConstructor</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right">0.11</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
-    <ti align="right">0.64</ti>
-    <ti align="right">0.65</ti>
+    <ti><uri link="http://search.cpan.org/search?query=net::snmp&amp;mode=all">Net-SNMP</uri></ti>
+    <ti align="right">6.00</ti>
+    <ti align="right">6.01</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe::hole&amp;mode=all">Safe-Hole</uri></ti>
@@ -94,20 +84,10 @@ will curb some of the bugs to boot).
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::nowarnings&amp;mode=all">Test-NoWarnings</uri></ti>
-    <ti align="right">1.01</ti>
-    <ti align="right">1.02</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::warn&amp;mode=all">Test-Warn</uri></ti>
-    <ti align="right">0.21</ti>
-    <ti align="right">0.22</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 11 of 1046
+Total packages suspected as outdated: 7 of 1046
 </p>
 
 </body>

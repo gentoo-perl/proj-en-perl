@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.288 2010/09/09 05:51:04 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.289 2010/09/10 07:47:41 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-09</date>
+<date>2010-09-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -99,12 +99,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Devel-Cover-0.68&amp;to=Devel-Cover-0.70&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=digest::jhash&amp;mode=all">Digest-JHash</uri></ti>
-    <ti align="right">0.06</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Digest-JHash-0.07/">0.07</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Digest-JHash-0.06&amp;to=Digest-JHash-0.07&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::git&amp;mode=all">Dist-Zilla-Plugin-Git</uri></ti>
     <ti align="right">1.102380</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.102430/">1.102430</uri></ti>
@@ -153,39 +147,21 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-1.01&amp;to=MojoMojo-1.02&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::declare&amp;mode=all">MooseX-Declare</uri></ti>
-    <ti align="right">0.33</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Declare-0.34/">0.34</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Declare-0.33&amp;to=MooseX-Declare-0.34&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::method::signatures&amp;mode=all">MooseX-Method-Signatures</uri></ti>
-    <ti align="right">0.35</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Method-Signatures-0.36/">0.36</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Method-Signatures-0.35&amp;to=MooseX-Method-Signatures-0.36&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::autoformat&amp;mode=all">Padre-Plugin-Autoformat</uri></ti>
     <ti align="right">1.12</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Autoformat-1.20/">1.20</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Autoformat-1.12&amp;to=Padre-Plugin-Autoformat-1.20&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perl::prereqscanner&amp;mode=all">Perl-PrereqScanner</uri></ti>
-    <ti align="right">0.101890</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Perl-PrereqScanner-0.101891/">0.101891</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Perl-PrereqScanner-0.101890&amp;to=Perl-PrereqScanner-0.101891&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::patch&amp;mode=all">Text-Patch</uri></ti>
-    <ti align="right">1.4</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Text-Patch-1.5/">1.5</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Text-Patch-1.4&amp;to=Text-Patch-1.5&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
+    <ti align="right">0.9946</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9948/">0.9948</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9946&amp;to=Plack-0.9948&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 608
+Total packages suspected as outdated: 18 of 608
 </p>
 
 </body>

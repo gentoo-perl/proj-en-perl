@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2339 2010/09/12 01:52:27 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2340 2010/09/12 09:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -65,16 +65,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.216</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::types&amp;mode=all">MooseX-Types</uri></ti>
-    <ti align="right">0.23</ti>
-    <ti align="right">0.24</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
-    <ti align="right">0.67</ti>
-    <ti align="right">0.68</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe::hole&amp;mode=all">Safe-Hole</uri></ti>
     <ti align="right">0.10</ti>
     <ti align="right">0.13</ti>
@@ -90,6 +80,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::aligner&amp;mode=all">Text-Aligner</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right">0.07</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::mechanize&amp;mode=all">WWW-Mechanize</uri></ti>
     <ti align="right">1.64</ti>
     <ti align="right">1.66</ti>
@@ -97,7 +92,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 9 of 1046
+Total packages suspected as outdated: 8 of 1046
 </p>
 
 </body>

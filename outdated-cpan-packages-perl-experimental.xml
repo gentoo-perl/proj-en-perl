@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.291 2010/09/12 06:43:50 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.292 2010/09/13 08:30:31 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-12</date>
+<date>2010-09-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,18 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=app::cpanminus&amp;mode=all">App-cpanminus</uri></ti>
+    <ti align="right">1.0012</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.0013/">1.0013</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.0012&amp;to=App-cpanminus-1.0013&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=b::hooks::op::check::entersubforcv&amp;mode=all">B-Hooks-OP-Check-EntersubForCV</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/B-Hooks-OP-Check-EntersubForCV-0.06/">0.06</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=B-Hooks-OP-Check-EntersubForCV-0.05&amp;to=B-Hooks-OP-Check-EntersubForCV-0.06&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
     <ti align="right">0.85</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.86/">0.86</uri></ti>
@@ -159,6 +171,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-0.48&amp;to=KiokuDB-0.49&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::install::readmefrompod&amp;mode=all">Module-Install-ReadmeFromPod</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Module-Install-ReadmeFromPod-0.12/">0.12</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Module-Install-ReadmeFromPod-0.10&amp;to=Module-Install-ReadmeFromPod-0.12&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mojomojo&amp;mode=all">MojoMojo</uri></ti>
     <ti align="right">1.01</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MojoMojo-1.02/">1.02</uri></ti>
@@ -185,8 +203,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::sharedfork&amp;mode=all">Test-SharedFork</uri></ti>
     <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Test-SharedFork-0.14/">0.14</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Test-SharedFork-0.12&amp;to=Test-SharedFork-0.14&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Test-SharedFork-0.15/">0.15</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Test-SharedFork-0.12&amp;to=Test-SharedFork-0.15&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::tcp&amp;mode=all">Test-TCP</uri></ti>
@@ -197,7 +215,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 608
+Total packages suspected as outdated: 27 of 609
 </p>
 
 </body>

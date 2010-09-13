@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2341 2010/09/13 09:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2342 2010/09/13 17:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,6 +55,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::mop&amp;mode=all">Class-MOP</uri></ti>
+    <ti align="right">1.07</ti>
+    <ti align="right">1.08</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::amf&amp;mode=all">Data-AMF</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right">0.09</ti>
@@ -65,9 +70,19 @@ will curb some of the bugs to boot).
     <ti align="right">1.216</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri> (virtual/perl-Math-BigInt)</ti>
+    <ti align="right">1.92</ti>
+    <ti align="right">1.93</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.68</ti>
     <ti align="right">0.69</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=safe&amp;mode=all">Safe</uri> (virtual/perl-Safe)</ti>
+    <ti align="right">2.27</ti>
+    <ti align="right">2.28</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe::hole&amp;mode=all">Safe-Hole</uri></ti>
@@ -87,7 +102,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 7 of 1046
+Total packages suspected as outdated: 10 of 1046
 </p>
 
 </body>

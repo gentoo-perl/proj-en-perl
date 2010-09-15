@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2346 2010/09/15 01:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2347 2010/09/15 09:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,6 +50,16 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=apache::test&amp;mode=all">Apache-Test</uri></ti>
+    <ti align="right">1.32</ti>
+    <ti align="right">1.33</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=bignum&amp;mode=all">bignum</uri></ti>
+    <ti align="right">0.24</ti>
+    <ti align="right">0.25</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=bio::graphics&amp;mode=all">Bio-Graphics</uri></ti>
     <ti align="right">2.12</ti>
     <ti align="right">2.13</ti>
@@ -57,7 +67,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=boolean&amp;mode=all">boolean</uri></ti>
     <ti align="right">0.20</ti>
-    <ti align="right">0.21</ti>
+    <ti align="right">0.22</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
@@ -80,24 +90,19 @@ will curb some of the bugs to boot).
     <ti align="right">1.217</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbd::sqlite&amp;mode=all">DBD-SQLite</uri></ti>
+    <ti align="right">1.29</ti>
+    <ti align="right">1.31</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::homedir&amp;mode=all">File-HomeDir</uri></ti>
+    <ti align="right">0.91</ti>
+    <ti align="right">0.93</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=format::human::bytes&amp;mode=all">Format-Human-Bytes</uri></ti>
     <ti align="right">0.05</ti>
     <ti align="right">0.06</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri> (virtual/perl-Math-BigInt)</ti>
-    <ti align="right">1.92</ti>
-    <ti align="right">1.95</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::bigint::fastcalc&amp;mode=all">Math-BigInt-FastCalc</uri> (virtual/perl-Math-BigInt-FastCalc)</ti>
-    <ti align="right">0.21</ti>
-    <ti align="right">0.22</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::bigrat&amp;mode=all">Math-BigRat</uri></ti>
-    <ti align="right">0.24</ti>
-    <ti align="right">0.25</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moose&amp;mode=all">Moose</uri></ti>
@@ -132,7 +137,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 1047
+Total packages suspected as outdated: 17 of 1047
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2359 2010/09/19 17:52:27 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2360 2010/09/20 01:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-19</date>
+<date>2010-09-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -100,6 +100,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.086</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
+    <ti align="right">2.38</ti>
+    <ti align="right">2.39</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.68</ti>
     <ti align="right">0.70</ti>
@@ -132,7 +137,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 1047
+Total packages suspected as outdated: 17 of 1047
 </p>
 
 </body>

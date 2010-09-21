@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2362 2010/09/20 17:52:27 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2363 2010/09/21 01:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-20</date>
+<date>2010-09-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -105,9 +105,24 @@ will curb some of the bugs to boot).
     <ti align="right">4.0</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=libwww::perl&amp;mode=all">libwww-perl</uri></ti>
+    <ti align="right">5.836</ti>
+    <ti align="right">5.837</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=math::bigint::gmp&amp;mode=all">Math-BigInt-GMP</uri></ti>
+    <ti align="right">1.28</ti>
+    <ti align="right">1.30</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.38</ti>
     <ti align="right">2.39</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::types::datetimex&amp;mode=all">MooseX-Types-DateTimeX</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right">0.07</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
@@ -139,10 +154,15 @@ will curb some of the bugs to boot).
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::encoding&amp;mode=all">XML-Encoding</uri></ti>
+    <ti align="right">2.07</ti>
+    <ti align="right">2.08</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 1047
+Total packages suspected as outdated: 22 of 1047
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.296 2010/09/20 07:06:34 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.297 2010/09/21 07:40:07 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-20</date>
+<date>2010-09-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -147,22 +147,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.102380&amp;to=Dist-Zilla-Plugin-Git-1.102430&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::readmefrompod&amp;mode=all">Dist-Zilla-Plugin-ReadmeFromPod</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-ReadmeFromPod-0.14/">0.14</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-ReadmeFromPod-0.12&amp;to=Dist-Zilla-Plugin-ReadmeFromPod-0.14&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::repository&amp;mode=all">Dist-Zilla-Plugin-Repository</uri></ti>
     <ti align="right">0.13</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Repository-0.14/">0.14</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Repository-0.13&amp;to=Dist-Zilla-Plugin-Repository-0.14&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
-    <ti align="right">1.000</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-RJBS-1.001/">1.001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-1.000&amp;to=Dist-Zilla-PluginBundle-RJBS-1.001&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::sharedir::par&amp;mode=all">File-ShareDir-PAR</uri></ti>
@@ -187,6 +175,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.9502</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/HTML-Template-Pro-0.9503/">0.9503</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=HTML-Template-Pro-0.9502&amp;to=HTML-Template-Pro-0.9503&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::treebuilder::libxml&amp;mode=all">HTML-TreeBuilder-LibXML</uri></ti>
+    <ti align="right">0.11</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-TreeBuilder-LibXML-0.12/">0.12</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-TreeBuilder-LibXML-0.11&amp;to=HTML-TreeBuilder-LibXML-0.12&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=http::parser::xs&amp;mode=all">HTTP-Parser-XS</uri></ti>
@@ -225,12 +219,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Perl-Version-1.009&amp;to=Perl-Version-1.010&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
-    <ti align="right">0.9946</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9949/">0.9949</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9946&amp;to=Plack-0.9949&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=search::gin&amp;mode=all">Search-GIN</uri></ti>
     <ti align="right">0.04</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Search-GIN-0.06/">0.06</uri></ti>
@@ -241,12 +229,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.24</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.25/">0.25</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.24&amp;to=Task-Kensho-0.25&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::sharedfork&amp;mode=all">Test-SharedFork</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Test-SharedFork-0.15/">0.15</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Test-SharedFork-0.12&amp;to=Test-SharedFork-0.15&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::tcp&amp;mode=all">Test-TCP</uri></ti>
@@ -263,7 +245,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 35 of 608
+Total packages suspected as outdated: 32 of 609
 </p>
 
 </body>

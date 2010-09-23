@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.298 2010/09/22 05:46:27 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.299 2010/09/23 06:07:24 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-22</date>
+<date>2010-09-23</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,6 +57,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.0012&amp;to=App-cpanminus-1.0014&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=autobox&amp;mode=all">autobox</uri></ti>
+    <ti align="right">2.70</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/autobox-2.71/">2.71</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=autobox-2.70&amp;to=autobox-2.71&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::hooks::op::check::entersubforcv&amp;mode=all">B-Hooks-OP-Check-EntersubForCV</uri></ti>
     <ti align="right">0.05</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/B-Hooks-OP-Check-EntersubForCV-0.06/">0.06</uri></ti>
@@ -73,6 +79,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.1300</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-DBIx-Class-0.1400/">0.1400</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-DBIx-Class-0.1300&amp;to=Catalyst-Authentication-Store-DBIx-Class-0.1400&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::controller::html::formfu&amp;mode=all">Catalyst-Controller-HTML-FormFu</uri></ti>
+    <ti align="right">0.06001</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Controller-HTML-FormFu-0.08002/">0.08002</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Controller-HTML-FormFu-0.06001&amp;to=Catalyst-Controller-HTML-FormFu-0.08002&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::cache::memcached&amp;mode=all">Catalyst-Plugin-Cache-Memcached</uri></ti>
@@ -167,8 +179,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::formfu&amp;mode=all">HTML-FormFu</uri></ti>
     <ti align="right">0.07002</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormFu-0.07003/">0.07003</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormFu-0.07002&amp;to=HTML-FormFu-0.07003&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormFu-0.08002/">0.08002</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormFu-0.07002&amp;to=HTML-FormFu-0.08002&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::formfu::model::dbic&amp;mode=all">HTML-FormFu-Model-DBIC</uri></ti>
+    <ti align="right">0.06000</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormFu-Model-DBIC-0.08002/">0.08002</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormFu-Model-DBIC-0.06000&amp;to=HTML-FormFu-Model-DBIC-0.08002&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
@@ -245,7 +263,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 32 of 609
+Total packages suspected as outdated: 35 of 609
 </p>
 
 </body>

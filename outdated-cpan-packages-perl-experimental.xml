@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.299 2010/09/23 06:07:24 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.300 2010/09/24 05:39:11 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-23</date>
+<date>2010-09-24</date>
 
 <chapter>
 <title>Intro</title>
@@ -69,6 +69,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=B-Hooks-OP-Check-EntersubForCV-0.05&amp;to=B-Hooks-OP-Check-EntersubForCV-0.06&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cache::ref&amp;mode=all">Cache-Ref</uri></ti>
+    <ti align="right">0.02</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Cache-Ref-0.04/">0.04</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Cache-Ref-0.02&amp;to=Cache-Ref-0.04&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
     <ti align="right">0.85</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.86/">0.86</uri></ti>
@@ -91,6 +97,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.71</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Cache-Memcached-0.8/">0.8</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Cache-Memcached-0.71&amp;to=Catalyst-Plugin-Cache-Memcached-0.8&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::state::uri&amp;mode=all">Catalyst-Plugin-Session-State-URI</uri></ti>
+    <ti align="right">0.14</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Session-State-URI-0.15/">0.15</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Session-State-URI-0.14&amp;to=Catalyst-Plugin-Session-State-URI-0.15&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::runtime&amp;mode=all">Catalyst-Runtime</uri></ti>
@@ -133,6 +145,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.07001</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Schema-Loader-0.07002/">0.07002</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Schema-Loader-0.07001&amp;to=DBIx-Class-Schema-Loader-0.07002&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::class::tree&amp;mode=all">DBIx-Class-Tree</uri></ti>
+    <ti align="right">0.03001</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Tree-0.03002/">0.03002</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Tree-0.03001&amp;to=DBIx-Class-Tree-0.03002&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::cover&amp;mode=all">Devel-Cover</uri></ti>
@@ -260,10 +278,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Tree-Trie-1.7/">1.7</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Tree-Trie-1.6&amp;to=Tree-Trie-1.7&amp;w=1">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=yaml::libyaml&amp;mode=all">YAML-LibYAML</uri></ti>
+    <ti align="right">0.33</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/YAML-LibYAML-0.34/">0.34</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=YAML-LibYAML-0.33&amp;to=YAML-LibYAML-0.34&amp;w=1">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 35 of 609
+Total packages suspected as outdated: 39 of 609
 </p>
 
 </body>

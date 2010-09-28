@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2380 2010/09/27 17:52:27 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2381 2010/09/28 01:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-27</date>
+<date>2010-09-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -80,9 +80,24 @@ will curb some of the bugs to boot).
     <ti align="right">1.217</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datemanip&amp;mode=all">DateManip</uri></ti>
+    <ti align="right">6.11</ti>
+    <ti align="right">6.12</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
     <ti align="right">0.61</ti>
     <ti align="right">0.63</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
+    <ti align="right">1.21</ti>
+    <ti align="right">1.22</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=devel::repl&amp;mode=all">Devel-REPL</uri></ti>
+    <ti align="right">1.003011</ti>
+    <ti align="right">1.003012</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=http::browserdetect&amp;mode=all">HTTP-BrowserDetect</uri></ti>
@@ -108,6 +123,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.70</ti>
     <ti align="right">0.75</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=netaddr::ip&amp;mode=all">NetAddr-IP</uri></ti>
+    <ti align="right">4.030</ti>
+    <ti align="right">4.032</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=parallel::forkmanager&amp;mode=all">Parallel-ForkManager</uri></ti>
+    <ti align="right">0.76</ti>
+    <ti align="right">0.77</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ppix::editortools&amp;mode=all">PPIx-EditorTools</uri></ti>
@@ -144,10 +169,15 @@ will curb some of the bugs to boot).
     <ti align="right">0.05</ti>
     <ti align="right">0.06</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=threads&amp;mode=all">threads</uri> (virtual/perl-threads)</ti>
+    <ti align="right">1.79</ti>
+    <ti align="right">1.81</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 1048
+Total packages suspected as outdated: 25 of 1048
 </p>
 
 </body>

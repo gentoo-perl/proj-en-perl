@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.304 2010/09/29 05:36:44 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.305 2010/09/30 08:46:22 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-29</date>
+<date>2010-09-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -61,6 +61,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.0012</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.0015/">1.0015</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.0012&amp;to=App-cpanminus-1.0015&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
+    <ti align="right">0.42</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Archive-Extract-0.44/">0.44</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Archive-Extract-0.42&amp;to=Archive-Extract-0.44&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=b::hooks::op::check::entersubforcv&amp;mode=all">B-Hooks-OP-Check-EntersubForCV</uri></ti>
@@ -131,8 +137,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::reporter&amp;mode=all">CPAN-Reporter</uri></ti>
     <ti align="right">1.1800</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.1801/">1.1801</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Reporter-1.1800&amp;to=CPAN-Reporter-1.1801&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.1802/">1.1802</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Reporter-1.1800&amp;to=CPAN-Reporter-1.1802&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=css::tiny&amp;mode=all">CSS-Tiny</uri></ti>
@@ -191,14 +197,20 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
     <ti align="right">0.9502</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-Template-Pro-0.9503/">0.9503</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-Template-Pro-0.9502&amp;to=HTML-Template-Pro-0.9503&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-Template-Pro-0.9504/">0.9504</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-Template-Pro-0.9502&amp;to=HTML-Template-Pro-0.9504&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::treebuilder::libxml&amp;mode=all">HTML-TreeBuilder-LibXML</uri></ti>
     <ti align="right">0.11</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/HTML-TreeBuilder-LibXML-0.12/">0.12</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=HTML-TreeBuilder-LibXML-0.11&amp;to=HTML-TreeBuilder-LibXML-0.12&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::treebuilder::xpath&amp;mode=all">HTML-TreeBuilder-XPath</uri></ti>
+    <ti align="right">0.11</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-TreeBuilder-XPath-0.12/">0.12</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-TreeBuilder-XPath-0.11&amp;to=HTML-TreeBuilder-XPath-0.12&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=http::parser::xs&amp;mode=all">HTTP-Parser-XS</uri></ti>
@@ -245,8 +257,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=search::gin&amp;mode=all">Search-GIN</uri></ti>
     <ti align="right">0.04</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Search-GIN-0.06/">0.06</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Search-GIN-0.04&amp;to=Search-GIN-0.06&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Search-GIN-0.07/">0.07</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Search-GIN-0.04&amp;to=Search-GIN-0.07&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
@@ -269,7 +281,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 36 of 608
+Total packages suspected as outdated: 38 of 608
 </p>
 
 </body>

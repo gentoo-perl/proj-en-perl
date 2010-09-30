@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2386 2010/09/29 17:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2387 2010/09/30 01:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-29</date>
+<date>2010-09-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -105,6 +105,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.77</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=netaddr::ip&amp;mode=all">NetAddr-IP</uri></ti>
+    <ti align="right">4.032</ti>
+    <ti align="right">4.033</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=parallel::forkmanager&amp;mode=all">Parallel-ForkManager</uri></ti>
     <ti align="right">0.76</ti>
     <ti align="right">0.77</ti>
@@ -137,7 +142,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 1048
+Total packages suspected as outdated: 18 of 1048
 </p>
 
 </body>

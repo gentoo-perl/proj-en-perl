@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.305 2010/09/30 08:46:22 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.306 2010/10/01 06:08:22 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-30</date>
+<date>2010-10-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -137,8 +137,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::reporter&amp;mode=all">CPAN-Reporter</uri></ti>
     <ti align="right">1.1800</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.1802/">1.1802</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Reporter-1.1800&amp;to=CPAN-Reporter-1.1802&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.1803/">1.1803</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Reporter-1.1800&amp;to=CPAN-Reporter-1.1803&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=css::tiny&amp;mode=all">CSS-Tiny</uri></ti>
@@ -163,12 +163,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.68</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Devel-Cover-0.72/">0.72</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Devel-Cover-0.68&amp;to=Devel-Cover-0.72&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
-    <ti align="right">4.102340</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.102341/">4.102341</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.102340&amp;to=Dist-Zilla-4.102341&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::git&amp;mode=all">Dist-Zilla-Plugin-Git</uri></ti>
@@ -255,10 +249,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Perl-Version-1.009&amp;to=Perl-Version-1.010&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
+    <ti align="right">0.9949</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9950/">0.9950</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9949&amp;to=Plack-0.9950&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=search::gin&amp;mode=all">Search-GIN</uri></ti>
     <ti align="right">0.04</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Search-GIN-0.07/">0.07</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Search-GIN-0.04&amp;to=Search-GIN-0.07&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=starman&amp;mode=all">Starman</uri></ti>
+    <ti align="right">0.2006</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Starman-0.2007/">0.2007</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Starman-0.2006&amp;to=Starman-0.2007&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
@@ -273,6 +279,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Test-TCP-1.04&amp;to=Test-TCP-1.06&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::patch&amp;mode=all">Text-Patch</uri></ti>
+    <ti align="right">1.5</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Text-Patch-1.6/">1.6</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Text-Patch-1.5&amp;to=Text-Patch-1.6&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=tree::trie&amp;mode=all">Tree-Trie</uri></ti>
     <ti align="right">1.6</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Tree-Trie-1.7/">1.7</uri></ti>
@@ -281,7 +293,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 38 of 608
+Total packages suspected as outdated: 40 of 608
 </p>
 
 </body>

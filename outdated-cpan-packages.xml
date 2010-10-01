@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2389 2010/09/30 17:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2390 2010/10/01 01:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-09-30</date>
+<date>2010-10-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,29 +50,14 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=apache::session&amp;mode=all">Apache-Session</uri></ti>
-    <ti align="right">1.88</ti>
-    <ti align="right">1.89</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.19</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::amf&amp;mode=all">Data-AMF</uri></ti>
-    <ti align="right">0.08</ti>
-    <ti align="right">0.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::uuid&amp;mode=all">Data-UUID</uri></ti>
-    <ti align="right">1.215</ti>
-    <ti align="right">1.217</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
-    <ti align="right">1.30</ti>
-    <ti align="right">1.31</ti>
+    <ti><uri link="http://search.cpan.org/search?query=digest::md5&amp;mode=all">Digest-MD5</uri> (virtual/perl-Digest-MD5)</ti>
+    <ti align="right">2.50</ti>
+    <ti align="right">2.51</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
@@ -86,7 +71,7 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=marc::charset&amp;mode=all">MARC-Charset</uri></ti>
-    <ti align="right">1.2</ti>
+    <ti align="right">1.3</ti>
     <ti align="right">1.31</ti>
   </tr>
   <tr>
@@ -108,11 +93,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
     <ti align="right">0.70</ti>
     <ti align="right">0.77</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=netaddr::ip&amp;mode=all">NetAddr-IP</uri></ti>
-    <ti align="right">4.032</ti>
-    <ti align="right">4.033</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=parallel::forkmanager&amp;mode=all">Parallel-ForkManager</uri></ti>
@@ -139,15 +119,10 @@ will curb some of the bugs to boot).
     <ti align="right">0.106</ti>
     <ti align="right">0.107</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::csv_xs&amp;mode=all">Text-CSV_XS</uri></ti>
-    <ti align="right">0.73</ti>
-    <ti align="right">0.74</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 1048
+Total packages suspected as outdated: 14 of 1048
 </p>
 
 </body>

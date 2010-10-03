@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.307 2010/10/02 06:46:43 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.308 2010/10/03 06:43:33 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-02</date>
+<date>2010-10-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -103,6 +103,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.06001</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Controller-HTML-FormFu-0.08002/">0.08002</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Controller-HTML-FormFu-0.06001&amp;to=Catalyst-Controller-HTML-FormFu-0.08002&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::engine::apache&amp;mode=all">Catalyst-Engine-Apache</uri></ti>
+    <ti align="right">1.12</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Engine-Apache-1.14/">1.14</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Engine-Apache-1.12&amp;to=Catalyst-Engine-Apache-1.14&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::state::uri&amp;mode=all">Catalyst-Plugin-Session-State-URI</uri></ti>
@@ -189,6 +195,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Git-Wrapper-0.011&amp;to=Git-Wrapper-0.013&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=html::formhandler&amp;mode=all">HTML-FormHandler</uri></ti>
+    <ti align="right">0.32002</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormHandler-0.32003/">0.32003</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormHandler-0.32002&amp;to=HTML-FormHandler-0.32003&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
     <ti align="right">0.9502</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/HTML-Template-Pro-0.9504/">0.9504</uri></ti>
@@ -235,6 +247,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.104</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-InsideOut-0.105/">0.105</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-InsideOut-0.104&amp;to=MooseX-InsideOut-0.105&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
+    <ti align="right">0.27</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Storage-0.27&amp;to=MooseX-Storage-0.28&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::autoformat&amp;mode=all">Padre-Plugin-Autoformat</uri></ti>
@@ -299,7 +317,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 41 of 608
+Total packages suspected as outdated: 44 of 608
 </p>
 
 </body>

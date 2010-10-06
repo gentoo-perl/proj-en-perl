@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.310 2010/10/05 05:42:47 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.311 2010/10/06 06:19:47 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-05</date>
+<date>2010-10-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -99,10 +99,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-DBIx-Class-0.1300&amp;to=Catalyst-Authentication-Store-DBIx-Class-0.1400&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::controller::html::formfu&amp;mode=all">Catalyst-Controller-HTML-FormFu</uri></ti>
-    <ti align="right">0.06001</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Controller-HTML-FormFu-0.08002/">0.08002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Controller-HTML-FormFu-0.06001&amp;to=Catalyst-Controller-HTML-FormFu-0.08002&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::ldap&amp;mode=all">Catalyst-Authentication-Store-LDAP</uri></ti>
+    <ti align="right">1.011</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-LDAP-1.012/">1.012</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-LDAP-1.011&amp;to=Catalyst-Authentication-Store-LDAP-1.012&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::engine::apache&amp;mode=all">Catalyst-Engine-Apache</uri></ti>
@@ -117,12 +117,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Session-State-URI-0.14&amp;to=Catalyst-Plugin-Session-State-URI-0.15&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::runtime&amp;mode=all">Catalyst-Runtime</uri></ti>
-    <ti align="right">5.80025</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Runtime-5.80029/">5.80029</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Runtime-5.80025&amp;to=Catalyst-Runtime-5.80029&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::view::json&amp;mode=all">Catalyst-View-JSON</uri></ti>
     <ti align="right">0.30</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-JSON-0.31/">0.31</uri></ti>
@@ -131,8 +125,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalystx::declare&amp;mode=all">CatalystX-Declare</uri></ti>
     <ti align="right">0.013</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CatalystX-Declare-0.014/">0.014</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CatalystX-Declare-0.013&amp;to=CatalystX-Declare-0.014&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CatalystX-Declare-0.015/">0.015</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CatalystX-Declare-0.013&amp;to=CatalystX-Declare-0.015&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::mix&amp;mode=all">Class-Mix</uri></ti>
@@ -187,6 +181,18 @@ will curb some of the bugs to boot).
     <ti align="right">0.16</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/File-ChangeNotify-0.17/">0.17</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=File-ChangeNotify-0.16&amp;to=File-ChangeNotify-0.17&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::find::rule::perl&amp;mode=all">File-Find-Rule-Perl</uri></ti>
+    <ti align="right">1.09</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/File-Find-Rule-Perl-1.10/">1.10</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=File-Find-Rule-Perl-1.09&amp;to=File-Find-Rule-Perl-1.10&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::find::rule::vcs&amp;mode=all">File-Find-Rule-VCS</uri></ti>
+    <ti align="right">1.07</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/File-Find-Rule-VCS-1.08/">1.08</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=File-Find-Rule-VCS-1.07&amp;to=File-Find-Rule-VCS-1.08&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::sharedir::par&amp;mode=all">File-ShareDir-PAR</uri></ti>
@@ -261,6 +267,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-InsideOut-0.104&amp;to=MooseX-InsideOut-0.105&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::nonmoose&amp;mode=all">MooseX-NonMoose</uri></ti>
+    <ti align="right">0.15</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-NonMoose-0.16/">0.16</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-NonMoose-0.15&amp;to=MooseX-NonMoose-0.16&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.28/">0.28</uri></ti>
@@ -329,7 +341,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 46 of 608
+Total packages suspected as outdated: 48 of 608
 </p>
 
 </body>

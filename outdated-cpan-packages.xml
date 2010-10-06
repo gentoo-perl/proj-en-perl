@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2398 2010/10/05 17:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2399 2010/10/06 01:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-05</date>
+<date>2010-10-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,6 +55,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::mop&amp;mode=all">Class-MOP</uri></ti>
+    <ti align="right">1.08</ti>
+    <ti align="right">1.09</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
     <ti align="right">1.56</ti>
     <ti align="right">1.57</ti>
@@ -67,7 +72,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::builder&amp;mode=all">Mail-Builder</uri></ti>
     <ti align="right">1.16</ti>
-    <ti align="right">2.02</ti>
+    <ti align="right">2.03</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=marc::charset&amp;mode=all">MARC-Charset</uri></ti>
@@ -88,6 +93,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::utils&amp;mode=all">MogileFS-Utils</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">2.18</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moose&amp;mode=all">Moose</uri></ti>
+    <ti align="right">1.14</ti>
+    <ti align="right">1.15</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::classattribute&amp;mode=all">MooseX-ClassAttribute</uri></ti>
+    <ti align="right">0.16</ti>
+    <ti align="right">0.18</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
@@ -117,7 +132,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 13 of 1048
+Total packages suspected as outdated: 16 of 1048
 </p>
 
 </body>

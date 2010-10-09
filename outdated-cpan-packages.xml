@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2407 2010/10/09 09:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2408 2010/10/09 17:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -53,6 +53,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.19</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::accessor::grouped&amp;mode=all">Class-Accessor-Grouped</uri></ti>
+    <ti align="right">0.09006</ti>
+    <ti align="right">0.09007</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
@@ -127,7 +132,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 15 of 1048
+Total packages suspected as outdated: 16 of 1048
 </p>
 
 </body>

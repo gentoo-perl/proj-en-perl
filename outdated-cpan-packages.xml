@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2411 2010/10/11 01:52:27 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2412 2010/10/11 09:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -55,9 +55,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::accessor::grouped&amp;mode=all">Class-Accessor-Grouped</uri></ti>
-    <ti align="right">0.09006</ti>
-    <ti align="right">0.09007</ti>
+    <ti><uri link="http://search.cpan.org/search?query=clipboard&amp;mode=all">Clipboard</uri></ti>
+    <ti align="right">0.11</ti>
+    <ti align="right">0.12</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
@@ -100,9 +100,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.77</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=ppix::regexp&amp;mode=all">PPIx-Regexp</uri></ti>
-    <ti align="right">0.012</ti>
-    <ti align="right">0.013</ti>
+    <ti><uri link="http://search.cpan.org/search?query=podlators&amp;mode=all">podlators</uri> (virtual/perl-podlators)</ti>
+    <ti align="right">2.31</ti>
+    <ti align="right">2.40</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe::hole&amp;mode=all">Safe-Hole</uri></ti>
@@ -120,16 +120,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::exception&amp;mode=all">Test-Exception</uri></ti>
-    <ti align="right">0.29</ti>
-    <ti align="right">0.31</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=threads::shared&amp;mode=all">threads-shared</uri> (virtual/perl-threads-shared)</ti>
-    <ti align="right">1.33</ti>
-    <ti align="right">1.34</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=uri&amp;mode=all">URI</uri></ti>
     <ti align="right">1.55</ti>
     <ti align="right">1.56</ti>
@@ -142,7 +132,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 1048
+Total packages suspected as outdated: 16 of 1048
 </p>
 
 </body>

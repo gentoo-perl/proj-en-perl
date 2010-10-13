@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.315 2010/10/12 06:00:56 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.316 2010/10/13 06:17:21 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-12</date>
+<date>2010-10-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -143,8 +143,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalystx::simplelogin&amp;mode=all">CatalystX-SimpleLogin</uri></ti>
     <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CatalystX-SimpleLogin-0.13/">0.13</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CatalystX-SimpleLogin-0.12&amp;to=CatalystX-SimpleLogin-0.13&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CatalystX-SimpleLogin-0.14/">0.14</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CatalystX-SimpleLogin-0.12&amp;to=CatalystX-SimpleLogin-0.14&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::mix&amp;mode=all">Class-Mix</uri></ti>
@@ -323,8 +323,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perltidy&amp;mode=all">Padre-Plugin-PerlTidy</uri></ti>
     <ti align="right">0.10</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlTidy-0.11/">0.11</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlTidy-0.10&amp;to=Padre-Plugin-PerlTidy-0.11&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlTidy-0.12/">0.12</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlTidy-0.10&amp;to=Padre-Plugin-PerlTidy-0.12&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perl::version&amp;mode=all">Perl-Version</uri></ti>

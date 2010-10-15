@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.317 2010/10/14 06:04:42 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.318 2010/10/15 05:52:46 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-14</date>
+<date>2010-10-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,8 +53,8 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=alien::sdl&amp;mode=all">Alien-SDL</uri></ti>
     <ti align="right">1.413</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Alien-SDL-1.417/">1.417</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.413&amp;to=Alien-SDL-1.417&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Alien-SDL-1.418/">1.418</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.413&amp;to=Alien-SDL-1.418&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=app::cpanminus&amp;mode=all">App-cpanminus</uri></ti>
@@ -153,6 +153,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Class-Mix-0.003&amp;to=Class-Mix-0.004&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::mvp::reader::ini&amp;mode=all">Config-MVP-Reader-INI</uri></ti>
+    <ti align="right">2.101460</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Config-MVP-Reader-INI-2.101461/">2.101461</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Config-MVP-Reader-INI-2.101460&amp;to=Config-MVP-Reader-INI-2.101461&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::reporter&amp;mode=all">CPAN-Reporter</uri></ti>
     <ti align="right">1.1800</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.1803/">1.1803</uri></ti>
@@ -183,6 +189,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Devel-Cover-0.68&amp;to=Devel-Cover-0.73&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
+    <ti align="right">4.102341</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.102342/">4.102342</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.102341&amp;to=Dist-Zilla-4.102342&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::bumpversionfromgit&amp;mode=all">Dist-Zilla-Plugin-BumpVersionFromGit</uri></ti>
     <ti align="right">0.007</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-BumpVersionFromGit-0.008/">0.008</uri></ti>
@@ -195,10 +207,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.102380&amp;to=Dist-Zilla-Plugin-Git-1.102810&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podweaver&amp;mode=all">Dist-Zilla-Plugin-PodWeaver</uri></ti>
+    <ti align="right">3.101640</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-PodWeaver-3.101641/">3.101641</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-PodWeaver-3.101640&amp;to=Dist-Zilla-Plugin-PodWeaver-3.101641&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::repository&amp;mode=all">Dist-Zilla-Plugin-Repository</uri></ti>
     <ti align="right">0.13</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Repository-0.14/">0.14</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Repository-0.13&amp;to=Dist-Zilla-Plugin-Repository-0.14&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
+    <ti align="right">1.001</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-RJBS-1.002/">1.002</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-1.001&amp;to=Dist-Zilla-PluginBundle-RJBS-1.002&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::changenotify&amp;mode=all">File-ChangeNotify</uri></ti>
@@ -339,6 +363,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9949&amp;to=Plack-0.9950&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
+    <ti align="right">3.101630</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Weaver-3.101631/">3.101631</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Pod-Weaver-3.101630&amp;to=Pod-Weaver-3.101631&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=search::gin&amp;mode=all">Search-GIN</uri></ti>
     <ti align="right">0.04</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Search-GIN-0.07/">0.07</uri></ti>
@@ -389,7 +419,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 56 of 609
+Total packages suspected as outdated: 61 of 609
 </p>
 
 </body>

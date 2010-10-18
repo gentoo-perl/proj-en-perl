@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2426 2010/10/17 17:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2427 2010/10/18 01:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-17</date>
+<date>2010-10-18</date>
 
 <chapter>
 <title>Intro</title>
@@ -115,9 +115,14 @@ will curb some of the bugs to boot).
     <ti align="right">1.28</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=netpacket&amp;mode=all">NetPacket</uri></ti>
+    <ti align="right">0.432</ti>
+    <ti align="right">1.00</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=package::deprecationmanager&amp;mode=all">Package-DeprecationManager</uri></ti>
     <ti align="right">0.04</ti>
-    <ti align="right">0.08</ti>
+    <ti align="right">0.09</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=parallel::forkmanager&amp;mode=all">Parallel-ForkManager</uri></ti>
@@ -149,10 +154,15 @@ will curb some of the bugs to boot).
     <ti align="right">0.107</ti>
     <ti align="right">0.108</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri> (virtual/perl-version)</ti>
+    <ti align="right">0.82</ti>
+    <ti align="right">0.83</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 1048
+Total packages suspected as outdated: 22 of 1048
 </p>
 
 </body>

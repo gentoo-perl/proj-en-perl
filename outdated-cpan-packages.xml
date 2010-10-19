@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2429 2010/10/19 01:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2430 2010/10/19 17:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -80,6 +80,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.18</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::migration&amp;mode=all">DBIx-Migration</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right">0.06</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
     <ti align="right">1.56</ti>
     <ti align="right">1.57</ti>
@@ -88,6 +93,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
     <ti align="right">0.36</ti>
     <ti align="right">0.37</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=ipc::cmd&amp;mode=all">IPC-Cmd</uri> (virtual/perl-IPC-Cmd)</ti>
+    <ti align="right">0.60</ti>
+    <ti align="right">0.62</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::builder&amp;mode=all">Mail-Builder</uri></ti>
@@ -152,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 1048
+Total packages suspected as outdated: 22 of 1048
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2428 2010/10/18 09:52:27 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2429 2010/10/19 01:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-18</date>
+<date>2010-10-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -52,7 +52,12 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=app::cli&amp;mode=all">App-CLI</uri></ti>
     <ti align="right">0.08</ti>
-    <ti align="right">0.09</ti>
+    <ti align="right">0.10</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=bio::graphics&amp;mode=all">Bio-Graphics</uri></ti>
+    <ti align="right">2.13</ti>
+    <ti align="right">2.14</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
@@ -60,9 +65,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::mop&amp;mode=all">Class-MOP</uri></ti>
+    <ti align="right">1.09</ti>
+    <ti align="right">1.10</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=clipboard&amp;mode=all">Clipboard</uri></ti>
     <ti align="right">0.11</ti>
     <ti align="right">0.13</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::dump&amp;mode=all">Data-Dump</uri></ti>
+    <ti align="right">1.17</ti>
+    <ti align="right">1.18</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
@@ -93,6 +108,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::utils&amp;mode=all">MogileFS-Utils</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">2.18</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moose&amp;mode=all">Moose</uri></ti>
+    <ti align="right">1.15</ti>
+    <ti align="right">1.16</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::z3950::zoom&amp;mode=all">Net-Z3950-ZOOM</uri></ti>
@@ -132,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 1048
+Total packages suspected as outdated: 20 of 1048
 </p>
 
 </body>

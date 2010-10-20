@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2430 2010/10/19 17:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2431 2010/10/20 01:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-19</date>
+<date>2010-10-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -52,7 +52,7 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=app::cli&amp;mode=all">App-CLI</uri></ti>
     <ti align="right">0.08</ti>
-    <ti align="right">0.10</ti>
+    <ti align="right">0.102</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=bio::graphics&amp;mode=all">Bio-Graphics</uri></ti>
@@ -77,7 +77,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::dump&amp;mode=all">Data-Dump</uri></ti>
     <ti align="right">1.17</ti>
-    <ti align="right">1.18</ti>
+    <ti align="right">1.19</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::migration&amp;mode=all">DBIx-Migration</uri></ti>
@@ -87,7 +87,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
     <ti align="right">1.56</ti>
-    <ti align="right">1.57</ti>
+    <ti align="right">1.58</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
@@ -97,7 +97,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ipc::cmd&amp;mode=all">IPC-Cmd</uri> (virtual/perl-IPC-Cmd)</ti>
     <ti align="right">0.60</ti>
-    <ti align="right">0.62</ti>
+    <ti align="right">0.64</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::builder&amp;mode=all">Mail-Builder</uri></ti>
@@ -122,7 +122,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moose&amp;mode=all">Moose</uri></ti>
     <ti align="right">1.15</ti>
-    <ti align="right">1.16</ti>
+    <ti align="right">1.17</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::twitter&amp;mode=all">Net-Twitter</uri></ti>
+    <ti align="right">3.13009</ti>
+    <ti align="right">3.14000</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::z3950::zoom&amp;mode=all">Net-Z3950-ZOOM</uri></ti>
@@ -162,7 +167,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 1048
+Total packages suspected as outdated: 23 of 1048
 </p>
 
 </body>

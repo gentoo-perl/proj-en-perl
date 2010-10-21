@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.322 2010/10/20 06:27:27 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.323 2010/10/21 06:45:19 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-20</date>
+<date>2010-10-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -61,6 +61,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.0012</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.0015/">1.0015</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.0012&amp;to=App-cpanminus-1.0015&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=app::perlbrew&amp;mode=all">App-perlbrew</uri></ti>
+    <ti align="right">0.10</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/App-perlbrew-0.12/">0.12</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=App-perlbrew-0.10&amp;to=App-perlbrew-0.12&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
@@ -117,6 +123,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Engine-Apache-1.12&amp;to=Catalyst-Engine-Apache-1.16&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::log::dispatch&amp;mode=all">Catalyst-Plugin-Log-Dispatch</uri></ti>
+    <ti align="right">0.11</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Log-Dispatch-0.12/">0.12</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Log-Dispatch-0.11&amp;to=Catalyst-Plugin-Log-Dispatch-0.12&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session&amp;mode=all">Catalyst-Plugin-Session</uri></ti>
     <ti align="right">0.30</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Session-0.31/">0.31</uri></ti>
@@ -133,6 +145,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.30</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-JSON-0.31/">0.31</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-JSON-0.30&amp;to=Catalyst-View-JSON-0.31&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::view::tt&amp;mode=all">Catalyst-View-TT</uri></ti>
+    <ti align="right">0.35</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-TT-0.36/">0.36</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-TT-0.35&amp;to=Catalyst-View-TT-0.36&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalystx::declare&amp;mode=all">CatalystX-Declare</uri></ti>
@@ -153,6 +171,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Class-Mix-0.003&amp;to=Class-Mix-0.004&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=color::calc&amp;mode=all">Color-Calc</uri></ti>
+    <ti align="right">1.061</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Color-Calc-1.070/">1.070</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Color-Calc-1.061&amp;to=Color-Calc-1.070&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::mvp::reader::ini&amp;mode=all">Config-MVP-Reader-INI</uri></ti>
     <ti align="right">2.101460</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Config-MVP-Reader-INI-2.101461/">2.101461</uri></ti>
@@ -169,6 +193,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.17</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CSS-Tiny-1.19/">1.19</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=CSS-Tiny-1.17&amp;to=CSS-Tiny-1.19&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::format::excel&amp;mode=all">DateTime-Format-Excel</uri></ti>
+    <ti align="right">0.3000</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/DateTime-Format-Excel-0.31/">0.31</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=DateTime-Format-Excel-0.3000&amp;to=DateTime-Format-Excel-0.31&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::class::schema::loader&amp;mode=all">DBIx-Class-Schema-Loader</uri></ti>
@@ -269,8 +299,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::formhandler&amp;mode=all">HTML-FormHandler</uri></ti>
     <ti align="right">0.32002</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormHandler-0.32003/">0.32003</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormHandler-0.32002&amp;to=HTML-FormHandler-0.32003&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormHandler-0.32005/">0.32005</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormHandler-0.32002&amp;to=HTML-FormHandler-0.32005&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::template::pro&amp;mode=all">HTML-Template-Pro</uri></ti>
@@ -449,7 +479,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 66 of 610
+Total packages suspected as outdated: 71 of 609
 </p>
 
 </body>

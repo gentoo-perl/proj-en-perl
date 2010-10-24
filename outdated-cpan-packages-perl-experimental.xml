@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.324 2010/10/22 07:01:41 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.325 2010/10/24 07:14:33 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-22</date>
+<date>2010-10-24</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,8 +53,8 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=alien::sdl&amp;mode=all">Alien-SDL</uri></ti>
     <ti align="right">1.413</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Alien-SDL-1.418/">1.418</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.413&amp;to=Alien-SDL-1.418&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Alien-SDL-1.419/">1.419</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.413&amp;to=Alien-SDL-1.419&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=app::cpanminus&amp;mode=all">App-cpanminus</uri></ti>
@@ -111,12 +111,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-DBIx-Class-0.1300&amp;to=Catalyst-Authentication-Store-DBIx-Class-0.1400&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::ldap&amp;mode=all">Catalyst-Authentication-Store-LDAP</uri></ti>
-    <ti align="right">1.011</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-LDAP-1.012/">1.012</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-LDAP-1.011&amp;to=Catalyst-Authentication-Store-LDAP-1.012&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::engine::apache&amp;mode=all">Catalyst-Engine-Apache</uri></ti>
     <ti align="right">1.12</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Engine-Apache-1.16/">1.16</uri></ti>
@@ -127,12 +121,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.11</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Log-Dispatch-0.12/">0.12</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Log-Dispatch-0.11&amp;to=Catalyst-Plugin-Log-Dispatch-0.12&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session&amp;mode=all">Catalyst-Plugin-Session</uri></ti>
-    <ti align="right">0.30</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Session-0.31/">0.31</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Session-0.30&amp;to=Catalyst-Plugin-Session-0.31&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::state::uri&amp;mode=all">Catalyst-Plugin-Session-State-URI</uri></ti>
@@ -231,18 +219,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.102341&amp;to=Dist-Zilla-4.102342&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::bumpversionfromgit&amp;mode=all">Dist-Zilla-Plugin-BumpVersionFromGit</uri></ti>
-    <ti align="right">0.007</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-BumpVersionFromGit-0.008/">0.008</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-BumpVersionFromGit-0.007&amp;to=Dist-Zilla-Plugin-BumpVersionFromGit-0.008&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::git&amp;mode=all">Dist-Zilla-Plugin-Git</uri></ti>
-    <ti align="right">1.102380</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.102810/">1.102810</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.102380&amp;to=Dist-Zilla-Plugin-Git-1.102810&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::podweaver&amp;mode=all">Dist-Zilla-Plugin-PodWeaver</uri></ti>
     <ti align="right">3.101640</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-PodWeaver-3.101641/">3.101641</uri></ti>
@@ -256,9 +232,9 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::rjbs&amp;mode=all">Dist-Zilla-PluginBundle-RJBS</uri></ti>
-    <ti align="right">1.001</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-RJBS-1.003/">1.003</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-1.001&amp;to=Dist-Zilla-PluginBundle-RJBS-1.003&amp;w=1">Diff</uri></ti>
+    <ti align="right">1.003</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-RJBS-1.004/">1.004</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-1.003&amp;to=Dist-Zilla-PluginBundle-RJBS-1.004&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::changenotify&amp;mode=all">File-ChangeNotify</uri></ti>
@@ -283,12 +259,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.05</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/File-ShareDir-PAR-0.06/">0.06</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=File-ShareDir-PAR-0.05&amp;to=File-ShareDir-PAR-0.06&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=git::cpan::patch&amp;mode=all">Git-CPAN-Patch</uri></ti>
-    <ti align="right">0.45</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Git-CPAN-Patch-0.46/">0.46</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Git-CPAN-Patch-0.45&amp;to=Git-CPAN-Patch-0.46&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=git::wrapper&amp;mode=all">Git-Wrapper</uri></ti>
@@ -381,12 +351,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-InsideOut-0.104&amp;to=MooseX-InsideOut-0.105&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::nonmoose&amp;mode=all">MooseX-NonMoose</uri></ti>
-    <ti align="right">0.15</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-NonMoose-0.16/">0.16</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-NonMoose-0.15&amp;to=MooseX-NonMoose-0.16&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
     <ti align="right">0.27</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.28/">0.28</uri></ti>
@@ -409,12 +373,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.009</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Perl-Version-1.010/">1.010</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Perl-Version-1.009&amp;to=Perl-Version-1.010&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
-    <ti align="right">0.9949</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9950/">0.9950</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9949&amp;to=Plack-0.9950&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::coverage::trustpod&amp;mode=all">Pod-Coverage-TrustPod</uri></ti>
@@ -453,10 +411,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=String-MkPasswd-0.02&amp;to=String-MkPasswd-0.03&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=task::catalyst&amp;mode=all">Task-Catalyst</uri></ti>
+    <ti align="right">4.00</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Catalyst-4.01/">4.01</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Catalyst-4.00&amp;to=Task-Catalyst-4.01&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
     <ti align="right">0.24</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.25/">0.25</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.24&amp;to=Task-Kensho-0.25&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.26/">0.26</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.24&amp;to=Task-Kensho-0.26&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::tcp&amp;mode=all">Test-TCP</uri></ti>
@@ -482,16 +446,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/TryCatch-1.003000/">1.003000</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=TryCatch-1.002000&amp;to=TryCatch-1.003000&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=version::next&amp;mode=all">Version-Next</uri></ti>
-    <ti align="right">0.001</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Version-Next-0.002/">0.002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Version-Next-0.001&amp;to=Version-Next-0.002&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 73 of 609
+Total packages suspected as outdated: 66 of 609
 </p>
 
 </body>

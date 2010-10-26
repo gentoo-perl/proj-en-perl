@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.325 2010/10/24 07:14:33 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.326 2010/10/26 06:19:45 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-24</date>
+<date>2010-10-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -67,12 +67,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.10</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/App-perlbrew-0.12/">0.12</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=App-perlbrew-0.10&amp;to=App-perlbrew-0.12&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
-    <ti align="right">0.42</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Archive-Extract-0.44/">0.44</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Archive-Extract-0.42&amp;to=Archive-Extract-0.44&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=array::diff&amp;mode=all">Array-Diff</uri></ti>
@@ -175,6 +169,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.1800</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.1803/">1.1803</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=CPAN-Reporter-1.1800&amp;to=CPAN-Reporter-1.1803&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpanplus&amp;mode=all">CPANPLUS</uri> (virtual/perl-CPANPLUS)</ti>
+    <ti align="right">0.9007</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPANPLUS-0.9009/">0.9009</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPANPLUS-0.9007&amp;to=CPANPLUS-0.9009&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=css::tiny&amp;mode=all">CSS-Tiny</uri></ti>
@@ -363,10 +363,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Autoformat-1.12&amp;to=Padre-Plugin-Autoformat-1.20&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perlcritic&amp;mode=all">Padre-Plugin-PerlCritic</uri></ti>
+    <ti align="right">0.08</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlCritic-0.09/">0.09</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlCritic-0.08&amp;to=Padre-Plugin-PerlCritic-0.09&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perltidy&amp;mode=all">Padre-Plugin-PerlTidy</uri></ti>
     <ti align="right">0.10</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlTidy-0.12/">0.12</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlTidy-0.10&amp;to=Padre-Plugin-PerlTidy-0.12&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlTidy-0.13/">0.13</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlTidy-0.10&amp;to=Padre-Plugin-PerlTidy-0.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perl::version&amp;mode=all">Perl-Version</uri></ti>
@@ -375,10 +381,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Perl-Version-1.009&amp;to=Perl-Version-1.010&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
+    <ti align="right">0.9950</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9951/">0.9951</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9950&amp;to=Plack-0.9951&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::coverage::trustpod&amp;mode=all">Pod-Coverage-TrustPod</uri></ti>
     <ti align="right">0.092830</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Coverage-TrustPod-0.092831/">0.092831</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Pod-Coverage-TrustPod-0.092830&amp;to=Pod-Coverage-TrustPod-0.092831&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pod::projectdocs&amp;mode=all">Pod-ProjectDocs</uri></ti>
+    <ti align="right">0.38</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-ProjectDocs-0.39/">0.39</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Pod-ProjectDocs-0.38&amp;to=Pod-ProjectDocs-0.39&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::weaver&amp;mode=all">Pod-Weaver</uri></ti>
@@ -409,6 +427,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.02</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/String-MkPasswd-0.03/">0.03</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=String-MkPasswd-0.02&amp;to=String-MkPasswd-0.03&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=string::rewriteprefix&amp;mode=all">String-RewritePrefix</uri></ti>
+    <ti align="right">0.005</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/String-RewritePrefix-0.006/">0.006</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=String-RewritePrefix-0.005&amp;to=String-RewritePrefix-0.006&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::catalyst&amp;mode=all">Task-Catalyst</uri></ti>
@@ -449,7 +473,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 66 of 609
+Total packages suspected as outdated: 70 of 609
 </p>
 
 </body>

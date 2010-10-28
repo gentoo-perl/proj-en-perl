@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2447 2010/10/27 09:52:27 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2448 2010/10/28 01:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-27</date>
+<date>2010-10-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,44 +70,14 @@ will curb some of the bugs to boot).
     <ti align="right">2.06</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
-    <ti align="right">0.63</ti>
-    <ti align="right">0.65</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::format::flexible&amp;mode=all">DateTime-Format-Flexible</uri></ti>
-    <ti align="right">0.16</ti>
-    <ti align="right">0.17</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">1.22</ti>
-    <ti align="right">1.23</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbd::mysql&amp;mode=all">DBD-mysql</uri></ti>
     <ti align="right">4.017</ti>
     <ti align="right">4.018</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbix::migration&amp;mode=all">DBIx-Migration</uri></ti>
-    <ti align="right">0.06</ti>
-    <ti align="right">0.07</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::tree&amp;mode=all">HTML-Tree</uri></ti>
-    <ti align="right">4.0</ti>
-    <ti align="right">4.1</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
     <ti align="right">0.36</ti>
     <ti align="right">0.37</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
-    <ti align="right">1.30</ti>
-    <ti align="right">1.31</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::builder&amp;mode=all">Mail-Builder</uri></ti>
@@ -140,11 +110,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.28</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=netaddr::ip&amp;mode=all">NetAddr-IP</uri></ti>
-    <ti align="right">4.033</ti>
-    <ti align="right">4.034</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=package::deprecationmanager&amp;mode=all">Package-DeprecationManager</uri></ti>
     <ti align="right">0.09</ti>
     <ti align="right">0.10</ti>
@@ -158,11 +123,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=podlators&amp;mode=all">podlators</uri> (virtual/perl-podlators)</ti>
     <ti align="right">2.31</ti>
     <ti align="right">2.40</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=ppix::regexp&amp;mode=all">PPIx-Regexp</uri></ti>
-    <ti align="right">0.014</ti>
-    <ti align="right">0.015</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=proc::daemon&amp;mode=all">Proc-Daemon</uri></ti>
@@ -189,20 +149,10 @@ will curb some of the bugs to boot).
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri> (virtual/perl-version)</ti>
-    <ti align="right">0.83</ti>
-    <ti align="right">0.85</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=www::curl&amp;mode=all">WWW-Curl</uri></ti>
-    <ti align="right">4.13</ti>
-    <ti align="right">4.14</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 1049
+Total packages suspected as outdated: 20 of 1050
 </p>
 
 </body>

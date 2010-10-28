@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.327 2010/10/27 06:43:39 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.328 2010/10/28 06:52:00 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-27</date>
+<date>2010-10-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -219,6 +219,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Devel-Cover-0.68&amp;to=Devel-Cover-0.73&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::compiletests&amp;mode=all">Dist-Zilla-Plugin-CompileTests</uri></ti>
+    <ti align="right">1.101800</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-CompileTests-1.103000/">1.103000</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-CompileTests-1.101800&amp;to=Dist-Zilla-Plugin-CompileTests-1.103000&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::changenotify&amp;mode=all">File-ChangeNotify</uri></ti>
     <ti align="right">0.16</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/File-ChangeNotify-0.19/">0.19</uri></ti>
@@ -297,6 +303,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Imager-0.77&amp;to=Imager-0.78&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=kinosearch&amp;mode=all">KinoSearch</uri></ti>
+    <ti align="right">0.165</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/KinoSearch-0.31/">0.31</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=KinoSearch-0.165&amp;to=KinoSearch-0.31&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=kinosearch1&amp;mode=all">KinoSearch1</uri></ti>
+    <ti align="right">1.00</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/KinoSearch1-1.01/">1.01</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=KinoSearch1-1.00&amp;to=KinoSearch1-1.01&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=kiokudb&amp;mode=all">KiokuDB</uri></ti>
     <ti align="right">0.49</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.50/">0.50</uri></ti>
@@ -347,14 +365,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perlcritic&amp;mode=all">Padre-Plugin-PerlCritic</uri></ti>
     <ti align="right">0.08</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlCritic-0.09/">0.09</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlCritic-0.08&amp;to=Padre-Plugin-PerlCritic-0.09&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlCritic-0.10/">0.10</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlCritic-0.08&amp;to=Padre-Plugin-PerlCritic-0.10&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perltidy&amp;mode=all">Padre-Plugin-PerlTidy</uri></ti>
     <ti align="right">0.10</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlTidy-0.13/">0.13</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlTidy-0.10&amp;to=Padre-Plugin-PerlTidy-0.13&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlTidy-0.14/">0.14</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlTidy-0.10&amp;to=Padre-Plugin-PerlTidy-0.14&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perl::version&amp;mode=all">Perl-Version</uri></ti>
@@ -455,7 +473,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 67 of 609
+Total packages suspected as outdated: 70 of 609
 </p>
 
 </body>

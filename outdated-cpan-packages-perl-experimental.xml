@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.328 2010/10/28 06:52:00 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.329 2010/10/30 06:50:33 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-10-28</date>
+<date>2010-10-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,20 +53,8 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=alien::sdl&amp;mode=all">Alien-SDL</uri></ti>
     <ti align="right">1.413</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Alien-SDL-1.419/">1.419</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.413&amp;to=Alien-SDL-1.419&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::cpanminus&amp;mode=all">App-cpanminus</uri></ti>
-    <ti align="right">1.0012</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.0015/">1.0015</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.0012&amp;to=App-cpanminus-1.0015&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::perlbrew&amp;mode=all">App-perlbrew</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-perlbrew-0.12/">0.12</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-perlbrew-0.10&amp;to=App-perlbrew-0.12&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Alien-SDL-1.420/">1.420</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.413&amp;to=Alien-SDL-1.420&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
@@ -115,6 +103,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.12</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Engine-Apache-1.16/">1.16</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Engine-Apache-1.12&amp;to=Catalyst-Engine-Apache-1.16&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::manual&amp;mode=all">Catalyst-Manual</uri></ti>
+    <ti align="right">5.8004</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Manual-5.8005/">5.8005</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Manual-5.8004&amp;to=Catalyst-Manual-5.8005&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::log::dispatch&amp;mode=all">Catalyst-Plugin-Log-Dispatch</uri></ti>
@@ -179,8 +173,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpanplus&amp;mode=all">CPANPLUS</uri> (virtual/perl-CPANPLUS)</ti>
     <ti align="right">0.9007</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPANPLUS-0.9009/">0.9009</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPANPLUS-0.9007&amp;to=CPANPLUS-0.9009&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPANPLUS-0.9010/">0.9010</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPANPLUS-0.9007&amp;to=CPANPLUS-0.9010&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=css::tiny&amp;mode=all">CSS-Tiny</uri></ti>
@@ -221,8 +215,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::compiletests&amp;mode=all">Dist-Zilla-Plugin-CompileTests</uri></ti>
     <ti align="right">1.101800</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-CompileTests-1.103000/">1.103000</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-CompileTests-1.101800&amp;to=Dist-Zilla-Plugin-CompileTests-1.103000&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-CompileTests-1.103010/">1.103010</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-CompileTests-1.101800&amp;to=Dist-Zilla-Plugin-CompileTests-1.103010&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::changenotify&amp;mode=all">File-ChangeNotify</uri></ti>
@@ -335,8 +329,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mojolicious&amp;mode=all">Mojolicious</uri></ti>
     <ti align="right">0.999929</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-0.999931/">0.999931</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-0.999929&amp;to=Mojolicious-0.999931&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-0.999932/">0.999932</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-0.999929&amp;to=Mojolicious-0.999932&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mojomojo&amp;mode=all">MojoMojo</uri></ti>
@@ -365,14 +359,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perlcritic&amp;mode=all">Padre-Plugin-PerlCritic</uri></ti>
     <ti align="right">0.08</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlCritic-0.10/">0.10</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlCritic-0.08&amp;to=Padre-Plugin-PerlCritic-0.10&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlCritic-0.11/">0.11</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlCritic-0.08&amp;to=Padre-Plugin-PerlCritic-0.11&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perltidy&amp;mode=all">Padre-Plugin-PerlTidy</uri></ti>
     <ti align="right">0.10</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlTidy-0.14/">0.14</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlTidy-0.10&amp;to=Padre-Plugin-PerlTidy-0.14&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlTidy-0.15/">0.15</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlTidy-0.10&amp;to=Padre-Plugin-PerlTidy-0.15&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=perl::version&amp;mode=all">Perl-Version</uri></ti>
@@ -464,16 +458,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Tree-Trie-1.7/">1.7</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Tree-Trie-1.6&amp;to=Tree-Trie-1.7&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=trycatch&amp;mode=all">TryCatch</uri></ti>
-    <ti align="right">1.002000</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/TryCatch-1.003000/">1.003000</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=TryCatch-1.002000&amp;to=TryCatch-1.003000&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 70 of 609
+Total packages suspected as outdated: 68 of 609
 </p>
 
 </body>

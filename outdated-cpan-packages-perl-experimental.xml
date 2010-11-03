@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.332 2010/11/02 07:26:53 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.333 2010/11/03 06:43:23 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-11-02</date>
+<date>2010-11-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -219,10 +219,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-CompileTests-1.101800&amp;to=Dist-Zilla-Plugin-CompileTests-1.103030&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::metaprovides::class&amp;mode=all">Dist-Zilla-Plugin-MetaProvides-Class</uri></ti>
+    <ti align="right">1.11034201</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-MetaProvides-Class-1.11044406/">1.11044406</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-MetaProvides-Class-1.11034201&amp;to=Dist-Zilla-Plugin-MetaProvides-Class-1.11044406&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::kentnl&amp;mode=all">Dist-Zilla-PluginBundle-KENTNL</uri></ti>
     <ti align="right">0.01010423</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-KENTNL-0.01017119/">0.01017119</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-KENTNL-0.01010423&amp;to=Dist-Zilla-PluginBundle-KENTNL-0.01017119&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-KENTNL-0.01017122/">0.01017122</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-KENTNL-0.01010423&amp;to=Dist-Zilla-PluginBundle-KENTNL-0.01017122&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::changenotify&amp;mode=all">File-ChangeNotify</uri></ti>
@@ -349,6 +355,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.104</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-InsideOut-0.105/">0.105</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-InsideOut-0.104&amp;to=MooseX-InsideOut-0.105&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::role::parameterized&amp;mode=all">MooseX-Role-Parameterized</uri></ti>
+    <ti align="right">0.19</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.20/">0.20</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.19&amp;to=MooseX-Role-Parameterized-0.20&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
@@ -479,7 +491,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 71 of 610
+Total packages suspected as outdated: 73 of 612
 </p>
 
 </body>

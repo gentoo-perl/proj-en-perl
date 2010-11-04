@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2460 2010/11/03 01:52:32 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2461 2010/11/04 01:52:33 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-11-03</date>
+<date>2010-11-04</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,11 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.103</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=bio::graphics&amp;mode=all">Bio-Graphics</uri></ti>
-    <ti align="right">2.14</ti>
-    <ti align="right">2.15</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.19</ti>
@@ -70,24 +65,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.11</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::xsaccessor&amp;mode=all">Class-XSAccessor</uri></ti>
-    <ti align="right">1.08</ti>
-    <ti align="right">1.09</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=clipboard&amp;mode=all">Clipboard</uri></ti>
     <ti align="right">0.11</ti>
     <ti align="right">0.13</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::format::http&amp;mode=all">DateTime-Format-HTTP</uri></ti>
-    <ti align="right">0.39</ti>
-    <ti align="right">0.40</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::format::natural&amp;mode=all">DateTime-Format-Natural</uri></ti>
-    <ti align="right">0.90</ti>
-    <ti align="right">0.91</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
@@ -100,9 +80,9 @@ will curb some of the bugs to boot).
     <ti align="right">3.7</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
-    <ti align="right">1.33</ti>
-    <ti align="right">1.34</ti>
+    <ti><uri link="http://search.cpan.org/search?query=lingua::en::inflect&amp;mode=all">Lingua-EN-Inflect</uri></ti>
+    <ti align="right">1.892</ti>
+    <ti align="right">1.893</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::builder&amp;mode=all">Mail-Builder</uri></ti>
@@ -120,19 +100,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.19</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::twitter&amp;mode=all">Net-Twitter</uri></ti>
-    <ti align="right">3.14001</ti>
-    <ti align="right">3.14002</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=package::stash&amp;mode=all">Package-Stash</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right">0.13</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=parallel::forkmanager&amp;mode=all">Parallel-ForkManager</uri></ti>
-    <ti align="right">0.78</ti>
-    <ti align="right">0.79</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=parent&amp;mode=all">parent</uri> (virtual/perl-parent)</ti>
@@ -143,11 +113,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=podlators&amp;mode=all">podlators</uri> (virtual/perl-podlators)</ti>
     <ti align="right">2.31</ti>
     <ti align="right">2.40</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=proc::simple&amp;mode=all">Proc-Simple</uri></ti>
-    <ti align="right">1.26</ti>
-    <ti align="right">1.27</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe::hole&amp;mode=all">Safe-Hole</uri></ti>
@@ -167,7 +132,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 1051
+Total packages suspected as outdated: 16 of 1051
 </p>
 
 </body>

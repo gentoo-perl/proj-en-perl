@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.338 2010/11/06 07:21:07 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.339 2010/11/06 19:35:51 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -61,18 +61,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.44</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Archive-Extract-0.46/">0.46</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Archive-Extract-0.44&amp;to=Archive-Extract-0.46&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cache::fastmmap&amp;mode=all">Cache-FastMmap</uri></ti>
-    <ti align="right">1.35</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Cache-FastMmap-1.36/">1.36</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Cache-FastMmap-1.35&amp;to=Cache-FastMmap-1.36&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cache::ref&amp;mode=all">Cache-Ref</uri></ti>
-    <ti align="right">0.02</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Cache-Ref-0.04/">0.04</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Cache-Ref-0.02&amp;to=Cache-Ref-0.04&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
@@ -147,36 +135,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=CatalystX-SimpleLogin-0.12&amp;to=CatalystX-SimpleLogin-0.14&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::mix&amp;mode=all">Class-Mix</uri></ti>
-    <ti align="right">0.003</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Class-Mix-0.004/">0.004</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Class-Mix-0.003&amp;to=Class-Mix-0.004&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=color::calc&amp;mode=all">Color-Calc</uri></ti>
-    <ti align="right">1.061</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Color-Calc-1.070/">1.070</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Color-Calc-1.061&amp;to=Color-Calc-1.070&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::mvp::reader::ini&amp;mode=all">Config-MVP-Reader-INI</uri></ti>
-    <ti align="right">2.101460</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Config-MVP-Reader-INI-2.101461/">2.101461</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Config-MVP-Reader-INI-2.101460&amp;to=Config-MVP-Reader-INI-2.101461&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=css::tiny&amp;mode=all">CSS-Tiny</uri></ti>
-    <ti align="right">1.17</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CSS-Tiny-1.19/">1.19</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CSS-Tiny-1.17&amp;to=CSS-Tiny-1.19&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::float&amp;mode=all">Data-Float</uri></ti>
-    <ti align="right">0.010</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Data-Float-0.011/">0.011</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Data-Float-0.010&amp;to=Data-Float-0.011&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::format::excel&amp;mode=all">DateTime-Format-Excel</uri></ti>
     <ti align="right">0.3000</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/DateTime-Format-Excel-0.31/">0.31</uri></ti>
@@ -225,24 +183,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-POE-0.209&amp;to=MooseX-POE-0.210&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=padre::plugin::autoformat&amp;mode=all">Padre-Plugin-Autoformat</uri></ti>
-    <ti align="right">1.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Autoformat-1.21/">1.21</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Autoformat-1.12&amp;to=Padre-Plugin-Autoformat-1.21&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perlcritic&amp;mode=all">Padre-Plugin-PerlCritic</uri></ti>
-    <ti align="right">0.08</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlCritic-0.11/">0.11</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlCritic-0.08&amp;to=Padre-Plugin-PerlCritic-0.11&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=padre::plugin::perltidy&amp;mode=all">Padre-Plugin-PerlTidy</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-PerlTidy-0.15/">0.15</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-PerlTidy-0.10&amp;to=Padre-Plugin-PerlTidy-0.15&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=starman&amp;mode=all">Starman</uri></ti>
     <ti align="right">0.2006</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Starman-0.2007/">0.2007</uri></ti>
@@ -263,7 +203,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 35 of 614
+Total packages suspected as outdated: 25 of 614
 </p>
 
 </body>

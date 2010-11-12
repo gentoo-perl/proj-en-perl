@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.344 2010/11/11 07:19:43 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.345 2010/11/12 07:12:20 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-11-11</date>
+<date>2010-11-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -200,10 +200,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.26/">0.26</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.24&amp;to=Task-Kensho-0.26&amp;w=1">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::tcp&amp;mode=all">Test-TCP</uri></ti>
+    <ti align="right">1.06</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Test-TCP-1.07/">1.07</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Test-TCP-1.06&amp;to=Test-TCP-1.07&amp;w=1">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 615
+Total packages suspected as outdated: 26 of 618
 </p>
 
 </body>

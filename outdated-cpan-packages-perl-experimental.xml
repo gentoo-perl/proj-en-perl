@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.345 2010/11/12 07:12:20 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.346 2010/11/13 09:27:41 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-11-12</date>
+<date>2010-11-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,6 +55,18 @@ will curb some of the bugs to boot).
     <ti align="right">1.413</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Alien-SDL-1.421/">1.421</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.413&amp;to=Alien-SDL-1.421&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=app::cmd&amp;mode=all">App-Cmd</uri></ti>
+    <ti align="right">0.308</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/App-Cmd-0.309/">0.309</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=App-Cmd-0.308&amp;to=App-Cmd-0.309&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=app::cpanminus&amp;mode=all">App-cpanminus</uri></ti>
+    <ti align="right">1.0015</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.1001/">1.1001</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.0015&amp;to=App-cpanminus-1.1001&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
@@ -165,6 +177,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Getopt-Lucid-0.18&amp;to=Getopt-Lucid-0.19&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=git::wrapper&amp;mode=all">Git-Wrapper</uri></ti>
+    <ti align="right">0.013</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Git-Wrapper-0.014/">0.014</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Git-Wrapper-0.013&amp;to=Git-Wrapper-0.014&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=imager&amp;mode=all">Imager</uri></ti>
     <ti align="right">0.77</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Imager-0.78/">0.78</uri></ti>
@@ -209,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 618
+Total packages suspected as outdated: 29 of 614
 </p>
 
 </body>

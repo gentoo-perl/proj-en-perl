@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.350 2010/11/17 07:21:28 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.351 2010/11/18 06:27:09 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-11-17</date>
+<date>2010-11-18</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,24 +57,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.413&amp;to=Alien-SDL-1.421&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::cmd&amp;mode=all">App-Cmd</uri></ti>
-    <ti align="right">0.308</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-Cmd-0.309/">0.309</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-Cmd-0.308&amp;to=App-Cmd-0.309&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::cpanminus&amp;mode=all">App-cpanminus</uri></ti>
-    <ti align="right">1.0015</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.1002/">1.1002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.0015&amp;to=App-cpanminus-1.1002&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::perlbrew&amp;mode=all">App-perlbrew</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-perlbrew-0.13/">0.13</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-perlbrew-0.12&amp;to=App-perlbrew-0.13&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
     <ti align="right">0.44</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Archive-Extract-0.46/">0.46</uri></ti>
@@ -89,8 +71,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::dbix::class&amp;mode=all">Catalyst-Authentication-Store-DBIx-Class</uri></ti>
     <ti align="right">0.1300</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-DBIx-Class-0.1400/">0.1400</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-DBIx-Class-0.1300&amp;to=Catalyst-Authentication-Store-DBIx-Class-0.1400&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-DBIx-Class-0.1401/">0.1401</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-DBIx-Class-0.1300&amp;to=Catalyst-Authentication-Store-DBIx-Class-0.1401&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::engine::apache&amp;mode=all">Catalyst-Engine-Apache</uri></ti>
@@ -207,6 +189,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=KinoSearch-0.165&amp;to=KinoSearch-0.31&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=local::lib&amp;mode=all">local-lib</uri></ti>
+    <ti align="right">1.006007</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/local-lib-1.006008/">1.006008</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=local-lib-1.006007&amp;to=local-lib-1.006008&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mojolicious&amp;mode=all">Mojolicious</uri></ti>
     <ti align="right">0.999936</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-0.999940/">0.999940</uri></ti>
@@ -219,16 +207,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-1.01&amp;to=MojoMojo-1.02&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::has::sugar&amp;mode=all">MooseX-Has-Sugar</uri></ti>
-    <ti align="right">0.05046611</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Has-Sugar-0.05055616/">0.05055616</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Has-Sugar-0.05046611&amp;to=MooseX-Has-Sugar-0.05055616&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::role::parameterized&amp;mode=all">MooseX-Role-Parameterized</uri></ti>
     <ti align="right">0.20</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.21/">0.21</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.20&amp;to=MooseX-Role-Parameterized-0.21&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
+    <ti align="right">0.28</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.29/">0.29</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Storage-0.28&amp;to=MooseX-Storage-0.29&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::structured&amp;mode=all">MooseX-Types-Structured</uri></ti>
@@ -269,7 +257,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 36 of 614
+Total packages suspected as outdated: 34 of 615
 </p>
 
 </body>

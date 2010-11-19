@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.351 2010/11/18 06:27:09 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.352 2010/11/19 07:28:22 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-11-18</date>
+<date>2010-11-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -109,6 +109,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.14</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Session-State-URI-0.15/">0.15</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Session-State-URI-0.14&amp;to=Catalyst-Plugin-Session-State-URI-0.15&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::session::store::fastmmap&amp;mode=all">Catalyst-Plugin-Session-Store-FastMmap</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Session-Store-FastMmap-0.14/">0.14</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Session-Store-FastMmap-0.13&amp;to=Catalyst-Plugin-Session-Store-FastMmap-0.14&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::view::json&amp;mode=all">Catalyst-View-JSON</uri></ti>
@@ -257,7 +263,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 34 of 615
+Total packages suspected as outdated: 35 of 615
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2508 2010/11/26 09:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2509 2010/11/26 17:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -132,7 +132,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri> (virtual/perl-Math-BigInt)</ti>
     <ti align="right">1.99</ti>
-    <ti align="right">1.991</ti>
+    <ti align="right">1.9902</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mime::base64&amp;mode=all">MIME-Base64</uri> (virtual/perl-MIME-Base64)</ti>
@@ -179,10 +179,15 @@ will curb some of the bugs to boot).
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=text::csv_xs&amp;mode=all">Text-CSV_XS</uri></ti>
+    <ti align="right">0.76</ti>
+    <ti align="right">0.77</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 1053
+Total packages suspected as outdated: 27 of 1053
 </p>
 
 </body>

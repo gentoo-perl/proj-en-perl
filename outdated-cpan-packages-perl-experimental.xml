@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.357 2010/11/25 07:30:27 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.358 2010/11/27 07:30:27 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-11-25</date>
+<date>2010-11-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -61,6 +61,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.06</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/AnyEvent-I3-0.07/">0.07</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=AnyEvent-I3-0.06&amp;to=AnyEvent-I3-0.07&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=app::cpanminus&amp;mode=all">App-cpanminus</uri></ti>
+    <ti align="right">1.1002</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.1003/">1.1003</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.1002&amp;to=App-cpanminus-1.1003&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::extract&amp;mode=all">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
@@ -165,6 +171,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=DateTime-Format-Excel-0.3000&amp;to=DateTime-Format-Excel-0.31&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=devel::stacktrace::withlexicals&amp;mode=all">Devel-StackTrace-WithLexicals</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-StackTrace-WithLexicals-0.07/">0.07</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Devel-StackTrace-WithLexicals-0.06&amp;to=Devel-StackTrace-WithLexicals-0.07&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
     <ti align="right">4.102343</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.102345/">4.102345</uri></ti>
@@ -245,8 +257,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::role::parameterized&amp;mode=all">MooseX-Role-Parameterized</uri></ti>
     <ti align="right">0.20</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.21/">0.21</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.20&amp;to=MooseX-Role-Parameterized-0.21&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.22/">0.22</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.20&amp;to=MooseX-Role-Parameterized-0.22&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::storage&amp;mode=all">MooseX-Storage</uri></ti>
@@ -299,7 +311,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 41 of 615
+Total packages suspected as outdated: 43 of 615
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.359 2010/11/28 08:45:41 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.360 2010/11/30 07:21:28 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-11-28</date>
+<date>2010-11-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -261,6 +261,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-1.01&amp;to=MojoMojo-1.02&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::params::validate&amp;mode=all">MooseX-Params-Validate</uri></ti>
+    <ti align="right">0.14</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Params-Validate-0.15/">0.15</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Params-Validate-0.14&amp;to=MooseX-Params-Validate-0.15&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::role::parameterized&amp;mode=all">MooseX-Role-Parameterized</uri></ti>
     <ti align="right">0.20</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.22/">0.22</uri></ti>
@@ -291,6 +297,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Params-Classify-0.012&amp;to=Params-Classify-0.013&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pip&amp;mode=all">pip</uri></ti>
+    <ti align="right">1.18</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/pip-1.19/">1.19</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=pip-1.18&amp;to=pip-1.19&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=server::starter&amp;mode=all">Server-Starter</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Server-Starter-0.08/">0.08</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Server-Starter-0.07&amp;to=Server-Starter-0.08&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::catalyst&amp;mode=all">Task-Catalyst</uri></ti>
     <ti align="right">4.00</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Catalyst-4.01/">4.01</uri></ti>
@@ -317,7 +335,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 44 of 615
+Total packages suspected as outdated: 47 of 615
 </p>
 
 </body>

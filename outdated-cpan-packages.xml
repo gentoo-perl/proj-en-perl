@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2516 2010/11/30 09:52:37 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2517 2010/12/01 01:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-11-30</date>
+<date>2010-12-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.10</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=getopt::long::descriptive&amp;mode=all">Getopt-Long-Descriptive</uri></ti>
+    <ti align="right">0.086</ti>
+    <ti align="right">0.087</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
     <ti align="right">0.36</ti>
     <ti align="right">0.37</ti>
@@ -95,19 +100,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.31</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=memoize&amp;mode=all">Memoize</uri> (virtual/perl-Memoize)</ti>
-    <ti align="right">1.01</ti>
-    <ti align="right">1.02</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::patricia&amp;mode=all">Net-Patricia</uri></ti>
-    <ti align="right">1.18</ti>
-    <ti align="right">1.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=orlite&amp;mode=all">ORLite</uri></ti>
-    <ti align="right">1.45</ti>
-    <ti align="right">1.46</ti>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::types&amp;mode=all">MooseX-Types</uri></ti>
+    <ti align="right">0.24</ti>
+    <ti align="right">0.25</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=podlators&amp;mode=all">podlators</uri> (virtual/perl-podlators)</ti>
@@ -123,6 +118,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
     <ti align="right">0.0801</ti>
     <ti align="right">0.09</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sql::translator&amp;mode=all">SQL-Translator</uri></ti>
+    <ti align="right">0.11006</ti>
+    <ti align="right">0.11007</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=storable&amp;mode=all">Storable</uri> (virtual/perl-Storable)</ti>

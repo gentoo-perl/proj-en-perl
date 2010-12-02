@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2520 2010/12/02 09:52:27 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2521 2010/12/02 17:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -85,6 +85,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.10</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datemanip&amp;mode=all">DateManip</uri></ti>
+    <ti align="right">6.14</ti>
+    <ti align="right">6.20</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=devel::globaldestruction&amp;mode=all">Devel-GlobalDestruction</uri></ti>
     <ti align="right">0.02</ti>
     <ti align="right">0.03</ti>
@@ -102,7 +107,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
     <ti align="right">0.36</ti>
-    <ti align="right">0.37</ti>
+    <ti align="right">0.38</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
@@ -167,7 +172,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 1053
+Total packages suspected as outdated: 24 of 1053
 </p>
 
 </body>

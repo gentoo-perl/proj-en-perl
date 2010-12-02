@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.361 2010/12/01 06:48:07 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.362 2010/12/02 07:35:32 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-12-01</date>
+<date>2010-12-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -251,8 +251,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mojolicious&amp;mode=all">Mojolicious</uri></ti>
     <ti align="right">0.999936</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-0.999941/">0.999941</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-0.999936&amp;to=Mojolicious-0.999941&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-0.999950/">0.999950</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-0.999936&amp;to=Mojolicious-0.999950&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mojomojo&amp;mode=all">MojoMojo</uri></ti>
@@ -277,6 +277,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.28</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.29/">0.29</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-Storage-0.28&amp;to=MooseX-Storage-0.29&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::types::set::object&amp;mode=all">MooseX-Types-Set-Object</uri></ti>
+    <ti align="right">0.02</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Types-Set-Object-0.03/">0.03</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Types-Set-Object-0.02&amp;to=MooseX-Types-Set-Object-0.03&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::structured&amp;mode=all">MooseX-Types-Structured</uri></ti>
@@ -335,7 +341,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 47 of 615
+Total packages suspected as outdated: 48 of 615
 </p>
 
 </body>

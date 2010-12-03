@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2522 2010/12/03 01:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2523 2010/12/03 09:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -52,7 +52,7 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=app::cli&amp;mode=all">App-CLI</uri></ti>
     <ti align="right">0.08</ti>
-    <ti align="right">0.31</ti>
+    <ti align="right">0.311</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
@@ -135,11 +135,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.40</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=ppix::utilities&amp;mode=all">PPIx-Utilities</uri></ti>
-    <ti align="right">1.000001</ti>
-    <ti align="right">1.001000</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=safe::hole&amp;mode=all">Safe-Hole</uri></ti>
     <ti align="right">0.10</ti>
     <ti align="right">0.13</ti>
@@ -148,11 +143,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
     <ti align="right">0.0801</ti>
     <ti align="right">0.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sql::translator&amp;mode=all">SQL-Translator</uri></ti>
-    <ti align="right">0.11006</ti>
-    <ti align="right">0.11007</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=storable&amp;mode=all">Storable</uri> (virtual/perl-Storable)</ti>
@@ -177,7 +167,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 1053
+Total packages suspected as outdated: 23 of 1053
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2530 2010/12/07 01:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2531 2010/12/07 09:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -95,6 +95,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.10</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::objectdriver&amp;mode=all">Data-ObjectDriver</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right">0.08</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=datemanip&amp;mode=all">DateManip</uri></ti>
     <ti align="right">6.14</ti>
     <ti align="right">6.20</ti>
@@ -133,11 +138,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">3.65</ti>
     <ti align="right">3.7</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
-    <ti align="right">1.34</ti>
-    <ti align="right">1.35</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=list::moreutils&amp;mode=all">List-MoreUtils</uri></ti>

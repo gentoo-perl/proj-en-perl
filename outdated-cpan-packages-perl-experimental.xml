@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.368 2010/12/09 07:31:01 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.369 2010/12/10 05:58:42 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-12-09</date>
+<date>2010-12-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -107,8 +107,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
     <ti align="right">0.43</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema-0.47/">0.47</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-DBIC-Schema-0.43&amp;to=Catalyst-Model-DBIC-Schema-0.47&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema-0.48/">0.48</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-DBIC-Schema-0.43&amp;to=Catalyst-Model-DBIC-Schema-0.48&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::log::dispatch&amp;mode=all">Catalyst-Plugin-Log-Dispatch</uri></ti>
@@ -169,6 +169,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.18</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Plugin-Authentication-0.19/">0.19</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Plugin-Authentication-0.18&amp;to=CGI-Application-Plugin-Authentication-0.19&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::json&amp;mode=all">Config-JSON</uri></ti>
+    <ti align="right">1.5000</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Config-JSON-1.5100/">1.5100</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Config-JSON-1.5000&amp;to=Config-JSON-1.5100&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::taxi&amp;mode=all">Data-Taxi</uri></ti>
@@ -269,8 +275,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=local::lib&amp;mode=all">local-lib</uri></ti>
     <ti align="right">1.006007</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/local-lib-1.006008/">1.006008</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=local-lib-1.006007&amp;to=local-lib-1.006008&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/local-lib-1.007000/">1.007000</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=local-lib-1.006007&amp;to=local-lib-1.007000&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=locale::codes&amp;mode=all">Locale-Codes</uri></ti>
@@ -383,8 +389,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
     <ti align="right">0.9951</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9953/">0.9953</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9951&amp;to=Plack-0.9953&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9956/">0.9956</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9951&amp;to=Plack-0.9956&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=server::starter&amp;mode=all">Server-Starter</uri></ti>
@@ -425,7 +431,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 62 of 615
+Total packages suspected as outdated: 63 of 615
 </p>
 
 </body>

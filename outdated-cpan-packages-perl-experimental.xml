@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.371 2010/12/14 06:19:43 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.372 2010/12/15 07:25:07 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-12-14</date>
+<date>2010-12-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,10 +57,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.413&amp;to=Alien-SDL-1.421&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
-    <ti align="right">0.85</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.87/">0.87</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-REST-0.85&amp;to=Catalyst-Action-REST-0.87&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=app::cpanminus&amp;mode=all">App-cpanminus</uri></ti>
+    <ti align="right">1.1004</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.1005/">1.1005</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.1004&amp;to=App-cpanminus-1.1005&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::dbix::class&amp;mode=all">Catalyst-Authentication-Store-DBIx-Class</uri></ti>
@@ -85,6 +85,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.43</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema-0.48/">0.48</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-DBIC-Schema-0.43&amp;to=Catalyst-Model-DBIC-Schema-0.48&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::errorcatcher&amp;mode=all">Catalyst-Plugin-ErrorCatcher</uri></ti>
+    <ti align="right">0.07</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-ErrorCatcher-0.08/">0.08</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-ErrorCatcher-0.07&amp;to=Catalyst-Plugin-ErrorCatcher-0.08&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::log::dispatch&amp;mode=all">Catalyst-Plugin-Log-Dispatch</uri></ti>
@@ -117,6 +123,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Session-Store-FastMmap-0.13&amp;to=Catalyst-Plugin-Session-Store-FastMmap-0.14&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::view::component::subinclude&amp;mode=all">Catalyst-View-Component-SubInclude</uri></ti>
+    <ti align="right">0.09</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-Component-SubInclude-0.10/">0.10</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-Component-SubInclude-0.09&amp;to=Catalyst-View-Component-SubInclude-0.10&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::view::json&amp;mode=all">Catalyst-View-JSON</uri></ti>
     <ti align="right">0.30</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-JSON-0.31/">0.31</uri></ti>
@@ -139,12 +151,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.12</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CatalystX-SimpleLogin-0.14/">0.14</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=CatalystX-SimpleLogin-0.12&amp;to=CatalystX-SimpleLogin-0.14&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi::application::plugin::authentication&amp;mode=all">CGI-Application-Plugin-Authentication</uri></ti>
-    <ti align="right">0.18</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Plugin-Authentication-0.19/">0.19</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Plugin-Authentication-0.18&amp;to=CGI-Application-Plugin-Authentication-0.19&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::ini&amp;mode=all">Config-INI</uri></ti>
@@ -213,10 +219,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Git-Wrapper-0.013&amp;to=Git-Wrapper-0.014&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=hash::merge::simple&amp;mode=all">Hash-Merge-Simple</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Hash-Merge-Simple-0.051/">0.051</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Hash-Merge-Simple-0.05&amp;to=Hash-Merge-Simple-0.051&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=http::lite&amp;mode=all">HTTP-Lite</uri></ti>
+    <ti align="right">2.2</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTTP-Lite-2.3/">2.3</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTTP-Lite-2.2&amp;to=HTTP-Lite-2.3&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=http::parser::xs&amp;mode=all">HTTP-Parser-XS</uri></ti>
@@ -375,12 +381,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Task-Catalyst-4.00&amp;to=Task-Catalyst-4.01&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
-    <ti align="right">0.24</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.26/">0.26</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.24&amp;to=Task-Kensho-0.26&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::regression&amp;mode=all">Test-Regression</uri></ti>
     <ti align="right">0.05</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Test-Regression-0.06/">0.06</uri></ti>
@@ -401,7 +401,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 58 of 613
+Total packages suspected as outdated: 58 of 614
 </p>
 
 </body>

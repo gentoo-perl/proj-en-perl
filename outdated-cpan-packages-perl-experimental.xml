@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.372 2010/12/15 07:25:07 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.373 2010/12/16 07:16:19 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-12-15</date>
+<date>2010-12-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,18 +57,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.413&amp;to=Alien-SDL-1.421&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::cpanminus&amp;mode=all">App-cpanminus</uri></ti>
-    <ti align="right">1.1004</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.1005/">1.1005</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.1004&amp;to=App-cpanminus-1.1005&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::authentication::store::dbix::class&amp;mode=all">Catalyst-Authentication-Store-DBIx-Class</uri></ti>
-    <ti align="right">0.1300</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-DBIx-Class-0.1401/">0.1401</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-DBIx-Class-0.1300&amp;to=Catalyst-Authentication-Store-DBIx-Class-0.1401&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::engine::apache&amp;mode=all">Catalyst-Engine-Apache</uri></ti>
     <ti align="right">1.12</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Engine-Apache-1.16/">1.16</uri></ti>
@@ -89,8 +77,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::errorcatcher&amp;mode=all">Catalyst-Plugin-ErrorCatcher</uri></ti>
     <ti align="right">0.07</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-ErrorCatcher-0.08/">0.08</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-ErrorCatcher-0.07&amp;to=Catalyst-Plugin-ErrorCatcher-0.08&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-ErrorCatcher-0.081/">0.081</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-ErrorCatcher-0.07&amp;to=Catalyst-Plugin-ErrorCatcher-0.081&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::log::dispatch&amp;mode=all">Catalyst-Plugin-Log-Dispatch</uri></ti>
@@ -381,6 +369,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Task-Catalyst-4.00&amp;to=Task-Catalyst-4.01&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=template::plugin::javascript&amp;mode=all">Template-Plugin-JavaScript</uri></ti>
+    <ti align="right">0.01</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Template-Plugin-JavaScript-0.02/">0.02</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Template-Plugin-JavaScript-0.01&amp;to=Template-Plugin-JavaScript-0.02&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::regression&amp;mode=all">Test-Regression</uri></ti>
     <ti align="right">0.05</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Test-Regression-0.06/">0.06</uri></ti>
@@ -401,7 +395,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 58 of 614
+Total packages suspected as outdated: 57 of 614
 </p>
 
 </body>

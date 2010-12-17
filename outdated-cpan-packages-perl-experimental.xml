@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.373 2010/12/16 07:16:19 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.374 2010/12/17 06:59:23 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-12-16</date>
+<date>2010-12-17</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,18 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.413</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Alien-SDL-1.421/">1.421</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.413&amp;to=Alien-SDL-1.421&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::engine::apache&amp;mode=all">Catalyst-Engine-Apache</uri></ti>
-    <ti align="right">1.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Engine-Apache-1.16/">1.16</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Engine-Apache-1.12&amp;to=Catalyst-Engine-Apache-1.16&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::manual&amp;mode=all">Catalyst-Manual</uri></ti>
-    <ti align="right">5.8004</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Manual-5.8005/">5.8005</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Manual-5.8004&amp;to=Catalyst-Manual-5.8005&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
@@ -185,8 +173,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::git&amp;mode=all">Dist-Zilla-Plugin-Git</uri></ti>
     <ti align="right">1.102810</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.103470/">1.103470</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.102810&amp;to=Dist-Zilla-Plugin-Git-1.103470&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.103500/">1.103500</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.102810&amp;to=Dist-Zilla-Plugin-Git-1.103500&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::fetch&amp;mode=all">File-Fetch</uri> (virtual/perl-File-Fetch)</ti>
@@ -259,6 +247,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.01</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MojoMojo-1.02/">1.02</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-1.01&amp;to=MojoMojo-1.02&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::configfromfile&amp;mode=all">MooseX-ConfigFromFile</uri></ti>
+    <ti align="right">0.02</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-ConfigFromFile-0.03/">0.03</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-ConfigFromFile-0.02&amp;to=MooseX-ConfigFromFile-0.03&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::params::validate&amp;mode=all">MooseX-Params-Validate</uri></ti>
@@ -347,8 +341,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
     <ti align="right">0.9951</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9956/">0.9956</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9951&amp;to=Plack-0.9956&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9957/">0.9957</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9951&amp;to=Plack-0.9957&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=server::starter&amp;mode=all">Server-Starter</uri></ti>
@@ -395,7 +389,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 57 of 614
+Total packages suspected as outdated: 56 of 614
 </p>
 
 </body>

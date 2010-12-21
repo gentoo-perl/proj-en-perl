@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2555 2010/12/20 17:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2556 2010/12/21 01:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-12-20</date>
+<date>2010-12-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -68,6 +68,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=archive::tar&amp;mode=all">Archive-Tar</uri> (virtual/perl-Archive-Tar)</ti>
     <ti align="right">1.72</ti>
     <ti align="right">1.74</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=bio::graphics&amp;mode=all">Bio-Graphics</uri></ti>
+    <ti align="right">2.15</ti>
+    <ti align="right">2.18</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
@@ -342,7 +347,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 58 of 1055
+Total packages suspected as outdated: 59 of 1055
 </p>
 
 </body>

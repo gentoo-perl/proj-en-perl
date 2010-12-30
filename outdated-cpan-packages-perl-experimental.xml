@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.384 2010/12/29 07:34:36 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.385 2010/12/30 07:30:29 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-12-29</date>
+<date>2010-12-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -71,8 +71,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::errorcatcher&amp;mode=all">Catalyst-Plugin-ErrorCatcher</uri></ti>
     <ti align="right">0.07</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-ErrorCatcher-0.082/">0.082</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-ErrorCatcher-0.07&amp;to=Catalyst-Plugin-ErrorCatcher-0.082&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-ErrorCatcher-0.083/">0.083</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-ErrorCatcher-0.07&amp;to=Catalyst-Plugin-ErrorCatcher-0.083&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::log::dispatch&amp;mode=all">Catalyst-Plugin-Log-Dispatch</uri></ti>
@@ -145,6 +145,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.5000</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Config-JSON-1.5100/">1.5100</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Config-JSON-1.5000&amp;to=Config-JSON-1.5100&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=data::serializer&amp;mode=all">Data-Serializer</uri></ti>
+    <ti align="right">0.49</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Data-Serializer-0.51/">0.51</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Data-Serializer-0.49&amp;to=Data-Serializer-0.51&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::taxi&amp;mode=all">Data-Taxi</uri></ti>
@@ -413,7 +419,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 60 of 616
+Total packages suspected as outdated: 61 of 616
 </p>
 
 </body>

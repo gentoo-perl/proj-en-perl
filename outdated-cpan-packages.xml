@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2572 2010/12/30 17:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2573 2010/12/31 09:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-12-30</date>
+<date>2010-12-31</date>
 
 <chapter>
 <title>Intro</title>
@@ -52,7 +52,7 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
     <ti align="right">5.28</ti>
-    <ti align="right">5.29</ti>
+    <ti align="right">5.3</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::test&amp;mode=all">Apache-Test</uri></ti>
@@ -73,6 +73,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=archive::tar&amp;mode=all">Archive-Tar</uri> (virtual/perl-Archive-Tar)</ti>
     <ti align="right">1.72</ti>
     <ti align="right">1.74</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=astro::fits::header&amp;mode=all">Astro-FITS-Header</uri></ti>
+    <ti align="right">3.01</ti>
+    <ti align="right">3.02</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=bio::graphics&amp;mode=all">Bio-Graphics</uri></ti>
@@ -422,7 +427,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 74 of 1056
+Total packages suspected as outdated: 75 of 1056
 </p>
 
 </body>

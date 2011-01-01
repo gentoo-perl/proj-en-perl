@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2573 2010/12/31 09:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2574 2011/01/01 09:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-12-31</date>
+<date>2011-01-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -187,12 +187,17 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=encode&amp;mode=all">Encode</uri> (virtual/perl-Encode)</ti>
     <ti align="right">2.40</ti>
-    <ti align="right">2.41</ti>
+    <ti align="right">2.42</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=extutils::cbuilder&amp;mode=all">ExtUtils-CBuilder</uri> (virtual/perl-ExtUtils-CBuilder)</ti>
     <ti align="right">0.2703</ti>
     <ti align="right">0.2802</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=extutils::f77&amp;mode=all">ExtUtils-F77</uri></ti>
+    <ti align="right">1.16</ti>
+    <ti align="right">1.17</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::searchpath&amp;mode=all">File-SearchPath</uri></ti>
@@ -315,6 +320,11 @@ will curb some of the bugs to boot).
     <ti align="right">20101217</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pgplot&amp;mode=all">PGPLOT</uri></ti>
+    <ti align="right">2.20</ti>
+    <ti align="right">2.21</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pod::readme&amp;mode=all">Pod-Readme</uri></ti>
     <ti align="right">0.10</ti>
     <ti align="right">0.11</ti>
@@ -427,7 +437,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 75 of 1056
+Total packages suspected as outdated: 77 of 1056
 </p>
 
 </body>

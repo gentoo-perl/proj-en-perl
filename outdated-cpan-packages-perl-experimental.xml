@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.386 2010/12/31 07:30:44 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.387 2011/01/02 13:40:56 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2010-12-31</date>
+<date>2011-01-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -61,6 +61,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.7</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Audio-Musepack-1.01/">1.01</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Audio-Musepack-0.7&amp;to=Audio-Musepack-1.01&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=autovivification&amp;mode=all">autovivification</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/autovivification-0.07/">0.07</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=autovivification-0.06&amp;to=autovivification-0.07&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::model::dbic::schema&amp;mode=all">Catalyst-Model-DBIC-Schema</uri></ti>
@@ -141,6 +147,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Config-INI-0.016&amp;to=Config-INI-0.017&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::jfdi&amp;mode=all">Config-JFDI</uri></ti>
+    <ti align="right">0.064</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Config-JFDI-0.065/">0.065</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Config-JFDI-0.064&amp;to=Config-JFDI-0.065&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::json&amp;mode=all">Config-JSON</uri></ti>
     <ti align="right">1.5000</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Config-JSON-1.5100/">1.5100</uri></ti>
@@ -193,6 +205,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.02</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-ReportVersions-Tiny-1.03/">1.03</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-ReportVersions-Tiny-1.02&amp;to=Dist-Zilla-Plugin-ReportVersions-Tiny-1.03&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::kentnl&amp;mode=all">Dist-Zilla-PluginBundle-KENTNL</uri></ti>
+    <ti align="right">0.01017322</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-KENTNL-0.01023312/">0.01023312</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-KENTNL-0.01017322&amp;to=Dist-Zilla-PluginBundle-KENTNL-0.01023312&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::fetch&amp;mode=all">File-Fetch</uri> (virtual/perl-File-Fetch)</ti>
@@ -419,7 +437,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 61 of 617
+Total packages suspected as outdated: 64 of 617
 </p>
 
 </body>

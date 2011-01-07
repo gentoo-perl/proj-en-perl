@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.391 2011/01/06 07:48:28 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.392 2011/01/07 07:15:38 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-01-06</date>
+<date>2011-01-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -69,6 +69,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-RenderView-0.14&amp;to=Catalyst-Action-RenderView-0.16&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=catalyst::engine::psgi&amp;mode=all">Catalyst-Engine-PSGI</uri></ti>
+    <ti align="right">0.11</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Engine-PSGI-0.12/">0.12</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Engine-PSGI-0.11&amp;to=Catalyst-Engine-PSGI-0.12&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::errorcatcher&amp;mode=all">Catalyst-Plugin-ErrorCatcher</uri></ti>
     <ti align="right">0.084</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-ErrorCatcher-0.085/">0.085</uri></ti>
@@ -91,6 +97,12 @@ will curb some of the bugs to boot).
     <ti align="right">2.17</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Dispatch-2.18/">2.18</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Dispatch-2.17&amp;to=CGI-Application-Dispatch-2.18&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=config::gitlike&amp;mode=all">Config-GitLike</uri></ti>
+    <ti align="right">1.04</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Config-GitLike-1.05/">1.05</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Config-GitLike-1.04&amp;to=Config-GitLike-1.05&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::jfdi&amp;mode=all">Config-JFDI</uri></ti>
@@ -153,6 +165,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-ReportVersions-Tiny-1.02&amp;to=Dist-Zilla-Plugin-ReportVersions-Tiny-1.03&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::repository&amp;mode=all">Dist-Zilla-Plugin-Repository</uri></ti>
+    <ti align="right">0.16</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Repository-0.17/">0.17</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Repository-0.16&amp;to=Dist-Zilla-Plugin-Repository-0.17&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=getopt::lucid&amp;mode=all">Getopt-Lucid</uri></ti>
     <ti align="right">0.18</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Getopt-Lucid-0.19/">0.19</uri></ti>
@@ -183,6 +201,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=HTTP-Parser-XS-0.12&amp;to=HTTP-Parser-XS-0.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=javascript::packer&amp;mode=all">JavaScript-Packer</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/JavaScript-Packer-0.0601/">0.0601</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=JavaScript-Packer-0.04&amp;to=JavaScript-Packer-0.0601&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=kinosearch&amp;mode=all">KinoSearch</uri></ti>
     <ti align="right">0.165</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/KinoSearch-0.311/">0.311</uri></ti>
@@ -211,6 +235,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.102350</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Log-Dispatchouli-2.000/">2.000</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Log-Dispatchouli-1.102350&amp;to=Log-Dispatchouli-2.000&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mojolicious&amp;mode=all">Mojolicious</uri></ti>
+    <ti align="right">1.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.01/">1.01</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.0&amp;to=Mojolicious-1.01&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mojomojo&amp;mode=all">MojoMojo</uri></ti>
@@ -359,7 +389,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 51 of 618
+Total packages suspected as outdated: 56 of 618
 </p>
 
 </body>

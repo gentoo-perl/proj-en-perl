@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2598 2011/01/14 09:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2599 2011/01/14 17:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -80,9 +80,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.13</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=common::sense&amp;mode=all">common-sense</uri></ti>
+    <ti align="right">3.3</ti>
+    <ti align="right">3.4</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=css::squish&amp;mode=all">CSS-Squish</uri></ti>
     <ti align="right">0.09</ti>
     <ti align="right">0.10</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::format::natural&amp;mode=all">DateTime-Format-Natural</uri></ti>
+    <ti align="right">0.91</ti>
+    <ti align="right">0.92</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::ttf&amp;mode=all">Font-TTF</uri></ti>
@@ -96,7 +106,7 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
-    <ti align="right">0.36</ti>
+    <ti align="right">0.35</ti>
     <ti align="right">0.38</ti>
   </tr>
   <tr>
@@ -162,7 +172,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 1060
+Total packages suspected as outdated: 24 of 1060
 </p>
 
 </body>

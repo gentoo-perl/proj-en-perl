@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.398 2011/01/13 07:24:52 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.399 2011/01/14 07:26:16 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-01-13</date>
+<date>2011-01-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -52,9 +52,9 @@ will curb some of the bugs to boot).
   </tr>
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
-    <ti align="right">0.87</ti>
+    <ti align="right">0.870</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.88/">0.88</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-REST-0.87&amp;to=Catalyst-Action-REST-0.88&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-REST-0.870&amp;to=Catalyst-Action-REST-0.88&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=catalyst::devel&amp;mode=all">Catalyst-Devel</uri></ti>
@@ -77,8 +77,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::serializer&amp;mode=all">Data-Serializer</uri></ti>
     <ti align="right">0.52</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Data-Serializer-0.53/">0.53</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Data-Serializer-0.52&amp;to=Data-Serializer-0.53&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Data-Serializer-0.54/">0.54</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Data-Serializer-0.52&amp;to=Data-Serializer-0.54&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::repository&amp;mode=all">Dist-Zilla-Plugin-Repository</uri></ti>
@@ -91,6 +91,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.01023312</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-KENTNL-1.01/">1.01</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-KENTNL-0.01023312&amp;to=Dist-Zilla-PluginBundle-KENTNL-1.01&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=filesys::notify::simple&amp;mode=all">Filesys-Notify-Simple</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Filesys-Notify-Simple-0.07/">0.07</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Filesys-Notify-Simple-0.06&amp;to=Filesys-Notify-Simple-0.07&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=javascript::packer&amp;mode=all">JavaScript-Packer</uri></ti>
@@ -113,8 +119,20 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=log::dispatchouli&amp;mode=all">Log-Dispatchouli</uri></ti>
     <ti align="right">1.102350</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Log-Dispatchouli-2.000/">2.000</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Log-Dispatchouli-1.102350&amp;to=Log-Dispatchouli-2.000&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Log-Dispatchouli-2.001/">2.001</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Log-Dispatchouli-1.102350&amp;to=Log-Dispatchouli-2.001&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mojomojo&amp;mode=all">MojoMojo</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MojoMojo-1.03/">1.03</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-1.02&amp;to=MojoMojo-1.03&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::role::restricted&amp;mode=all">MooseX-Role-Restricted</uri></ti>
+    <ti align="right">1.02</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Restricted-1.03/">1.03</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Restricted-1.02&amp;to=MooseX-Role-Restricted-1.03&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
@@ -127,6 +145,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.04</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Search-GIN-0.07/">0.07</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Search-GIN-0.04&amp;to=Search-GIN-0.07&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=string::flogger&amp;mode=all">String-Flogger</uri></ti>
+    <ti align="right">1.101240</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/String-Flogger-1.101241/">1.101241</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=String-Flogger-1.101240&amp;to=String-Flogger-1.101241&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::catalyst&amp;mode=all">Task-Catalyst</uri></ti>
@@ -149,7 +173,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 622
+Total packages suspected as outdated: 20 of 622
 </p>
 
 </body>

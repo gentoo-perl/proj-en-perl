@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2599 2011/01/14 17:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2600 2011/01/15 09:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-01-14</date>
+<date>2011-01-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,16 +60,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.313</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::nopaste&amp;mode=all">App-Nopaste</uri></ti>
-    <ti align="right">0.23</ti>
-    <ti align="right">0.25</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=boolean&amp;mode=all">boolean</uri></ti>
-    <ti align="right">0.23</ti>
-    <ti align="right">0.24</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.19</ti>
@@ -80,19 +70,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.13</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=common::sense&amp;mode=all">common-sense</uri></ti>
-    <ti align="right">3.3</ti>
-    <ti align="right">3.4</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=css::squish&amp;mode=all">CSS-Squish</uri></ti>
     <ti align="right">0.09</ti>
     <ti align="right">0.10</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::format::natural&amp;mode=all">DateTime-Format-Natural</uri></ti>
-    <ti align="right">0.91</ti>
-    <ti align="right">0.92</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::ttf&amp;mode=all">Font-TTF</uri></ti>
@@ -113,11 +93,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">3.650</ti>
     <ti align="right">3.71</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::socket::inet6&amp;mode=all">IO-Socket-INET6</uri></ti>
-    <ti align="right">2.63</ti>
-    <ti align="right">2.66</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=json&amp;mode=all">JSON</uri></ti>
@@ -172,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 1060
+Total packages suspected as outdated: 19 of 1061
 </p>
 
 </body>

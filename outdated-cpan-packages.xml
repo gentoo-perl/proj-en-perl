@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2602 2011/01/16 01:52:27 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2603 2011/01/16 09:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -58,11 +58,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=app::cli&amp;mode=all">App-CLI</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right">0.313</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=boolean&amp;mode=all">boolean</uri></ti>
-    <ti align="right">0.240</ti>
-    <ti align="right">0.25</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
@@ -128,6 +123,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=netpacket&amp;mode=all">NetPacket</uri></ti>
     <ti align="right">1.01</ti>
     <ti align="right">1.10</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=perlbal&amp;mode=all">Perlbal</uri></ti>
+    <ti align="right">1.76</ti>
+    <ti align="right">1.77</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=podlators&amp;mode=all">podlators</uri> (virtual/perl-podlators)</ti>

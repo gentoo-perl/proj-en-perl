@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2606 2011/01/18 01:52:25 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2607 2011/01/18 09:52:25 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -65,19 +65,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=css::squish&amp;mode=all">CSS-Squish</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right">0.10</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::ttf&amp;mode=all">Font-TTF</uri></ti>
     <ti align="right">0.45</ti>
     <ti align="right">0.48</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=http::browserdetect&amp;mode=all">HTTP-BrowserDetect</uri></ti>
-    <ti align="right">1.20</ti>
-    <ti align="right">1.21</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
@@ -100,11 +90,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.31</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=marc::record&amp;mode=all">MARC-Record</uri></ti>
-    <ti align="right">2.02</ti>
-    <ti align="right">2.03</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.41</ti>
     <ti align="right">2.42</ti>
@@ -125,11 +110,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.40</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=proc::daemon&amp;mode=all">Proc-Daemon</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right">0.06</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
     <ti align="right">0.0801</ti>
     <ti align="right">0.09</ti>
@@ -142,7 +122,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 1061
+Total packages suspected as outdated: 14 of 1061
 </p>
 
 </body>

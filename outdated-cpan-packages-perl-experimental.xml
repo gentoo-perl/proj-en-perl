@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.405 2011/01/21 07:21:14 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.406 2011/01/22 08:00:15 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-01-21</date>
+<date>2011-01-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -69,6 +69,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=CPAN-Inject-1.12&amp;to=CPAN-Inject-1.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpan::reporter&amp;mode=all">CPAN-Reporter</uri></ti>
+    <ti align="right">1.1803</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.1900/">1.1900</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Reporter-1.1803&amp;to=CPAN-Reporter-1.1900&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=css::packer&amp;mode=all">CSS-Packer</uri></ti>
     <ti align="right">0.2</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CSS-Packer-1.000/">1.000</uri></ti>
@@ -91,6 +97,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.06</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-DateTime-Epoch-0.07/">0.07</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-DateTime-Epoch-0.06&amp;to=DBIx-Class-DateTime-Epoch-0.07&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::class::tree&amp;mode=all">DBIx-Class-Tree</uri></ti>
+    <ti align="right">0.03002</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Tree-0.03003/">0.03003</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Tree-0.03002&amp;to=DBIx-Class-Tree-0.03003&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
@@ -135,6 +147,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-Backend-DBI-1.15&amp;to=KiokuDB-Backend-DBI-1.18&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=list::moreutils&amp;mode=all">List-MoreUtils</uri></ti>
+    <ti align="right">0.26</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/List-MoreUtils-0.30/">0.30</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=List-MoreUtils-0.26&amp;to=List-MoreUtils-0.30&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=local::lib&amp;mode=all">local-lib</uri></ti>
     <ti align="right">1.008000</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/local-lib-1.008001/">1.008001</uri></ti>
@@ -143,14 +161,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=log::dispatchouli&amp;mode=all">Log-Dispatchouli</uri></ti>
     <ti align="right">1.102350</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Log-Dispatchouli-2.002/">2.002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Log-Dispatchouli-1.102350&amp;to=Log-Dispatchouli-2.002&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mojomojo&amp;mode=all">MojoMojo</uri></ti>
-    <ti align="right">1.02</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MojoMojo-1.03/">1.03</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-1.02&amp;to=MojoMojo-1.03&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Log-Dispatchouli-2.004/">2.004</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Log-Dispatchouli-1.102350&amp;to=Log-Dispatchouli-2.004&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
@@ -161,7 +173,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 621
+Total packages suspected as outdated: 20 of 627
 </p>
 
 </body>

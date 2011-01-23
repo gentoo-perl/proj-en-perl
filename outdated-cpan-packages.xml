@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2620 2011/01/23 09:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2621 2011/01/23 17:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,9 +50,9 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=apache::test&amp;mode=all">Apache-Test</uri></ti>
-    <ti align="right">1.340</ti>
-    <ti align="right">1.35</ti>
+    <ti><uri link="http://search.cpan.org/search?query=anyevent&amp;mode=all">AnyEvent</uri></ti>
+    <ti align="right">5.300</ti>
+    <ti align="right">5.31</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=app::cli&amp;mode=all">App-CLI</uri></ti>
@@ -85,6 +85,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.50</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mail::builder::simple&amp;mode=all">Mail-Builder-Simple</uri></ti>
+    <ti align="right">0.14</ti>
+    <ti align="right">0.15</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=marc::charset&amp;mode=all">MARC-Charset</uri></ti>
     <ti align="right">1.3</ti>
     <ti align="right">1.31</ti>
@@ -98,11 +103,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=package::stash&amp;mode=all">Package-Stash</uri></ti>
     <ti align="right">0.230</ti>
     <ti align="right">0.24</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perlbal&amp;mode=all">Perlbal</uri></ti>
-    <ti align="right">1.770</ti>
-    <ti align="right">1.78</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=podlators&amp;mode=all">podlators</uri> (virtual/perl-podlators)</ti>
@@ -119,15 +119,10 @@ will curb some of the bugs to boot).
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=uri&amp;mode=all">URI</uri></ti>
-    <ti align="right">1.55</ti>
-    <ti align="right">1.58</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 15 of 1061
+Total packages suspected as outdated: 14 of 1061
 </p>
 
 </body>

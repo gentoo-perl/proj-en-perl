@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2626 2011/01/25 09:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2627 2011/01/25 17:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -70,16 +70,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.52</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::dump::streamer&amp;mode=all">Data-Dump-Streamer</uri></ti>
-    <ti align="right">2.230</ti>
-    <ti align="right">2.25</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">1.26</ti>
-    <ti align="right">1.27</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=font::ttf&amp;mode=all">Font-TTF</uri></ti>
     <ti align="right">0.45</ti>
     <ti align="right">0.48</ti>
@@ -122,17 +112,17 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=package::stash&amp;mode=all">Package-Stash</uri></ti>
     <ti align="right">0.230</ti>
-    <ti align="right">0.24</ti>
+    <ti align="right">0.25</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=package::stash::xs&amp;mode=all">Package-Stash-XS</uri></ti>
+    <ti align="right">0.200</ti>
+    <ti align="right">0.21</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=parse::cpan::meta&amp;mode=all">Parse-CPAN-Meta</uri> (virtual/perl-Parse-CPAN-Meta)</ti>
     <ti align="right">1.40</ti>
     <ti align="right">1.4200</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pdf::api2&amp;mode=all">PDF-API2</uri></ti>
-    <ti align="right">0.73</ti>
-    <ti align="right">2.016</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=podlators&amp;mode=all">podlators</uri> (virtual/perl-podlators)</ti>
@@ -152,7 +142,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 1061
+Total packages suspected as outdated: 18 of 1065
 </p>
 
 </body>

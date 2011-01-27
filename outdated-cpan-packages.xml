@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2629 2011/01/27 01:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2630 2011/01/27 09:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,54 +50,19 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=apache::authcookie&amp;mode=all">Apache-AuthCookie</uri></ti>
-    <ti align="right">3.170</ti>
-    <ti align="right">3.18</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::cli&amp;mode=all">App-CLI</uri></ti>
-    <ti align="right">0.08</ti>
-    <ti align="right">0.313</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.19</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=extutils::depends&amp;mode=all">extutils-depends</uri></ti>
-    <ti align="right">0.303</ti>
-    <ti align="right">0.304</ti>
+    <ti><uri link="http://search.cpan.org/search?query=class::inspector&amp;mode=all">Class-Inspector</uri></ti>
+    <ti align="right">1.24</ti>
+    <ti align="right">1.25</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=font::ttf&amp;mode=all">Font-TTF</uri></ti>
-    <ti align="right">0.45</ti>
-    <ti align="right">0.48</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
-    <ti align="right">0.35</ti>
-    <ti align="right">0.38</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
-    <ti align="right">3.650</ti>
-    <ti align="right">3.71</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=json&amp;mode=all">JSON</uri></ti>
-    <ti align="right">2.27</ti>
-    <ti align="right">2.50</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mail::builder::simple&amp;mode=all">Mail-Builder-Simple</uri></ti>
-    <ti align="right">0.14</ti>
-    <ti align="right">0.15</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=marc::charset&amp;mode=all">MARC-Charset</uri></ti>
-    <ti align="right">1.3</ti>
-    <ti align="right">1.31</ti>
+    <ti><uri link="http://search.cpan.org/search?query=class::unload&amp;mode=all">Class-Unload</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right">0.07</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">Module-Build</uri> (virtual/perl-Module-Build)</ti>
@@ -105,19 +70,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.3623</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=netpacket&amp;mode=all">NetPacket</uri></ti>
-    <ti align="right">1.01</ti>
-    <ti align="right">1.10</ti>
+    <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
+    <ti align="right">0.880</ti>
+    <ti align="right">0.89</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=parse::cpan::meta&amp;mode=all">Parse-CPAN-Meta</uri> (virtual/perl-Parse-CPAN-Meta)</ti>
     <ti align="right">1.40</ti>
     <ti align="right">1.4200</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=podlators&amp;mode=all">podlators</uri> (virtual/perl-podlators)</ti>
-    <ti align="right">2.31</ti>
-    <ti align="right">2.40</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
@@ -132,7 +92,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 1065
+Total packages suspected as outdated: 8 of 1065
 </p>
 
 </body>

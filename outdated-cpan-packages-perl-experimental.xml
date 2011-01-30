@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.411 2011/01/29 06:53:28 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.412 2011/01/30 07:48:55 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-01-29</date>
+<date>2011-01-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,36 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.1006</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.1008/">1.1008</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.1006&amp;to=App-cpanminus-1.1008&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=autobox&amp;mode=all">autobox</uri></ti>
-    <ti align="right">2.71</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/autobox-2.72/">2.72</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=autobox-2.71&amp;to=autobox-2.72&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::action::rest&amp;mode=all">Catalyst-Action-REST</uri></ti>
-    <ti align="right">0.88</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.89/">0.89</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-REST-0.88&amp;to=Catalyst-Action-REST-0.89&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::controller::formbuilder&amp;mode=all">Catalyst-Controller-FormBuilder</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Controller-FormBuilder-0.06/">0.06</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Controller-FormBuilder-0.05&amp;to=Catalyst-Controller-FormBuilder-0.06&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::authentication&amp;mode=all">Catalyst-Plugin-Authentication</uri></ti>
-    <ti align="right">0.10016</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Authentication-0.10017/">0.10017</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Authentication-0.10016&amp;to=Catalyst-Plugin-Authentication-0.10017&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=catalyst::plugin::errorcatcher&amp;mode=all">Catalyst-Plugin-ErrorCatcher</uri></ti>
-    <ti align="right">0.0.8.5</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-ErrorCatcher-0.087/">0.087</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-ErrorCatcher-0.0.8.5&amp;to=Catalyst-Plugin-ErrorCatcher-0.087&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::meta&amp;mode=all">CPAN-Meta</uri></ti>
@@ -129,12 +99,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Tree-0.03002&amp;to=DBIx-Class-Tree-0.03003&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel::stacktrace::ashtml&amp;mode=all">Devel-StackTrace-AsHTML</uri></ti>
-    <ti align="right">0.09</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-StackTrace-AsHTML-0.11/">0.11</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Devel-StackTrace-AsHTML-0.09&amp;to=Devel-StackTrace-AsHTML-0.11&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
     <ti align="right">4.200000</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.200001/">4.200001</uri></ti>
@@ -151,12 +115,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.000000</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-KENTNL-1.01/">1.01</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-KENTNL-1.000000&amp;to=Dist-Zilla-PluginBundle-KENTNL-1.01&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=filesys::notify::simple&amp;mode=all">Filesys-Notify-Simple</uri></ti>
-    <ti align="right">0.06</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Filesys-Notify-Simple-0.07/">0.07</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Filesys-Notify-Simple-0.06&amp;to=Filesys-Notify-Simple-0.07&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::packer&amp;mode=all">HTML-Packer</uri></ti>
@@ -183,10 +141,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=local-lib-1.008000&amp;to=local-lib-1.008001&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
-    <ti align="right">0.9963</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9967/">0.9967</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9963&amp;to=Plack-0.9967&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::params::validate&amp;mode=all">MooseX-Params-Validate</uri></ti>
+    <ti align="right">0.15</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Params-Validate-0.16/">0.16</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Params-Validate-0.15&amp;to=MooseX-Params-Validate-0.16&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
@@ -194,16 +152,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.28/">0.28</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.26&amp;to=Task-Kensho-0.28&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=tee&amp;mode=all">Tee</uri></ti>
-    <ti align="right">0.13</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Tee-0.14/">0.14</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Tee-0.13&amp;to=Tee-0.14&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 632
+Total packages suspected as outdated: 17 of 634
 </p>
 
 </body>

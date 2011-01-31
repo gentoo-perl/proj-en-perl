@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.413 2011/01/30 09:40:49 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.414 2011/01/31 09:12:48 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
 <title>Outdated CPAN Packages (perl-experimental vs CPAN)</title>
 
 <author title="Author">
-  Script generated using up2date-ng version 0.24_pre2
+  Script generated using up2date-ng version 0.24_pre3
 </author>
 
 <abstract>
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-01-30</date>
+<date>2011-01-31</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,100 +51,10 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::cpanminus&amp;mode=all">App-cpanminus</uri></ti>
-    <ti align="right">1.1006</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.1008/">1.1008</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.1006&amp;to=App-cpanminus-1.1008&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::meta&amp;mode=all">CPAN-Meta</uri></ti>
-    <ti align="right">2.102400</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Meta-2.110240/">2.110240</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Meta-2.102400&amp;to=CPAN-Meta-2.110240&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::reporter&amp;mode=all">CPAN-Reporter</uri></ti>
-    <ti align="right">1.1803</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.1902/">1.1902</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Reporter-1.1803&amp;to=CPAN-Reporter-1.1902&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=css::packer&amp;mode=all">CSS-Packer</uri></ti>
-    <ti align="right">0.2</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CSS-Packer-1.000/">1.000</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CSS-Packer-0.2&amp;to=CSS-Packer-1.000&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::guid&amp;mode=all">Data-GUID</uri></ti>
-    <ti align="right">0.045</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Data-GUID-0.046/">0.046</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Data-GUID-0.045&amp;to=Data-GUID-0.046&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::serializer&amp;mode=all">Data-Serializer</uri></ti>
-    <ti align="right">0.52</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Data-Serializer-0.57/">0.57</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Data-Serializer-0.52&amp;to=Data-Serializer-0.57&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbix::class::datetime::epoch&amp;mode=all">DBIx-Class-DateTime-Epoch</uri></ti>
-    <ti align="right">0.06</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-DateTime-Epoch-0.07/">0.07</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-DateTime-Epoch-0.06&amp;to=DBIx-Class-DateTime-Epoch-0.07&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbix::class::tree&amp;mode=all">DBIx-Class-Tree</uri></ti>
-    <ti align="right">0.03002</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Tree-0.03003/">0.03003</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Tree-0.03002&amp;to=DBIx-Class-Tree-0.03003&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla&amp;mode=all">Dist-Zilla</uri></ti>
-    <ti align="right">4.200000</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.200001/">4.200001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.200000&amp;to=Dist-Zilla-4.200001&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dist::zilla::plugin::twitter&amp;mode=all">Dist-Zilla-Plugin-Twitter</uri></ti>
-    <ti align="right">0.009</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Twitter-0.010/">0.010</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Twitter-0.009&amp;to=Dist-Zilla-Plugin-Twitter-0.010&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=dist::zilla::pluginbundle::kentnl&amp;mode=all">Dist-Zilla-PluginBundle-KENTNL</uri></ti>
     <ti align="right">1.000000</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-KENTNL-1.0.1/">1.0.1</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-KENTNL-1.000000&amp;to=Dist-Zilla-PluginBundle-KENTNL-1.0.1&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=html::packer&amp;mode=all">HTML-Packer</uri></ti>
-    <ti align="right">0.4</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-Packer-1.000/">1.000</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-Packer-0.4&amp;to=HTML-Packer-1.000&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=javascript::packer&amp;mode=all">JavaScript-Packer</uri></ti>
-    <ti align="right">1.000</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/JavaScript-Packer-1.002/">1.002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=JavaScript-Packer-1.000&amp;to=JavaScript-Packer-1.002&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=list::moreutils&amp;mode=all">List-MoreUtils</uri></ti>
-    <ti align="right">0.26</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/List-MoreUtils-0.30/">0.30</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=List-MoreUtils-0.26&amp;to=List-MoreUtils-0.30&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=local::lib&amp;mode=all">local-lib</uri></ti>
-    <ti align="right">1.008000</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/local-lib-1.008001/">1.008001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=local-lib-1.008000&amp;to=local-lib-1.008001&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=moosex::params::validate&amp;mode=all">MooseX-Params-Validate</uri></ti>
-    <ti align="right">0.15</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Params-Validate-0.16/">0.16</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Params-Validate-0.15&amp;to=MooseX-Params-Validate-0.16&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=task::kensho&amp;mode=all">Task-Kensho</uri></ti>
@@ -155,7 +65,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 634
+Total packages suspected as outdated: 2 of 636
 </p>
 
 </body>

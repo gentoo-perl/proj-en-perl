@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2651 2011/02/05 09:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2652 2011/02/05 17:52:25 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,11 +75,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.33</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=namespace::autoclean&amp;mode=all">namespace-autoclean</uri></ti>
-    <ti align="right">0.11</ti>
-    <ti align="right">0.12</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=parse::cpan::meta&amp;mode=all">Parse-CPAN-Meta</uri> (virtual/perl-Parse-CPAN-Meta)</ti>
     <ti align="right">1.440</ti>
     <ti align="right">1.4401</ti>
@@ -90,14 +85,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.09</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sql::statement&amp;mode=all">SQL-Statement</uri></ti>
+    <ti align="right">1.320</ti>
+    <ti align="right">1.33</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.17</ti>
     <ti align="right">3.02</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=tie::cache::lru&amp;mode=all">Tie-Cache-LRU</uri></ti>
-    <ti align="right">20081023.2116</ti>
-    <ti align="right">20110205</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=wx::perl::processstream&amp;mode=all">Wx-Perl-ProcessStream</uri></ti>
@@ -107,7 +102,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 11 of 1074
+Total packages suspected as outdated: 10 of 1074
 </p>
 
 </body>

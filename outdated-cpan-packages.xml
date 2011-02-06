@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2653 2011/02/06 01:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2654 2011/02/06 17:52:37 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -82,7 +82,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::bigint::fastcalc&amp;mode=all">Math-BigInt-FastCalc</uri> (virtual/perl-Math-BigInt-FastCalc)</ti>
     <ti align="right">0.24</ti>
-    <ti align="right">0.25</ti>
+    <ti align="right">0.251</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::bigint::gmp&amp;mode=all">Math-BigInt-GMP</uri></ti>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.421 2011/02/09 07:24:56 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.422 2011/02/10 07:16:47 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-02-09</date>
+<date>2011-02-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,12 +53,12 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/dist/CHI">CHI</uri></ti>
     <ti align="right">0.36</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CHI-0.38/">0.38</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CHI-0.36&amp;to=CHI-0.38&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CHI-0.39/">0.39</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CHI-0.36&amp;to=CHI-0.39&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Dist-Zilla">Dist-Zilla</uri></ti>
-    <ti align="right">4.200.1</ti>
+    <ti align="right">4.200.3</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.200003/">4.200003</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.200001&amp;to=Dist-Zilla-4.200003&amp;w=1">Diff</uri></ti>
   </tr>
@@ -81,10 +81,28 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-RJBS-1.004&amp;to=Dist-Zilla-PluginBundle-RJBS-1.006&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/dist/MooseX-Aliases">MooseX-Aliases</uri></ti>
+    <ti align="right">0.80</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Aliases-0.09/">0.09</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Aliases-0.08&amp;to=MooseX-Aliases-0.09&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/MooseX-ClassAttribute">MooseX-ClassAttribute</uri></ti>
     <ti align="right">0.210-r1</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-ClassAttribute-0.22/">0.22</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-ClassAttribute-0.21&amp;to=MooseX-ClassAttribute-0.22&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/MooseX-NonMoose">MooseX-NonMoose</uri></ti>
+    <ti align="right">0.170</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-NonMoose-0.18/">0.18</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-NonMoose-0.17&amp;to=MooseX-NonMoose-0.18&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Plack">Plack</uri></ti>
+    <ti align="right">0.996.700</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9968/">0.9968</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9967&amp;to=Plack-0.9968&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Task-Kensho">Task-Kensho</uri></ti>
@@ -93,15 +111,15 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.26&amp;to=Task-Kensho-0.28&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/namespace-autoclean">namespace-autoclean</uri></ti>
-    <ti align="right">0.11</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/namespace-autoclean-0.12/">0.12</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=namespace-autoclean-0.11&amp;to=namespace-autoclean-0.12&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Term-UI">Term-UI</uri> (virtual/perl-Term-UI)</ti>
+    <ti align="right">0.240</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Term-UI-0.26/">0.26</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Term-UI-0.24&amp;to=Term-UI-0.26&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 8 of 643
+Total packages suspected as outdated: 11 of 643
 </p>
 
 </body>

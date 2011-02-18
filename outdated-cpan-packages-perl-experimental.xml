@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.431 2011/02/17 07:40:17 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.432 2011/02/18 06:15:07 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-02-17</date>
+<date>2011-02-18</date>
 
 <chapter>
 <title>Intro</title>
@@ -63,6 +63,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Schema-Loader-0.07006&amp;to=DBIx-Class-Schema-Loader-0.07007&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
+    <ti align="right">1.110.330</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.110480/">1.110480</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.110330&amp;to=Dist-Zilla-Plugin-Git-1.110480&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/HTML-Selector-XPath">HTML-Selector-XPath</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-Selector-XPath-0.06/">0.06</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-Selector-XPath-0.04&amp;to=HTML-Selector-XPath-0.06&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/Proc-Wait3">Proc-Wait3</uri></ti>
     <ti align="right">0.03</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Proc-Wait3-0.04/">0.04</uri></ti>
@@ -81,21 +93,21 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.26&amp;to=Task-Kensho-0.28&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/Test-CPAN-Meta">Test-CPAN-Meta</uri></ti>
-    <ti align="right">0.17</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Test-CPAN-Meta-0.18/">0.18</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Test-CPAN-Meta-0.17&amp;to=Test-CPAN-Meta-0.18&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Test-YAML-Meta">Test-YAML-Meta</uri></ti>
+    <ti align="right">0.180</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Test-YAML-Meta-0.19/">0.19</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Test-YAML-Meta-0.18&amp;to=Test-YAML-Meta-0.19&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/Test-YAML-Meta">Test-YAML-Meta</uri></ti>
-    <ti align="right">0.16</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Test-YAML-Meta-0.19/">0.19</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Test-YAML-Meta-0.16&amp;to=Test-YAML-Meta-0.19&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Web-Scraper">Web-Scraper</uri></ti>
+    <ti align="right">0.32</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Web-Scraper-0.33/">0.33</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Web-Scraper-0.32&amp;to=Web-Scraper-0.33&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 7 of 647
+Total packages suspected as outdated: 9 of 648
 </p>
 
 </body>

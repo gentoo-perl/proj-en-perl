@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2674 2011/02/18 17:52:25 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2675 2011/02/19 09:52:26 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-02-18</date>
+<date>2011-02-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.111001</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::abstract&amp;mode=all">Email-Abstract</uri></ti>
+    <ti align="right">3.003</ti>
+    <ti align="right">3.004</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::remove&amp;mode=all">File-Remove</uri></ti>
     <ti align="right">1.42</ti>
     <ti align="right">1.46</ti>
@@ -80,9 +85,19 @@ will curb some of the bugs to boot).
     <ti align="right">3.27</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=math::bigint&amp;mode=all">Math-BigInt</uri> (virtual/perl-Math-BigInt)</ti>
+    <ti align="right">1.991</ti>
+    <ti align="right">1.992</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::bigrat&amp;mode=all">Math-BigRat</uri></ti>
     <ti align="right">0.26</ti>
     <ti align="right">0.2602</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mime::charset&amp;mode=all">MIME-Charset</uri></ti>
+    <ti align="right">1.008</ti>
+    <ti align="right">1.0081</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mime::tools&amp;mode=all">MIME-tools</uri></ti>
@@ -132,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 1074
+Total packages suspected as outdated: 19 of 1074
 </p>
 
 </body>

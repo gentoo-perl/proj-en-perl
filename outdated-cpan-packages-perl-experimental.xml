@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.434 2011/02/20 07:39:27 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.435 2011/02/21 06:58:33 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-02-20</date>
+<date>2011-02-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,10 +75,28 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.110330&amp;to=Dist-Zilla-Plugin-Git-1.110500&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/dist/Excel-Template">Excel-Template</uri></ti>
+    <ti align="right">0.32</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Excel-Template-0.33/">0.33</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Excel-Template-0.32&amp;to=Excel-Template-0.33&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/Gitalist">Gitalist</uri></ti>
     <ti align="right">0.2.6</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Gitalist-0.002007/">0.002007</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Gitalist-0.002006&amp;to=Gitalist-0.002007&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/POE-Component-Client-Keepalive">POE-Component-Client-Keepalive</uri></ti>
+    <ti align="right">0.265</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/POE-Component-Client-Keepalive-0.266/">0.266</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=POE-Component-Client-Keepalive-0.265&amp;to=POE-Component-Client-Keepalive-0.266&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/POE-Component-Resolver">POE-Component-Resolver</uri></ti>
+    <ti align="right">0.910</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/POE-Component-Resolver-0.911/">0.911</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=POE-Component-Resolver-0.910&amp;to=POE-Component-Resolver-0.911&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Task-Kensho">Task-Kensho</uri></ti>
@@ -89,7 +107,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 6 of 648
+Total packages suspected as outdated: 9 of 648
 </p>
 
 </body>

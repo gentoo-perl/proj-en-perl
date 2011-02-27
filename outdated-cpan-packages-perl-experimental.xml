@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.440 2011/02/26 07:05:08 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.441 2011/02/27 06:56:09 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-02-26</date>
+<date>2011-02-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -93,10 +93,34 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.110330&amp;to=Dist-Zilla-Plugin-Git-1.110500&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/dist/Gitalist">Gitalist</uri></ti>
+    <ti align="right">0.2.7</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Gitalist-0.002008/">0.002008</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Gitalist-0.002007&amp;to=Gitalist-0.002008&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Lexical-Types">Lexical-Types</uri></ti>
+    <ti align="right">0.100</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Lexical-Types-0.11/">0.11</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Lexical-Types-0.10&amp;to=Lexical-Types-0.11&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/MooseX-ClassAttribute">MooseX-ClassAttribute</uri></ti>
     <ti align="right">0.230-r1</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-ClassAttribute-0.24/">0.24</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-ClassAttribute-0.23&amp;to=MooseX-ClassAttribute-0.24&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/MooseX-SemiAffordanceAccessor">MooseX-SemiAffordanceAccessor</uri></ti>
+    <ti align="right">0.80</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-SemiAffordanceAccessor-0.09/">0.09</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-SemiAffordanceAccessor-0.08&amp;to=MooseX-SemiAffordanceAccessor-0.09&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/MooseX-Singleton">MooseX-Singleton</uri></ti>
+    <ti align="right">0.250</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Singleton-0.26/">0.26</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Singleton-0.25&amp;to=MooseX-Singleton-0.26&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/MooseX-StrictConstructor">MooseX-StrictConstructor</uri></ti>
@@ -113,8 +137,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Plack">Plack</uri></ti>
     <ti align="right">0.997</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9972/">0.9972</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9970&amp;to=Plack-0.9972&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9973/">0.9973</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9970&amp;to=Plack-0.9973&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Scope-Upper">Scope-Upper</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Scope-Upper-0.14/">0.14</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Scope-Upper-0.13&amp;to=Scope-Upper-0.14&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Task-Kensho">Task-Kensho</uri></ti>
@@ -143,7 +173,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 15 of 648
+Total packages suspected as outdated: 20 of 648
 </p>
 
 </body>

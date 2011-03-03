@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.444 2011/03/02 07:12:38 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.445 2011/03/03 06:58:49 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-03-02</date>
+<date>2011-03-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,8 +53,8 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/dist/App-cpanminus">App-cpanminus</uri></ti>
     <ti align="right">1.190.200_rc</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.2001/">1.2001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.19_02&amp;to=App-cpanminus-1.2001&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.3000/">1.3000</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.19_02&amp;to=App-cpanminus-1.3000&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/BackPAN-Index">BackPAN-Index</uri></ti>
@@ -93,6 +93,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.110330&amp;to=Dist-Zilla-Plugin-Git-1.110500&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/dist/Eval-Closure">Eval-Closure</uri></ti>
+    <ti align="right">0.20</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Eval-Closure-0.03/">0.03</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Eval-Closure-0.02&amp;to=Eval-Closure-0.03&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/JavaScript-Packer">JavaScript-Packer</uri></ti>
     <ti align="right">1.2</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/JavaScript-Packer-1.002001/">1.002001</uri></ti>
@@ -109,6 +115,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.230-r1</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-ClassAttribute-0.24/">0.24</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-ClassAttribute-0.23&amp;to=MooseX-ClassAttribute-0.24&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/MooseX-NonMoose">MooseX-NonMoose</uri></ti>
+    <ti align="right">0.180</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-NonMoose-0.19/">0.19</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-NonMoose-0.18&amp;to=MooseX-NonMoose-0.19&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized">MooseX-Role-Parameterized</uri></ti>
@@ -155,7 +167,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 653
+Total packages suspected as outdated: 19 of 653
 </p>
 
 </body>

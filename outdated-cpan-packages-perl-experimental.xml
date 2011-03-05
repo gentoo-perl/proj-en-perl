@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.446 2011/03/04 07:12:04 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.447 2011/03/05 06:44:18 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-03-04</date>
+<date>2011-03-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,34 +57,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.19_02&amp;to=App-cpanminus-1.3001&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/BackPAN-Index">BackPAN-Index</uri></ti>
-    <ti align="right">0.390</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/BackPAN-Index-0.40/">0.40</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=BackPAN-Index-0.39&amp;to=BackPAN-Index-0.40&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/CHI">CHI</uri></ti>
-    <ti align="right">0.400.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CHI-0.42/">0.42</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CHI-0.40&amp;to=CHI-0.42&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/CPAN-Meta">CPAN-Meta</uri></ti>
     <ti align="right">2.110.440</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Meta-2.110580/">2.110580</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=CPAN-Meta-2.110440&amp;to=CPAN-Meta-2.110580&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/CSS-Packer">CSS-Packer</uri></ti>
-    <ti align="right">1</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CSS-Packer-1.000001/">1.000001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CSS-Packer-1.000&amp;to=CSS-Packer-1.000001&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
     <ti align="right">0.70.70</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Schema-Loader-0.07009/">0.07009</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Schema-Loader-0.07007&amp;to=DBIx-Class-Schema-Loader-0.07009&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Schema-Loader-0.07010/">0.07010</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Schema-Loader-0.07007&amp;to=DBIx-Class-Schema-Loader-0.07010&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
@@ -93,46 +75,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.110330&amp;to=Dist-Zilla-Plugin-Git-1.110500&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/Eval-Closure">Eval-Closure</uri></ti>
-    <ti align="right">0.20</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Eval-Closure-0.03/">0.03</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Eval-Closure-0.02&amp;to=Eval-Closure-0.03&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/JavaScript-Packer">JavaScript-Packer</uri></ti>
-    <ti align="right">1.2</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/JavaScript-Packer-1.002001/">1.002001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=JavaScript-Packer-1.002&amp;to=JavaScript-Packer-1.002001&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Locale-Codes">Locale-Codes</uri></ti>
-    <ti align="right">3.15</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Locale-Codes-3.16/">3.16</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Locale-Codes-3.15&amp;to=Locale-Codes-3.16&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/MooseX-ClassAttribute">MooseX-ClassAttribute</uri></ti>
     <ti align="right">0.230-r1</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-ClassAttribute-0.24/">0.24</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=MooseX-ClassAttribute-0.23&amp;to=MooseX-ClassAttribute-0.24&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-NonMoose">MooseX-NonMoose</uri></ti>
-    <ti align="right">0.180</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-NonMoose-0.19/">0.19</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-NonMoose-0.18&amp;to=MooseX-NonMoose-0.19&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized">MooseX-Role-Parameterized</uri></ti>
-    <ti align="right">0.230</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.24/">0.24</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.23&amp;to=MooseX-Role-Parameterized-0.24&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-SetOnce">MooseX-SetOnce</uri></ti>
-    <ti align="right">0.100.472-r1</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-SetOnce-0.100473/">0.100473</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-SetOnce-0.100472&amp;to=MooseX-SetOnce-0.100473&amp;w=1">Diff</uri></ti>
+    <ti align="right">0.240.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.25/">0.25</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.24&amp;to=MooseX-Role-Parameterized-0.25&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/MooseX-StrictConstructor">MooseX-StrictConstructor</uri></ti>
@@ -147,28 +99,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/Plack">Plack</uri></ti>
-    <ti align="right">0.997.300</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9974/">0.9974</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9973&amp;to=Plack-0.9974&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Regexp-RegGrp">Regexp-RegGrp</uri></ti>
-    <ti align="right">1</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Regexp-RegGrp-1.000001/">1.000001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Regexp-RegGrp-1.000&amp;to=Regexp-RegGrp-1.000001&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/Task-Kensho">Task-Kensho</uri></ti>
     <ti align="right">0.26</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.28/">0.28</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.26&amp;to=Task-Kensho-0.28&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Test-TCP">Test-TCP</uri></ti>
-    <ti align="right">1.110</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Test-TCP-1.12/">1.12</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Test-TCP-1.11&amp;to=Test-TCP-1.12&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/local-lib">local-lib</uri></ti>
@@ -179,7 +113,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 653
+Total packages suspected as outdated: 10 of 653
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2702 2011/03/04 09:52:25 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2703 2011/03/05 01:52:25 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-03-04</date>
+<date>2011-03-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,6 +75,21 @@ will curb some of the bugs to boot).
     <ti align="right">0.48</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mail::imapclient&amp;mode=all">Mail-IMAPClient</uri></ti>
+    <ti align="right">3.270</ti>
+    <ti align="right">3.28</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=package::stash&amp;mode=all">Package-Stash</uri></ti>
+    <ti align="right">0.250</ti>
+    <ti align="right">0.26</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=package::stash::xs&amp;mode=all">Package-Stash-XS</uri></ti>
+    <ti align="right">0.210</ti>
+    <ti align="right">0.22</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
     <ti align="right">0.0801</ti>
     <ti align="right">0.09</ti>
@@ -87,7 +102,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 7 of 1075
+Total packages suspected as outdated: 10 of 1075
 </p>
 
 </body>

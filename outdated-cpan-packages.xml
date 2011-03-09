@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2711 2011/03/09 09:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2712 2011/03/09 17:52:25 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=digest::sha&amp;mode=all">Digest-SHA</uri> (virtual/perl-Digest-SHA)</ti>
+    <ti align="right">5.6000</ti>
+    <ti align="right">5.61</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::abstract&amp;mode=all">Email-Abstract</uri></ti>
     <ti align="right">3.003</ti>
     <ti align="right">3.004</ti>
@@ -75,9 +80,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.48</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=libwww::perl&amp;mode=all">libwww-perl</uri></ti>
-    <ti align="right">5.837</ti>
-    <ti align="right">6.00</ti>
+    <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
+    <ti align="right">0.38</ti>
+    <ti align="right">0.39</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
@@ -97,7 +102,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 9 of 1077
+Total packages suspected as outdated: 10 of 1088
 </p>
 
 </body>

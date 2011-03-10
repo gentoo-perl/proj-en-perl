@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.451 2011/03/09 07:10:04 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.452 2011/03/10 06:10:38 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-03-09</date>
+<date>2011-03-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,8 +53,14 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/dist/App-cpanminus">App-cpanminus</uri></ti>
     <ti align="right">1.190.200_rc</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.4002/">1.4002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.19_02&amp;to=App-cpanminus-1.4002&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.4003/">1.4003</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.19_02&amp;to=App-cpanminus-1.4003&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/App-perlbrew">App-perlbrew</uri></ti>
+    <ti align="right">0.160</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/App-perlbrew-0.17/">0.17</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=App-perlbrew-0.16&amp;to=App-perlbrew-0.17&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Color-Calc">Color-Calc</uri></ti>
@@ -137,7 +143,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 14 of 653
+Total packages suspected as outdated: 15 of 653
 </p>
 
 </body>

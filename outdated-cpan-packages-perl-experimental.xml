@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.453 2011/03/10 19:08:52 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.454 2011/03/11 06:37:59 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-03-10</date>
+<date>2011-03-11</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,46 +51,10 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/App-perlbrew">App-perlbrew</uri></ti>
-    <ti align="right">0.160</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-perlbrew-0.17/">0.17</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-perlbrew-0.16&amp;to=App-perlbrew-0.17&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/KiokuDB-Backend-DBI">KiokuDB-Backend-DBI</uri></ti>
-    <ti align="right">1.180.0</ti>
+    <ti align="right">1.190.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-Backend-DBI-1.19/">1.19</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-Backend-DBI-1.18&amp;to=KiokuDB-Backend-DBI-1.19&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Mojolicious">Mojolicious</uri></ti>
-    <ti align="right">1.110</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.12/">1.12</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.11&amp;to=Mojolicious-1.12&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-ClassAttribute">MooseX-ClassAttribute</uri></ti>
-    <ti align="right">0.230-r1</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-ClassAttribute-0.24/">0.24</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-ClassAttribute-0.23&amp;to=MooseX-ClassAttribute-0.24&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-InsideOut">MooseX-InsideOut</uri></ti>
-    <ti align="right">0.105</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-InsideOut-0.106/">0.106</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-InsideOut-0.105&amp;to=MooseX-InsideOut-0.106&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized">MooseX-Role-Parameterized</uri></ti>
-    <ti align="right">0.240.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Role-Parameterized-0.25/">0.25</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Role-Parameterized-0.24&amp;to=MooseX-Role-Parameterized-0.25&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-StrictConstructor">MooseX-StrictConstructor</uri></ti>
-    <ti align="right">0.120-r1</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-StrictConstructor-0.13/">0.13</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-StrictConstructor-0.12&amp;to=MooseX-StrictConstructor-0.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -104,16 +68,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.28/">0.28</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.26&amp;to=Task-Kensho-0.28&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/local-lib">local-lib</uri></ti>
-    <ti align="right">1.008.001</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/local-lib-1.008004/">1.008004</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=local-lib-1.008001&amp;to=local-lib-1.008004&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 10 of 654
+Total packages suspected as outdated: 3 of 659
 </p>
 
 </body>

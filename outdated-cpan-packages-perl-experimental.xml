@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.454 2011/03/11 06:37:59 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.455 2011/03/13 07:24:07 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-03-11</date>
+<date>2011-03-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,10 +51,10 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/KiokuDB-Backend-DBI">KiokuDB-Backend-DBI</uri></ti>
-    <ti align="right">1.190.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-Backend-DBI-1.19/">1.19</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-Backend-DBI-1.18&amp;to=KiokuDB-Backend-DBI-1.19&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/MojoMojo">MojoMojo</uri></ti>
+    <ti align="right">1.30</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MojoMojo-1.04/">1.04</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-1.03&amp;to=MojoMojo-1.04&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -62,16 +62,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Task-Kensho">Task-Kensho</uri></ti>
-    <ti align="right">0.26</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.28/">0.28</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.26&amp;to=Task-Kensho-0.28&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 3 of 659
+Total packages suspected as outdated: 2 of 688
 </p>
 
 </body>

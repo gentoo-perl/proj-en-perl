@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.456 2011/03/14 06:35:51 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.457 2011/03/15 06:14:26 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-03-14</date>
+<date>2011-03-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,16 +51,16 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/Gitalist">Gitalist</uri></ti>
-    <ti align="right">0.2.9</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Gitalist-0.003001/">0.003001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Gitalist-0.002009&amp;to=Gitalist-0.003001&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Imager">Imager</uri></ti>
+    <ti align="right">0.810</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Imager-0.82/">0.82</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Imager-0.81&amp;to=Imager-0.82&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/MojoMojo">MojoMojo</uri></ti>
-    <ti align="right">1.30</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MojoMojo-1.04/">1.04</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MojoMojo-1.03&amp;to=MojoMojo-1.04&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Mojolicious">Mojolicious</uri></ti>
+    <ti align="right">1.120</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.13/">1.13</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.12&amp;to=Mojolicious-1.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -68,16 +68,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/autobox">autobox</uri></ti>
-    <ti align="right">2.720</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/autobox-2.73/">2.73</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=autobox-2.72&amp;to=autobox-2.73&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 688
+Total packages suspected as outdated: 3 of 695
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.464 2011/03/25 07:22:36 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.465 2011/03/26 06:06:15 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-03-25</date>
+<date>2011-03-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,39 +51,123 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/Catalyst-Devel">Catalyst-Devel</uri></ti>
-    <ti align="right">1.320.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Devel-1.33/">1.33</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Devel-1.32&amp;to=Catalyst-Devel-1.33&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/KinoSearch">KinoSearch</uri></ti>
-    <ti align="right">0.312.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/KinoSearch-0.313/">0.313</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=KinoSearch-0.312&amp;to=KinoSearch-0.313&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Object-Signature">Object-Signature</uri></ti>
-    <ti align="right">1.05</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Object-Signature-1.07/">1.07</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Object-Signature-1.05&amp;to=Object-Signature-1.07&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
     <ti align="right">0.23.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/perl5i">perl5i</uri></ti>
-    <ti align="right">2.6.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/perl5i-v2.6.1/">v2.6.1</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=perl5i-v2.6.0&amp;to=perl5i-v2.6.1&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho">Task-Kensho</uri></ti>
+    <ti align="right">0.280.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.29/">0.29</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.28&amp;to=Task-Kensho-0.29&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-Async">Task-Kensho-Async</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-Async-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-Async-0.27&amp;to=Task-Kensho-Async-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-CLI">Task-Kensho-CLI</uri></ti>
+    <ti align="right">0.280.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-CLI-0.29/">0.29</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-CLI-0.28&amp;to=Task-Kensho-CLI-0.29&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-Config">Task-Kensho-Config</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-Config-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-Config-0.27&amp;to=Task-Kensho-Config-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-DBDev">Task-Kensho-DBDev</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-DBDev-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-DBDev-0.27&amp;to=Task-Kensho-DBDev-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-Dates">Task-Kensho-Dates</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-Dates-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-Dates-0.27&amp;to=Task-Kensho-Dates-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-Email">Task-Kensho-Email</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-Email-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-Email-0.27&amp;to=Task-Kensho-Email-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-ExcelCSV">Task-Kensho-ExcelCSV</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-ExcelCSV-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-ExcelCSV-0.27&amp;to=Task-Kensho-ExcelCSV-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-Exceptions">Task-Kensho-Exceptions</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-Exceptions-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-Exceptions-0.27&amp;to=Task-Kensho-Exceptions-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-Hackery">Task-Kensho-Hackery</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-Hackery-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-Hackery-0.27&amp;to=Task-Kensho-Hackery-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-ModuleDev">Task-Kensho-ModuleDev</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-ModuleDev-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-ModuleDev-0.27&amp;to=Task-Kensho-ModuleDev-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-OOP">Task-Kensho-OOP</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-OOP-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-OOP-0.27&amp;to=Task-Kensho-OOP-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-Scalability">Task-Kensho-Scalability</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-Scalability-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-Scalability-0.27&amp;to=Task-Kensho-Scalability-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-Testing">Task-Kensho-Testing</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-Testing-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-Testing-0.27&amp;to=Task-Kensho-Testing-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-Toolchain">Task-Kensho-Toolchain</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-Toolchain-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-Toolchain-0.27&amp;to=Task-Kensho-Toolchain-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-WebCrawling">Task-Kensho-WebCrawling</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-WebCrawling-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-WebCrawling-0.27&amp;to=Task-Kensho-WebCrawling-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-WebDev">Task-Kensho-WebDev</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-WebDev-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-WebDev-0.27&amp;to=Task-Kensho-WebDev-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Task-Kensho-XML">Task-Kensho-XML</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-XML-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-XML-0.27&amp;to=Task-Kensho-XML-0.28&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 720
+Total packages suspected as outdated: 19 of 720
 </p>
 
 </body>

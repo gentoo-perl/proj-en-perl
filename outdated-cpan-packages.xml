@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2744 2011/03/27 09:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2745 2011/03/27 17:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -70,6 +70,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.48</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
+    <ti align="right">3.710</ti>
+    <ti align="right">3.8</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
     <ti align="right">0.0801</ti>
     <ti align="right">0.09</ti>
@@ -87,7 +92,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 7 of 1092
+Total packages suspected as outdated: 8 of 1092
 </p>
 
 </body>

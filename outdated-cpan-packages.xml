@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2750 2011/03/31 09:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2751 2011/04/01 01:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-03-31</date>
+<date>2011-04-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.8</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::twitter&amp;mode=all">Net-Twitter</uri></ti>
+    <ti align="right">3.1700</ti>
+    <ti align="right">3.17001</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
     <ti align="right">2.47</ti>
     <ti align="right">2.48</ti>
@@ -97,7 +102,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 9 of 1094
+Total packages suspected as outdated: 10 of 1094
 </p>
 
 </body>

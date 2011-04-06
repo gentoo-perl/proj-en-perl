@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.476 2011/04/05 10:45:57 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.477 2011/04/06 10:51:10 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-04-05</date>
+<date>2011-04-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,16 +51,16 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/DateTime-TimeZone-Tzfile">DateTime-TimeZone-Tzfile</uri></ti>
-    <ti align="right">0.4.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/DateTime-TimeZone-Tzfile-0.005/">0.005</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=DateTime-TimeZone-Tzfile-0.004&amp;to=DateTime-TimeZone-Tzfile-0.005&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Catalyst-View-Wkhtmltopdf">Catalyst-View-Wkhtmltopdf</uri></ti>
+    <ti align="right">0.0.200</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-View-Wkhtmltopdf-0.0003/">0.0003</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-View-Wkhtmltopdf-0.0002&amp;to=Catalyst-View-Wkhtmltopdf-0.0003&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-LazyRequire">MooseX-LazyRequire</uri></ti>
-    <ti align="right">0.60</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-LazyRequire-0.07/">0.07</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-LazyRequire-0.06&amp;to=MooseX-LazyRequire-0.07&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-MetaProvides-Package">Dist-Zilla-Plugin-MetaProvides-Package</uri></ti>
+    <ti align="right">1.12044908</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-MetaProvides-Package-1.12060213/">1.12060213</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-MetaProvides-Package-1.12044908&amp;to=Dist-Zilla-Plugin-MetaProvides-Package-1.12060213&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -71,7 +71,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 3 of 730
+Total packages suspected as outdated: 3 of 737
 </p>
 
 </body>

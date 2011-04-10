@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.480 2011/04/09 05:53:46 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.481 2011/04/10 06:37:24 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-04-09</date>
+<date>2011-04-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,34 +51,10 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/CPAN-Uploader">CPAN-Uploader</uri></ti>
-    <ti align="right">0.102.150</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Uploader-0.103000/">0.103000</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Uploader-0.102150&amp;to=CPAN-Uploader-0.103000&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-MetaProvides">Dist-Zilla-Plugin-MetaProvides</uri></ti>
-    <ti align="right">1.120.602.120</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-MetaProvides-1.12060501/">1.12060501</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-MetaProvides-1.12060212&amp;to=Dist-Zilla-Plugin-MetaProvides-1.12060501&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-MetaProvides-Class">Dist-Zilla-Plugin-MetaProvides-Class</uri></ti>
-    <ti align="right">1.120.603.120</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-MetaProvides-Class-1.12060501/">1.12060501</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-MetaProvides-Class-1.12060312&amp;to=Dist-Zilla-Plugin-MetaProvides-Class-1.12060501&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-MetaProvides-Package">Dist-Zilla-Plugin-MetaProvides-Package</uri></ti>
-    <ti align="right">1.120.602.130</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-MetaProvides-Package-1.12060501/">1.12060501</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-MetaProvides-Package-1.12060213&amp;to=Dist-Zilla-Plugin-MetaProvides-Package-1.12060501&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Log-Dispatchouli">Log-Dispatchouli</uri></ti>
-    <ti align="right">2.4</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Log-Dispatchouli-2.005/">2.005</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Log-Dispatchouli-2.004&amp;to=Log-Dispatchouli-2.005&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Date-ISO8601">Date-ISO8601</uri></ti>
+    <ti align="right">0.3.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Date-ISO8601-0.004/">0.004</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Date-ISO8601-0.003&amp;to=Date-ISO8601-0.004&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -87,27 +63,15 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/Plack">Plack</uri></ti>
-    <ti align="right">0.997.400</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9976/">0.9976</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9974&amp;to=Plack-0.9976&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Pod-Coverage-TrustPod">Pod-Coverage-TrustPod</uri></ti>
-    <ti align="right">0.092832</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Coverage-TrustPod-0.100000/">0.100000</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Pod-Coverage-TrustPod-0.092832&amp;to=Pod-Coverage-TrustPod-0.100000&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Regexp-Assemble">Regexp-Assemble</uri></ti>
-    <ti align="right">0.34</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Regexp-Assemble-0.35/">0.35</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Regexp-Assemble-0.34&amp;to=Regexp-Assemble-0.35&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Scalar-String">Scalar-String</uri></ti>
+    <ti align="right">0.001</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Scalar-String-0.002/">0.002</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Scalar-String-0.001&amp;to=Scalar-String-0.002&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 9 of 737
+Total packages suspected as outdated: 3 of 737
 </p>
 
 </body>

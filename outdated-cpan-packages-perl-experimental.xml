@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.481 2011/04/10 06:37:24 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.482 2011/04/11 08:48:06 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-04-10</date>
+<date>2011-04-11</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,27 +51,15 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/Date-ISO8601">Date-ISO8601</uri></ti>
-    <ti align="right">0.3.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Date-ISO8601-0.004/">0.004</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Date-ISO8601-0.003&amp;to=Date-ISO8601-0.004&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
     <ti align="right">0.23.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Scalar-String">Scalar-String</uri></ti>
-    <ti align="right">0.001</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Scalar-String-0.002/">0.002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Scalar-String-0.001&amp;to=Scalar-String-0.002&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 3 of 737
+Total packages suspected as outdated: 1 of 737
 </p>
 
 </body>

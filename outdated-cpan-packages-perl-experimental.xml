@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.483 2011/04/12 10:12:27 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.484 2011/04/13 17:20:19 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-04-12</date>
+<date>2011-04-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,28 +51,10 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/CPAN-Changes">CPAN-Changes</uri></ti>
-    <ti align="right">0.130.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Changes-0.15/">0.15</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Changes-0.13&amp;to=CPAN-Changes-0.15&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/DBIx-Class-EncodedColumn">DBIx-Class-EncodedColumn</uri></ti>
-    <ti align="right">0.00010</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-EncodedColumn-0.00011/">0.00011</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-EncodedColumn-0.00010&amp;to=DBIx-Class-EncodedColumn-0.00011&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-CPANChangesTests">Dist-Zilla-Plugin-CPANChangesTests</uri></ti>
-    <ti align="right">1.1.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-CPANChangesTests-1.002/">1.002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-CPANChangesTests-1.001&amp;to=Dist-Zilla-Plugin-CPANChangesTests-1.002&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Moose">Moose</uri></ti>
-    <ti align="right">1.990.600_rc</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Moose-2.0000/">2.0000</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Moose-1.9906&amp;to=Moose-2.0000&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Util-EmulatePhase">Dist-Zilla-Util-EmulatePhase</uri></ti>
+    <ti align="right">0.01003312</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Util-EmulatePhase-0.01016513/">0.01016513</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Util-EmulatePhase-0.01003312&amp;to=Dist-Zilla-Util-EmulatePhase-0.01016513&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -80,16 +62,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Task-Kensho">Task-Kensho</uri></ti>
-    <ti align="right">0.300.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Task-Kensho-0.31/">0.31</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Task-Kensho-0.30&amp;to=Task-Kensho-0.31&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 6 of 739
+Total packages suspected as outdated: 2 of 740
 </p>
 
 </body>

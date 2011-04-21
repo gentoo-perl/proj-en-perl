@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.491 2011/04/20 10:34:50 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.492 2011/04/21 10:30:27 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-04-20</date>
+<date>2011-04-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,58 +51,22 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/B-Hooks-OP-Annotation">B-Hooks-OP-Annotation</uri></ti>
-    <ti align="right">0.430.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/B-Hooks-OP-Annotation-0.44/">0.44</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=B-Hooks-OP-Annotation-0.43&amp;to=B-Hooks-OP-Annotation-0.44&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Devel-StackTrace-WithLexicals">Devel-StackTrace-WithLexicals</uri></ti>
+    <ti align="right">0.080</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-StackTrace-WithLexicals-0.09/">0.09</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Devel-StackTrace-WithLexicals-0.08&amp;to=Devel-StackTrace-WithLexicals-0.09&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/CHI">CHI</uri></ti>
-    <ti align="right">0.440.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CHI-0.45/">0.45</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CHI-0.44&amp;to=CHI-0.45&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/CPANPLUS-Dist-Build">CPANPLUS-Dist-Build</uri> (virtual/perl-CPANPLUS-Dist-Build)</ti>
-    <ti align="right">0.540.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CPANPLUS-Dist-Build-0.56/">0.56</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CPANPLUS-Dist-Build-0.54&amp;to=CPANPLUS-Dist-Build-0.56&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Devel-Cover">Devel-Cover</uri></ti>
-    <ti align="right">0.73</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-Cover-0.76/">0.76</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Devel-Cover-0.73&amp;to=Devel-Cover-0.76&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Test-CPAN-Changes">Dist-Zilla-Plugin-Test-CPAN-Changes</uri></ti>
+    <ti align="right">0.3.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Test-CPAN-Changes-0.004/">0.004</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Test-CPAN-Changes-0.003&amp;to=Dist-Zilla-Plugin-Test-CPAN-Changes-0.004&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/ExtUtils-CChecker">ExtUtils-CChecker</uri></ti>
     <ti align="right">0.60</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/ExtUtils-CChecker-0.07/">0.07</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=ExtUtils-CChecker-0.06&amp;to=ExtUtils-CChecker-0.07&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/File-ChangeNotify">File-ChangeNotify</uri></ti>
-    <ti align="right">0.190</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/File-ChangeNotify-0.20/">0.20</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=File-ChangeNotify-0.19&amp;to=File-ChangeNotify-0.20&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Git-Repository">Git-Repository</uri></ti>
-    <ti align="right">1.170.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Git-Repository-1.18/">1.18</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Git-Repository-1.17&amp;to=Git-Repository-1.18&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Log-Dispatch-Config">Log-Dispatch-Config</uri></ti>
-    <ti align="right">1.30.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Log-Dispatch-Config-1.04/">1.04</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Log-Dispatch-Config-1.03&amp;to=Log-Dispatch-Config-1.04&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Mojolicious">Mojolicious</uri></ti>
-    <ti align="right">1.150.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.19/">1.19</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.15&amp;to=Mojolicious-1.19&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Moose">Moose</uri></ti>
@@ -116,16 +80,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/true">true</uri></ti>
-    <ti align="right">0.160.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/true-0.18/">0.18</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=true-0.16&amp;to=true-0.18&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 736
+Total packages suspected as outdated: 5 of 737
 </p>
 
 </body>

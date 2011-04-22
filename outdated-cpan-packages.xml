@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2792 2011/04/21 17:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2793 2011/04/22 09:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-04-21</date>
+<date>2011-04-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -120,6 +120,21 @@ will curb some of the bugs to boot).
     <ti align="right">0.61</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::output&amp;mode=all">Test-Output</uri></ti>
+    <ti align="right">0.16</ti>
+    <ti align="right">1.01</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=threads&amp;mode=all">threads</uri> (virtual/perl-threads)</ti>
+    <ti align="right">1.820</ti>
+    <ti align="right">1.83</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=threads::shared&amp;mode=all">threads-shared</uri> (virtual/perl-threads-shared)</ti>
+    <ti align="right">1.360</ti>
+    <ti align="right">1.37</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::mechanize&amp;mode=all">WWW-Mechanize</uri></ti>
     <ti align="right">1.66</ti>
     <ti align="right">1.68</ti>
@@ -127,7 +142,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 15 of 1096
+Total packages suspected as outdated: 18 of 1096
 </p>
 
 </body>

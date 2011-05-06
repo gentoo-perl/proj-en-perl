@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.504 2011/05/03 17:43:31 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.505 2011/05/06 13:24:17 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-05-03</date>
+<date>2011-05-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,159 +57,15 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.425&amp;to=Alien-SDL-1.426&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/App-perlbrew">App-perlbrew</uri></ti>
-    <ti align="right">0.180.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-perlbrew-0.19/">0.19</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-perlbrew-0.18&amp;to=App-perlbrew-0.19&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Archive-Extract">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
-    <ti align="right">0.500.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Archive-Extract-0.52/">0.52</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Archive-Extract-0.50&amp;to=Archive-Extract-0.52&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/CHI">CHI</uri></ti>
-    <ti align="right">0.460.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CHI-0.47/">0.47</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CHI-0.46&amp;to=CHI-0.47&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Catalyst-Manual">Catalyst-Manual</uri></ti>
-    <ti align="right">5.8005</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Manual-5.8007/">5.8007</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Manual-5.8005&amp;to=Catalyst-Manual-5.8007&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Authorization-Roles">Catalyst-Plugin-Authorization-Roles</uri></ti>
-    <ti align="right">0.08</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Authorization-Roles-0.09/">0.09</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Authorization-Roles-0.08&amp;to=Catalyst-Plugin-Authorization-Roles-0.09&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Crypt-Eksblowfish">Crypt-Eksblowfish</uri></ti>
-    <ti align="right">0.008</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Crypt-Eksblowfish-0.009/">0.009</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Crypt-Eksblowfish-0.008&amp;to=Crypt-Eksblowfish-0.009&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dancer">Dancer</uri></ti>
-    <ti align="right">1.303.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dancer-1.3040/">1.3040</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dancer-1.3030&amp;to=Dancer-1.3040&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Data-Entropy">Data-Entropy</uri></ti>
-    <ti align="right">0.006</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Data-Entropy-0.007/">0.007</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Data-Entropy-0.006&amp;to=Data-Entropy-0.007&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Data-Section">Data-Section</uri></ti>
-    <ti align="right">0.101620</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Data-Section-0.101621/">0.101621</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Data-Section-0.101620&amp;to=Data-Section-0.101621&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Devel-PartialDump">Devel-PartialDump</uri></ti>
-    <ti align="right">0.13</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-PartialDump-0.14/">0.14</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Devel-PartialDump-0.13&amp;to=Devel-PartialDump-0.14&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla">Dist-Zilla</uri></ti>
-    <ti align="right">4.200.4</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.200006/">4.200006</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.200004&amp;to=Dist-Zilla-4.200006&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-GithubMeta">Dist-Zilla-Plugin-GithubMeta</uri></ti>
-    <ti align="right">0.10</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-GithubMeta-0.12/">0.12</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-GithubMeta-0.10&amp;to=Dist-Zilla-Plugin-GithubMeta-0.12&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Module-Extract-VERSION">Module-Extract-VERSION</uri></ti>
-    <ti align="right">0.13</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Module-Extract-VERSION-1.01/">1.01</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Module-Extract-VERSION-0.13&amp;to=Module-Extract-VERSION-1.01&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Mojolicious">Mojolicious</uri></ti>
-    <ti align="right">1.210.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.22/">1.22</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.21&amp;to=Mojolicious-1.22&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Moose">Moose</uri></ti>
-    <ti align="right">1.990.600_rc</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Moose-2.0002/">2.0002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Moose-1.9906&amp;to=Moose-2.0002&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-Aliases">MooseX-Aliases</uri></ti>
-    <ti align="right">0.90</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Aliases-0.10/">0.10</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Aliases-0.09&amp;to=MooseX-Aliases-0.10&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-NonMoose">MooseX-NonMoose</uri></ti>
-    <ti align="right">0.200.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-NonMoose-0.21/">0.21</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-NonMoose-0.20&amp;to=MooseX-NonMoose-0.21&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-POE">MooseX-POE</uri></ti>
-    <ti align="right">0.213.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-POE-0.214/">0.214</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-POE-0.212&amp;to=MooseX-POE-0.214&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-Storage">MooseX-Storage</uri></ti>
-    <ti align="right">0.290</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Storage-0.30/">0.30</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Storage-0.29&amp;to=MooseX-Storage-0.30&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-Types-Structured">MooseX-Types-Structured</uri></ti>
-    <ti align="right">0.260</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Types-Structured-0.27/">0.27</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Types-Structured-0.26&amp;to=MooseX-Types-Structured-0.27&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
     <ti align="right">0.23.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Plack">Plack</uri></ti>
-    <ti align="right">0.997.600</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9977/">0.9977</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9976&amp;to=Plack-0.9977&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Plack-Middleware-ReverseProxy">Plack-Middleware-ReverseProxy</uri></ti>
-    <ti align="right">0.80</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-Middleware-ReverseProxy-0.09/">0.09</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-Middleware-ReverseProxy-0.08&amp;to=Plack-Middleware-ReverseProxy-0.09&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Software-License">Software-License</uri></ti>
-    <ti align="right">0.103.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Software-License-0.103001/">0.103001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Software-License-0.103000&amp;to=Software-License-0.103001&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Text-MultiMarkdown">Text-MultiMarkdown</uri></ti>
-    <ti align="right">1.000033</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Text-MultiMarkdown-1.000034/">1.000034</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Text-MultiMarkdown-1.000033&amp;to=Text-MultiMarkdown-1.000034&amp;w=1">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 736
+Total packages suspected as outdated: 2 of 740
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2813 2011/05/12 17:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2814 2011/05/13 17:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-05-12</date>
+<date>2011-05-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -115,19 +115,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.28</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::signature&amp;mode=all">Module-Signature</uri></ti>
-    <ti align="right">0.66</ti>
-    <ti align="right">0.67</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
     <ti align="right">2.47</ti>
     <ti align="right">2.49</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
-    <ti align="right">1.3100</ti>
-    <ti align="right">1.311</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
@@ -162,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 1097
+Total packages suspected as outdated: 20 of 1097
 </p>
 
 </body>

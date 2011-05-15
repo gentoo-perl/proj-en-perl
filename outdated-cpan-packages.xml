@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2817 2011/05/14 17:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2818 2011/05/15 09:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-05-14</date>
+<date>2011-05-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,16 +75,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.18</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::format::natural&amp;mode=all">DateTime-Format-Natural</uri></ti>
-    <ti align="right">0.9400</ti>
-    <ti align="right">0.95</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=digest::sha&amp;mode=all">Digest-SHA</uri> (virtual/perl-Digest-SHA)</ti>
-    <ti align="right">5.6100</ti>
-    <ti align="right">5.62</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::abstract&amp;mode=all">Email-Abstract</uri></ti>
     <ti align="right">3.003</ti>
     <ti align="right">3.004</ti>
@@ -113,11 +103,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=gtk2::mozembed&amp;mode=all">Gtk2-MozEmbed</uri></ti>
     <ti align="right">0.08</ti>
     <ti align="right">0.09</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=http::browserdetect&amp;mode=all">HTTP-BrowserDetect</uri></ti>
-    <ti align="right">1.2200</ti>
-    <ti align="right">1.24</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=http::server::simple&amp;mode=all">HTTP-Server-Simple</uri></ti>
@@ -170,11 +155,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.32</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::table&amp;mode=all">Text-Table</uri></ti>
-    <ti align="right">1.1180</ti>
-    <ti align="right">1.120</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.98</ti>
     <ti align="right">0.99</ti>
@@ -182,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 1097
+Total packages suspected as outdated: 22 of 1097
 </p>
 
 </body>

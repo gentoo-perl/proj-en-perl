@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.507 2011/05/15 06:44:24 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.508 2011/05/16 11:56:37 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-05-15</date>
+<date>2011-05-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,16 +51,34 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/dist/CGI-Application-Plugin-Authentication">CGI-Application-Plugin-Authentication</uri></ti>
+    <ti align="right">0.190.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Plugin-Authentication-0.20/">0.20</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Plugin-Authentication-0.19&amp;to=CGI-Application-Plugin-Authentication-0.20&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/Data-TreeDumper">Data-TreeDumper</uri></ti>
     <ti align="right">0.37</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Data-TreeDumper-0.39/">0.39</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Data-TreeDumper-0.37&amp;to=Data-TreeDumper-0.39&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/dist/Devel-Cover">Devel-Cover</uri></ti>
+    <ti align="right">0.760.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-Cover-0.77/">0.77</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Devel-Cover-0.76&amp;to=Devel-Cover-0.77&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
     <ti align="right">0.340.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Devel-PatchPerl-0.36/">0.36</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Devel-PatchPerl-0.34&amp;to=Devel-PatchPerl-0.36&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/HTML-FormHandler">HTML-FormHandler</uri></ti>
+    <ti align="right">0.330.20</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormHandler-0.34000/">0.34000</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormHandler-0.33002&amp;to=HTML-FormHandler-0.34000&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -80,10 +98,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Unicode-Collate-0.76/">0.76</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Unicode-Collate-0.75&amp;to=Unicode-Collate-0.76&amp;w=1">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Unicode-Normalize">Unicode-Normalize</uri> (virtual/perl-Unicode-Normalize)</ti>
+    <ti align="right">1.100.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Unicode-Normalize-1.11/">1.11</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Unicode-Normalize-1.10&amp;to=Unicode-Normalize-1.11&amp;w=1">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 745
+Total packages suspected as outdated: 9 of 746
 </p>
 
 </body>

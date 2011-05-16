@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2821 2011/05/16 09:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2822 2011/05/16 17:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -70,14 +70,9 @@ will curb some of the bugs to boot).
     <ti align="right">3.54</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::methodmaker&amp;mode=all">Class-MethodMaker</uri></ti>
-    <ti align="right">2.1700</ti>
-    <ti align="right">2.18</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::mini::inject&amp;mode=all">CPAN-Mini-Inject</uri></ti>
-    <ti align="right">0.27</ti>
-    <ti align="right">0.29</ti>
+    <ti><uri link="http://search.cpan.org/search?query=devel::size&amp;mode=all">Devel-Size</uri></ti>
+    <ti align="right">0.7600</ti>
+    <ti align="right">0.77</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::abstract&amp;mode=all">Email-Abstract</uri></ti>
@@ -125,11 +120,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.49</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perl::critic&amp;mode=all">Perl-Critic</uri></ti>
-    <ti align="right">1.1150</ti>
-    <ti align="right">1.116</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
     <ti align="right">0.0801</ti>
     <ti align="right">0.09</ti>
@@ -162,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 1097
+Total packages suspected as outdated: 20 of 1097
 </p>
 
 </body>

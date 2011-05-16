@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2819 2011/05/15 17:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2820 2011/05/16 01:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-05-15</date>
+<date>2011-05-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -73,6 +73,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=class::methodmaker&amp;mode=all">Class-MethodMaker</uri></ti>
     <ti align="right">2.1700</ti>
     <ti align="right">2.18</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpan::mini::inject&amp;mode=all">CPAN-Mini-Inject</uri></ti>
+    <ti align="right">0.27</ti>
+    <ti align="right">0.29</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::abstract&amp;mode=all">Email-Abstract</uri></ti>
@@ -152,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 1097
+Total packages suspected as outdated: 21 of 1097
 </p>
 
 </body>

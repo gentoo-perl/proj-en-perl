@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2824 2011/05/19 01:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2825 2011/05/19 17:52:28 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -70,11 +70,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.54</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel::size&amp;mode=all">Devel-Size</uri></ti>
-    <ti align="right">0.7600</ti>
-    <ti align="right">0.77</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::abstract&amp;mode=all">Email-Abstract</uri></ti>
     <ti align="right">3.003</ti>
     <ti align="right">3.004</ti>
@@ -85,9 +80,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.110001</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=event&amp;mode=all">Event</uri></ti>
-    <ti align="right">1.1500</ti>
-    <ti align="right">1.17</ti>
+    <ti><uri link="http://search.cpan.org/search?query=fcgi&amp;mode=all">FCGI</uri></ti>
+    <ti align="right">0.71</ti>
+    <ti align="right">0.72</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=fuse&amp;mode=all">Fuse</uri></ti>
@@ -120,11 +115,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.28</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mouse&amp;mode=all">Mouse</uri></ti>
-    <ti align="right">0.9200</ti>
-    <ti align="right">0.93</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
     <ti align="right">2.47</ti>
     <ti align="right">2.49</ti>
@@ -155,11 +145,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.32</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=time::hires&amp;mode=all">Time-HiRes</uri> (virtual/perl-Time-HiRes)</ti>
-    <ti align="right">1.9721</ti>
-    <ti align="right">1.9722</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.98</ti>
     <ti align="right">0.99</ti>
@@ -167,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 1097
+Total packages suspected as outdated: 20 of 1097
 </p>
 
 </body>

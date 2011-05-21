@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2827 2011/05/20 09:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2828 2011/05/21 01:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-05-20</date>
+<date>2011-05-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,6 +60,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.91</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=attribute::handlers&amp;mode=all">Attribute-Handlers</uri> (virtual/perl-Attribute-Handlers)</ti>
+    <ti align="right">0.88</ti>
+    <ti align="right">0.91</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.19</ti>
@@ -97,7 +102,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=fuse&amp;mode=all">Fuse</uri></ti>
     <ti align="right">0.09</ti>
-    <ti align="right">0.11</ti>
+    <ti align="right">0.12</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=geo::ip&amp;mode=all">Geo-IP</uri></ti>
@@ -167,7 +172,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 1097
+Total packages suspected as outdated: 24 of 1097
 </p>
 
 </body>

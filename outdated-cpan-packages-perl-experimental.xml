@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.513 2011/05/24 18:32:05 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.514 2011/05/25 09:39:00 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-05-24</date>
+<date>2011-05-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,12 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-CriticTests">Dist-Zilla-Plugin-CriticTests</uri></ti>
+    <ti align="right">1.102280</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-CriticTests-1.111450/">1.111450</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-CriticTests-1.102280&amp;to=Dist-Zilla-Plugin-CriticTests-1.111450&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/Gitalist">Gitalist</uri></ti>
     <ti align="right">0.3.1</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Gitalist-0.003002/">0.003002</uri></ti>
@@ -77,7 +83,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 747
+Total packages suspected as outdated: 5 of 747
 </p>
 
 </body>

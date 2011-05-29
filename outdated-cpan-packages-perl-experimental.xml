@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.517 2011/05/28 05:09:49 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.518 2011/05/29 18:22:08 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-05-28</date>
+<date>2011-05-29</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,76 +51,16 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/App-perlbrew">App-perlbrew</uri></ti>
-    <ti align="right">0.210.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-perlbrew-0.22/">0.22</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-perlbrew-0.21&amp;to=App-perlbrew-0.22&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dancer">Dancer</uri></ti>
-    <ti align="right">1.305.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dancer-1.3051/">1.3051</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dancer-1.3050&amp;to=Dancer-1.3051&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Data-Dumper">Data-Dumper</uri> (virtual/perl-Data-Dumper)</ti>
-    <ti align="right">2.130.30_rc</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Data-Dumper-2.131/">2.131</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Data-Dumper-2.130_03&amp;to=Data-Dumper-2.131&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/DateTime-Format-Pg">DateTime-Format-Pg</uri></ti>
-    <ti align="right">0.16005</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/DateTime-Format-Pg-0.16006/">0.16006</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=DateTime-Format-Pg-0.16005&amp;to=DateTime-Format-Pg-0.16006&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-CriticTests">Dist-Zilla-Plugin-CriticTests</uri></ti>
-    <ti align="right">1.102280</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-CriticTests-1.111450/">1.111450</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-CriticTests-1.102280&amp;to=Dist-Zilla-Plugin-CriticTests-1.111450&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
-    <ti align="right">1.110.500</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.111460/">1.111460</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.110500&amp;to=Dist-Zilla-Plugin-Git-1.111460&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/Gitalist">Gitalist</uri></ti>
     <ti align="right">0.3.1</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Gitalist-0.003002/">0.003002</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Gitalist-0.003001&amp;to=Gitalist-0.003002&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/HTTP-Parser-XS">HTTP-Parser-XS</uri></ti>
-    <ti align="right">0.130</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTTP-Parser-XS-0.14/">0.14</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTTP-Parser-XS-0.13&amp;to=HTTP-Parser-XS-0.14&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Net-LDAP-Server">Net-LDAP-Server</uri></ti>
-    <ti align="right">0.42</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Net-LDAP-Server-0.43/">0.43</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Net-LDAP-Server-0.42&amp;to=Net-LDAP-Server-0.43&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
     <ti align="right">0.23.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Search-Sitemap">Search-Sitemap</uri></ti>
-    <ti align="right">2.100.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Search-Sitemap-2.13/">2.13</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Search-Sitemap-2.10&amp;to=Search-Sitemap-2.13&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Starman">Starman</uri></ti>
-    <ti align="right">0.201.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Starman-0.2011/">0.2011</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Starman-0.2010&amp;to=Starman-0.2011&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Test-WWW-Mechanize">Test-WWW-Mechanize</uri></ti>
@@ -131,7 +71,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 13 of 747
+Total packages suspected as outdated: 3 of 748
 </p>
 
 </body>

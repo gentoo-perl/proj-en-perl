@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2857 2011/06/08 01:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2858 2011/06/08 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=any::moose&amp;mode=all">Any-Moose</uri></ti>
+    <ti align="right">0.1400</ti>
+    <ti align="right">0.15</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
     <ti align="right">0.90</ti>
     <ti align="right">0.93</ti>
@@ -100,6 +105,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.9</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=json::any&amp;mode=all">JSON-Any</uri></ti>
+    <ti align="right">1.2800</ti>
+    <ti align="right">1.29</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=nmap::parser&amp;mode=all">Nmap-Parser</uri></ti>
     <ti align="right">1.200</ti>
     <ti align="right">1.21</ti>
@@ -129,10 +139,15 @@ will curb some of the bugs to boot).
     <ti align="right">0.500</ti>
     <ti align="right">0.61</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=time::hires&amp;mode=all">Time-HiRes</uri> (virtual/perl-Time-HiRes)</ti>
+    <ti align="right">1.972200</ti>
+    <ti align="right">1.9723</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 1101
+Total packages suspected as outdated: 19 of 1101
 </p>
 
 </body>

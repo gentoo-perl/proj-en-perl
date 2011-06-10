@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.529 2011/06/09 13:51:52 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.530 2011/06/10 11:34:00 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-06-09</date>
+<date>2011-06-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,58 +51,10 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/App-perlbrew">App-perlbrew</uri></ti>
-    <ti align="right">0.230.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-perlbrew-0.24/">0.24</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-perlbrew-0.23&amp;to=App-perlbrew-0.24&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/CSS-Packer">CSS-Packer</uri></ti>
-    <ti align="right">1.1.2_rc</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CSS-Packer-1.002/">1.002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CSS-Packer-1.001_002&amp;to=CSS-Packer-1.002&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Session">Catalyst-Plugin-Session</uri></ti>
-    <ti align="right">0.31</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Session-0.32/">0.32</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Session-0.31&amp;to=Catalyst-Plugin-Session-0.32&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
-    <ti align="right">0.360.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-PatchPerl-0.40/">0.40</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Devel-PatchPerl-0.36&amp;to=Devel-PatchPerl-0.40&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
-    <ti align="right">1.111.460</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.111590/">1.111590</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.111460&amp;to=Dist-Zilla-Plugin-Git-1.111590&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Git-Repository">Git-Repository</uri></ti>
-    <ti align="right">1.180.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Git-Repository-1.20/">1.20</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Git-Repository-1.18&amp;to=Git-Repository-1.20&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Gitalist">Gitalist</uri></ti>
-    <ti align="right">0.3.3</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Gitalist-0.003004/">0.003004</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Gitalist-0.003003&amp;to=Gitalist-0.003004&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/HTML-Packer">HTML-Packer</uri></ti>
-    <ti align="right">1.1.2_rc</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-Packer-1.002/">1.002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-Packer-1.001_002&amp;to=HTML-Packer-1.002&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/JavaScript-Packer">JavaScript-Packer</uri></ti>
-    <ti align="right">1.3.3_rc</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/JavaScript-Packer-1.004/">1.004</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=JavaScript-Packer-1.003_003&amp;to=JavaScript-Packer-1.004&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Catalyst-Engine-PSGI">Catalyst-Engine-PSGI</uri></ti>
+    <ti align="right">0.120</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Engine-PSGI-0.13/">0.13</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Engine-PSGI-0.12&amp;to=Catalyst-Engine-PSGI-0.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -111,21 +63,15 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/Plack">Plack</uri></ti>
-    <ti align="right">0.997.900</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Plack-0.9980/">0.9980</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Plack-0.9979&amp;to=Plack-0.9980&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/System-Command">System-Command</uri></ti>
-    <ti align="right">1.30.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/System-Command-1.04/">1.04</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=System-Command-1.03&amp;to=System-Command-1.04&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Test-Spec">Test-Spec</uri></ti>
+    <ti align="right">0.310.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Test-Spec-0.32/">0.32</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Test-Spec-0.31&amp;to=Test-Spec-0.32&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 747
+Total packages suspected as outdated: 3 of 748
 </p>
 
 </body>

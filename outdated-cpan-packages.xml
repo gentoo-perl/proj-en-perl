@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2870 2011/06/17 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2871 2011/06/17 09:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -65,6 +65,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.55</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=crypt::dsa&amp;mode=all">crypt-dsa</uri></ti>
+    <ti align="right">1.16</ti>
+    <ti align="right">1.17</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::abstract&amp;mode=all">Email-Abstract</uri></ti>
     <ti align="right">3.003</ti>
     <ti align="right">3.004</ti>
@@ -125,6 +130,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=template::tiny&amp;mode=all">Template-Tiny</uri></ti>
+    <ti align="right">0.11</ti>
+    <ti align="right">1.12</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::differences&amp;mode=all">Test-Differences</uri></ti>
     <ti align="right">0.500</ti>
     <ti align="right">0.61</ti>
@@ -147,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 1101
+Total packages suspected as outdated: 21 of 1101
 </p>
 
 </body>

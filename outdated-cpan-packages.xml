@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2876 2011/06/20 09:52:28 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2877 2011/06/20 17:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -130,6 +130,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.49</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=schedule::at&amp;mode=all">Schedule-At</uri></ti>
+    <ti align="right">1.1200</ti>
+    <ti align="right">1.13</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=speech::recognizer::spx&amp;mode=all">Speech-Recognizer-SPX</uri></ti>
     <ti align="right">0.0801</ti>
     <ti align="right">0.09</ti>
@@ -163,11 +168,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=universal::can&amp;mode=all">UNIVERSAL-can</uri></ti>
     <ti align="right">1.201106140</ti>
     <ti align="right">1.20110617</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::libxml&amp;mode=all">XML-LibXML</uri></ti>
-    <ti align="right">1.7200</ti>
-    <ti align="right">1.73</ti>
   </tr>
 </table>
 

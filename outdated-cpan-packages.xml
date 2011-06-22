@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2880 2011/06/22 01:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2881 2011/06/22 17:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -115,6 +115,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.9</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=ipc::cmd&amp;mode=all">IPC-Cmd</uri> (virtual/perl-IPC-Cmd)</ti>
+    <ti align="right">0.7000</ti>
+    <ti align="right">0.72</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=linux::inotify2&amp;mode=all">Linux-Inotify2</uri></ti>
     <ti align="right">1.210</ti>
     <ti align="right">1.22</ti>
@@ -157,7 +162,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sys::sigaction&amp;mode=all">Sys-SigAction</uri></ti>
     <ti align="right">0.11</ti>
-    <ti align="right">0.12</ti>
+    <ti align="right">0.13</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sys::statistics::linux&amp;mode=all">Sys-Statistics-Linux</uri></ti>
+    <ti align="right">0.59</ti>
+    <ti align="right">0.60</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
@@ -187,7 +197,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 27 of 1102
+Total packages suspected as outdated: 29 of 1102
 </p>
 
 </body>

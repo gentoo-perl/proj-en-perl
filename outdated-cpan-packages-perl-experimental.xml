@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.543 2011/06/25 07:48:19 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.544 2011/06/27 11:09:59 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-06-25</date>
+<date>2011-06-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -77,8 +77,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/dist/CGI-Application-Dispatch">CGI-Application-Dispatch</uri></ti>
     <ti align="right">2.180</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Dispatch-3.02/">3.02</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Dispatch-2.18&amp;to=CGI-Application-Dispatch-3.02&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Dispatch-3.03/">3.03</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Dispatch-2.18&amp;to=CGI-Application-Dispatch-3.03&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/CHI">CHI</uri></ti>
@@ -203,8 +203,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Starman">Starman</uri></ti>
     <ti align="right">0.201.100</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Starman-0.2012/">0.2012</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Starman-0.2011&amp;to=Starman-0.2012&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Starman-0.2013/">0.2013</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Starman-0.2011&amp;to=Starman-0.2013&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Test-Spec">Test-Spec</uri></ti>

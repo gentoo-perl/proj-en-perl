@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.544 2011/06/27 11:09:59 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.545 2011/06/30 13:53:33 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-06-27</date>
+<date>2011-06-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,58 +57,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.426&amp;to=Alien-SDL-1.427&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/App-cpanminus">App-cpanminus</uri></ti>
-    <ti align="right">1.400.700</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanminus-1.4008/">1.4008</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-cpanminus-1.4007&amp;to=App-cpanminus-1.4008&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/App-perlbrew">App-perlbrew</uri></ti>
-    <ti align="right">0.240.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-perlbrew-0.25/">0.25</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-perlbrew-0.24&amp;to=App-perlbrew-0.25&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/CGI-Application">CGI-Application</uri></ti>
-    <ti align="right">4.310</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-4.50/">4.50</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-4.31&amp;to=CGI-Application-4.50&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/CGI-Application-Dispatch">CGI-Application-Dispatch</uri></ti>
-    <ti align="right">2.180</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Dispatch-3.03/">3.03</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Dispatch-2.18&amp;to=CGI-Application-Dispatch-3.03&amp;w=1">Diff</uri></ti>
+    <ti align="right">3.30.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Dispatch-3.04/">3.04</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Dispatch-3.03&amp;to=CGI-Application-Dispatch-3.04&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/CHI">CHI</uri></ti>
-    <ti align="right">0.470.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CHI-0.49/">0.49</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CHI-0.47&amp;to=CHI-0.49&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-DBIx-Class">Catalyst-Authentication-Store-DBIx-Class</uri></ti>
-    <ti align="right">0.150.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Authentication-Store-DBIx-Class-0.1501/">0.1501</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Authentication-Store-DBIx-Class-0.1500&amp;to=Catalyst-Authentication-Store-DBIx-Class-0.1501&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dancer">Dancer</uri></ti>
-    <ti align="right">1.305.100</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dancer-1.3060/">1.3060</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dancer-1.3051&amp;to=Dancer-1.3060&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Data-Serializer">Data-Serializer</uri></ti>
-    <ti align="right">0.570</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Data-Serializer-0.59/">0.59</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Data-Serializer-0.57&amp;to=Data-Serializer-0.59&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla">Dist-Zilla</uri></ti>
-    <ti align="right">4.200.7</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.200008/">4.200008</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.200007&amp;to=Dist-Zilla-4.200008&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-GithubMeta">Dist-Zilla-Plugin-GithubMeta</uri></ti>
+    <ti align="right">0.120.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-GithubMeta-0.14/">0.14</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-GithubMeta-0.12&amp;to=Dist-Zilla-Plugin-GithubMeta-0.14&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Test-CPAN-Changes">Dist-Zilla-Plugin-Test-CPAN-Changes</uri></ti>
@@ -159,6 +117,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Imager-0.83&amp;to=Imager-0.84&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/dist/KiokuDB">KiokuDB</uri></ti>
+    <ti align="right">0.510.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.52/">0.52</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-0.51&amp;to=KiokuDB-0.52&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Locale-Codes">Locale-Codes</uri></ti>
+    <ti align="right">3.160.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Locale-Codes-3.17/">3.17</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Locale-Codes-3.16&amp;to=Locale-Codes-3.17&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/Locale-Currency-Format">Locale-Currency-Format</uri></ti>
     <ti align="right">1.28</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Locale-Currency-Format-1.30/">1.30</uri></ti>
@@ -167,8 +137,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Mason">Mason</uri></ti>
     <ti align="right">2.70.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mason-2.10/">2.10</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mason-2.07&amp;to=Mason-2.10&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Mason-2.11/">2.11</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Mason-2.07&amp;to=Mason-2.11&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Module-Compile">Module-Compile</uri></ti>
@@ -201,6 +171,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/dist/Regexp-Grammars">Regexp-Grammars</uri></ti>
+    <ti align="right">1.12</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Regexp-Grammars-1.013/">1.013</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Regexp-Grammars-1.012&amp;to=Regexp-Grammars-1.013&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/Starman">Starman</uri></ti>
     <ti align="right">0.201.100</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Starman-0.2013/">0.2013</uri></ti>
@@ -209,13 +185,13 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Test-Spec">Test-Spec</uri></ti>
     <ti align="right">0.320.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Test-Spec-0.33/">0.33</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Test-Spec-0.32&amp;to=Test-Spec-0.33&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Test-Spec-0.35/">0.35</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Test-Spec-0.32&amp;to=Test-Spec-0.35&amp;w=1">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 27 of 749
+Total packages suspected as outdated: 23 of 751
 </p>
 
 </body>

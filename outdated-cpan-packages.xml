@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2895 2011/07/02 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2896 2011/07/02 09:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -73,6 +73,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
     <ti align="right">3.5400</ti>
     <ti align="right">3.55</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cgi::session&amp;mode=all">CGI-Session</uri></ti>
+    <ti align="right">4.430</ti>
+    <ti align="right">4.45</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
@@ -172,7 +177,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sys::sigaction&amp;mode=all">Sys-SigAction</uri></ti>
     <ti align="right">0.1300</ti>
-    <ti align="right">0.14</ti>
+    <ti align="right">0.15</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sysadm::install&amp;mode=all">Sysadm-Install</uri></ti>
@@ -212,7 +217,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 32 of 1102
+Total packages suspected as outdated: 33 of 1102
 </p>
 
 </body>

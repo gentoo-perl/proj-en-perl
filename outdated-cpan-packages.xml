@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2894 2011/07/01 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2895 2011/07/02 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-07-01</date>
+<date>2011-07-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -207,7 +207,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::libxml&amp;mode=all">XML-LibXML</uri></ti>
     <ti align="right">1.7500</ti>
-    <ti align="right">1.76</ti>
+    <ti align="right">1.77</ti>
   </tr>
 </table>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.553 2011/07/10 15:53:02 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.554 2011/07/12 15:13:37 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-07-10</date>
+<date>2011-07-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -93,6 +93,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-PortabilityTests-1.101420&amp;to=Dist-Zilla-Plugin-PortabilityTests-1.111840&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
+    <ti align="right">1.0.9</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.12/">1.0.12</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-Author-KENTNL-1.0.9&amp;to=Dist-Zilla-PluginBundle-Author-KENTNL-1.0.12&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/Dumpvalue">Dumpvalue</uri> (virtual/perl-Dumpvalue)</ti>
     <ti align="right">1.150.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dumpvalue-1.16/">1.16</uri></ti>
@@ -115,6 +121,18 @@ will curb some of the bugs to boot).
     <ti align="right">1.20.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Find-Lib-1.03/">1.03</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Find-Lib-1.02&amp;to=Find-Lib-1.03&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Getopt-Euclid">Getopt-Euclid</uri></ti>
+    <ti align="right">0.2.4</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Getopt-Euclid-0.2.6/">0.2.6</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Getopt-Euclid-0.2.4&amp;to=Getopt-Euclid-0.2.6&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Git-Repository">Git-Repository</uri></ti>
+    <ti align="right">1.200.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Git-Repository-1.21/">1.21</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Git-Repository-1.20&amp;to=Git-Repository-1.21&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Guard">Guard</uri></ti>
@@ -245,7 +263,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 32 of 751
+Total packages suspected as outdated: 35 of 751
 </p>
 
 </body>

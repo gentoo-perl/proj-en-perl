@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2915 2011/07/12 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2916 2011/07/12 17:52:35 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,11 +60,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.48</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=bignum&amp;mode=all">bignum</uri></ti>
-    <ti align="right">0.25</ti>
-    <ti align="right">0.28</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.17</ti>
     <ti align="right">0.19</ti>
@@ -75,19 +70,9 @@ will curb some of the bugs to boot).
     <ti align="right">3.55</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi::session&amp;mode=all">CGI-Session</uri></ti>
-    <ti align="right">4.430</ti>
-    <ti align="right">4.48</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
     <ti align="right">2.660</ti>
     <ti align="right">2.68</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=date::ical&amp;mode=all">Date-ICal</uri></ti>
-    <ti align="right">2.6490</ti>
-    <ti align="right">2.678</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::abstract&amp;mode=all">Email-Abstract</uri></ti>
@@ -138,11 +123,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=linux::inotify2&amp;mode=all">Linux-Inotify2</uri></ti>
     <ti align="right">1.210</ti>
     <ti align="right">1.22</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::bigint::fastcalc&amp;mode=all">Math-BigInt-FastCalc</uri> (virtual/perl-Math-BigInt-FastCalc)</ti>
-    <ti align="right">0.2800</ti>
-    <ti align="right">0.29</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
@@ -212,7 +192,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 32 of 1102
+Total packages suspected as outdated: 28 of 1102
 </p>
 
 </body>

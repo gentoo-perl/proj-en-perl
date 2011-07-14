@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.555 2011/07/13 11:48:53 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.556 2011/07/14 12:50:54 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-07-13</date>
+<date>2011-07-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -145,6 +145,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.200.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Git-Repository-1.21/">1.21</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Git-Repository-1.20&amp;to=Git-Repository-1.21&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Gitalist">Gitalist</uri></ti>
+    <ti align="right">0.3.4</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Gitalist-0.003005/">0.003005</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Gitalist-0.003004&amp;to=Gitalist-0.003005&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Guard">Guard</uri></ti>
@@ -281,7 +287,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 38 of 751
+Total packages suspected as outdated: 39 of 751
 </p>
 
 </body>

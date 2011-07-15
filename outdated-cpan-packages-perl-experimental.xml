@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.556 2011/07/14 12:50:54 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.557 2011/07/15 12:53:22 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-07-14</date>
+<date>2011-07-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,58 +57,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Alien-SDL-1.426&amp;to=Alien-SDL-1.427&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/App-cpanoutdated">App-cpanoutdated</uri></ti>
-    <ti align="right">0.160.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-cpanoutdated-0.18/">0.18</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-cpanoutdated-0.16&amp;to=App-cpanoutdated-0.18&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/App-perlbrew">App-perlbrew</uri></ti>
-    <ti align="right">0.250.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/App-perlbrew-0.27/">0.27</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=App-perlbrew-0.25&amp;to=App-perlbrew-0.27&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/B-Lint">B-Lint</uri> (virtual/perl-B-Lint)</ti>
     <ti align="right">1.120.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/B-Lint-1.13/">1.13</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=B-Lint-1.12&amp;to=B-Lint-1.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/CGI-Application-Dispatch">CGI-Application-Dispatch</uri></ti>
-    <ti align="right">3.30.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/CGI-Application-Dispatch-3.04/">3.04</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=CGI-Application-Dispatch-3.03&amp;to=CGI-Application-Dispatch-3.04&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Cache-FastMmap">Cache-FastMmap</uri></ti>
+    <ti align="right">1.360.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Cache-FastMmap-1.37/">1.37</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Cache-FastMmap-1.36&amp;to=Cache-FastMmap-1.37&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Dist-Zilla">Dist-Zilla</uri></ti>
-    <ti align="right">4.200.8</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.200009/">4.200009</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.200008&amp;to=Dist-Zilla-4.200009&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-GithubMeta">Dist-Zilla-Plugin-GithubMeta</uri></ti>
-    <ti align="right">0.120.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-GithubMeta-0.14/">0.14</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-GithubMeta-0.12&amp;to=Dist-Zilla-Plugin-GithubMeta-0.14&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-PortabilityTests">Dist-Zilla-Plugin-PortabilityTests</uri></ti>
-    <ti align="right">1.101.420</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-PortabilityTests-1.111840/">1.111840</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-PortabilityTests-1.101420&amp;to=Dist-Zilla-Plugin-PortabilityTests-1.111840&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
-    <ti align="right">1.0.9</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.12/">1.0.12</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-Author-KENTNL-1.0.9&amp;to=Dist-Zilla-PluginBundle-Author-KENTNL-1.0.12&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Util-EmulatePhase">Dist-Zilla-Util-EmulatePhase</uri></ti>
-    <ti align="right">0.10.165.130</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Util-EmulatePhase-0.01025800/">0.01025800</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Util-EmulatePhase-0.01016513&amp;to=Dist-Zilla-Util-EmulatePhase-0.01025800&amp;w=1">Diff</uri></ti>
+    <ti align="right">4.200.10</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.200011/">4.200011</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.200010&amp;to=Dist-Zilla-4.200011&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Dumpvalue">Dumpvalue</uri> (virtual/perl-Dumpvalue)</ti>
@@ -139,6 +103,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.2.4</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Getopt-Euclid-0.2.7/">0.2.7</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Getopt-Euclid-0.2.4&amp;to=Getopt-Euclid-0.2.7&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Git-PurePerl">Git-PurePerl</uri></ti>
+    <ti align="right">0.47</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Git-PurePerl-0.48/">0.48</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Git-PurePerl-0.47&amp;to=Git-PurePerl-0.48&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Git-Repository">Git-Repository</uri></ti>
@@ -287,7 +257,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 39 of 751
+Total packages suspected as outdated: 34 of 751
 </p>
 
 </body>

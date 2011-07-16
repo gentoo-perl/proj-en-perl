@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.557 2011/07/15 12:53:22 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.558 2011/07/16 07:51:04 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-07-15</date>
+<date>2011-07-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -63,18 +63,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=B-Lint-1.12&amp;to=B-Lint-1.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/dist/Cache-FastMmap">Cache-FastMmap</uri></ti>
-    <ti align="right">1.360.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Cache-FastMmap-1.37/">1.37</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Cache-FastMmap-1.36&amp;to=Cache-FastMmap-1.37&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla">Dist-Zilla</uri></ti>
-    <ti align="right">4.200.10</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.200011/">4.200011</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.200010&amp;to=Dist-Zilla-4.200011&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/Dumpvalue">Dumpvalue</uri> (virtual/perl-Dumpvalue)</ti>
     <ti align="right">1.150.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dumpvalue-1.16/">1.16</uri></ti>
@@ -91,120 +79,6 @@ will curb some of the bugs to boot).
     <ti align="right">6.571.100_rc</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/ExtUtils-MakeMaker-6.58/">6.58</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=ExtUtils-MakeMaker-6.57_11&amp;to=ExtUtils-MakeMaker-6.58&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Find-Lib">Find-Lib</uri></ti>
-    <ti align="right">1.20.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Find-Lib-1.03/">1.03</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Find-Lib-1.02&amp;to=Find-Lib-1.03&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Getopt-Euclid">Getopt-Euclid</uri></ti>
-    <ti align="right">0.2.4</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Getopt-Euclid-0.2.7/">0.2.7</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Getopt-Euclid-0.2.4&amp;to=Getopt-Euclid-0.2.7&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Git-PurePerl">Git-PurePerl</uri></ti>
-    <ti align="right">0.47</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Git-PurePerl-0.48/">0.48</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Git-PurePerl-0.47&amp;to=Git-PurePerl-0.48&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Git-Repository">Git-Repository</uri></ti>
-    <ti align="right">1.200.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Git-Repository-1.21/">1.21</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Git-Repository-1.20&amp;to=Git-Repository-1.21&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Gitalist">Gitalist</uri></ti>
-    <ti align="right">0.3.4</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Gitalist-0.003005/">0.003005</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Gitalist-0.003004&amp;to=Gitalist-0.003005&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Guard">Guard</uri></ti>
-    <ti align="right">1.21.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Guard-1.022/">1.022</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Guard-1.021&amp;to=Guard-1.022&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/HTML-FormFu-Model-DBIC">HTML-FormFu-Model-DBIC</uri></ti>
-    <ti align="right">0.90.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormFu-Model-DBIC-0.09002/">0.09002</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormFu-Model-DBIC-0.09000&amp;to=HTML-FormFu-Model-DBIC-0.09002&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/HTML-Template-Pro">HTML-Template-Pro</uri></ti>
-    <ti align="right">0.950.400</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-Template-Pro-0.9505/">0.9505</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-Template-Pro-0.9504&amp;to=HTML-Template-Pro-0.9505&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Hash-MultiValue">Hash-MultiValue</uri></ti>
-    <ti align="right">0.08</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Hash-MultiValue-0.09/">0.09</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Hash-MultiValue-0.08&amp;to=Hash-MultiValue-0.09&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Imager">Imager</uri></ti>
-    <ti align="right">0.830.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Imager-0.84/">0.84</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Imager-0.83&amp;to=Imager-0.84&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/KiokuDB">KiokuDB</uri></ti>
-    <ti align="right">0.510.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/KiokuDB-0.52/">0.52</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=KiokuDB-0.51&amp;to=KiokuDB-0.52&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/LWP-Online">LWP-Online</uri></ti>
-    <ti align="right">1.07</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/LWP-Online-1.08/">1.08</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=LWP-Online-1.07&amp;to=LWP-Online-1.08&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Locale-Codes">Locale-Codes</uri></ti>
-    <ti align="right">3.160.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Locale-Codes-3.17/">3.17</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Locale-Codes-3.16&amp;to=Locale-Codes-3.17&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Locale-Currency-Format">Locale-Currency-Format</uri></ti>
-    <ti align="right">1.28</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Locale-Currency-Format-1.30/">1.30</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Locale-Currency-Format-1.28&amp;to=Locale-Currency-Format-1.30&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Mason">Mason</uri></ti>
-    <ti align="right">2.70.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mason-2.12/">2.12</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mason-2.07&amp;to=Mason-2.12&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Module-Compile">Module-Compile</uri></ti>
-    <ti align="right">0.220.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Module-Compile-0.23/">0.23</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Module-Compile-0.22&amp;to=Module-Compile-0.23&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Mojolicious">Mojolicious</uri></ti>
-    <ti align="right">1.420.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.64/">1.64</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.42&amp;to=Mojolicious-1.64&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-Daemonize">MooseX-Daemonize</uri></ti>
-    <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Daemonize-0.13/">0.13</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Daemonize-0.12&amp;to=MooseX-Daemonize-0.13&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/MooseX-MethodAttributes">MooseX-MethodAttributes</uri></ti>
-    <ti align="right">0.24</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-MethodAttributes-0.25/">0.25</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MooseX-MethodAttributes-0.24&amp;to=MooseX-MethodAttributes-0.25&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/MooseX-OneArgNew">MooseX-OneArgNew</uri></ti>
@@ -257,7 +131,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 34 of 751
+Total packages suspected as outdated: 13 of 751
 </p>
 
 </body>

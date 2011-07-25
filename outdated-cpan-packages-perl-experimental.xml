@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.565 2011/07/23 07:43:39 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.566 2011/07/25 08:35:18 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-07-23</date>
+<date>2011-07-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,22 +51,28 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla">Dist-Zilla</uri></ti>
-    <ti align="right">4.200.11</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.200012/">4.200012</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.200011&amp;to=Dist-Zilla-4.200012&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
-    <ti align="right">1.0.12</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.14/">1.0.14</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-PluginBundle-Author-KENTNL-1.0.12&amp;to=Dist-Zilla-PluginBundle-Author-KENTNL-1.0.14&amp;w=1">Diff</uri></ti>
+    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
+    <ti align="right">1.111.590</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.112060/">1.112060</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.111590&amp;to=Dist-Zilla-Plugin-Git-1.112060&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/ExtUtils-MakeMaker">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.571.100_rc</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/ExtUtils-MakeMaker-6.58/">6.58</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=ExtUtils-MakeMaker-6.57_11&amp;to=ExtUtils-MakeMaker-6.58&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Language-Functional">Language-Functional</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Language-Functional-0.05/">0.05</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Language-Functional-0.04&amp;to=Language-Functional-0.05&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/MetaCPAN-API">MetaCPAN-API</uri></ti>
+    <ti align="right">0.20.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MetaCPAN-API-0.11/">0.11</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MetaCPAN-API-0.02&amp;to=MetaCPAN-API-0.11&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -77,7 +83,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 751
+Total packages suspected as outdated: 5 of 751
 </p>
 
 </body>

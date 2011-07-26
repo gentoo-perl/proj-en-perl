@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2940 2011/07/26 01:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2941 2011/07/26 17:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,11 +75,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.68</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=digest::hmac&amp;mode=all">Digest-HMAC</uri></ti>
-    <ti align="right">1.02</ti>
-    <ti align="right">1.03</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::abstract&amp;mode=all">Email-Abstract</uri></ti>
     <ti align="right">3.003</ti>
     <ti align="right">3.004</ti>
@@ -140,11 +135,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.21</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=params::check&amp;mode=all">Params-Check</uri> (virtual/perl-Params-Check)</ti>
-    <ti align="right">0.2800</ti>
-    <ti align="right">0.30</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
     <ti align="right">2.47</ti>
     <ti align="right">2.49</ti>
@@ -192,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 28 of 1104
+Total packages suspected as outdated: 26 of 1104
 </p>
 
 </body>

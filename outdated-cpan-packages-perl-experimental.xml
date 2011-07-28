@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.568 2011/07/27 09:01:14 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.569 2011/07/28 11:50:21 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-07-27</date>
+<date>2011-07-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,12 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema">Catalyst-Model-DBIC-Schema</uri></ti>
+    <ti align="right">0.500.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema-0.51/">0.51</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-DBIC-Schema-0.50&amp;to=Catalyst-Model-DBIC-Schema-0.51&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/Dancer">Dancer</uri></ti>
     <ti align="right">1.307.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dancer-1.3071/">1.3071</uri></ti>
@@ -87,6 +93,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Language-Functional-0.04&amp;to=Language-Functional-0.05&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/dist/Log-Contextual">Log-Contextual</uri></ti>
+    <ti align="right">0.3.40</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Log-Contextual-0.00305/">0.00305</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Log-Contextual-0.00304&amp;to=Log-Contextual-0.00305&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/Mason">Mason</uri></ti>
     <ti align="right">2.120.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Mason-2.13/">2.13</uri></ti>
@@ -95,14 +107,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/dist/MetaCPAN-API">MetaCPAN-API</uri></ti>
     <ti align="right">0.20.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MetaCPAN-API-0.11/">0.11</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MetaCPAN-API-0.02&amp;to=MetaCPAN-API-0.11&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MetaCPAN-API-0.20/">0.20</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MetaCPAN-API-0.02&amp;to=MetaCPAN-API-0.20&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.640.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.66/">1.66</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.64&amp;to=Mojolicious-1.66&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.67/">1.67</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.64&amp;to=Mojolicious-1.67&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -125,7 +137,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 751
+Total packages suspected as outdated: 14 of 751
 </p>
 
 </body>

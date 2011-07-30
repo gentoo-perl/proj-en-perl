@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2946 2011/07/30 01:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2947 2011/07/30 17:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.31</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=locale::maketext::lexicon&amp;mode=all">locale-maketext-lexicon</uri></ti>
+    <ti align="right">0.8700</ti>
+    <ti align="right">0.88</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.5100</ti>
     <ti align="right">2.54</ti>
@@ -217,7 +222,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 33 of 1104
+Total packages suspected as outdated: 34 of 1104
 </p>
 
 </body>

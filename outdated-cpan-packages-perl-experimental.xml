@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.570 2011/07/29 09:44:52 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.571 2011/07/30 16:42:11 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-07-29</date>
+<date>2011-07-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -113,14 +113,26 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/dist/MetaCPAN-API">MetaCPAN-API</uri></ti>
     <ti align="right">0.20.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/MetaCPAN-API-0.20/">0.20</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=MetaCPAN-API-0.02&amp;to=MetaCPAN-API-0.20&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MetaCPAN-API-0.30/">0.30</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MetaCPAN-API-0.02&amp;to=MetaCPAN-API-0.30&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.640.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.67/">1.67</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.64&amp;to=Mojolicious-1.67&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.68/">1.68</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.64&amp;to=Mojolicious-1.68&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/POE-Component-Client-Keepalive">POE-Component-Client-Keepalive</uri></ti>
+    <ti align="right">0.267.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/POE-Component-Client-Keepalive-0.268/">0.268</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=POE-Component-Client-Keepalive-0.267&amp;to=POE-Component-Client-Keepalive-0.268&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/POE-Component-Resolver">POE-Component-Resolver</uri></ti>
+    <ti align="right">0.912.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/POE-Component-Resolver-0.913/">0.913</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=POE-Component-Resolver-0.912&amp;to=POE-Component-Resolver-0.913&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -143,7 +155,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 15 of 751
+Total packages suspected as outdated: 17 of 751
 </p>
 
 </body>

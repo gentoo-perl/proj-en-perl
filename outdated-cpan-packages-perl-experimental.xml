@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.571 2011/07/30 16:42:11 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.572 2011/07/31 08:39:52 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-07-30</date>
+<date>2011-07-31</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,12 +55,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.500.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema-0.52/">0.52</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-DBIC-Schema-0.50&amp;to=Catalyst-Model-DBIC-Schema-0.52&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Authentication">Catalyst-Plugin-Authentication</uri></ti>
-    <ti align="right">0.100.170</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Authentication-0.10018/">0.10018</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Authentication-0.10017&amp;to=Catalyst-Plugin-Authentication-0.10018&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Dancer">Dancer</uri></ti>
@@ -155,7 +149,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 751
+Total packages suspected as outdated: 16 of 752
 </p>
 
 </body>

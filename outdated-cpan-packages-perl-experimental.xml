@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.572 2011/07/31 08:39:52 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.573 2011/08/01 10:47:49 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-07-31</date>
+<date>2011-08-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,58 +51,10 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema">Catalyst-Model-DBIC-Schema</uri></ti>
-    <ti align="right">0.500.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema-0.52/">0.52</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-DBIC-Schema-0.50&amp;to=Catalyst-Model-DBIC-Schema-0.52&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dancer">Dancer</uri></ti>
-    <ti align="right">1.307.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dancer-1.3071/">1.3071</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dancer-1.3070&amp;to=Dancer-1.3071&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
-    <ti align="right">0.420.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-PatchPerl-0.44/">0.44</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Devel-PatchPerl-0.42&amp;to=Devel-PatchPerl-0.44&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
-    <ti align="right">1.111.590</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-Git-1.112070/">1.112070</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-Git-1.111590&amp;to=Dist-Zilla-Plugin-Git-1.112070&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/dist/ExtUtils-MakeMaker">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.571.100_rc</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/ExtUtils-MakeMaker-6.58/">6.58</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=ExtUtils-MakeMaker-6.57_11&amp;to=ExtUtils-MakeMaker-6.58&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/HTML-FormHandler">HTML-FormHandler</uri></ti>
-    <ti align="right">0.350.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/HTML-FormHandler-0.35001/">0.35001</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=HTML-FormHandler-0.35000&amp;to=HTML-FormHandler-0.35001&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Language-Functional">Language-Functional</uri></ti>
-    <ti align="right">0.04</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Language-Functional-0.05/">0.05</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Language-Functional-0.04&amp;to=Language-Functional-0.05&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Log-Contextual">Log-Contextual</uri></ti>
-    <ti align="right">0.3.40</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Log-Contextual-0.00305/">0.00305</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Log-Contextual-0.00304&amp;to=Log-Contextual-0.00305&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/Mason">Mason</uri></ti>
-    <ti align="right">2.120.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mason-2.13/">2.13</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mason-2.12&amp;to=Mason-2.13&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/MetaCPAN-API">MetaCPAN-API</uri></ti>
@@ -118,15 +70,9 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/POE-Component-Client-Keepalive">POE-Component-Client-Keepalive</uri></ti>
-    <ti align="right">0.267.0</ti>
+    <ti align="right">0.268.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/POE-Component-Client-Keepalive-0.268/">0.268</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=POE-Component-Client-Keepalive-0.267&amp;to=POE-Component-Client-Keepalive-0.268&amp;w=1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/dist/POE-Component-Resolver">POE-Component-Resolver</uri></ti>
-    <ti align="right">0.912.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/POE-Component-Resolver-0.913/">0.913</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=POE-Component-Resolver-0.912&amp;to=POE-Component-Resolver-0.913&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -149,7 +95,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 752
+Total packages suspected as outdated: 7 of 752
 </p>
 
 </body>

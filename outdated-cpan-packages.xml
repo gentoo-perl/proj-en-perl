@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2952 2011/08/03 01:52:33 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2953 2011/08/03 09:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -73,6 +73,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
     <ti align="right">2.660</ti>
     <ti align="right">2.68</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=cpan::meta&amp;mode=all">CPAN-Meta</uri> (virtual/perl-CPAN-Meta)</ti>
+    <ti align="right">2.110930</ti>
+    <ti align="right">2.112150</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=daemon::generic&amp;mode=all">Daemon-Generic</uri></ti>
@@ -282,7 +287,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 46 of 1105
+Total packages suspected as outdated: 47 of 1105
 </p>
 
 </body>

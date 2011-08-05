@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.576 2011/08/04 10:09:13 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.577 2011/08/05 10:57:22 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-04</date>
+<date>2011-08-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,24 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/dist/Catalyst-Action-REST">Catalyst-Action-REST</uri></ti>
+    <ti align="right">0.900.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.91/">0.91</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Action-REST-0.90&amp;to=Catalyst-Action-REST-0.91&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Catalyst-ActionRole-ACL">Catalyst-ActionRole-ACL</uri></ti>
+    <ti align="right">0.05</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-ActionRole-ACL-0.06/">0.06</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-ActionRole-ACL-0.05&amp;to=Catalyst-ActionRole-ACL-0.06&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Session-Store-DBIC">Catalyst-Plugin-Session-Store-DBIC</uri></ti>
+    <ti align="right">0.11</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Session-Store-DBIC-0.12/">0.12</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Session-Store-DBIC-0.11&amp;to=Catalyst-Plugin-Session-Store-DBIC-0.12&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/ExtUtils-MakeMaker">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.571.100_rc</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/ExtUtils-MakeMaker-6.58/">6.58</uri></ti>
@@ -59,8 +77,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.640.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.69/">1.69</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.64&amp;to=Mojolicious-1.69&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.71/">1.71</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.64&amp;to=Mojolicious-1.71&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -71,7 +89,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 3 of 755
+Total packages suspected as outdated: 6 of 755
 </p>
 
 </body>

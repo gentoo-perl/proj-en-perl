@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2960 2011/08/06 01:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2961 2011/08/06 09:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -65,16 +65,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
-    <ti align="right">3.5400</ti>
-    <ti align="right">3.55</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::meta&amp;mode=all">CPAN-Meta</uri> (virtual/perl-CPAN-Meta)</ti>
-    <ti align="right">2.110930</ti>
-    <ti align="right">2.112150</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=daemon::generic&amp;mode=all">Daemon-Generic</uri></ti>
     <ti align="right">0.7200</ti>
     <ti align="right">0.81</ti>
@@ -93,16 +83,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
     <ti align="right">0.1100</ti>
     <ti align="right">0.110001</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=extutils::makemaker&amp;mode=all">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
-    <ti align="right">6.5800</ti>
-    <ti align="right">6.59</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=extutils::parsexs&amp;mode=all">ExtUtils-ParseXS</uri> (virtual/perl-ExtUtils-ParseXS)</ti>
-    <ti align="right">2.2206</ti>
-    <ti align="right">3.02</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=fuse&amp;mode=all">Fuse</uri></ti>
@@ -133,21 +113,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">3.710</ti>
     <ti align="right">4.0</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=ipc::cmd&amp;mode=all">IPC-Cmd</uri> (virtual/perl-IPC-Cmd)</ti>
-    <ti align="right">0.7000</ti>
-    <ti align="right">0.72</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
-    <ti align="right">2.5100</ti>
-    <ti align="right">2.54</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::load&amp;mode=all">Module-Load</uri> (virtual/perl-Module-Load)</ti>
-    <ti align="right">0.1800</ti>
-    <ti align="right">0.20</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::amazon&amp;mode=all">Net-Amazon</uri></ti>
@@ -220,11 +185,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.20110617</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri> (virtual/perl-version)</ti>
-    <ti align="right">0.9100</ti>
-    <ti align="right">0.93</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::atom&amp;mode=all">XML-Atom</uri></ti>
     <ti align="right">0.3800</ti>
     <ti align="right">0.39</ti>
@@ -232,7 +192,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 36 of 1105
+Total packages suspected as outdated: 28 of 1105
 </p>
 
 </body>

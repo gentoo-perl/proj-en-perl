@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.577 2011/08/05 10:57:22 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.578 2011/08/06 07:09:23 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-05</date>
+<date>2011-08-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,12 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/dist/CPAN-Reporter">CPAN-Reporter</uri></ti>
+    <ti align="right">1.190.200</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-Reporter-1.20/">1.20</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CPAN-Reporter-1.1902&amp;to=CPAN-Reporter-1.20&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/Catalyst-Action-REST">Catalyst-Action-REST</uri></ti>
     <ti align="right">0.900.0</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Action-REST-0.91/">0.91</uri></ti>
@@ -63,22 +69,64 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-ActionRole-ACL-0.05&amp;to=Catalyst-ActionRole-ACL-0.06&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema">Catalyst-Model-DBIC-Schema</uri></ti>
+    <ti align="right">0.530.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Model-DBIC-Schema-0.54/">0.54</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Model-DBIC-Schema-0.53&amp;to=Catalyst-Model-DBIC-Schema-0.54&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Session-Store-DBIC">Catalyst-Plugin-Session-Store-DBIC</uri></ti>
     <ti align="right">0.11</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Catalyst-Plugin-Session-Store-DBIC-0.12/">0.12</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Catalyst-Plugin-Session-Store-DBIC-0.11&amp;to=Catalyst-Plugin-Session-Store-DBIC-0.12&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/dist/CatalystX-Profile">CatalystX-Profile</uri></ti>
+    <ti align="right">0.01</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/CatalystX-Profile-0.02/">0.02</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=CatalystX-Profile-0.01&amp;to=CatalystX-Profile-0.02&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/DBIx-Class-Cursor-Cached">DBIx-Class-Cursor-Cached</uri></ti>
+    <ti align="right">1.1.1</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/DBIx-Class-Cursor-Cached-1.001002/">1.001002</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=DBIx-Class-Cursor-Cached-1.001001&amp;to=DBIx-Class-Cursor-Cached-1.001002&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Devel-Cover">Devel-Cover</uri></ti>
+    <ti align="right">0.780.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-Cover-0.79/">0.79</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Devel-Cover-0.78&amp;to=Devel-Cover-0.79&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
+    <ti align="right">0.440.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-PatchPerl-0.46/">0.46</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Devel-PatchPerl-0.44&amp;to=Devel-PatchPerl-0.46&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla">Dist-Zilla</uri></ti>
+    <ti align="right">4.200.12</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.200013/">4.200013</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.200012&amp;to=Dist-Zilla-4.200013&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/ExtUtils-MakeMaker">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.571.100_rc</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/ExtUtils-MakeMaker-6.58/">6.58</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=ExtUtils-MakeMaker-6.57_11&amp;to=ExtUtils-MakeMaker-6.58&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/ExtUtils-MakeMaker-6.59/">6.59</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=ExtUtils-MakeMaker-6.57_11&amp;to=ExtUtils-MakeMaker-6.59&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.640.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.71/">1.71</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.64&amp;to=Mojolicious-1.71&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Mojolicious-1.72/">1.72</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Mojolicious-1.64&amp;to=Mojolicious-1.72&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/MooseX-Types-LoadableClass">MooseX-Types-LoadableClass</uri></ti>
+    <ti align="right">0.5</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/MooseX-Types-LoadableClass-0.006/">0.006</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=MooseX-Types-LoadableClass-0.005&amp;to=MooseX-Types-LoadableClass-0.006&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -86,10 +134,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Padre-Plugin-Vi-0.23.0&amp;to=Padre-Plugin-Vi-0.23&amp;w=1">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Pod-Elemental">Pod-Elemental</uri></ti>
+    <ti align="right">0.102.360</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Elemental-0.102361/">0.102361</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Pod-Elemental-0.102360&amp;to=Pod-Elemental-0.102361&amp;w=1">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 6 of 755
+Total packages suspected as outdated: 15 of 755
 </p>
 
 </body>

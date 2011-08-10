@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.581 2011/08/09 18:56:36 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.582 2011/08/10 09:40:38 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-09</date>
+<date>2011-08-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,12 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/dist/App-perlbrew">App-perlbrew</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/App-perlbrew-0.28/">0.28</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=App-perlbrew-0.27&amp;to=App-perlbrew-0.28&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/dist/CPAN">CPAN</uri> (virtual/perl-CPAN)</ti>
     <ti align="right">1.975.100_rc</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/CPAN-1.9800/">1.9800</uri></ti>
@@ -164,10 +170,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://search.cpan.org/dist/Pod-Elemental-0.102361/">0.102361</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Pod-Elemental-0.102360&amp;to=Pod-Elemental-0.102361&amp;w=1">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Pod-PseudoPod">Pod-PseudoPod</uri></ti>
+    <ti align="right">0.170.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Pod-PseudoPod-0.18/">0.18</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Pod-PseudoPod-0.17&amp;to=Pod-PseudoPod-0.18&amp;w=1">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 758
+Total packages suspected as outdated: 21 of 758
 </p>
 
 </body>

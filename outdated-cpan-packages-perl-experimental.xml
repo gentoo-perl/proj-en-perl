@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.585 2011/08/13 10:53:24 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.586 2011/08/14 06:49:39 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-13</date>
+<date>2011-08-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -119,14 +119,20 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
     <ti align="right">0.440.0</ti>
-    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-PatchPerl-0.48/">0.48</uri></ti>
-    <ti><uri link="http://search.cpan.org/diff?from=Devel-PatchPerl-0.44&amp;to=Devel-PatchPerl-0.48&amp;w=1">Diff</uri></ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Devel-PatchPerl-0.52/">0.52</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Devel-PatchPerl-0.44&amp;to=Devel-PatchPerl-0.52&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/Dist-Zilla">Dist-Zilla</uri></ti>
     <ti align="right">4.200.12</ti>
     <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-4.200015/">4.200015</uri></ti>
     <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-4.200012&amp;to=Dist-Zilla-4.200015&amp;w=1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-GithubMeta">Dist-Zilla-Plugin-GithubMeta</uri></ti>
+    <ti align="right">0.160.0</ti>
+    <ti align="right"><uri link="http://search.cpan.org/dist/Dist-Zilla-Plugin-GithubMeta-0.20/">0.20</uri></ti>
+    <ti><uri link="http://search.cpan.org/diff?from=Dist-Zilla-Plugin-GithubMeta-0.16&amp;to=Dist-Zilla-Plugin-GithubMeta-0.20&amp;w=1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/dist/ExtUtils-MakeMaker">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
@@ -179,7 +185,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 758
+Total packages suspected as outdated: 22 of 758
 </p>
 
 </body>

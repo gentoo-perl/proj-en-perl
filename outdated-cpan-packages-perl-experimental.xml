@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.587 2011/08/15 12:49:14 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.588 2011/08/16 11:00:51 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-15</date>
+<date>2011-08-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -81,6 +81,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/CONVERTER/Catalyst-ActionRole-ACL-0.05/BOBTFISH/Catalyst-ActionRole-ACL-0.06">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Devel">Catalyst-Devel</uri></ti>
+    <ti align="right">1.330.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Devel-1.34/">1.34</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FLORA/Catalyst-Devel-1.33/BOBTFISH/Catalyst-Devel-1.34">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Manual">Catalyst-Manual</uri></ti>
+    <ti align="right">5.800.800</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Manual-5.9000/">5.9000</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Manual-5.8008/BOBTFISH/Catalyst-Manual-5.9000">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Model-DBIC-Schema">Catalyst-Model-DBIC-Schema</uri></ti>
     <ti align="right">0.530.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.54/">0.54</uri></ti>
@@ -97,6 +109,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.11</ti>
     <ti align="right"><uri link="http://metacpan.org/release/FLORA/Catalyst-Plugin-Session-Store-DBIC-0.12/">0.12</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/FLORA/Catalyst-Plugin-Session-Store-DBIC-0.11/FLORA/Catalyst-Plugin-Session-Store-DBIC-0.12">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
+    <ti align="right">5.890.30_rc</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90001/">5.90001</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.89003/BOBTFISH/Catalyst-Runtime-5.90001">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/CatalystX-Profile">CatalystX-Profile</uri></ti>
@@ -149,8 +167,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Log-Contextual">Log-Contextual</uri></ti>
     <ti align="right">0.3.50</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/FREW/Log-Contextual-0.004000/">0.004000</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/FREW/Log-Contextual-0.00305/FREW/Log-Contextual-0.004000">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/FREW/Log-Contextual-0.004001/">0.004001</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FREW/Log-Contextual-0.00305/FREW/Log-Contextual-0.004001">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
@@ -185,7 +203,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 758
+Total packages suspected as outdated: 25 of 758
 </p>
 
 </body>

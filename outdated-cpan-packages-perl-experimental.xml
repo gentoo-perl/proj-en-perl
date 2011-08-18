@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.589 2011/08/17 11:47:15 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.590 2011/08/18 11:08:20 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-17</date>
+<date>2011-08-18</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,12 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://metacpan.org/release/App-Cmd">App-Cmd</uri></ti>
+    <ti align="right">0.311.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/App-Cmd-0.312/">0.312</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/App-Cmd-0.311/RJBS/App-Cmd-0.312">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/App-perlbrew">App-perlbrew</uri></ti>
     <ti align="right">0.270.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.28/">0.28</uri></ti>
@@ -143,8 +149,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
     <ti align="right">4.200.12</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.200015/">4.200015</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.200012/RJBS/Dist-Zilla-4.200015">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.200017/">4.200017</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.200012/RJBS/Dist-Zilla-4.200017">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-GithubMeta">Dist-Zilla-Plugin-GithubMeta</uri></ti>
@@ -173,8 +179,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.640.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-1.78/">1.78</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.64/SRI/Mojolicious-1.78">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-1.80/">1.80</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.64/SRI/Mojolicious-1.80">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Types-LoadableClass">MooseX-Types-LoadableClass</uri></ti>
@@ -187,6 +193,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.23.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ZENOG/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/ZENOG/Padre-Plugin-Vi-0.23.0/ZENOG/Padre-Plugin-Vi-0.23">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Perl-PrereqScanner">Perl-PrereqScanner</uri></ti>
+    <ti align="right">1.4.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Perl-PrereqScanner-1.005/">1.005</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Perl-PrereqScanner-1.004/RJBS/Perl-PrereqScanner-1.005">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Pod-Elemental">Pod-Elemental</uri></ti>
@@ -203,7 +215,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 757
+Total packages suspected as outdated: 27 of 757
 </p>
 
 </body>

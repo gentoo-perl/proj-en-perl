@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2983 2011/08/19 01:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2984 2011/08/19 09:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">4.0</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mime::types&amp;mode=all">MIME-Types</uri></ti>
+    <ti align="right">1.31</ti>
+    <ti align="right">1.32</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::amazon&amp;mode=all">Net-Amazon</uri></ti>
     <ti align="right">0.59</ti>
     <ti align="right">0.60</ti>
@@ -207,7 +212,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 31 of 1116
+Total packages suspected as outdated: 32 of 1116
 </p>
 
 </body>

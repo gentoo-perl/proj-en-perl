@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2985 2011/08/19 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2986 2011/08/20 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-19</date>
+<date>2011-08-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -90,6 +90,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.97</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::set&amp;mode=all">DateTime-Set</uri></ti>
+    <ti align="right">0.3000</ti>
+    <ti align="right">0.31</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::abstract&amp;mode=all">Email-Abstract</uri></ti>
     <ti align="right">3.003</ti>
     <ti align="right">3.004</ti>
@@ -142,7 +147,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=locale::maketext::lexicon&amp;mode=all">locale-maketext-lexicon</uri></ti>
     <ti align="right">0.8800</ti>
-    <ti align="right">0.90</ti>
+    <ti align="right">0.91</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mime::types&amp;mode=all">MIME-Types</uri></ti>
@@ -222,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 34 of 1116
+Total packages suspected as outdated: 35 of 1116
 </p>
 
 </body>

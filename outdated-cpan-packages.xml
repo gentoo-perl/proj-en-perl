@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2988 2011/08/21 09:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.2989 2011/08/21 17:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">4.0</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
+    <ti align="right">2.5400</ti>
+    <ti align="right">2.55</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::amazon&amp;mode=all">Net-Amazon</uri></ti>
     <ti align="right">0.59</ti>
     <ti align="right">0.60</ti>
@@ -204,10 +209,15 @@ will curb some of the bugs to boot).
     <ti align="right">0.23</ti>
     <ti align="right">0.25</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=version&amp;mode=all">version</uri> (virtual/perl-version)</ti>
+    <ti align="right">0.9300</ti>
+    <ti align="right">0.94</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 31 of 1116
+Total packages suspected as outdated: 33 of 1116
 </p>
 
 </body>

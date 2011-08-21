@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.591 2011/08/19 12:45:21 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.592 2011/08/21 06:36:23 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-19</date>
+<date>2011-08-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -73,6 +73,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.190.200</ti>
     <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/CPAN-Reporter-1.2002/">1.2002</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/CPAN-Reporter-1.1902/DAGOLDEN/CPAN-Reporter-1.2002">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Carp-Always">Carp-Always</uri></ti>
+    <ti align="right">0.09</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/FERREIRA/Carp-Always-0.10/">0.10</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FERREIRA/Carp-Always-0.09/FERREIRA/Carp-Always-0.10">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Action-REST">Catalyst-Action-REST</uri></ti>
@@ -149,8 +155,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
     <ti align="right">4.200.12</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.200018/">4.200018</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.200012/RJBS/Dist-Zilla-4.200018">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300000/">4.300000</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.200012/RJBS/Dist-Zilla-4.300000">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-CheckPrereqsIndexed">Dist-Zilla-Plugin-CheckPrereqsIndexed</uri></ti>
@@ -185,8 +191,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.640.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-1.83/">1.83</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.64/SRI/Mojolicious-1.83">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-1.85/">1.85</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.64/SRI/Mojolicious-1.85">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Types-LoadableClass">MooseX-Types-LoadableClass</uri></ti>
@@ -203,8 +209,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Perl-PrereqScanner">Perl-PrereqScanner</uri></ti>
     <ti align="right">1.4.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Perl-PrereqScanner-1.005/">1.005</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Perl-PrereqScanner-1.004/RJBS/Perl-PrereqScanner-1.005">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Perl-PrereqScanner-1.006/">1.006</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Perl-PrereqScanner-1.004/JQUELIN/Perl-PrereqScanner-1.006">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Pod-Elemental">Pod-Elemental</uri></ti>
@@ -227,7 +233,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 757
+Total packages suspected as outdated: 30 of 757
 </p>
 
 </body>

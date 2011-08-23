@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.593 2011/08/22 10:37:26 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.594 2011/08/23 11:43:33 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-22</date>
+<date>2011-08-23</date>
 
 <chapter>
 <title>Intro</title>
@@ -61,6 +61,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.270.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.28/">0.28</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.27/GUGOD/App-perlbrew-0.28">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Archive-Extract">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
+    <ti align="right">0.520.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Archive-Extract-0.54/">0.54</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Archive-Extract-0.52/BINGOS/Archive-Extract-0.54">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/CPAN">CPAN</uri> (virtual/perl-CPAN)</ti>
@@ -125,8 +131,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
     <ti align="right">5.890.30_rc</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90001/">5.90001</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.89003/BOBTFISH/Catalyst-Runtime-5.90001">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90002/">5.90002</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.89003/BOBTFISH/Catalyst-Runtime-5.90002">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/CatalystX-Profile">CatalystX-Profile</uri></ti>
@@ -139,6 +145,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.1.1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ARCANEZ/DBIx-Class-Cursor-Cached-1.001002/">1.001002</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/ARCANEZ/DBIx-Class-Cursor-Cached-1.001001/ARCANEZ/DBIx-Class-Cursor-Cached-1.001002">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dancer">Dancer</uri></ti>
+    <ti align="right">1.307.1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/Dancer-1.3072/">1.3072</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SUKRIA/Dancer-1.3071/XSAWYERX/Dancer-1.3072">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Devel-Cover">Devel-Cover</uri></ti>
@@ -191,8 +203,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.640.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-1.86/">1.86</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.64/SRI/Mojolicious-1.86">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-1.87/">1.87</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.64/SRI/Mojolicious-1.87">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-Declare">MooseX-Declare</uri></ti>
+    <ti align="right">0.340</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/FLORA/MooseX-Declare-0.35/">0.35</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FLORA/MooseX-Declare-0.34/FLORA/MooseX-Declare-0.35">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Types-LoadableClass">MooseX-Types-LoadableClass</uri></ti>
@@ -230,10 +248,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://metacpan.org/release/CHROMATIC/Pod-PseudoPod-0.18/">0.18</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Pod-PseudoPod-0.17/CHROMATIC/Pod-PseudoPod-0.18">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Task-Catalyst">Task-Catalyst</uri></ti>
+    <ti align="right">4.10.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Task-Catalyst-4.02/">4.02</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FLORA/Task-Catalyst-4.01/BOBTFISH/Task-Catalyst-4.02">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 757
+Total packages suspected as outdated: 34 of 757
 </p>
 
 </body>

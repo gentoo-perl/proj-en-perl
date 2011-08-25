@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.595 2011/08/24 10:52:47 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.596 2011/08/25 11:38:59 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-24</date>
+<date>2011-08-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -207,16 +207,28 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.35001/GSHANK/HTML-FormHandler-0.35002">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Lexical-Types">Lexical-Types</uri></ti>
+    <ti align="right">0.110.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/VPIT/Lexical-Types-0.12/">0.12</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/VPIT/Lexical-Types-0.11/VPIT/Lexical-Types-0.12">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Log-Contextual">Log-Contextual</uri></ti>
     <ti align="right">0.3.50</ti>
     <ti align="right"><uri link="http://metacpan.org/release/FREW/Log-Contextual-0.004001/">0.004001</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/FREW/Log-Contextual-0.00305/FREW/Log-Contextual-0.004001">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/MetaCPAN-API">MetaCPAN-API</uri></ti>
+    <ti align="right">0.320.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/MetaCPAN-API-0.33/">0.33</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/MetaCPAN-API-0.32/XSAWYERX/MetaCPAN-API-0.33">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.640.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-1.89/">1.89</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.64/SRI/Mojolicious-1.89">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-1.91/">1.91</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.64/SRI/Mojolicious-1.91">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Declare">MooseX-Declare</uri></ti>
@@ -243,6 +255,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RJBS/Perl-PrereqScanner-1.004/JQUELIN/Perl-PrereqScanner-1.006">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Petal">Petal</uri></ti>
+    <ti align="right">2.19</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/NINE/Petal-2.20/">2.20</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BPOSTLE/Petal-2.19/NINE/Petal-2.20">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Pod-Elemental">Pod-Elemental</uri></ti>
     <ti align="right">0.102.360</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/Pod-Elemental-0.102361/">0.102361</uri></ti>
@@ -261,15 +279,27 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Pod-PseudoPod-0.17/CHROMATIC/Pod-PseudoPod-0.18">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Scope-Upper">Scope-Upper</uri></ti>
+    <ti align="right">0.140.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/VPIT/Scope-Upper-0.15/">0.15</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/VPIT/Scope-Upper-0.14/VPIT/Scope-Upper-0.15">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Task-Catalyst">Task-Catalyst</uri></ti>
     <ti align="right">4.10.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Task-Catalyst-4.02/">4.02</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/FLORA/Task-Catalyst-4.01/BOBTFISH/Task-Catalyst-4.02">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/autovivification">autovivification</uri></ti>
+    <ti align="right">0.90.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/VPIT/autovivification-0.10/">0.10</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/VPIT/autovivification-0.09/VPIT/autovivification-0.10">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 36 of 757
+Total packages suspected as outdated: 41 of 757
 </p>
 
 </body>

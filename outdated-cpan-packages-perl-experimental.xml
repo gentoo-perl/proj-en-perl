@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.597 2011/08/27 06:34:38 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.598 2011/08/28 07:50:29 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-27</date>
+<date>2011-08-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,40 +51,10 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://metacpan.org/release/Archive-Extract">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
-    <ti align="right">0.520.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Archive-Extract-0.56/">0.56</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Archive-Extract-0.52/BINGOS/Archive-Extract-0.56">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/CPAN">CPAN</uri> (virtual/perl-CPAN)</ti>
-    <ti align="right">1.975.100_rc</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ANDK/CPAN-1.9800/">1.9800</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ANDK/CPAN-1.97_51/ANDK/CPAN-1.9800">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-CompileTests">Dist-Zilla-Plugin-CompileTests</uri></ti>
-    <ti align="right">1.110.930</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Dist-Zilla-Plugin-CompileTests-1.112380/">1.112380</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-CompileTests-1.110930/JQUELIN/Dist-Zilla-Plugin-CompileTests-1.112380">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
-    <ti align="right">1.112.70</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Dist-Zilla-Plugin-Git-1.112380/">1.112380</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.112070/JQUELIN/Dist-Zilla-Plugin-Git-1.112380">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/ExtUtils-MakeMaker">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.571.100_rc</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MSTROUT/ExtUtils-MakeMaker-6.59/">6.59</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MSCHWERN/ExtUtils-MakeMaker-6.57_11/MSTROUT/ExtUtils-MakeMaker-6.59">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/File-ShareDir-Install">File-ShareDir-Install</uri></ti>
-    <ti align="right">0.03</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GWYN/File-ShareDir-Install-0.04/">0.04</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GWYN/File-ShareDir-Install-0.03/GWYN/File-ShareDir-Install-0.04">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MetaCPAN-API">MetaCPAN-API</uri></ti>
@@ -93,69 +63,15 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/MetaCPAN-API-0.32/XSAWYERX/MetaCPAN-API-0.33">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/MooseX-Log-Log4perl">MooseX-Log-Log4perl</uri></ti>
-    <ti align="right">0.42</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/LAMMEL/MooseX-Log-Log4perl-0.43/">0.43</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/LAMMEL/MooseX-Log-Log4perl-0.42/LAMMEL/MooseX-Log-Log4perl-0.43">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
     <ti align="right">0.23.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ZENOG/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/ZENOG/Padre-Plugin-Vi-0.23.0/ZENOG/Padre-Plugin-Vi-0.23">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Petal">Petal</uri></ti>
-    <ti align="right">2.19</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/NINE/Petal-2.20/">2.20</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BPOSTLE/Petal-2.19/NINE/Petal-2.20">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Plack-Middleware-ReverseProxy">Plack-Middleware-ReverseProxy</uri></ti>
-    <ti align="right">0.90.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DANJOU/Plack-Middleware-ReverseProxy-0.10/">0.10</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DANJOU/Plack-Middleware-ReverseProxy-0.09/DANJOU/Plack-Middleware-ReverseProxy-0.10">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Pod-Elemental">Pod-Elemental</uri></ti>
-    <ti align="right">0.102.360</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Pod-Elemental-0.102361/">0.102361</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Pod-Elemental-0.102360/RJBS/Pod-Elemental-0.102361">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Pod-ProjectDocs">Pod-ProjectDocs</uri></ti>
-    <ti align="right">0.39</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/LYOKATO/Pod-ProjectDocs-0.40/">0.40</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/LYOKATO/Pod-ProjectDocs-0.39/LYOKATO/Pod-ProjectDocs-0.40">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Pod-PseudoPod">Pod-PseudoPod</uri></ti>
-    <ti align="right">0.170.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/CHROMATIC/Pod-PseudoPod-0.18/">0.18</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Pod-PseudoPod-0.17/CHROMATIC/Pod-PseudoPod-0.18">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Scope-Upper">Scope-Upper</uri></ti>
-    <ti align="right">0.140.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/VPIT/Scope-Upper-0.15/">0.15</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/VPIT/Scope-Upper-0.14/VPIT/Scope-Upper-0.15">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Task-Catalyst">Task-Catalyst</uri></ti>
-    <ti align="right">4.10.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Task-Catalyst-4.02/">4.02</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/FLORA/Task-Catalyst-4.01/BOBTFISH/Task-Catalyst-4.02">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/autovivification">autovivification</uri></ti>
-    <ti align="right">0.90.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/VPIT/autovivification-0.10/">0.10</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/VPIT/autovivification-0.09/VPIT/autovivification-0.10">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 761
+Total packages suspected as outdated: 3 of 761
 </p>
 
 </body>

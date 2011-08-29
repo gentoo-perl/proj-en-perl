@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.598 2011/08/28 07:50:29 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.599 2011/08/29 16:47:16 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-28</date>
+<date>2011-08-29</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,6 +57,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/MSCHWERN/ExtUtils-MakeMaker-6.57_11/MSTROUT/ExtUtils-MakeMaker-6.59">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Imager">Imager</uri></ti>
+    <ti align="right">0.840.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TONYC/Imager-0.85/">0.85</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TONYC/Imager-0.84/TONYC/Imager-0.85">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/MetaCPAN-API">MetaCPAN-API</uri></ti>
     <ti align="right">0.320.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/MetaCPAN-API-0.33/">0.33</uri></ti>
@@ -71,7 +77,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 3 of 761
+Total packages suspected as outdated: 4 of 763
 </p>
 
 </body>

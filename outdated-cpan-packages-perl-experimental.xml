@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.599 2011/08/29 16:47:16 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.600 2011/08/31 19:10:01 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-08-29</date>
+<date>2011-08-31</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,12 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
+    <ti align="right">1.0.16</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.17/">1.0.17</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.16/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.17">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/ExtUtils-MakeMaker">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.571.100_rc</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MSTROUT/ExtUtils-MakeMaker-6.59/">6.59</uri></ti>
@@ -63,10 +69,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/TONYC/Imager-0.84/TONYC/Imager-0.85">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Locale-Codes">Locale-Codes</uri></ti>
+    <ti align="right">3.170.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SBECK/Locale-Codes-3.18/">3.18</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SBECK/Locale-Codes-3.17/SBECK/Locale-Codes-3.18">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/MetaCPAN-API">MetaCPAN-API</uri></ti>
     <ti align="right">0.320.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/MetaCPAN-API-0.33/">0.33</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/MetaCPAN-API-0.32/XSAWYERX/MetaCPAN-API-0.33">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Method-Signatures-Simple">Method-Signatures-Simple</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RHESA/Method-Signatures-Simple-1.01/">1.01</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RHESA/Method-Signatures-Simple-0.06/RHESA/Method-Signatures-Simple-1.01">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -74,10 +92,28 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://metacpan.org/release/ZENOG/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/ZENOG/Padre-Plugin-Vi-0.23.0/ZENOG/Padre-Plugin-Vi-0.23">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Parse-CPAN-Packages">Parse-CPAN-Packages</uri></ti>
+    <ti align="right">2.330.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MITHALDU/Parse-CPAN-Packages-2.34/">2.34</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MITHALDU/Parse-CPAN-Packages-2.33/MITHALDU/Parse-CPAN-Packages-2.34">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Perl-PrereqScanner">Perl-PrereqScanner</uri></ti>
+    <ti align="right">1.6.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Perl-PrereqScanner-1.007/">1.007</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Perl-PrereqScanner-1.006/JQUELIN/Perl-PrereqScanner-1.007">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Test-Spec">Test-Spec</uri></ti>
+    <ti align="right">0.380.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PHILIP/Test-Spec-0.39/">0.39</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PHILIP/Test-Spec-0.38/PHILIP/Test-Spec-0.39">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 763
+Total packages suspected as outdated: 10 of 763
 </p>
 
 </body>

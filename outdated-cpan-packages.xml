@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3010 2011/09/01 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3011 2011/09/01 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -90,6 +90,11 @@ will curb some of the bugs to boot).
     <ti align="right">6.06</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=curses::ui&amp;mode=all">Curses-UI</uri></ti>
+    <ti align="right">0.960700</ti>
+    <ti align="right">0.9608</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=daemon::generic&amp;mode=all">Daemon-Generic</uri></ti>
     <ti align="right">0.7200</ti>
     <ti align="right">0.81</ti>
@@ -143,6 +148,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">3.7100</ti>
     <ti align="right">4.0</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=log::any&amp;mode=all">Log-Any</uri></ti>
+    <ti align="right">0.1300</ti>
+    <ti align="right">0.14</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
@@ -227,7 +237,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 35 of 1117
+Total packages suspected as outdated: 37 of 1117
 </p>
 
 </body>

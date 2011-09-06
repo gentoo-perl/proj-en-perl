@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.603 2011/09/05 10:00:53 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.604 2011/09/06 11:52:08 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-09-05</date>
+<date>2011-09-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -63,6 +63,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Manual-5.9000/HKCLARK/Catalyst-Manual-5.9002">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/CatalystX-SimpleLogin">CatalystX-SimpleLogin</uri></ti>
+    <ti align="right">0.140.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/CatalystX-SimpleLogin-0.15/">0.15</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/CatalystX-SimpleLogin-0.14/BOBTFISH/CatalystX-SimpleLogin-0.15">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Crypt-Skip32">Crypt-Skip32</uri></ti>
+    <ti align="right">0.15</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ESH/Crypt-Skip32-0.17/">0.17</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ESH/Crypt-Skip32-0.15/ESH/Crypt-Skip32-0.17">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-App-Command-dumpphases">Dist-Zilla-App-Command-dumpphases</uri></ti>
     <ti align="right">0.1.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-App-Command-dumpphases-0.1.1/">0.1.1</uri></ti>
@@ -85,6 +97,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.2.7</ti>
     <ti align="right"><uri link="http://metacpan.org/release/FANGLY/Getopt-Euclid-0.2.9/">0.2.9</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/FANGLY/Getopt-Euclid-0.2.7/FANGLY/Getopt-Euclid-0.2.9">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Git-Wrapper">Git-Wrapper</uri></ti>
+    <ti align="right">0.15.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GENEHACK/Git-Wrapper-0.016/">0.016</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GENEHACK/Git-Wrapper-0.015/GENEHACK/Git-Wrapper-0.016">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MetaCPAN-API">MetaCPAN-API</uri></ti>
@@ -119,7 +137,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 11 of 766
+Total packages suspected as outdated: 14 of 766
 </p>
 
 </body>

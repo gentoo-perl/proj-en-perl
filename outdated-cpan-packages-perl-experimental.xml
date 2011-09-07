@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.604 2011/09/06 11:52:08 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.605 2011/09/07 10:44:11 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-09-06</date>
+<date>2011-09-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -81,10 +81,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-App-Command-dumpphases-0.1.0/KENTNL/Dist-Zilla-App-Command-dumpphases-0.1.1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
+    <ti align="right">1.112.440</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Dist-Zilla-Plugin-Git-1.112500/">1.112500</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.112440/JQUELIN/Dist-Zilla-Plugin-Git-1.112500">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
     <ti align="right">1.0.17</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.18/">1.0.18</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.17/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.18">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.19/">1.0.19</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.17/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.19">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/ExtUtils-MakeMaker">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
@@ -99,10 +105,28 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/FANGLY/Getopt-Euclid-0.2.7/FANGLY/Getopt-Euclid-0.2.9">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Git-Repository">Git-Repository</uri></ti>
+    <ti align="right">1.210.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOOK/Git-Repository-1.22/">1.22</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOOK/Git-Repository-1.21/BOOK/Git-Repository-1.22">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Git-Wrapper">Git-Wrapper</uri></ti>
     <ti align="right">0.15.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GENEHACK/Git-Wrapper-0.016/">0.016</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/GENEHACK/Git-Wrapper-0.015/GENEHACK/Git-Wrapper-0.016">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/HTML-FormFu">HTML-FormFu</uri></ti>
+    <ti align="right">0.90.40</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PERLER/HTML-FormFu-0.09005/">0.09005</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PERLER/HTML-FormFu-0.09004/PERLER/HTML-FormFu-0.09005">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Mason">Mason</uri></ti>
+    <ti align="right">2.130.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Mason-2.14/">2.14</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Mason-2.13/JSWARTZ/Mason-2.14">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MetaCPAN-API">MetaCPAN-API</uri></ti>
@@ -137,7 +161,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 14 of 766
+Total packages suspected as outdated: 18 of 763
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.605 2011/09/07 10:44:11 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.606 2011/09/11 10:49:50 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-09-07</date>
+<date>2011-09-11</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,18 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://metacpan.org/release/B-Hooks-OP-Check-EntersubForCV">B-Hooks-OP-Check-EntersubForCV</uri></ti>
+    <ti align="right">0.60.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/B-Hooks-OP-Check-EntersubForCV-0.07/">0.07</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FLORA/B-Hooks-OP-Check-EntersubForCV-0.06/ZEFRAM/B-Hooks-OP-Check-EntersubForCV-0.07">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/CGI-Application-Dispatch">CGI-Application-Dispatch</uri></ti>
+    <ti align="right">3.40.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MARKSTOS/CGI-Application-Dispatch-3.07/">3.07</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MARKSTOS/CGI-Application-Dispatch-3.04/MARKSTOS/CGI-Application-Dispatch-3.07">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/CPANPLUS-Dist-Build">CPANPLUS-Dist-Build</uri> (virtual/perl-CPANPLUS-Dist-Build)</ti>
     <ti align="right">0.560.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPANPLUS-Dist-Build-0.58/">0.58</uri></ti>
@@ -61,6 +73,12 @@ will curb some of the bugs to boot).
     <ti align="right">5.900.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/HKCLARK/Catalyst-Manual-5.9002/">5.9002</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Manual-5.9000/HKCLARK/Catalyst-Manual-5.9002">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Unicode-Encoding">Catalyst-Plugin-Unicode-Encoding</uri></ti>
+    <ti align="right">1.1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.2/">1.2</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.1/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.2">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/CatalystX-SimpleLogin">CatalystX-SimpleLogin</uri></ti>
@@ -75,28 +93,52 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/ESH/Crypt-Skip32-0.15/ESH/Crypt-Skip32-0.17">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Devel-PPPort">Devel-PPPort</uri> (virtual/perl-Devel-PPPort)</ti>
+    <ti align="right">3.190.300_rc</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MHX/Devel-PPPort-3.20/">3.20</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MHX/Devel-PPPort-3.19_03/MHX/Devel-PPPort-3.20">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-App-Command-dumpphases">Dist-Zilla-App-Command-dumpphases</uri></ti>
     <ti align="right">0.1.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-App-Command-dumpphases-0.1.1/">0.1.1</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-App-Command-dumpphases-0.1.0/KENTNL/Dist-Zilla-App-Command-dumpphases-0.1.1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-CheckPrereqsIndexed">Dist-Zilla-Plugin-CheckPrereqsIndexed</uri></ti>
+    <ti align="right">0.4.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-Plugin-CheckPrereqsIndexed-0.005/">0.005</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-Plugin-CheckPrereqsIndexed-0.004/RJBS/Dist-Zilla-Plugin-CheckPrereqsIndexed-0.005">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
     <ti align="right">1.112.440</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Dist-Zilla-Plugin-Git-1.112500/">1.112500</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.112440/JQUELIN/Dist-Zilla-Plugin-Git-1.112500">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Dist-Zilla-Plugin-Git-1.112510/">1.112510</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.112440/JQUELIN/Dist-Zilla-Plugin-Git-1.112510">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Test-Kwalitee">Dist-Zilla-Plugin-Test-Kwalitee</uri></ti>
+    <ti align="right">1.112.410</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/AYOUNG/Dist-Zilla-Plugin-Test-Kwalitee-2.020000/">2.020000</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/AYOUNG/Dist-Zilla-Plugin-Test-Kwalitee-1.112410/AYOUNG/Dist-Zilla-Plugin-Test-Kwalitee-2.020000">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
     <ti align="right">1.0.17</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.19/">1.0.19</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.17/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.19">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.21/">1.0.21</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.17/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.21">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/ExtUtils-MakeMaker">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.571.100_rc</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MSTROUT/ExtUtils-MakeMaker-6.59/">6.59</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MSCHWERN/ExtUtils-MakeMaker-6.57_11/MSTROUT/ExtUtils-MakeMaker-6.59">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/FindBin-libs">FindBin-libs</uri></ti>
+    <ti align="right">1.510</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/LEMBARK/FindBin-libs-1.52/">1.52</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/LEMBARK/FindBin-libs-1.51/LEMBARK/FindBin-libs-1.52">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Getopt-Euclid">Getopt-Euclid</uri></ti>
@@ -121,6 +163,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.90.40</ti>
     <ti align="right"><uri link="http://metacpan.org/release/PERLER/HTML-FormFu-0.09005/">0.09005</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/PERLER/HTML-FormFu-0.09004/PERLER/HTML-FormFu-0.09005">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
+    <ti align="right">0.350.20</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.35003/">0.35003</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.35002/GSHANK/HTML-FormHandler-0.35003">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mason">Mason</uri></ti>
@@ -161,7 +209,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 763
+Total packages suspected as outdated: 26 of 763
 </p>
 
 </body>

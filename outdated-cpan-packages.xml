@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3030 2011/09/13 01:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3031 2011/09/13 17:52:26 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,21 +60,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.78</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=audio::scan&amp;mode=all">Audio-Scan</uri></ti>
-    <ti align="right">0.9100</ti>
-    <ti align="right">0.92</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=b::hooks::op::check&amp;mode=all">B-Hooks-OP-Check</uri></ti>
-    <ti align="right">0.1800</ti>
-    <ti align="right">0.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=boolean&amp;mode=all">boolean</uri></ti>
-    <ti align="right">0.2700</ti>
-    <ti align="right">0.28</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.1700</ti>
     <ti align="right">0.19</ti>
@@ -83,11 +68,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=coro&amp;mode=all">Coro</uri></ti>
     <ti align="right">5.3720</ti>
     <ti align="right">6.06</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">1.3600</ti>
-    <ti align="right">1.37</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::mime&amp;mode=all">Email-MIME</uri></ti>
@@ -182,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 1121
+Total packages suspected as outdated: 22 of 1121
 </p>
 
 </body>

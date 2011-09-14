@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3031 2011/09/13 17:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3032 2011/09/14 01:52:26 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-09-13</date>
+<date>2011-09-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,11 +53,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
     <ti align="right">0.9000</ti>
     <ti align="right">0.93</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=archive::tar&amp;mode=all">Archive-Tar</uri> (virtual/perl-Archive-Tar)</ti>
-    <ti align="right">1.7600</ti>
-    <ti align="right">1.78</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
@@ -100,19 +95,9 @@ will curb some of the bugs to boot).
     <ti align="right">4.0</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::bigint::fastcalc&amp;mode=all">Math-BigInt-FastCalc</uri> (virtual/perl-Math-BigInt-FastCalc)</ti>
-    <ti align="right">0.2900</ti>
-    <ti align="right">0.30</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.5400</ti>
     <ti align="right">2.55</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::load::conditional&amp;mode=all">Module-Load-Conditional</uri> (virtual/perl-Module-Load-Conditional)</ti>
-    <ti align="right">0.4400</ti>
-    <ti align="right">0.46</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::amazon::s3&amp;mode=all">Net-Amazon-S3</uri></ti>
@@ -145,16 +130,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.85</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=threads::shared&amp;mode=all">threads-shared</uri> (virtual/perl-threads-shared)</ti>
-    <ti align="right">1.3900</ti>
-    <ti align="right">1.40</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::libxslt&amp;mode=all">XML-LibXSLT</uri></ti>
-    <ti align="right">1.7000</ti>
-    <ti align="right">1.71</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::sax&amp;mode=all">XML-SAX</uri></ti>
     <ti align="right">0.9600</ti>
     <ti align="right">0.99</ti>
@@ -162,7 +137,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 1121
+Total packages suspected as outdated: 17 of 1121
 </p>
 
 </body>

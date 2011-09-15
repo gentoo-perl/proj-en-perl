@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3033 2011/09/15 01:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3034 2011/09/15 09:52:26 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -85,9 +85,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.110001</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::pushd&amp;mode=all">File-pushd</uri></ti>
+    <ti align="right">1.00</ti>
+    <ti align="right">1.001</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::mason&amp;mode=all">HTML-Mason</uri></ti>
     <ti align="right">1.4500</ti>
     <ti align="right">1.46</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=http::browserdetect&amp;mode=all">HTTP-BrowserDetect</uri></ti>
+    <ti align="right">1.2900</ti>
+    <ti align="right">1.30</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline&amp;mode=all">Inline</uri></ti>
@@ -147,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 1121
+Total packages suspected as outdated: 21 of 1121
 </p>
 
 </body>

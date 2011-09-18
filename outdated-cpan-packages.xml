@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3038 2011/09/17 09:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3039 2011/09/18 01:52:25 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-09-17</date>
+<date>2011-09-18</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,18 +50,8 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=any::moose&amp;mode=all">Any-Moose</uri></ti>
-    <ti align="right">0.1500</ti>
-    <ti align="right">0.17</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
     <ti align="right">0.9000</ti>
-    <ti align="right">0.93</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=audio::scan&amp;mode=all">Audio-Scan</uri></ti>
-    <ti align="right">0.9200</ti>
     <ti align="right">0.93</ti>
   </tr>
   <tr>
@@ -77,7 +67,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::meta&amp;mode=all">CPAN-Meta</uri> (virtual/perl-CPAN-Meta)</ti>
     <ti align="right">2.112150</ti>
-    <ti align="right">2.112580</ti>
+    <ti align="right">2.112600</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
@@ -95,19 +85,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.110001</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::pushd&amp;mode=all">File-pushd</uri></ti>
-    <ti align="right">1.00</ti>
-    <ti align="right">1.001</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::mason&amp;mode=all">HTML-Mason</uri></ti>
     <ti align="right">1.4500</ti>
     <ti align="right">1.46</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=http::browserdetect&amp;mode=all">HTTP-BrowserDetect</uri></ti>
-    <ti align="right">1.2900</ti>
-    <ti align="right">1.30</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline&amp;mode=all">Inline</uri></ti>
@@ -172,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 1121
+Total packages suspected as outdated: 20 of 1121
 </p>
 
 </body>

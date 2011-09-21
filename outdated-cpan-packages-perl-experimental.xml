@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.612 2011/09/20 19:03:38 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.613 2011/09/21 13:53:26 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-09-20</date>
+<date>2011-09-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -201,6 +201,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/HTML-Selector-XPath-0.07/MIYAGAWA/HTML-Selector-XPath-0.08">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/HTML-TreeBuilder-LibXML">HTML-TreeBuilder-LibXML</uri></ti>
+    <ti align="right">0.120.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TOKUHIROM/HTML-TreeBuilder-LibXML-0.13/">0.13</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/HTML-TreeBuilder-LibXML-0.12/TOKUHIROM/HTML-TreeBuilder-LibXML-0.13">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/HTML-TreeBuilder-XPath">HTML-TreeBuilder-XPath</uri></ti>
     <ti align="right">0.130.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MIROD/HTML-TreeBuilder-XPath-0.14/">0.14</uri></ti>
@@ -299,7 +305,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 41 of 763
+Total packages suspected as outdated: 42 of 763
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.615 2011/09/25 07:53:18 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.616 2011/09/26 11:36:57 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-09-25</date>
+<date>2011-09-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -63,12 +63,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/MHX/Devel-PPPort-3.19_03/MHX/Devel-PPPort-3.20">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
-    <ti align="right">1.0.17</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.21/">1.0.21</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.17/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.21">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/ExtUtils-MakeMaker">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.571.100_rc</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MSTROUT/ExtUtils-MakeMaker-6.59/">6.59</uri></ti>
@@ -107,7 +101,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 9 of 765
+Total packages suspected as outdated: 8 of 769
 </p>
 
 </body>

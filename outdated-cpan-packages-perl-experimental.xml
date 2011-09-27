@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.616 2011/09/26 11:36:57 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.617 2011/09/27 15:36:15 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-09-26</date>
+<date>2011-09-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,10 +51,28 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://metacpan.org/release/Archive-Peek">Archive-Peek</uri></ti>
+    <ti align="right">0.340.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/LBROCARD/Archive-Peek-0.35/">0.35</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/LBROCARD/Archive-Peek-0.34/LBROCARD/Archive-Peek-0.35">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/B-Hooks-OP-Check-EntersubForCV">B-Hooks-OP-Check-EntersubForCV</uri></ti>
+    <ti align="right">0.70.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/B-Hooks-OP-Check-EntersubForCV-0.08/">0.08</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ZEFRAM/B-Hooks-OP-Check-EntersubForCV-0.07/ZEFRAM/B-Hooks-OP-Check-EntersubForCV-0.08">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/CPANPLUS-Dist-Build">CPANPLUS-Dist-Build</uri> (virtual/perl-CPANPLUS-Dist-Build)</ti>
     <ti align="right">0.560.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPANPLUS-Dist-Build-0.58/">0.58</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPANPLUS-Dist-Build-0.56/BINGOS/CPANPLUS-Dist-Build-0.58">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/DateTime-TimeZone-SystemV">DateTime-TimeZone-SystemV</uri></ti>
+    <ti align="right">0.4.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/DateTime-TimeZone-SystemV-0.005/">0.005</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ZEFRAM/DateTime-TimeZone-SystemV-0.004/ZEFRAM/DateTime-TimeZone-SystemV-0.005">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Devel-PPPort">Devel-PPPort</uri> (virtual/perl-Devel-PPPort)</ti>
@@ -67,6 +85,24 @@ will curb some of the bugs to boot).
     <ti align="right">6.571.100_rc</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MSTROUT/ExtUtils-MakeMaker-6.59/">6.59</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MSCHWERN/ExtUtils-MakeMaker-6.57_11/MSTROUT/ExtUtils-MakeMaker-6.59">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Filesys-Notify-Simple">Filesys-Notify-Simple</uri></ti>
+    <ti align="right">0.70</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Filesys-Notify-Simple-0.08/">0.08</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/Filesys-Notify-Simple-0.07/MIYAGAWA/Filesys-Notify-Simple-0.08">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/HTML-Packer">HTML-Packer</uri></ti>
+    <ti align="right">1.2.1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/NEVESENIN/HTML-Packer-1.004/">1.004</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/NEVESENIN/HTML-Packer-1.002001/NEVESENIN/HTML-Packer-1.004">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/JavaScript-Packer">JavaScript-Packer</uri></ti>
+    <ti align="right">1.4.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/NEVESENIN/JavaScript-Packer-1.006/">1.006</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/NEVESENIN/JavaScript-Packer-1.004/NEVESENIN/JavaScript-Packer-1.006">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MetaCPAN-API">MetaCPAN-API</uri></ti>
@@ -93,6 +129,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/ZENOG/Padre-Plugin-Vi-0.23.0/ZENOG/Padre-Plugin-Vi-0.23">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Web-Scraper">Web-Scraper</uri></ti>
+    <ti align="right">0.340.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Web-Scraper-0.35/">0.35</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/Web-Scraper-0.34/MIYAGAWA/Web-Scraper-0.35">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/autobox-Core">autobox-Core</uri></ti>
+    <ti align="right">1.200.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MSCHWERN/autobox-Core-1.21/">1.21</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SWALTERS/autobox-Core-1.2/MSCHWERN/autobox-Core-1.21">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/perl5i">perl5i</uri></ti>
     <ti align="right">2.6.1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MSCHWERN/perl5i-v2.8.0/">v2.8.0</uri></ti>
@@ -101,7 +149,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 8 of 769
+Total packages suspected as outdated: 16 of 771
 </p>
 
 </body>

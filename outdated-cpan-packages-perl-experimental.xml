@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.619 2011/10/04 18:55:10 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.620 2011/10/05 14:16:03 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-10-04</date>
+<date>2011-10-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -81,6 +81,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Log-Log4perl-1.04/BOBTFISH/Catalyst-Log-Log4perl-1.05">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
+    <ti align="right">5.900.20</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90003/">5.90003</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90002/BOBTFISH/Catalyst-Runtime-5.90003">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/DateTime-TimeZone-SystemV">DateTime-TimeZone-SystemV</uri></ti>
     <ti align="right">0.4.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/DateTime-TimeZone-SystemV-0.005/">0.005</uri></ti>
@@ -129,6 +135,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/NEVESENIN/HTML-Packer-1.002001/NEVESENIN/HTML-Packer-1.004">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/HTML-Template-Pro">HTML-Template-Pro</uri></ti>
+    <ti align="right">0.950.500</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/VIY/HTML-Template-Pro-0.9506/">0.9506</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/VIY/HTML-Template-Pro-0.9505/VIY/HTML-Template-Pro-0.9506">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/JavaScript-Packer">JavaScript-Packer</uri></ti>
     <ti align="right">1.4.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/NEVESENIN/JavaScript-Packer-1.006/">1.006</uri></ti>
@@ -145,6 +157,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.320.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/MetaCPAN-API-0.34/">0.34</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/MetaCPAN-API-0.32/XSAWYERX/MetaCPAN-API-0.34">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Module-Runtime">Module-Runtime</uri></ti>
+    <ti align="right">0.8.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/Module-Runtime-0.009/">0.009</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ZEFRAM/Module-Runtime-0.008/ZEFRAM/Module-Runtime-0.009">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MojoMojo">MojoMojo</uri></ti>
@@ -191,8 +209,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-SharedFork">Test-SharedFork</uri></ti>
     <ti align="right">0.160</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TOKUHIROM/Test-SharedFork-0.17/">0.17</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/Test-SharedFork-0.16/TOKUHIROM/Test-SharedFork-0.17">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TOKUHIROM/Test-SharedFork-0.18/">0.18</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/Test-SharedFork-0.16/TOKUHIROM/Test-SharedFork-0.18">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-WWW-Mechanize-Catalyst">Test-WWW-Mechanize-Catalyst</uri></ti>
@@ -233,7 +251,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 771
+Total packages suspected as outdated: 33 of 771
 </p>
 
 </body>

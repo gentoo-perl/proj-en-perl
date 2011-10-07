@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.621 2011/10/06 18:08:14 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.622 2011/10/07 17:06:39 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-10-06</date>
+<date>2011-10-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -167,8 +167,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Module-Runtime">Module-Runtime</uri></ti>
     <ti align="right">0.8.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/Module-Runtime-0.009/">0.009</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ZEFRAM/Module-Runtime-0.008/ZEFRAM/Module-Runtime-0.009">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/Module-Runtime-0.010/">0.010</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ZEFRAM/Module-Runtime-0.008/ZEFRAM/Module-Runtime-0.010">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MojoMojo">MojoMojo</uri></ti>
@@ -181,6 +181,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.980.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-1.99/">1.99</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-1.99">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-SetOnce">MooseX-SetOnce</uri></ti>
+    <ti align="right">0.200.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/MooseX-SetOnce-0.200001/">0.200001</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/MooseX-SetOnce-0.200000/RJBS/MooseX-SetOnce-0.200001">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Types-Structured">MooseX-Types-Structured</uri></ti>
@@ -211,6 +217,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.160.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/VPIT/Scope-Upper-0.17/">0.17</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/VPIT/Scope-Upper-0.16/VPIT/Scope-Upper-0.17">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Test-LeakTrace">Test-LeakTrace</uri></ti>
+    <ti align="right">0.130.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GFUJI/Test-LeakTrace-0.14/">0.14</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GFUJI/Test-LeakTrace-0.13/GFUJI/Test-LeakTrace-0.14">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-SharedFork">Test-SharedFork</uri></ti>
@@ -257,7 +269,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 34 of 771
+Total packages suspected as outdated: 36 of 771
 </p>
 
 </body>

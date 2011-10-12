@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.624 2011/10/10 15:58:36 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.625 2011/10/12 14:23:23 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-10-10</date>
+<date>2011-10-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -83,8 +83,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
     <ti align="right">5.900.20</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90003/">5.90003</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90002/BOBTFISH/Catalyst-Runtime-5.90003">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/FLORA/Catalyst-Runtime-5.90004/">5.90004</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90002/FLORA/Catalyst-Runtime-5.90004">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/DateTime-TimeZone-SystemV">DateTime-TimeZone-SystemV</uri></ti>
@@ -183,6 +183,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/DOY/KiokuDB-Backend-DBI-1.20/DOY/KiokuDB-Backend-DBI-1.21">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Lingua-EN-Inflect-Phrase">Lingua-EN-Inflect-Phrase</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/Lingua-EN-Inflect-Phrase-0.08/">0.08</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/Lingua-EN-Inflect-Phrase-0.04/RKITOVER/Lingua-EN-Inflect-Phrase-0.08">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/MetaCPAN-API">MetaCPAN-API</uri></ti>
     <ti align="right">0.320.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/MetaCPAN-API-0.34/">0.34</uri></ti>
@@ -219,6 +225,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/JJNAPIORK/MooseX-Types-Structured-0.27/JJNAPIORK/MooseX-Types-Structured-0.28">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/ORLite-Migrate">ORLite-Migrate</uri></ti>
+    <ti align="right">1.07</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ADAMK/ORLite-Migrate-1.08/">1.08</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ADAMK/ORLite-Migrate-1.07/ADAMK/ORLite-Migrate-1.08">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Object-ID">Object-ID</uri></ti>
     <ti align="right">0.1.1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MSCHWERN/Object-ID-v0.1.2/">v0.1.2</uri></ti>
@@ -239,8 +251,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Scope-Upper">Scope-Upper</uri></ti>
     <ti align="right">0.160.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/VPIT/Scope-Upper-0.17/">0.17</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/VPIT/Scope-Upper-0.16/VPIT/Scope-Upper-0.17">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/VPIT/Scope-Upper-0.18/">0.18</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/VPIT/Scope-Upper-0.16/VPIT/Scope-Upper-0.18">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-LeakTrace">Test-LeakTrace</uri></ti>
@@ -293,7 +305,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 40 of 772
+Total packages suspected as outdated: 42 of 772
 </p>
 
 </body>

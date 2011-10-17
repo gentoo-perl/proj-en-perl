@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.627 2011/10/16 12:19:30 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.628 2011/10/17 11:48:12 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-10-16</date>
+<date>2011-10-17</date>
 
 <chapter>
 <title>Intro</title>
@@ -315,12 +315,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Test-WWW-Mechanize-Catalyst-0.54/BOBTFISH/Test-WWW-Mechanize-Catalyst-0.55">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Unicode-Collate">Unicode-Collate</uri> (virtual/perl-Unicode-Collate)</ti>
-    <ti align="right">0.780.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SADAHIRO/Unicode-Collate-0.80/">0.80</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SADAHIRO/Unicode-Collate-0.78/SADAHIRO/Unicode-Collate-0.80">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Web-Scraper">Web-Scraper</uri></ti>
     <ti align="right">0.340.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Web-Scraper-0.35/">0.35</uri></ti>
@@ -347,7 +341,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 49 of 772
+Total packages suspected as outdated: 48 of 778
 </p>
 
 </body>

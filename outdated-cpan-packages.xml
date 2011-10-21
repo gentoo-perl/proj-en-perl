@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3082 2011/10/21 09:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3083 2011/10/21 17:52:26 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
-    <ti align="right">0.5200</ti>
-    <ti align="right">0.53</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
     <ti align="right">0.9000</ti>
     <ti align="right">0.93</ti>
@@ -70,11 +65,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.80</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=bio::graphics&amp;mode=all">Bio-Graphics</uri></ti>
-    <ti align="right">2.2400</ti>
-    <ti align="right">2.25</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.1700</ti>
     <ti align="right">0.19</ti>
@@ -85,19 +75,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.31</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=data::dump&amp;mode=all">Data-Dump</uri></ti>
-    <ti align="right">1.1900</ti>
-    <ti align="right">1.21</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
     <ti align="right">0.1100</ti>
     <ti align="right">0.110001</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=fcgi::procmanager&amp;mode=all">FCGI-ProcManager</uri></ti>
-    <ti align="right">0.2300</ti>
-    <ti align="right">0.24</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
@@ -115,9 +95,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.44</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
-    <ti align="right">2.5400</ti>
-    <ti align="right">2.57</ti>
+    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
+    <ti align="right">1.4600</ti>
+    <ti align="right">1.47</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::load&amp;mode=all">Module-Load</uri> (virtual/perl-Module-Load)</ti>
@@ -139,20 +119,10 @@ will curb some of the bugs to boot).
     <ti align="right">2.1700</ti>
     <ti align="right">3.02</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=uri::find&amp;mode=all">URI-Find</uri></ti>
-    <ti align="right">20100505.00</ti>
-    <ti align="right">20111020</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
-    <ti align="right">0.990100</ti>
-    <ti align="right">0.9902</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 1124
+Total packages suspected as outdated: 14 of 1124
 </p>
 
 </body>

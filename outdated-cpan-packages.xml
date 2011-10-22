@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3083 2011/10/21 17:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3084 2011/10/22 01:52:26 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-10-21</date>
+<date>2011-10-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -58,6 +58,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=apache::dbi&amp;mode=all">Apache-DBI</uri></ti>
     <ti align="right">1.1000</ti>
     <ti align="right">1.11</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=app::nopaste&amp;mode=all">App-Nopaste</uri></ti>
+    <ti align="right">0.3100</ti>
+    <ti align="right">0.32</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=archive::tar&amp;mode=all">Archive-Tar</uri> (virtual/perl-Archive-Tar)</ti>
@@ -122,7 +127,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 14 of 1124
+Total packages suspected as outdated: 15 of 1124
 </p>
 
 </body>

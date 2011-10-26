@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.635 2011/10/25 16:50:07 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.636 2011/10/26 17:40:01 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-10-25</date>
+<date>2011-10-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,6 +57,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/Archive-Extract-0.56/BINGOS/Archive-Extract-0.58">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Best">Best</uri></ti>
+    <ti align="right">0.120.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GAAL/Best-0.14/">0.14</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GAAL/Best-0.12/GAAL/Best-0.14">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/CPANPLUS-Dist-Build">CPANPLUS-Dist-Build</uri> (virtual/perl-CPANPLUS-Dist-Build)</ti>
     <ti align="right">0.560.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPANPLUS-Dist-Build-0.58/">0.58</uri></ti>
@@ -83,8 +89,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Model-DBIC-Schema">Catalyst-Model-DBIC-Schema</uri></ti>
     <ti align="right">0.550.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.57/">0.57</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.55/RKITOVER/Catalyst-Model-DBIC-Schema-0.57">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.58/">0.58</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.55/RKITOVER/Catalyst-Model-DBIC-Schema-0.58">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Singleton">Catalyst-Plugin-Singleton</uri></ti>
@@ -95,8 +101,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
     <ti align="right">5.900.20</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90005/">5.90005</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90002/BOBTFISH/Catalyst-Runtime-5.90005">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90006/">5.90006</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90002/BOBTFISH/Catalyst-Runtime-5.90006">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Cave-Wrapper">Cave-Wrapper</uri></ti>
@@ -107,8 +113,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Config-GitLike">Config-GitLike</uri></ti>
     <ti align="right">1.050</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ALEXMV/Config-GitLike-1.06/">1.06</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SPANG/Config-GitLike-1.05/ALEXMV/Config-GitLike-1.06">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ALEXMV/Config-GitLike-1.07/">1.07</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SPANG/Config-GitLike-1.05/ALEXMV/Config-GitLike-1.07">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dancer">Dancer</uri></ti>
+    <ti align="right">1.307.2</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/Dancer-1.3080/">1.3080</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/Dancer-1.3072/XSAWYERX/Dancer-1.3080">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/DateTime-TimeZone-SystemV">DateTime-TimeZone-SystemV</uri></ti>
@@ -169,6 +181,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.0.21</ti>
     <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.22/">1.0.22</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.21/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.0.22">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Encode-Base32-Crockford">Encode-Base32-Crockford</uri></ti>
+    <ti align="right">1.200</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GBARR/Encode-Base32-Crockford-2.112991/">2.112991</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/HEX/Encode-Base32-Crockford-1.2/GBARR/Encode-Base32-Crockford-2.112991">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/ExtUtils-MakeMaker">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
@@ -269,8 +287,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.10/">2.10</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.10">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.11/">2.11</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.11">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-SetOnce">MooseX-SetOnce</uri></ti>
@@ -377,7 +395,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 54 of 789
+Total packages suspected as outdated: 57 of 789
 </p>
 
 </body>

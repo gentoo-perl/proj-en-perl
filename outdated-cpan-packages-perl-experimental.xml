@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.636 2011/10/26 17:40:01 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.637 2011/10/27 19:49:52 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-10-26</date>
+<date>2011-10-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -239,8 +239,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
     <ti align="right">0.13.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.014/">0.014</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.013/DAGOLDEN/HTTP-Tiny-0.014">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.016/">0.016</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.013/DAGOLDEN/HTTP-Tiny-0.016">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Hash-FieldHash">Hash-FieldHash</uri></ti>
@@ -287,8 +287,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.11/">2.11</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.11">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.12/">2.12</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.12">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-SetOnce">MooseX-SetOnce</uri></ti>
@@ -319,6 +319,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.23.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ZENOG/Padre-Plugin-Vi-0.23/">0.23</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/ZENOG/Padre-Plugin-Vi-0.23.0/ZENOG/Padre-Plugin-Vi-0.23">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Parallel-Prefork">Parallel-Prefork</uri></ti>
+    <ti align="right">0.110.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KAZUHO/Parallel-Prefork-0.12/">0.12</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KAZUHO/Parallel-Prefork-0.11/KAZUHO/Parallel-Prefork-0.12">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Plack">Plack</uri></ti>
@@ -395,7 +401,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 57 of 789
+Total packages suspected as outdated: 58 of 789
 </p>
 
 </body>

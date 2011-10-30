@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.639 2011/10/29 17:59:27 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.640 2011/10/30 07:59:14 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-10-29</date>
+<date>2011-10-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -299,8 +299,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.15/">2.15</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.15">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.17/">2.17</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.17">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-SetOnce">MooseX-SetOnce</uri></ti>
@@ -363,6 +363,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/VPIT/Scope-Upper-0.16/VPIT/Scope-Upper-0.18">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Search-GIN-Extract-AttributeIndexes">Search-GIN-Extract-AttributeIndexes</uri></ti>
+    <ti align="right">1.0.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Search-GIN-Extract-AttributeIndexes-1.0.1/">1.0.1</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Search-GIN-Extract-AttributeIndexes-1.0.0/KENTNL/Search-GIN-Extract-AttributeIndexes-1.0.1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Test-File-ShareDir">Test-File-ShareDir</uri></ti>
     <ti align="right">0.3.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Test-File-ShareDir-0.3.1/">0.3.1</uri></ti>
@@ -389,8 +395,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Unicode-Collate">Unicode-Collate</uri> (virtual/perl-Unicode-Collate)</ti>
     <ti align="right">0.800.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SADAHIRO/Unicode-Collate-0.81/">0.81</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SADAHIRO/Unicode-Collate-0.80/SADAHIRO/Unicode-Collate-0.81">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SADAHIRO/Unicode-Collate-0.82/">0.82</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SADAHIRO/Unicode-Collate-0.80/SADAHIRO/Unicode-Collate-0.82">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Web-Scraper">Web-Scraper</uri></ti>
@@ -419,7 +425,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 61 of 789
+Total packages suspected as outdated: 62 of 789
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.642 2011/10/31 17:33:31 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.643 2011/11/02 13:13:26 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-10-31</date>
+<date>2011-11-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -71,8 +71,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Model-DBIC-Schema">Catalyst-Model-DBIC-Schema</uri></ti>
     <ti align="right">0.550.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.58/">0.58</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.55/RKITOVER/Catalyst-Model-DBIC-Schema-0.58">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.59/">0.59</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.55/RKITOVER/Catalyst-Model-DBIC-Schema-0.59">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Singleton">Catalyst-Plugin-Singleton</uri></ti>
@@ -105,6 +105,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/SPANG/Config-GitLike-1.05/ALEXMV/Config-GitLike-1.07">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
+    <ti align="right">0.70.100</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/DBIx-Class-Schema-Loader-0.07011/">0.07011</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07010/RKITOVER/DBIx-Class-Schema-Loader-0.07011">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Dancer">Dancer</uri></ti>
     <ti align="right">1.307.2</ti>
     <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/Dancer-1.3080/">1.3080</uri></ti>
@@ -133,6 +139,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.520.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Devel-PatchPerl-0.60/">0.60</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/Devel-PatchPerl-0.52/BINGOS/Devel-PatchPerl-0.60">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
+    <ti align="right">4.300.2</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300003/">4.300003</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300002/RJBS/Dist-Zilla-4.300003">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-GithubMeta">Dist-Zilla-Plugin-GithubMeta</uri></ti>
@@ -281,8 +293,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.19/">2.19</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.19">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.21/">2.21</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.21">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-AttributeIndexes">MooseX-AttributeIndexes</uri></ti>
@@ -327,10 +339,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/KAZUHO/Parallel-Prefork-0.11/KAZUHO/Parallel-Prefork-0.13">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Perl-PrereqScanner">Perl-PrereqScanner</uri></ti>
+    <ti align="right">1.7.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Perl-PrereqScanner-1.008/">1.008</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Perl-PrereqScanner-1.007/JQUELIN/Perl-PrereqScanner-1.008">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Plack">Plack</uri></ti>
     <ti align="right">0.998.200</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Plack-0.9984/">0.9984</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/Plack-0.9982/MIYAGAWA/Plack-0.9984">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Plack-0.9985/">0.9985</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/Plack-0.9982/MIYAGAWA/Plack-0.9985">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Plack-Middleware-ReverseProxy">Plack-Middleware-ReverseProxy</uri></ti>
@@ -345,6 +363,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RJBS/Pod-Elemental-Transformer-WikiDoc-0.093001/RJBS/Pod-Elemental-Transformer-WikiDoc-0.093002">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Pod-Weaver">Pod-Weaver</uri></ti>
+    <ti align="right">3.101.633</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Pod-Weaver-3.101634/">3.101634</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Pod-Weaver-3.101633/RJBS/Pod-Weaver-3.101634">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Regexp-Grammars">Regexp-Grammars</uri></ti>
+    <ti align="right">1.13.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DCONWAY/Regexp-Grammars-1.014/">1.014</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DCONWAY/Regexp-Grammars-1.013/DCONWAY/Regexp-Grammars-1.014">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Scope-Upper">Scope-Upper</uri></ti>
     <ti align="right">0.160.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/VPIT/Scope-Upper-0.18/">0.18</uri></ti>
@@ -357,10 +387,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Search-GIN-Extract-AttributeIndexes-1.0.0/KENTNL/Search-GIN-Extract-AttributeIndexes-1.0.1">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Starlet">Starlet</uri></ti>
-    <ti align="right">0.130.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KAZUHO/Starlet-0.14/">0.14</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KAZUHO/Starlet-0.13/KAZUHO/Starlet-0.14">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/Software-License">Software-License</uri></ti>
+    <ti align="right">0.103.2</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Software-License-0.103003/">0.103003</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Software-License-0.103002/RJBS/Software-License-0.103003">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-File-ShareDir">Test-File-ShareDir</uri></ti>
@@ -419,7 +449,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 61 of 791
+Total packages suspected as outdated: 66 of 793
 </p>
 
 </body>

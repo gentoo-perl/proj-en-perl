@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.643 2011/11/02 13:13:26 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.644 2011/11/03 16:41:21 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-11-02</date>
+<date>2011-11-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -87,6 +87,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90002/BOBTFISH/Catalyst-Runtime-5.90006">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-View-Download">Catalyst-View-Download</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GAUDEON/Catalyst-View-Download-0.07/">0.07</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GAUDEON/Catalyst-View-Download-0.06/GAUDEON/Catalyst-View-Download-0.07">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Cave-Wrapper">Cave-Wrapper</uri></ti>
     <ti align="right">0.10.0.20</ti>
     <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Cave-Wrapper-0.01000003/">0.01000003</uri></ti>
@@ -145,6 +151,12 @@ will curb some of the bugs to boot).
     <ti align="right">4.300.2</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300003/">4.300003</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300002/RJBS/Dist-Zilla-4.300003">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-CheckPrereqsIndexed">Dist-Zilla-Plugin-CheckPrereqsIndexed</uri></ti>
+    <ti align="right">0.5.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-Plugin-CheckPrereqsIndexed-0.006/">0.006</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-Plugin-CheckPrereqsIndexed-0.005/RJBS/Dist-Zilla-Plugin-CheckPrereqsIndexed-0.006">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-GithubMeta">Dist-Zilla-Plugin-GithubMeta</uri></ti>
@@ -293,8 +305,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.21/">2.21</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.21">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.22/">2.22</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.22">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-AttributeIndexes">MooseX-AttributeIndexes</uri></ti>
@@ -389,8 +401,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Software-License">Software-License</uri></ti>
     <ti align="right">0.103.2</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Software-License-0.103003/">0.103003</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Software-License-0.103002/RJBS/Software-License-0.103003">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Software-License-0.103004/">0.103004</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Software-License-0.103002/RJBS/Software-License-0.103004">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-File-ShareDir">Test-File-ShareDir</uri></ti>
@@ -449,7 +461,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 66 of 793
+Total packages suspected as outdated: 68 of 792
 </p>
 
 </body>

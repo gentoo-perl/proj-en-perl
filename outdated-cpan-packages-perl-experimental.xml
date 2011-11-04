@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.644 2011/11/03 16:41:21 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.645 2011/11/04 19:43:59 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-11-03</date>
+<date>2011-11-04</date>
 
 <chapter>
 <title>Intro</title>
@@ -255,6 +255,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/VIY/HTML-Template-Pro-0.9505/VIY/HTML-Template-Pro-0.9506">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/HTTP-Body">HTTP-Body</uri></ti>
+    <ti align="right">1.120.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GETTY/HTTP-Body-1.14/">1.14</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GETTY/HTTP-Body-1.12/GETTY/HTTP-Body-1.14">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
     <ti align="right">0.13.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.016/">0.016</uri></ti>
@@ -305,8 +311,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.22/">2.22</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.22">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.23/">2.23</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.23">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-AttributeIndexes">MooseX-AttributeIndexes</uri></ti>
@@ -461,7 +467,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 68 of 792
+Total packages suspected as outdated: 69 of 792
 </p>
 
 </body>

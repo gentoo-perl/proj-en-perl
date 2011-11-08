@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3115 2011/11/08 01:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3116 2011/11/08 17:52:26 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.42</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=digest::sha&amp;mode=all">Digest-SHA</uri> (virtual/perl-Digest-SHA)</ti>
+    <ti align="right">5.6200</ti>
+    <ti align="right">5.63</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
     <ti align="right">0.1100</ti>
     <ti align="right">0.110001</ti>
@@ -124,10 +129,15 @@ will curb some of the bugs to boot).
     <ti align="right">2.1700</ti>
     <ti align="right">3.02</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=yaml::syck&amp;mode=all">YAML-Syck</uri></ti>
+    <ti align="right">1.1800</ti>
+    <ti align="right">1.19</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 15 of 1129
+Total packages suspected as outdated: 17 of 1129
 </p>
 
 </body>

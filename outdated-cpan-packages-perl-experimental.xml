@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.647 2011/11/12 07:43:44 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.648 2011/11/13 08:03:16 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-11-12</date>
+<date>2011-11-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -199,6 +199,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.3.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/FANGLY/Getopt-Euclid-0.3.2/">0.3.2</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/FANGLY/Getopt-Euclid-0.3.0/FANGLY/Getopt-Euclid-0.3.2">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Git-CPAN-Patch">Git-CPAN-Patch</uri></ti>
+    <ti align="right">0.6.1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/YANICK/Git-CPAN-Patch-0.7.0/">0.7.0</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/YANICK/Git-CPAN-Patch-0.6.1/YANICK/Git-CPAN-Patch-0.7.0">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Git-Wrapper">Git-Wrapper</uri></ti>
@@ -455,7 +461,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 67 of 796
+Total packages suspected as outdated: 68 of 796
 </p>
 
 </body>

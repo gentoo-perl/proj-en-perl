@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3124 2011/11/13 09:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3125 2011/11/14 01:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-11-13</date>
+<date>2011-11-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,11 +53,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
     <ti align="right">0.5300</ti>
     <ti align="right">0.54</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=any::moose&amp;mode=all">Any-Moose</uri></ti>
-    <ti align="right">0.1700</ti>
-    <ti align="right">0.18</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
@@ -95,21 +90,6 @@ will curb some of the bugs to boot).
     <ti align="right">4.70</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">1.4100</ti>
-    <ti align="right">1.42</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=digest::crc&amp;mode=all">Digest-CRC</uri></ti>
-    <ti align="right">0.1700</ti>
-    <ti align="right">0.18</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=digest::sha&amp;mode=all">Digest-SHA</uri> (virtual/perl-Digest-SHA)</ti>
-    <ti align="right">5.6200</ti>
-    <ti align="right">5.63</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
     <ti align="right">0.1100</ti>
     <ti align="right">0.110001</ti>
@@ -118,11 +98,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=extutils::makemaker&amp;mode=all">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.5900</ti>
     <ti align="right">6.62</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=http::browserdetect&amp;mode=all">HTTP-BrowserDetect</uri></ti>
-    <ti align="right">1.3500</ti>
-    <ti align="right">1.36</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
@@ -140,19 +115,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.21</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mail::audit&amp;mode=all">Mail-Audit</uri></ti>
-    <ti align="right">2.2250</ti>
-    <ti align="right">2.226</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mail::imapclient&amp;mode=all">Mail-IMAPClient</uri></ti>
-    <ti align="right">3.2900</ti>
-    <ti align="right">3.30</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::dns&amp;mode=all">Net-DNS</uri></ti>
     <ti align="right">0.6600</ti>
     <ti align="right">0.67</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=netpacket&amp;mode=all">NetPacket</uri></ti>
+    <ti align="right">1.20</ti>
+    <ti align="right">1.30</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pdl&amp;mode=all">PDL</uri></ti>
@@ -192,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 28 of 1129
+Total packages suspected as outdated: 22 of 1129
 </p>
 
 </body>

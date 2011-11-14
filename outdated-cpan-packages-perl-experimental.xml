@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.648 2011/11/13 08:03:16 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.649 2011/11/14 17:03:32 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-11-13</date>
+<date>2011-11-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -52,9 +52,9 @@ will curb some of the bugs to boot).
   </tr>
     <tr>
     <ti><uri link="http://metacpan.org/release/App-perlbrew">App-perlbrew</uri></ti>
-    <ti align="right">0.310.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.32/">0.32</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.31/GUGOD/App-perlbrew-0.32">Diff</uri></ti>
+    <ti align="right">0.320.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.33/">0.33</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.32/GUGOD/App-perlbrew-0.33">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Archive-Extract">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
@@ -75,14 +75,8 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Cave-Wrapper-0.01000002/KENTNL/Cave-Wrapper-0.01000003">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Class-Mix">Class-Mix</uri></ti>
-    <ti align="right">0.004</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/Class-Mix-0.005/">0.005</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ZEFRAM/Class-Mix-0.004/ZEFRAM/Class-Mix-0.005">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Config-GitLike">Config-GitLike</uri></ti>
-    <ti align="right">1.050</ti>
+    <ti align="right">1.50.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ALEXMV/Config-GitLike-1.07/">1.07</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/SPANG/Config-GitLike-1.05/ALEXMV/Config-GitLike-1.07">Diff</uri></ti>
   </tr>
@@ -461,7 +455,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 68 of 796
+Total packages suspected as outdated: 67 of 798
 </p>
 
 </body>

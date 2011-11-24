@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3132 2011/11/24 01:52:26 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3133 2011/11/24 09:52:27 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.67</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=netpacket&amp;mode=all">NetPacket</uri></ti>
+    <ti align="right">1.30</ti>
+    <ti align="right">1.31</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pango&amp;mode=all">Pango</uri></ti>
     <ti align="right">1.2220</ti>
     <ti align="right">1.223</ti>
@@ -172,7 +177,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 1136
+Total packages suspected as outdated: 25 of 1136
 </p>
 
 </body>

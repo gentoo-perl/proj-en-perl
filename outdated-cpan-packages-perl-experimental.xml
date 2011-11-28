@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.650 2011/11/26 19:34:17 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.651 2011/11/28 15:39:27 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-11-26</date>
+<date>2011-11-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -297,6 +297,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/VIY/HTML-Template-Pro-0.9505/VIY/HTML-Template-Pro-0.9506">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/HTML-TreeBuilder-LibXML">HTML-TreeBuilder-LibXML</uri></ti>
+    <ti align="right">0.130.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TOKUHIROM/HTML-TreeBuilder-LibXML-0.14/">0.14</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/HTML-TreeBuilder-LibXML-0.13/TOKUHIROM/HTML-TreeBuilder-LibXML-0.14">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/HTTP-Body">HTTP-Body</uri></ti>
     <ti align="right">1.120.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GETTY/HTTP-Body-1.14/">1.14</uri></ti>
@@ -345,6 +351,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/PEVANS/List-UtilsBy-0.07/PEVANS/List-UtilsBy-0.08">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Mason">Mason</uri></ti>
+    <ti align="right">2.140.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Mason-2.15/">2.15</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Mason-2.14/JSWARTZ/Mason-2.15">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/MojoMojo">MojoMojo</uri></ti>
     <ti align="right">1.40.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MRAMBERG/MojoMojo-1.05/">1.05</uri></ti>
@@ -353,8 +365,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.32/">2.32</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.32">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.34/">2.34</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.34">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-AttributeIndexes">MooseX-AttributeIndexes</uri></ti>
@@ -545,7 +557,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 82 of 787
+Total packages suspected as outdated: 84 of 787
 </p>
 
 </body>

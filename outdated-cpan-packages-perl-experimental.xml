@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.653 2011/12/01 14:36:40 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.654 2011/12/02 14:40:36 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-12-01</date>
+<date>2011-12-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -209,8 +209,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Twitter">Dist-Zilla-Plugin-Twitter</uri></ti>
     <ti align="right">0.11.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/Dist-Zilla-Plugin-Twitter-0.012/">0.012</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/Dist-Zilla-Plugin-Twitter-0.011/DAGOLDEN/Dist-Zilla-Plugin-Twitter-0.012">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/Dist-Zilla-Plugin-Twitter-0.013/">0.013</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/Dist-Zilla-Plugin-Twitter-0.011/DAGOLDEN/Dist-Zilla-Plugin-Twitter-0.013">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
@@ -357,6 +357,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/PEVANS/List-UtilsBy-0.07/PEVANS/List-UtilsBy-0.08">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Locale-Codes">Locale-Codes</uri></ti>
+    <ti align="right">3.180.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SBECK/Locale-Codes-3.20/">3.20</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SBECK/Locale-Codes-3.18/SBECK/Locale-Codes-3.20">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Mason">Mason</uri></ti>
     <ti align="right">2.140.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Mason-2.15/">2.15</uri></ti>
@@ -371,8 +377,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">1.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.34/">2.34</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.34">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.35/">2.35</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.35">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-AttributeIndexes">MooseX-AttributeIndexes</uri></ti>
@@ -537,6 +543,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Test-WWW-Mechanize-Catalyst-0.54/EDENC/Test-WWW-Mechanize-Catalyst-0.56">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Tree-Trie">Tree-Trie</uri></ti>
+    <ti align="right">1.800.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/AVIF/Tree-Trie-1.9/">1.9</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/AVIF/Tree-Trie-1.8/AVIF/Tree-Trie-1.9">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Unicode-Collate">Unicode-Collate</uri> (virtual/perl-Unicode-Collate)</ti>
     <ti align="right">0.800.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/SADAHIRO/Unicode-Collate-0.87/">0.87</uri></ti>
@@ -569,7 +581,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 86 of 787
+Total packages suspected as outdated: 88 of 787
 </p>
 
 </body>

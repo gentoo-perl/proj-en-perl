@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.654 2011/12/02 14:40:36 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.655 2011/12/03 09:51:32 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-12-02</date>
+<date>2011-12-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -91,6 +91,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.560.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPANPLUS-Dist-Build-0.60/">0.60</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPANPLUS-Dist-Build-0.56/BINGOS/CPANPLUS-Dist-Build-0.60">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-ErrorCatcher">Catalyst-Plugin-ErrorCatcher</uri></ti>
+    <ti align="right">0.0.8.9</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/CHISEL/Catalyst-Plugin-ErrorCatcher-0.0.8.10/">0.0.8.10</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/CHISEL/Catalyst-Plugin-ErrorCatcher-0.0.8.9/CHISEL/Catalyst-Plugin-ErrorCatcher-0.0.8.10">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Unicode-Encoding">Catalyst-Plugin-Unicode-Encoding</uri></ti>
@@ -581,7 +587,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 88 of 787
+Total packages suspected as outdated: 89 of 787
 </p>
 
 </body>

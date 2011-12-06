@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.656 2011/12/05 15:38:37 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.657 2011/12/06 15:47:03 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-12-05</date>
+<date>2011-12-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,28 +51,10 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://metacpan.org/release/App-cpanminus">App-cpanminus</uri></ti>
-    <ti align="right">1.500.400</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/App-cpanminus-1.5006/">1.5006</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/App-cpanminus-1.5004/MIYAGAWA/App-cpanminus-1.5006">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/App-perlbrew">App-perlbrew</uri></ti>
-    <ti align="right">0.320.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.33/">0.33</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.32/GUGOD/App-perlbrew-0.33">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Archive-Extract">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
     <ti align="right">0.560.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Archive-Extract-0.58/">0.58</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/Archive-Extract-0.56/BINGOS/Archive-Extract-0.58">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Audio-MPD">Audio-MPD</uri></ti>
-    <ti align="right">1.112.670</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Audio-MPD-1.113280/">1.113280</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Audio-MPD-1.112670/JQUELIN/Audio-MPD-1.113280">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/B-Debug">B-Debug</uri> (virtual/perl-B-Debug)</ti>
@@ -115,12 +97,6 @@ will curb some of the bugs to boot).
     <ti align="right">5.900.60</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90007/">5.90007</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90006/BOBTFISH/Catalyst-Runtime-5.90007">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Cave-Wrapper">Cave-Wrapper</uri></ti>
-    <ti align="right">0.10.0.20</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Cave-Wrapper-0.01000003/">0.01000003</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Cave-Wrapper-0.01000002/KENTNL/Cave-Wrapper-0.01000003">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Config-GitLike">Config-GitLike</uri></ti>
@@ -363,12 +339,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/DOY/KiokuDB-Backend-DBI-1.20/DOY/KiokuDB-Backend-DBI-1.21">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Lingua-EN-Inflect-Phrase">Lingua-EN-Inflect-Phrase</uri></ti>
-    <ti align="right">0.04</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/Lingua-EN-Inflect-Phrase-0.10/">0.10</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/Lingua-EN-Inflect-Phrase-0.04/RKITOVER/Lingua-EN-Inflect-Phrase-0.10">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/List-UtilsBy">List-UtilsBy</uri></ti>
     <ti align="right">0.70.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/PEVANS/List-UtilsBy-0.08/">0.08</uri></ti>
@@ -394,9 +364,9 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
-    <ti align="right">1.980.0</ti>
+    <ti align="right">2.350.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.36/">2.36</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-1.98/SRI/Mojolicious-2.36">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/SRI/Mojolicious-2.36">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-AttributeIndexes">MooseX-AttributeIndexes</uri></ti>
@@ -409,6 +379,18 @@ will curb some of the bugs to boot).
     <ti align="right">0.200.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/MooseX-SetOnce-0.200001/">0.200001</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/RJBS/MooseX-SetOnce-0.200000/RJBS/MooseX-SetOnce-0.200001">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-Singleton">MooseX-Singleton</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KAARE/MooseX-Singleton-0.28/">0.28</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DROLSKY/MooseX-Singleton-0.27/KAARE/MooseX-Singleton-0.28">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-Types-Common">MooseX-Types-Common</uri></ti>
+    <ti align="right">0.1.3</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ARCANEZ/MooseX-Types-Common-0.001004/">0.001004</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ARCANEZ/MooseX-Types-Common-0.001003/ARCANEZ/MooseX-Types-Common-0.001004">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Types-DateTime">MooseX-Types-DateTime</uri></ti>
@@ -424,7 +406,7 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Types-URI">MooseX-Types-URI</uri></ti>
-    <ti align="right">0.02</ti>
+    <ti align="right">0.20.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/FLORA/MooseX-Types-URI-0.03/">0.03</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/FLORA/MooseX-Types-URI-0.02/FLORA/MooseX-Types-URI-0.03">Diff</uri></ti>
   </tr>
@@ -490,7 +472,7 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Pod-Weaver">Pod-Weaver</uri></ti>
-    <ti align="right">3.101.633</ti>
+    <ti align="right">3.101.633-r1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/Pod-Weaver-3.101634/">3.101634</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/RJBS/Pod-Weaver-3.101633/RJBS/Pod-Weaver-3.101634">Diff</uri></ti>
   </tr>
@@ -525,10 +507,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/KAZUHO/Starlet-0.13/KAZUHO/Starlet-0.14">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Test-Corpus-Audio-MPD">Test-Corpus-Audio-MPD</uri></ti>
-    <ti align="right">1.111.260</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Test-Corpus-Audio-MPD-1.113282/">1.113282</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Test-Corpus-Audio-MPD-1.111260/JQUELIN/Test-Corpus-Audio-MPD-1.113282">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/String-ToIdentifier-EN">String-ToIdentifier-EN</uri></ti>
+    <ti align="right">0.50.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/String-ToIdentifier-EN-0.06/">0.06</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/String-ToIdentifier-EN-0.05/RKITOVER/String-ToIdentifier-EN-0.06">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-File-ShareDir">Test-File-ShareDir</uri></ti>
@@ -599,7 +581,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 91 of 787
+Total packages suspected as outdated: 88 of 790
 </p>
 
 </body>

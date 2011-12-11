@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.659 2011/12/10 08:53:16 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.660 2011/12/11 13:47:23 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-12-10</date>
+<date>2011-12-11</date>
 
 <chapter>
 <title>Intro</title>
@@ -213,6 +213,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/FANGLY/Getopt-Euclid-0.3.0/FANGLY/Getopt-Euclid-0.3.2">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Getopt-Lucid">Getopt-Lucid</uri></ti>
+    <ti align="right">0.190</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/Getopt-Lucid-1.00/">1.00</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/Getopt-Lucid-0.19/DAGOLDEN/Getopt-Lucid-1.00">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Git-CPAN-Patch">Git-CPAN-Patch</uri></ti>
     <ti align="right">0.6.1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/YANICK/Git-CPAN-Patch-0.7.0/">0.7.0</uri></ti>
@@ -335,8 +341,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.350.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.36/">2.36</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/SRI/Mojolicious-2.36">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TEMPIRE/Mojolicious-2.37/">2.37</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/TEMPIRE/Mojolicious-2.37">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Moose">Moose</uri></ti>
@@ -471,6 +477,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Search-GIN-Extract-AttributeIndexes-1.0.0/KENTNL/Search-GIN-Extract-AttributeIndexes-1.0.1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Socket">Socket</uri> (virtual/perl-Socket)</ti>
+    <ti align="right">1.950.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/Socket-1.96/">1.96</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PEVANS/Socket-1.95/PEVANS/Socket-1.96">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Software-License">Software-License</uri></ti>
     <ti align="right">0.103.2</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/Software-License-0.103004/">0.103004</uri></ti>
@@ -519,6 +531,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Test-WWW-Mechanize-Catalyst-0.54/EDENC/Test-WWW-Mechanize-Catalyst-0.56">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Travel-Routing-DE-VRR">Travel-Routing-DE-VRR</uri></ti>
+    <ti align="right">1.60.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DERF/Travel-Routing-DE-VRR-2.00/">2.00</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DERF/Travel-Routing-DE-VRR-1.06/DERF/Travel-Routing-DE-VRR-2.00">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Tree-Trie">Tree-Trie</uri></ti>
     <ti align="right">1.800.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/AVIF/Tree-Trie-1.9/">1.9</uri></ti>
@@ -557,7 +575,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 84 of 792
+Total packages suspected as outdated: 87 of 792
 </p>
 
 </body>

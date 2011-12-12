@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3155 2011/12/11 09:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3156 2011/12/12 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-12-11</date>
+<date>2011-12-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -142,7 +142,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
     <ti align="right">1.4900</ti>
-    <ti align="right">1.52</ti>
+    <ti align="right">1.53</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=javascript::spidermonkey&amp;mode=all">JavaScript-SpiderMonkey</uri></ti>
@@ -190,16 +190,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.49</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=regexp::common&amp;mode=all">regexp-common</uri></ti>
-    <ti align="right">2011041701.00</ti>
-    <ti align="right">2011121001</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=safe&amp;mode=all">Safe</uri> (virtual/perl-Safe)</ti>
-    <ti align="right">2.2900</ti>
-    <ti align="right">2.30</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
     <ti align="right">0.300</ti>
     <ti align="right">0.99</ti>
@@ -222,7 +212,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 34 of 1137
+Total packages suspected as outdated: 32 of 1137
 </p>
 
 </body>

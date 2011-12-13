@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.660 2011/12/11 13:47:23 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.661 2011/12/13 15:15:38 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-12-11</date>
+<date>2011-12-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,12 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://metacpan.org/release/App-cpanoutdated">App-cpanoutdated</uri></ti>
+    <ti align="right">0.190.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TOKUHIROM/App-cpanoutdated-0.20/">0.20</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/App-cpanoutdated-0.19/TOKUHIROM/App-cpanoutdated-0.20">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Archive-Extract">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
     <ti align="right">0.560.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Archive-Extract-0.58/">0.58</uri></ti>
@@ -115,6 +121,12 @@ will curb some of the bugs to boot).
     <ti align="right">3.190.300_rc</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MHX/Devel-PPPort-3.20/">3.20</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MHX/Devel-PPPort-3.19_03/MHX/Devel-PPPort-3.20">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
+    <ti align="right">4.300.3</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300005/">4.300005</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300003/RJBS/Dist-Zilla-4.300005">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-CheckPrereqsIndexed">Dist-Zilla-Plugin-CheckPrereqsIndexed</uri></ti>
@@ -377,8 +389,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Types-DateTime">MooseX-Types-DateTime</uri></ti>
     <ti align="right">0.05</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ILMARI/MooseX-Types-DateTime-0.06/">0.06</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/NUFFIN/MooseX-Types-DateTime-0.05/ILMARI/MooseX-Types-DateTime-0.06">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ILMARI/MooseX-Types-DateTime-0.07/">0.07</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/NUFFIN/MooseX-Types-DateTime-0.05/ILMARI/MooseX-Types-DateTime-0.07">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Types-Structured">MooseX-Types-Structured</uri></ti>
@@ -575,7 +587,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 87 of 792
+Total packages suspected as outdated: 89 of 792
 </p>
 
 </body>

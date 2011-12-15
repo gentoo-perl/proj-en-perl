@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3158 2011/12/13 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3159 2011/12/15 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-12-13</date>
+<date>2011-12-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -108,6 +108,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=data::ical&amp;mode=all">Data-ICal</uri></ti>
     <ti align="right">0.1700</ti>
     <ti align="right">0.18</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=digest::sha&amp;mode=all">Digest-SHA</uri> (virtual/perl-Digest-SHA)</ti>
+    <ti align="right">5.6300</ti>
+    <ti align="right">5.70</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
@@ -215,6 +220,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=threads&amp;mode=all">threads</uri> (virtual/perl-threads)</ti>
+    <ti align="right">1.8500</ti>
+    <ti align="right">1.86</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
     <ti align="right">0.990200</ti>
     <ti align="right">0.9903</ti>
@@ -227,7 +237,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 35 of 1137
+Total packages suspected as outdated: 37 of 1137
 </p>
 
 </body>

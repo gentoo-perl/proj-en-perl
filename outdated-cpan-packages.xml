@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3161 2011/12/18 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3162 2011/12/19 01:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-12-18</date>
+<date>2011-12-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -197,7 +197,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::amazon::s3&amp;mode=all">Net-Amazon-S3</uri></ti>
     <ti align="right">0.5400</ti>
-    <ti align="right">0.55</ti>
+    <ti align="right">0.56</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::dns&amp;mode=all">Net-DNS</uri></ti>

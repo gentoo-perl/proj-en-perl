@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.663 2011/12/18 11:52:24 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.664 2011/12/20 14:56:23 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-12-18</date>
+<date>2011-12-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -223,6 +223,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.70</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Filesys-Notify-Simple-0.08/">0.08</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/Filesys-Notify-Simple-0.07/MIYAGAWA/Filesys-Notify-Simple-0.08">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Filter-Simple">Filter-Simple</uri> (virtual/perl-Filter-Simple)</ti>
+    <ti align="right">0.870.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SMUELLER/Filter-Simple-0.88/">0.88</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SMUELLER/Filter-Simple-0.87/SMUELLER/Filter-Simple-0.88">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/FindBin-libs">FindBin-libs</uri></ti>
@@ -531,6 +537,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Search-GIN-Extract-AttributeIndexes-1.0.0/KENTNL/Search-GIN-Extract-AttributeIndexes-1.0.1">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/SelfLoader">SelfLoader</uri> (virtual/perl-SelfLoader)</ti>
+    <ti align="right">1.180.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SMUELLER/SelfLoader-1.20/">1.20</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SMUELLER/SelfLoader-1.18/SMUELLER/SelfLoader-1.20">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Socket">Socket</uri> (virtual/perl-Socket)</ti>
     <ti align="right">1.950.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/PEVANS/Socket-1.97/">1.97</uri></ti>
@@ -629,7 +641,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 96 of 792
+Total packages suspected as outdated: 98 of 792
 </p>
 
 </body>

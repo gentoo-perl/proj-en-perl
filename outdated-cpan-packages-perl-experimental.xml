@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.666 2011/12/24 16:55:02 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.667 2011/12/27 15:12:15 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-12-24</date>
+<date>2011-12-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -293,8 +293,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Git-Repository">Git-Repository</uri></ti>
     <ti align="right">1.220.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOOK/Git-Repository-1.23/">1.23</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOOK/Git-Repository-1.22/BOOK/Git-Repository-1.23">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOOK/Git-Repository-1.24/">1.24</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOOK/Git-Repository-1.22/BOOK/Git-Repository-1.24">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Git-Wrapper">Git-Wrapper</uri></ti>
@@ -329,8 +329,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-Template-Pro">HTML-Template-Pro</uri></ti>
     <ti align="right">0.950.500</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/VIY/HTML-Template-Pro-0.9507/">0.9507</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/VIY/HTML-Template-Pro-0.9505/VIY/HTML-Template-Pro-0.9507">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/VIY/HTML-Template-Pro-0.9508/">0.9508</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/VIY/HTML-Template-Pro-0.9505/VIY/HTML-Template-Pro-0.9508">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-TreeBuilder-LibXML">HTML-TreeBuilder-LibXML</uri></ti>

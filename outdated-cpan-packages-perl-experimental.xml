@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.668 2011/12/28 18:05:56 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.669 2011/12/29 15:11:13 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-12-28</date>
+<date>2011-12-29</date>
 
 <chapter>
 <title>Intro</title>
@@ -71,8 +71,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/App-perlbrew">App-perlbrew</uri></ti>
     <ti align="right">0.330.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.37/">0.37</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.33/GUGOD/App-perlbrew-0.37">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.38/">0.38</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.33/GUGOD/App-perlbrew-0.38">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Archive-Extract">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
@@ -609,6 +609,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/Term-UI-0.26/BINGOS/Term-UI-0.30">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Test-Class-Most">Test-Class-Most</uri></ti>
+    <ti align="right">0.50.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/OVID/Test-Class-Most-0.06/">0.06</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/OVID/Test-Class-Most-0.05/OVID/Test-Class-Most-0.06">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Test-File-ShareDir">Test-File-ShareDir</uri></ti>
     <ti align="right">0.3.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Test-File-ShareDir-0.3.1/">0.3.1</uri></ti>
@@ -683,7 +689,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 105 of 792
+Total packages suspected as outdated: 106 of 792
 </p>
 
 </body>

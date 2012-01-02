@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.669 2011/12/29 15:11:13 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.670 2012/01/02 15:56:14 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2011-12-29</date>
+<date>2012-01-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -71,8 +71,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/App-perlbrew">App-perlbrew</uri></ti>
     <ti align="right">0.330.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.38/">0.38</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.33/GUGOD/App-perlbrew-0.38">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.39/">0.39</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.33/GUGOD/App-perlbrew-0.39">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Archive-Extract">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
@@ -161,8 +161,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
     <ti align="right">4.300.3</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300005/">4.300005</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300003/RJBS/Dist-Zilla-4.300005">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300006/">4.300006</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300003/RJBS/Dist-Zilla-4.300006">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-CheckPrereqsIndexed">Dist-Zilla-Plugin-CheckPrereqsIndexed</uri></ti>
@@ -351,6 +351,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.013/DAGOLDEN/HTTP-Tiny-0.016">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Handel">Handel</uri></ti>
+    <ti align="right">1.0.130</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/CLACO/Handel-1.00014/">1.00014</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/CLACO/Handel-1.00013/CLACO/Handel-1.00014">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Hash-FieldHash">Hash-FieldHash</uri></ti>
     <ti align="right">0.100.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GFUJI/Hash-FieldHash-0.12/">0.12</uri></ti>
@@ -459,12 +465,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/ARCANEZ/MooseX-Types-Common-0.001003/ARCANEZ/MooseX-Types-Common-0.001004">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/MooseX-Types-DateTime">MooseX-Types-DateTime</uri></ti>
-    <ti align="right">0.05</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ILMARI/MooseX-Types-DateTime-0.07/">0.07</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/NUFFIN/MooseX-Types-DateTime-0.05/ILMARI/MooseX-Types-DateTime-0.07">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Types-ISO8601">MooseX-Types-ISO8601</uri></ti>
     <ti align="right">0.70.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/DLAMBLEY/MooseX-Types-ISO8601-0.08/">0.08</uri></ti>
@@ -521,8 +521,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Perl-PrereqScanner">Perl-PrereqScanner</uri></ti>
     <ti align="right">1.7.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Perl-PrereqScanner-1.008/">1.008</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Perl-PrereqScanner-1.007/JQUELIN/Perl-PrereqScanner-1.008">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Perl-PrereqScanner-1.009/">1.009</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Perl-PrereqScanner-1.007/RJBS/Perl-PrereqScanner-1.009">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Plack">Plack</uri></ti>
@@ -689,7 +689,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 106 of 792
+Total packages suspected as outdated: 106 of 794
 </p>
 
 </body>

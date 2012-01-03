@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.670 2012/01/02 15:56:14 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.671 2012/01/03 20:25:51 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-02</date>
+<date>2012-01-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -163,6 +163,12 @@ will curb some of the bugs to boot).
     <ti align="right">4.300.3</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300006/">4.300006</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300003/RJBS/Dist-Zilla-4.300006">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Authority">Dist-Zilla-Plugin-Authority</uri></ti>
+    <ti align="right">1.5.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/APOCAL/Dist-Zilla-Plugin-Authority-1.006/">1.006</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/APOCAL/Dist-Zilla-Plugin-Authority-1.005/APOCAL/Dist-Zilla-Plugin-Authority-1.006">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-CheckPrereqsIndexed">Dist-Zilla-Plugin-CheckPrereqsIndexed</uri></ti>
@@ -371,8 +377,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Imager">Imager</uri></ti>
     <ti align="right">0.850.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TONYC/Imager-0.86/">0.86</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TONYC/Imager-0.85/TONYC/Imager-0.86">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TONYC/Imager-0.87/">0.87</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TONYC/Imager-0.85/TONYC/Imager-0.87">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/JavaScript-Packer">JavaScript-Packer</uri></ti>
@@ -425,8 +431,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.350.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TEMPIRE/Mojolicious-2.41/">2.41</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/TEMPIRE/Mojolicious-2.41">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.42/">2.42</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/SRI/Mojolicious-2.42">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Moose">Moose</uri></ti>
@@ -689,7 +695,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 106 of 794
+Total packages suspected as outdated: 107 of 794
 </p>
 
 </body>

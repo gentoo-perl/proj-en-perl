@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.671 2012/01/03 20:25:51 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.672 2012/01/04 11:36:25 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-03</date>
+<date>2012-01-04</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,8 +53,8 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://metacpan.org/release/App-Cmd">App-Cmd</uri></ti>
     <ti align="right">0.312.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/App-Cmd-0.313/">0.313</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/App-Cmd-0.312/RJBS/App-Cmd-0.313">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/App-Cmd-0.314/">0.314</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/App-Cmd-0.312/RJBS/App-Cmd-0.314">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/App-cpanminus">App-cpanminus</uri></ti>
@@ -219,6 +219,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.1.1/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.2.0">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Util-EmulatePhase">Dist-Zilla-Util-EmulatePhase</uri></ti>
+    <ti align="right">0.10.258.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Util-EmulatePhase-0.01025801/">0.01025801</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Util-EmulatePhase-0.01025800/KENTNL/Dist-Zilla-Util-EmulatePhase-0.01025801">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Encode-Base32-Crockford">Encode-Base32-Crockford</uri></ti>
     <ti align="right">1.200</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GBARR/Encode-Base32-Crockford-2.112991/">2.112991</uri></ti>
@@ -247,6 +253,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.100.0-r1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ADAMK/File-Find-Rule-Perl-1.12/">1.12</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/ADAMK/File-Find-Rule-Perl-1.10/ADAMK/File-Find-Rule-Perl-1.12">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/File-MimeInfo">File-MimeInfo</uri></ti>
+    <ti align="right">0.15-r2</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PARDUS/File-MimeInfo-0.16/">0.16</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PARDUS/File-MimeInfo-0.15/PARDUS/File-MimeInfo-0.16">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Filesys-Notify-Simple">Filesys-Notify-Simple</uri></ti>
@@ -413,8 +425,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Log-Any-Adapter">Log-Any-Adapter</uri></ti>
     <ti align="right">0.03</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Log-Any-Adapter-0.05/">0.05</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Log-Any-Adapter-0.03/JSWARTZ/Log-Any-Adapter-0.05">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Log-Any-Adapter-0.06/">0.06</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Log-Any-Adapter-0.03/JSWARTZ/Log-Any-Adapter-0.06">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mason">Mason</uri></ti>
@@ -677,8 +689,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/YAML-LibYAML">YAML-LibYAML</uri></ti>
     <ti align="right">0.350.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/INGY/YAML-LibYAML-0.37/">0.37</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/INGY/YAML-LibYAML-0.35/INGY/YAML-LibYAML-0.37">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/INGY/YAML-LibYAML-0.38/">0.38</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/INGY/YAML-LibYAML-0.35/INGY/YAML-LibYAML-0.38">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/autobox-Core">autobox-Core</uri></ti>
@@ -695,7 +707,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 107 of 794
+Total packages suspected as outdated: 109 of 794
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3181 2012/01/04 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3182 2012/01/05 01:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-04</date>
+<date>2012-01-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -105,6 +105,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.21</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
+    <ti align="right">1.8920</ti>
+    <ti align="right">1.893</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
     <ti align="right">0.1100</ti>
     <ti align="right">0.110001</ti>
@@ -118,6 +123,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=extutils::makemaker&amp;mode=all">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.5900</ti>
     <ti align="right">6.62</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::mimeinfo&amp;mode=all">File-MimeInfo</uri></ti>
+    <ti align="right">0.1500</ti>
+    <ti align="right">0.16</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=glib::perl&amp;mode=all">glib-perl</uri></ti>
@@ -160,9 +170,24 @@ will curb some of the bugs to boot).
     <ti align="right">1.21</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
+    <ti align="right">1.3400</ti>
+    <ti align="right">1.35</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.5700</ti>
     <ti align="right">2.59</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::pluggable&amp;mode=all">Module-Pluggable</uri> (virtual/perl-Module-Pluggable)</ti>
+    <ti align="right">3.9000</ti>
+    <ti align="right">4.0</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::strictconstructor&amp;mode=all">MooseX-StrictConstructor</uri></ti>
+    <ti align="right">0.1600</ti>
+    <ti align="right">0.17</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=namespace::clean&amp;mode=all">namespace-clean</uri></ti>
@@ -205,6 +230,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.99</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sys::virt&amp;mode=all">Sys-Virt</uri></ti>
+    <ti align="right">0.97</ti>
+    <ti align="right">0.98</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.1700</ti>
     <ti align="right">3.02</ti>
@@ -227,7 +257,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 35 of 1137
+Total packages suspected as outdated: 41 of 1137
 </p>
 
 </body>

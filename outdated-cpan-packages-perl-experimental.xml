@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.672 2012/01/04 11:36:25 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.673 2012/01/06 18:33:29 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-04</date>
+<date>2012-01-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -69,12 +69,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/App-cpanoutdated-0.19/TOKUHIROM/App-cpanoutdated-0.20">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/App-perlbrew">App-perlbrew</uri></ti>
-    <ti align="right">0.330.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.39/">0.39</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.33/GUGOD/App-perlbrew-0.39">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Archive-Extract">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
     <ti align="right">0.560.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Archive-Extract-0.58/">0.58</uri></ti>
@@ -101,8 +95,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Action-REST">Catalyst-Action-REST</uri></ti>
     <ti align="right">0.930.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Action-REST-0.94/">0.94</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BPHILLIPS/Catalyst-Action-REST-0.93/BOBTFISH/Catalyst-Action-REST-0.94">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Action-REST-0.95/">0.95</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BPHILLIPS/Catalyst-Action-REST-0.93/BOBTFISH/Catalyst-Action-REST-0.95">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Authentication-Store-DBIx-Class">Catalyst-Authentication-Store-DBIx-Class</uri></ti>
@@ -121,6 +115,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.71.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/CFAERBER/Color-Calc-1.072/">1.072</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/CFAERBER/Color-Calc-1.071/CFAERBER/Color-Calc-1.072">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Config-AutoConf">Config-AutoConf</uri></ti>
+    <ti align="right">0.160.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/AMBS/Config-AutoConf-0.17/">0.17</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/AMBS/Config-AutoConf-0.16/AMBS/Config-AutoConf-0.17">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Config-INI">Config-INI</uri></ti>
@@ -293,8 +293,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Getopt-Euclid">Getopt-Euclid</uri></ti>
     <ti align="right">0.3.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/FANGLY/Getopt-Euclid-0.3.2/">0.3.2</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/FANGLY/Getopt-Euclid-0.3.0/FANGLY/Getopt-Euclid-0.3.2">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/FANGLY/Getopt-Euclid-0.3.3/">0.3.3</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FANGLY/Getopt-Euclid-0.3.0/FANGLY/Getopt-Euclid-0.3.3">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Getopt-Lucid">Getopt-Lucid</uri></ti>
@@ -435,6 +435,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Mason-2.14/JSWARTZ/Mason-2.15">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Modern-Perl">Modern-Perl</uri></ti>
+    <ti align="right">1.03</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/CHROMATIC/Modern-Perl-1.20120106/">1.20120106</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Modern-Perl-1.03/CHROMATIC/Modern-Perl-1.20120106">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/MojoMojo">MojoMojo</uri></ti>
     <ti align="right">1.40.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MRAMBERG/MojoMojo-1.05/">1.05</uri></ti>
@@ -485,8 +491,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Types-ISO8601">MooseX-Types-ISO8601</uri></ti>
     <ti align="right">0.70.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DLAMBLEY/MooseX-Types-ISO8601-0.08/">0.08</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/MooseX-Types-ISO8601-0.07/DLAMBLEY/MooseX-Types-ISO8601-0.08">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DLAMBLEY/MooseX-Types-ISO8601-0.10/">0.10</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/MooseX-Types-ISO8601-0.07/DLAMBLEY/MooseX-Types-ISO8601-0.10">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Types-Perl">MooseX-Types-Perl</uri></ti>
@@ -633,6 +639,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/OVID/Test-Class-Most-0.05/OVID/Test-Class-Most-0.06">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Test-EOL">Test-EOL</uri></ti>
+    <ti align="right">0.900.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RIBASUSHI/Test-EOL-1.0/">1.0</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FLORA/Test-EOL-0.9/RIBASUSHI/Test-EOL-1.0">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Test-File-ShareDir">Test-File-ShareDir</uri></ti>
     <ti align="right">0.3.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Test-File-ShareDir-0.3.1/">0.3.1</uri></ti>
@@ -707,7 +719,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 109 of 794
+Total packages suspected as outdated: 111 of 794
 </p>
 
 </body>

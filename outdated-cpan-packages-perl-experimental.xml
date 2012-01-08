@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.674 2012/01/07 19:09:47 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.675 2012/01/08 15:32:01 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-07</date>
+<date>2012-01-08</date>
 
 <chapter>
 <title>Intro</title>
@@ -431,8 +431,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.350.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.42/">2.42</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/SRI/Mojolicious-2.42">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.43/">2.43</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/SRI/Mojolicious-2.43">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Moose">Moose</uri></ti>
@@ -609,6 +609,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RKITOVER/String-ToIdentifier-EN-0.05/RKITOVER/String-ToIdentifier-EN-0.06">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/System-Command">System-Command</uri></ti>
+    <ti align="right">1.50.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOOK/System-Command-1.06/">1.06</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOOK/System-Command-1.05/BOOK/System-Command-1.06">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Term-UI">Term-UI</uri> (virtual/perl-Term-UI)</ti>
     <ti align="right">0.260</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Term-UI-0.30/">0.30</uri></ti>
@@ -701,7 +707,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 108 of 793
+Total packages suspected as outdated: 109 of 793
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.675 2012/01/08 15:32:01 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.676 2012/01/10 12:46:42 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-08</date>
+<date>2012-01-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -627,6 +627,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/OVID/Test-Class-Most-0.05/OVID/Test-Class-Most-0.06">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Test-Compile">Test-Compile</uri></ti>
+    <ti align="right">0.13</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/EGILES/Test-Compile-0.14/">0.14</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MARCEL/Test-Compile-0.13/EGILES/Test-Compile-0.14">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Test-EOL">Test-EOL</uri></ti>
     <ti align="right">0.900.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RIBASUSHI/Test-EOL-1.0/">1.0</uri></ti>
@@ -707,7 +713,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 109 of 793
+Total packages suspected as outdated: 110 of 793
 </p>
 
 </body>

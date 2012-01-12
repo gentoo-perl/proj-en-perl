@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.677 2012/01/11 13:04:21 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.678 2012/01/12 15:42:55 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-11</date>
+<date>2012-01-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -447,12 +447,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/MADCAT/Mojolicious-Plugin-Authentication-1.20/MADCAT/Mojolicious-Plugin-Authentication-1.21">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Moose">Moose</uri></ti>
-    <ti align="right">2.30.100</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DOY/Moose-2.0401/">2.0401</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DOY/Moose-2.0301/DOY/Moose-2.0401">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-AttributeIndexes">MooseX-AttributeIndexes</uri></ti>
     <ti align="right">1.0.1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/KENTNL/MooseX-AttributeIndexes-1.0.2/">1.0.2</uri></ti>
@@ -521,8 +515,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Padre-Plugin-PerlTidy">Padre-Plugin-PerlTidy</uri></ti>
     <ti align="right">0.160</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/AZAWAWI/Padre-Plugin-PerlTidy-0.19/">0.19</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/AZAWAWI/Padre-Plugin-PerlTidy-0.16/AZAWAWI/Padre-Plugin-PerlTidy-0.19">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/AZAWAWI/Padre-Plugin-PerlTidy-0.21/">0.21</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/AZAWAWI/Padre-Plugin-PerlTidy-0.16/AZAWAWI/Padre-Plugin-PerlTidy-0.21">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Padre-Plugin-Vi">Padre-Plugin-Vi</uri></ti>
@@ -725,7 +719,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 112 of 795
+Total packages suspected as outdated: 111 of 794
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3197 2012/01/16 01:52:29 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3198 2012/01/16 17:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -240,6 +240,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.76</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::writer&amp;mode=all">XML-Writer</uri></ti>
+    <ti align="right">0.6140</ti>
+    <ti align="right">0.615</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=yaml&amp;mode=all">yaml</uri></ti>
     <ti align="right">0.7700</ti>
     <ti align="right">0.78</ti>
@@ -252,7 +257,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 40 of 1138
+Total packages suspected as outdated: 41 of 1138
 </p>
 
 </body>

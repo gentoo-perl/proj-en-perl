@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.683 2012/01/19 16:31:18 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.684 2012/01/20 12:19:32 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-19</date>
+<date>2012-01-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -431,8 +431,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Modern-Perl">Modern-Perl</uri></ti>
     <ti align="right">1.03</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/CHROMATIC/Modern-Perl-1.20120106/">1.20120106</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Modern-Perl-1.03/CHROMATIC/Modern-Perl-1.20120106">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/CHROMATIC/Modern-Perl-1.20120119/">1.20120119</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Modern-Perl-1.03/CHROMATIC/Modern-Perl-1.20120119">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MojoMojo">MojoMojo</uri></ti>

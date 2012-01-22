@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.685 2012/01/21 08:39:27 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.686 2012/01/22 09:01:10 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-21</date>
+<date>2012-01-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -513,12 +513,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/FLORA/MooseX-Types-URI-0.02/FLORA/MooseX-Types-URI-0.03">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/ORLite-Migrate">ORLite-Migrate</uri></ti>
-    <ti align="right">1.07</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ADAMK/ORLite-Migrate-1.09/">1.09</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ADAMK/ORLite-Migrate-1.07/ADAMK/ORLite-Migrate-1.09">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Object-ID">Object-ID</uri></ti>
     <ti align="right">0.1.1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MSCHWERN/Object-ID-v0.1.2/">v0.1.2</uri></ti>
@@ -737,7 +731,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 114 of 794
+Total packages suspected as outdated: 113 of 790
 </p>
 
 </body>

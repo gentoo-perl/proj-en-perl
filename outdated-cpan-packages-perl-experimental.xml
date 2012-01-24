@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.687 2012/01/23 14:18:10 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.688 2012/01/24 15:23:14 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-23</date>
+<date>2012-01-24</date>
 
 <chapter>
 <title>Intro</title>
@@ -321,6 +321,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BROQ/Gitalist-0.003005/BROQ/Gitalist-0.003006">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/HTML-FormFu">HTML-FormFu</uri></ti>
+    <ti align="right">0.90.50</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PERLER/HTML-FormFu-0.09007/">0.09007</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PERLER/HTML-FormFu-0.09005/PERLER/HTML-FormFu-0.09007">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
     <ti align="right">0.350.30</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.36000/">0.36000</uri></ti>
@@ -443,8 +449,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Modern-Perl">Modern-Perl</uri></ti>
     <ti align="right">1.03</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/CHROMATIC/Modern-Perl-1.20120119/">1.20120119</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Modern-Perl-1.03/CHROMATIC/Modern-Perl-1.20120119">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/CHROMATIC/Modern-Perl-1.20120123/">1.20120123</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Modern-Perl-1.03/CHROMATIC/Modern-Perl-1.20120123">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MojoMojo">MojoMojo</uri></ti>
@@ -743,7 +749,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 115 of 790
+Total packages suspected as outdated: 116 of 790
 </p>
 
 </body>

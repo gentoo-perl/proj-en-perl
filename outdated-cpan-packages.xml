@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3207 2012/01/25 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3208 2012/01/25 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -78,6 +78,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=cgi&amp;mode=all">CGI</uri> (virtual/perl-CGI)</ti>
     <ti align="right">3.5500</ti>
     <ti align="right">3.59</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::inspector&amp;mode=all">Class-Inspector</uri></ti>
+    <ti align="right">1.2500</ti>
+    <ti align="right">1.27</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini::inject&amp;mode=all">CPAN-Mini-Inject</uri></ti>
@@ -222,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 34 of 1141
+Total packages suspected as outdated: 35 of 1141
 </p>
 
 </body>

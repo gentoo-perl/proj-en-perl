@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.688 2012/01/24 15:23:14 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.689 2012/01/25 14:29:59 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-24</date>
+<date>2012-01-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -139,12 +139,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.02005</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ABRAXXA/DBIx-Class-UUIDColumns-0.02006/">0.02006</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/CLACO/DBIx-Class-UUIDColumns-0.02005/ABRAXXA/DBIx-Class-UUIDColumns-0.02006">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dancer">Dancer</uri></ti>
-    <ti align="right">1.308.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/Dancer-1.3091/">1.3091</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/Dancer-1.3080/XSAWYERX/Dancer-1.3091">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Devel-PPPort">Devel-PPPort</uri> (virtual/perl-Devel-PPPort)</ti>
@@ -329,8 +323,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
     <ti align="right">0.350.30</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.36000/">0.36000</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.35003/GSHANK/HTML-FormHandler-0.36000">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.36001/">0.36001</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.35003/GSHANK/HTML-FormHandler-0.36001">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-Packer">HTML-Packer</uri></ti>
@@ -649,6 +643,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.260</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Term-UI-0.30/">0.30</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/Term-UI-0.26/BINGOS/Term-UI-0.30">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Test-Block">Test-Block</uri></ti>
+    <ti align="right">0.110.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ADIE/Test-Block-0.13/">0.13</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ADIE/Test-Block-0.11/ADIE/Test-Block-0.13">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-Class-Most">Test-Class-Most</uri></ti>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.689 2012/01/25 14:29:59 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.690 2012/01/26 14:53:32 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-25</date>
+<date>2012-01-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -443,8 +443,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Modern-Perl">Modern-Perl</uri></ti>
     <ti align="right">1.03</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/CHROMATIC/Modern-Perl-1.20120123/">1.20120123</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Modern-Perl-1.03/CHROMATIC/Modern-Perl-1.20120123">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/CHROMATIC/Modern-Perl-1.20120126/">1.20120126</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Modern-Perl-1.03/CHROMATIC/Modern-Perl-1.20120126">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MojoMojo">MojoMojo</uri></ti>
@@ -455,8 +455,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.350.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.45/">2.45</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/SRI/Mojolicious-2.45">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/AMS/Mojolicious-2.46/">2.46</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/AMS/Mojolicious-2.46">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>

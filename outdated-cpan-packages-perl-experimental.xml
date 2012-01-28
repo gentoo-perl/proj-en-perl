@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.690 2012/01/26 14:53:32 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.691 2012/01/28 07:41:18 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-26</date>
+<date>2012-01-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -139,6 +139,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.02005</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ABRAXXA/DBIx-Class-UUIDColumns-0.02006/">0.02006</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/CLACO/DBIx-Class-UUIDColumns-0.02005/ABRAXXA/DBIx-Class-UUIDColumns-0.02006">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dancer">Dancer</uri></ti>
+    <ti align="right">1.309.100</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/Dancer-1.3092/">1.3092</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/Dancer-1.3091/XSAWYERX/Dancer-1.3092">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Devel-PPPort">Devel-PPPort</uri> (virtual/perl-Devel-PPPort)</ti>
@@ -525,6 +531,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/FLORA/MooseX-Types-URI-0.02/FLORA/MooseX-Types-URI-0.03">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Net-LDAP-Server-Test">Net-LDAP-Server-Test</uri></ti>
+    <ti align="right">0.110.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KARMAN/Net-LDAP-Server-Test-0.12/">0.12</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KARMAN/Net-LDAP-Server-Test-0.11/KARMAN/Net-LDAP-Server-Test-0.12">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Object-ID">Object-ID</uri></ti>
     <ti align="right">0.1.1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MSCHWERN/Object-ID-v0.1.2/">v0.1.2</uri></ti>
@@ -707,8 +719,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Travel-Routing-DE-VRR">Travel-Routing-DE-VRR</uri></ti>
     <ti align="right">1.60.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DERF/Travel-Routing-DE-VRR-2.00/">2.00</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DERF/Travel-Routing-DE-VRR-1.06/DERF/Travel-Routing-DE-VRR-2.00">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DERF/Travel-Routing-DE-VRR-2.01/">2.01</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DERF/Travel-Routing-DE-VRR-1.06/DERF/Travel-Routing-DE-VRR-2.01">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Tree-Trie">Tree-Trie</uri></ti>
@@ -749,7 +761,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 116 of 790
+Total packages suspected as outdated: 118 of 790
 </p>
 
 </body>

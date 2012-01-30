@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.692 2012/01/29 08:08:05 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.693 2012/01/30 12:48:16 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-29</date>
+<date>2012-01-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -83,8 +83,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Action-REST">Catalyst-Action-REST</uri></ti>
     <ti align="right">0.930.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Action-REST-0.95/">0.95</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BPHILLIPS/Catalyst-Action-REST-0.93/BOBTFISH/Catalyst-Action-REST-0.95">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Action-REST-0.96/">0.96</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BPHILLIPS/Catalyst-Action-REST-0.93/BOBTFISH/Catalyst-Action-REST-0.96">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Authentication-Store-DBIx-Class">Catalyst-Authentication-Store-DBIx-Class</uri></ti>

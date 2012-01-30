@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3214 2012/01/29 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3215 2012/01/30 01:52:32 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-29</date>
+<date>2012-01-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -58,6 +58,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
     <ti align="right">0.9000</ti>
     <ti align="right">0.93</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=apache::test&amp;mode=all">Apache-Test</uri></ti>
+    <ti align="right">1.3600</ti>
+    <ti align="right">1.37</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=autoloader&amp;mode=all">AutoLoader</uri> (virtual/perl-AutoLoader)</ti>
@@ -222,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 34 of 1141
+Total packages suspected as outdated: 35 of 1143
 </p>
 
 </body>

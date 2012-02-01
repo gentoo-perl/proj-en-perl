@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.694 2012/01/31 17:30:21 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.695 2012/02/01 15:30:00 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-01-31</date>
+<date>2012-02-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -707,8 +707,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-TCP">Test-TCP</uri></ti>
     <ti align="right">1.130.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TOKUHIROM/Test-TCP-1.14/">1.14</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/Test-TCP-1.13/TOKUHIROM/Test-TCP-1.14">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TOKUHIROM/Test-TCP-1.15/">1.15</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/Test-TCP-1.13/TOKUHIROM/Test-TCP-1.15">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-WWW-Mechanize-Catalyst">Test-WWW-Mechanize-Catalyst</uri></ti>

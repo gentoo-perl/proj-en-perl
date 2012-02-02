@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.695 2012/02/01 15:30:00 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.696 2012/02/02 14:32:05 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-01</date>
+<date>2012-02-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -53,8 +53,8 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://metacpan.org/release/App-perlbrew">App-perlbrew</uri></ti>
     <ti align="right">0.390.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.40/">0.40</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.39/GUGOD/App-perlbrew-0.40">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.41/">0.41</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.39/GUGOD/App-perlbrew-0.41">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Archive-Extract">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
@@ -125,8 +125,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/DBIx-Class-DateTime-Epoch">DBIx-Class-DateTime-Epoch</uri></ti>
     <ti align="right">0.70.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BRICAS/DBIx-Class-DateTime-Epoch-0.08/">0.08</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BRICAS/DBIx-Class-DateTime-Epoch-0.07/BRICAS/DBIx-Class-DateTime-Epoch-0.08">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BRICAS/DBIx-Class-DateTime-Epoch-0.09/">0.09</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BRICAS/DBIx-Class-DateTime-Epoch-0.07/BRICAS/DBIx-Class-DateTime-Epoch-0.09">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
@@ -163,6 +163,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.5.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/APOCAL/Dist-Zilla-Plugin-Authority-1.006/">1.006</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/APOCAL/Dist-Zilla-Plugin-Authority-1.005/APOCAL/Dist-Zilla-Plugin-Authority-1.006">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-AutoVersion-Relative">Dist-Zilla-Plugin-AutoVersion-Relative</uri></ti>
+    <ti align="right">0.10.603.90</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-AutoVersion-Relative-0.03000000/">0.03000000</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-AutoVersion-Relative-0.01060309/KENTNL/Dist-Zilla-Plugin-AutoVersion-Relative-0.03000000">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-CheckPrereqsIndexed">Dist-Zilla-Plugin-CheckPrereqsIndexed</uri></ti>
@@ -439,6 +445,12 @@ will curb some of the bugs to boot).
     <ti align="right">2.140.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Mason-2.15/">2.15</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Mason-2.14/JSWARTZ/Mason-2.15">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Math-Complex">Math-Complex</uri> (virtual/perl-Math-Complex)</ti>
+    <ti align="right">1.580.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/Math-Complex-1.59/">1.59</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ZEFRAM/Math-Complex-1.58/ZEFRAM/Math-Complex-1.59">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Math-Factor-XS">Math-Factor-XS</uri></ti>
@@ -767,7 +779,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 119 of 790
+Total packages suspected as outdated: 121 of 790
 </p>
 
 </body>

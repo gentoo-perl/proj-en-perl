@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3225 2012/02/03 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3226 2012/02/03 17:52:38 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::autouse&amp;mode=all">Class-Autouse</uri></ti>
+    <ti align="right">2.00</ti>
+    <ti align="right">2.01</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini::inject&amp;mode=all">CPAN-Mini-Inject</uri></ti>
     <ti align="right">0.3000</ti>
     <ti align="right">0.31</ti>
@@ -128,6 +133,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::client::async&amp;mode=all">MogileFS-Client-Async</uri></ti>
     <ti align="right">0.0150</ti>
     <ti align="right">0.017</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::getopt&amp;mode=all">MooseX-Getopt</uri></ti>
+    <ti align="right">0.3800</ti>
+    <ti align="right">0.39</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=namespace::clean&amp;mode=all">namespace-clean</uri></ti>
@@ -212,7 +222,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 32 of 1158
+Total packages suspected as outdated: 34 of 1164
 </p>
 
 </body>

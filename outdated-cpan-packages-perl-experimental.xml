@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.696 2012/02/02 14:32:05 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.697 2012/02/03 13:54:32 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-02</date>
+<date>2012-02-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -113,8 +113,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Config-AutoConf">Config-AutoConf</uri></ti>
     <ti align="right">0.160.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/AMBS/Config-AutoConf-0.17/">0.17</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/AMBS/Config-AutoConf-0.16/AMBS/Config-AutoConf-0.17">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/AMBS/Config-AutoConf-0.18/">0.18</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/AMBS/Config-AutoConf-0.16/AMBS/Config-AutoConf-0.18">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Config-INI">Config-INI</uri></ti>
@@ -155,8 +155,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
     <ti align="right">4.300.3</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300006/">4.300006</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300003/RJBS/Dist-Zilla-4.300006">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300007/">4.300007</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300003/RJBS/Dist-Zilla-4.300007">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Authority">Dist-Zilla-Plugin-Authority</uri></ti>
@@ -167,8 +167,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-AutoVersion-Relative">Dist-Zilla-Plugin-AutoVersion-Relative</uri></ti>
     <ti align="right">0.10.603.90</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-AutoVersion-Relative-0.03000000/">0.03000000</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-AutoVersion-Relative-0.01060309/KENTNL/Dist-Zilla-Plugin-AutoVersion-Relative-0.03000000">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-AutoVersion-Relative-0.03000001/">0.03000001</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-AutoVersion-Relative-0.01060309/KENTNL/Dist-Zilla-Plugin-AutoVersion-Relative-0.03000001">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Bootstrap-lib">Dist-Zilla-Plugin-Bootstrap-lib</uri></ti>
+    <ti align="right">0.10.236.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-Bootstrap-lib-0.01023601/">0.01023601</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-Bootstrap-lib-0.01023600/KENTNL/Dist-Zilla-Plugin-Bootstrap-lib-0.01023601">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-CheckPrereqsIndexed">Dist-Zilla-Plugin-CheckPrereqsIndexed</uri></ti>
@@ -195,6 +201,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-MetaData-BuiltWith-0.01018204/KENTNL/Dist-Zilla-Plugin-MetaData-BuiltWith-0.01018205">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-MetaProvides-FromFile">Dist-Zilla-Plugin-MetaProvides-FromFile</uri></ti>
+    <ti align="right">1.110.602.80</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-FromFile-1.11060209/">1.11060209</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-FromFile-1.11060208/KENTNL/Dist-Zilla-Plugin-MetaProvides-FromFile-1.11060209">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-ModuleInstall">Dist-Zilla-Plugin-ModuleInstall</uri></ti>
+    <ti align="right">0.10.540.200</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-ModuleInstall-0.01054021/">0.01054021</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-ModuleInstall-0.01054020/KENTNL/Dist-Zilla-Plugin-ModuleInstall-0.01054021">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Test-Compile">Dist-Zilla-Plugin-Test-Compile</uri></ti>
     <ti align="right">1.112.400</ti>
     <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Dist-Zilla-Plugin-Test-Compile-1.112820/">1.112820</uri></ti>
@@ -219,10 +237,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.1.1/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.2.0">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Role-Tempdir">Dist-Zilla-Role-Tempdir</uri></ti>
+    <ti align="right">0.10.537.200</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Role-Tempdir-0.01053721/">0.01053721</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Role-Tempdir-0.01053720/KENTNL/Dist-Zilla-Role-Tempdir-0.01053721">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Util-EmulatePhase">Dist-Zilla-Util-EmulatePhase</uri></ti>
     <ti align="right">0.10.258.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Util-EmulatePhase-0.01025801/">0.01025801</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Util-EmulatePhase-0.01025800/KENTNL/Dist-Zilla-Util-EmulatePhase-0.01025801">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Util-Test-KENTNL">Dist-Zilla-Util-Test-KENTNL</uri></ti>
+    <ti align="right">0.10.158.210</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Util-Test-KENTNL-0.01015822/">0.01015822</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Util-Test-KENTNL-0.01015821/KENTNL/Dist-Zilla-Util-Test-KENTNL-0.01015822">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Encode-Base32-Crockford">Encode-Base32-Crockford</uri></ti>
@@ -495,6 +525,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/MooseX-ConfigFromFile-0.03/BOBTFISH/MooseX-ConfigFromFile-0.04">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-Has-Sugar">MooseX-Has-Sugar</uri></ti>
+    <ti align="right">0.50.704.190</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/MooseX-Has-Sugar-0.05070420/">0.05070420</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/MooseX-Has-Sugar-0.05070419/KENTNL/MooseX-Has-Sugar-0.05070420">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-MethodAttributes">MooseX-MethodAttributes</uri></ti>
     <ti align="right">0.250.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/MooseX-MethodAttributes-0.26/">0.26</uri></ti>
@@ -683,8 +719,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-Compile">Test-Compile</uri></ti>
     <ti align="right">0.13</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/EGILES/Test-Compile-0.14/">0.14</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MARCEL/Test-Compile-0.13/EGILES/Test-Compile-0.14">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/EGILES/Test-Compile-0.15/">0.15</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MARCEL/Test-Compile-0.13/EGILES/Test-Compile-0.15">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-EOL">Test-EOL</uri></ti>
@@ -779,7 +815,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 121 of 790
+Total packages suspected as outdated: 127 of 790
 </p>
 
 </body>

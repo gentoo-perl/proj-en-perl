@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.698 2012/02/04 06:49:05 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.699 2012/02/05 08:30:18 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-04</date>
+<date>2012-02-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -61,6 +61,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.560.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Archive-Extract-0.58/">0.58</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/Archive-Extract-0.56/BINGOS/Archive-Extract-0.58">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Authen-Passphrase">Authen-Passphrase</uri></ti>
+    <ti align="right">0.7.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/Authen-Passphrase-0.008/">0.008</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ZEFRAM/Authen-Passphrase-0.007/ZEFRAM/Authen-Passphrase-0.008">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/B-Debug">B-Debug</uri> (virtual/perl-B-Debug)</ti>
@@ -147,10 +153,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/Dancer-1.3091/XSAWYERX/Dancer-1.3092">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Data-Float">Data-Float</uri></ti>
+    <ti align="right">0.011</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/Data-Float-0.012/">0.012</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ZEFRAM/Data-Float-0.011/ZEFRAM/Data-Float-0.012">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Devel-PPPort">Devel-PPPort</uri> (virtual/perl-Devel-PPPort)</ti>
     <ti align="right">3.190.300_rc</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MHX/Devel-PPPort-3.20/">3.20</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MHX/Devel-PPPort-3.19_03/MHX/Devel-PPPort-3.20">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
+    <ti align="right">0.620.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Devel-PatchPerl-0.64/">0.64</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Devel-PatchPerl-0.62/BINGOS/Devel-PatchPerl-0.64">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
@@ -203,8 +221,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-MetaProvides">Dist-Zilla-Plugin-MetaProvides</uri></ti>
     <ti align="right">1.120.605.10</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.12060502/">1.12060502</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.12060501/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.12060502">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.13000001/">1.13000001</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.12060501/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.13000001">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-MetaProvides-FromFile">Dist-Zilla-Plugin-MetaProvides-FromFile</uri></ti>
@@ -309,12 +327,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/PARDUS/File-MimeInfo-0.15/PARDUS/File-MimeInfo-0.16">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Filesys-Notify-Simple">Filesys-Notify-Simple</uri></ti>
-    <ti align="right">0.70</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Filesys-Notify-Simple-0.08/">0.08</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/Filesys-Notify-Simple-0.07/MIYAGAWA/Filesys-Notify-Simple-0.08">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Filter-Simple">Filter-Simple</uri> (virtual/perl-Filter-Simple)</ti>
     <ti align="right">0.870.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/SMUELLER/Filter-Simple-0.88/">0.88</uri></ti>
@@ -411,12 +423,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/HTML-TreeBuilder-LibXML-0.13/TOKUHIROM/HTML-TreeBuilder-LibXML-0.15">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/HTTP-Body">HTTP-Body</uri></ti>
-    <ti align="right">1.120.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GETTY/HTTP-Body-1.15/">1.15</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GETTY/HTTP-Body-1.12/GETTY/HTTP-Body-1.15">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
     <ti align="right">0.13.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.016/">0.016</uri></ti>
@@ -469,12 +475,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.100.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/Lingua-EN-Inflect-Phrase-0.12/">0.12</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/RKITOVER/Lingua-EN-Inflect-Phrase-0.10/RKITOVER/Lingua-EN-Inflect-Phrase-0.12">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/List-UtilsBy">List-UtilsBy</uri></ti>
-    <ti align="right">0.70.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/List-UtilsBy-0.08/">0.08</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PEVANS/List-UtilsBy-0.07/PEVANS/List-UtilsBy-0.08">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Locale-Codes">Locale-Codes</uri></ti>
@@ -621,22 +621,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/ZENOG/Padre-Plugin-Vi-0.23.0/ZENOG/Padre-Plugin-Vi-0.23">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Parallel-Prefork">Parallel-Prefork</uri></ti>
-    <ti align="right">0.110.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KAZUHO/Parallel-Prefork-0.13/">0.13</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KAZUHO/Parallel-Prefork-0.11/KAZUHO/Parallel-Prefork-0.13">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Perl-PrereqScanner">Perl-PrereqScanner</uri></ti>
     <ti align="right">1.7.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/Perl-PrereqScanner-1.009/">1.009</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Perl-PrereqScanner-1.007/RJBS/Perl-PrereqScanner-1.009">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Plack">Plack</uri></ti>
-    <ti align="right">0.998.200</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Plack-0.9985/">0.9985</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/Plack-0.9982/MIYAGAWA/Plack-0.9985">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Plack-Middleware-ReverseProxy">Plack-Middleware-ReverseProxy</uri></ti>
@@ -699,12 +687,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RJBS/Software-License-0.103002/RJBS/Software-License-0.103004">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Starlet">Starlet</uri></ti>
-    <ti align="right">0.130.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KAZUHO/Starlet-0.14/">0.14</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KAZUHO/Starlet-0.13/KAZUHO/Starlet-0.14">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/String-ToIdentifier-EN">String-ToIdentifier-EN</uri></ti>
     <ti align="right">0.50.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/String-ToIdentifier-EN-0.06/">0.06</uri></ti>
@@ -759,22 +741,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/GFUJI/Test-LeakTrace-0.13/GFUJI/Test-LeakTrace-0.14">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Test-SharedFork">Test-SharedFork</uri></ti>
-    <ti align="right">0.160</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TOKUHIROM/Test-SharedFork-0.19/">0.19</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/Test-SharedFork-0.16/TOKUHIROM/Test-SharedFork-0.19">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Test-Spec">Test-Spec</uri></ti>
     <ti align="right">0.390.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/PHILIP/Test-Spec-0.40/">0.40</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/PHILIP/Test-Spec-0.39/PHILIP/Test-Spec-0.40">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Test-TCP">Test-TCP</uri></ti>
-    <ti align="right">1.130.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TOKUHIROM/Test-TCP-1.15/">1.15</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/Test-TCP-1.13/TOKUHIROM/Test-TCP-1.15">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-WWW-Mechanize-Catalyst">Test-WWW-Mechanize-Catalyst</uri></ti>
@@ -833,7 +803,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 130 of 790
+Total packages suspected as outdated: 125 of 776
 </p>
 
 </body>

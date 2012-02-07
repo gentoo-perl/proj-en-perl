@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.700 2012/02/06 09:45:10 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.701 2012/02/07 18:30:49 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-06</date>
+<date>2012-02-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -143,8 +143,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
     <ti align="right">0.70.140</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/DBIx-Class-Schema-Loader-0.07015/">0.07015</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07014/RKITOVER/DBIx-Class-Schema-Loader-0.07015">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/DBIx-Class-Schema-Loader-0.07017/">0.07017</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07014/RKITOVER/DBIx-Class-Schema-Loader-0.07017">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/DBIx-Class-UUIDColumns">DBIx-Class-UUIDColumns</uri></ti>
@@ -233,8 +233,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-MetaProvides">Dist-Zilla-Plugin-MetaProvides</uri></ti>
     <ti align="right">1.120.605.10</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.13000001/">1.13000001</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.12060501/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.13000001">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.14000000/">1.14000000</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.12060501/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.14000000">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-MetaProvides-FromFile">Dist-Zilla-Plugin-MetaProvides-FromFile</uri></ti>
@@ -525,6 +525,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Modern-Perl-1.03/CHROMATIC/Modern-Perl-1.20120130">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Module-Install-ReadmeFromPod">Module-Install-ReadmeFromPod</uri></ti>
+    <ti align="right">0.12</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Module-Install-ReadmeFromPod-0.14/">0.14</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Module-Install-ReadmeFromPod-0.12/BINGOS/Module-Install-ReadmeFromPod-0.14">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/MojoMojo">MojoMojo</uri></ti>
     <ti align="right">1.40.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MRAMBERG/MojoMojo-1.05/">1.05</uri></ti>
@@ -533,8 +539,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.350.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/AMS/Mojolicious-2.46/">2.46</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/AMS/Mojolicious-2.46">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/AMS/Mojolicious-2.47/">2.47</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/AMS/Mojolicious-2.47">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
@@ -821,7 +827,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 128 of 776
+Total packages suspected as outdated: 129 of 776
 </p>
 
 </body>

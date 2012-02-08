@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3235 2012/02/08 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3236 2012/02/08 17:52:29 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -160,11 +160,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.31</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=padwalker&amp;mode=all">PadWalker</uri></ti>
-    <ti align="right">1.9200</ti>
-    <ti align="right">1.93</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pango&amp;mode=all">Pango</uri></ti>
     <ti align="right">1.2220</ti>
     <ti align="right">1.223</ti>
@@ -173,16 +168,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=params::validate&amp;mode=all">Params-Validate</uri></ti>
     <ti align="right">1.00</ti>
     <ti align="right">1.03</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=parse::cpan::meta&amp;mode=all">Parse-CPAN-Meta</uri> (virtual/perl-Parse-CPAN-Meta)</ti>
-    <ti align="right">1.440100</ti>
-    <ti align="right">1.4402</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::coverage&amp;mode=all">Pod-Coverage</uri></ti>
-    <ti align="right">0.2100</ti>
-    <ti align="right">0.22</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=podparser&amp;mode=all">PodParser</uri> (virtual/perl-PodParser)</ti>
@@ -208,6 +193,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.1700</ti>
     <ti align="right">3.02</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=template::toolkit&amp;mode=all">Template-Toolkit</uri></ti>
+    <ti align="right">2.2300</ti>
+    <ti align="right">2.24</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=want&amp;mode=all">Want</uri></ti>
@@ -237,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 37 of 1165
+Total packages suspected as outdated: 35 of 1165
 </p>
 
 </body>

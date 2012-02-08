@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.701 2012/02/07 18:30:49 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.702 2012/02/08 12:28:10 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-07</date>
+<date>2012-02-08</date>
 
 <chapter>
 <title>Intro</title>
@@ -125,8 +125,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Config-AutoConf">Config-AutoConf</uri></ti>
     <ti align="right">0.160.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/AMBS/Config-AutoConf-0.18/">0.18</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/AMBS/Config-AutoConf-0.16/AMBS/Config-AutoConf-0.18">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/AMBS/Config-AutoConf-0.19/">0.19</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/AMBS/Config-AutoConf-0.16/AMBS/Config-AutoConf-0.19">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Config-INI">Config-INI</uri></ti>
@@ -245,8 +245,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-MetaProvides-Package">Dist-Zilla-Plugin-MetaProvides-Package</uri></ti>
     <ti align="right">1.120.605.10</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-Package-1.12060502/">1.12060502</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-Package-1.12060501/KENTNL/Dist-Zilla-Plugin-MetaProvides-Package-1.12060502">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-Package-1.14000000/">1.14000000</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-Package-1.12060501/KENTNL/Dist-Zilla-Plugin-MetaProvides-Package-1.14000000">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-ModuleInstall">Dist-Zilla-Plugin-ModuleInstall</uri></ti>
@@ -639,12 +639,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/ZENOG/Padre-Plugin-Vi-0.23.0/ZENOG/Padre-Plugin-Vi-0.23">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Parser-MGC">Parser-MGC</uri></ti>
-    <ti align="right">0.90.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/Parser-MGC-0.10/">0.10</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PEVANS/Parser-MGC-0.09/PEVANS/Parser-MGC-0.10">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Perl-PrereqScanner">Perl-PrereqScanner</uri></ti>
     <ti align="right">1.7.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/Perl-PrereqScanner-1.009/">1.009</uri></ti>
@@ -671,8 +665,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Pod-Weaver">Pod-Weaver</uri></ti>
     <ti align="right">3.101.633-r1</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Pod-Weaver-3.101634/">3.101634</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Pod-Weaver-3.101633/RJBS/Pod-Weaver-3.101634">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Pod-Weaver-3.101635/">3.101635</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Pod-Weaver-3.101633/RJBS/Pod-Weaver-3.101635">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Regexp-Grammars">Regexp-Grammars</uri></ti>
@@ -724,7 +718,7 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Term-UI">Term-UI</uri> (virtual/perl-Term-UI)</ti>
-    <ti align="right">0.260</ti>
+    <ti align="right">0.260.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Term-UI-0.30/">0.30</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/Term-UI-0.26/BINGOS/Term-UI-0.30">Diff</uri></ti>
   </tr>
@@ -827,7 +821,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 129 of 776
+Total packages suspected as outdated: 128 of 771
 </p>
 
 </body>

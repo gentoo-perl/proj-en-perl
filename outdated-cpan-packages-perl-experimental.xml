@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.702 2012/02/08 12:28:10 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.703 2012/02/09 12:39:23 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-08</date>
+<date>2012-02-09</date>
 
 <chapter>
 <title>Intro</title>
@@ -153,12 +153,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/CLACO/DBIx-Class-UUIDColumns-0.02005/ABRAXXA/DBIx-Class-UUIDColumns-0.02006">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Dancer">Dancer</uri></ti>
-    <ti align="right">1.309.100</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/Dancer-1.3092/">1.3092</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/Dancer-1.3091/XSAWYERX/Dancer-1.3092">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Data-Float">Data-Float</uri></ti>
     <ti align="right">0.011</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/Data-Float-0.012/">0.012</uri></ti>
@@ -179,8 +173,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
     <ti align="right">0.620.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Devel-PatchPerl-0.64/">0.64</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Devel-PatchPerl-0.62/BINGOS/Devel-PatchPerl-0.64">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Devel-PatchPerl-0.66/">0.66</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Devel-PatchPerl-0.62/BINGOS/Devel-PatchPerl-0.66">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
@@ -527,8 +521,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Module-Install-ReadmeFromPod">Module-Install-ReadmeFromPod</uri></ti>
     <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Module-Install-ReadmeFromPod-0.14/">0.14</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Module-Install-ReadmeFromPod-0.12/BINGOS/Module-Install-ReadmeFromPod-0.14">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Module-Install-ReadmeFromPod-0.16/">0.16</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Module-Install-ReadmeFromPod-0.12/BINGOS/Module-Install-ReadmeFromPod-0.16">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MojoMojo">MojoMojo</uri></ti>
@@ -539,8 +533,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.350.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/AMS/Mojolicious-2.47/">2.47</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/AMS/Mojolicious-2.47">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TEMPIRE/Mojolicious-2.48/">2.48</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/TEMPIRE/Mojolicious-2.48">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
@@ -821,7 +815,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 128 of 771
+Total packages suspected as outdated: 127 of 770
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3239 2012/02/10 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3240 2012/02/10 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -205,6 +205,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.24</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::sharedfork&amp;mode=all">Test-SharedFork</uri></ti>
+    <ti align="right">0.1900</ti>
+    <ti align="right">0.20</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=want&amp;mode=all">Want</uri></ti>
     <ti align="right">0.1800</ti>
     <ti align="right">0.20</ti>
@@ -232,7 +237,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 36 of 1165
+Total packages suspected as outdated: 37 of 1165
 </p>
 
 </body>

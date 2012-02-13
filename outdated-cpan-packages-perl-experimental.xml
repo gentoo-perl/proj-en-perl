@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.705 2012/02/12 08:56:39 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.706 2012/02/13 11:36:50 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-12</date>
+<date>2012-02-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -317,8 +317,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Getopt-Euclid">Getopt-Euclid</uri></ti>
     <ti align="right">0.3.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/FANGLY/Getopt-Euclid-0.3.3/">0.3.3</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/FANGLY/Getopt-Euclid-0.3.0/FANGLY/Getopt-Euclid-0.3.3">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/FANGLY/Getopt-Euclid-0.3.4/">0.3.4</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FANGLY/Getopt-Euclid-0.3.0/FANGLY/Getopt-Euclid-0.3.4">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Getopt-Lucid">Getopt-Lucid</uri></ti>
@@ -471,10 +471,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/SCHUBIGER/Math-Factor-XS-0.38/KRYDE/Math-Factor-XS-0.39">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/MemHandle">MemHandle</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SCR/MemHandle-0.07/">0.07</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SCR/MemHandle-0.06/SCR/MemHandle-0.07">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Modern-Perl">Modern-Perl</uri></ti>
     <ti align="right">1.03</ti>
     <ti align="right"><uri link="http://metacpan.org/release/CHROMATIC/Modern-Perl-1.20120130/">1.20120130</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Modern-Perl-1.03/CHROMATIC/Modern-Perl-1.20120130">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Module-ExtractUse">Module-ExtractUse</uri></ti>
+    <ti align="right">0.23</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DOMM/Module-ExtractUse-0.24/">0.24</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DOMM/Module-ExtractUse-0.23/DOMM/Module-ExtractUse-0.24">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Module-Install-ReadmeFromPod">Module-Install-ReadmeFromPod</uri></ti>
@@ -773,7 +785,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 120 of 771
+Total packages suspected as outdated: 122 of 771
 </p>
 
 </body>

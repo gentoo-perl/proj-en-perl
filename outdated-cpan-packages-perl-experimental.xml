@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.707 2012/02/14 12:50:07 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.708 2012/02/15 14:23:02 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-14</date>
+<date>2012-02-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,12 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://metacpan.org/release/Acme-Damn">Acme-Damn</uri></ti>
+    <ti align="right">0.40.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/IBB/Acme-Damn-0.05/">0.05</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/IBB/Acme-Damn-0.04/IBB/Acme-Damn-0.05">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Archive-Extract">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
     <ti align="right">0.560.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Archive-Extract-0.58/">0.58</uri></ti>
@@ -75,26 +81,14 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPANPLUS-Dist-Build-0.56/BINGOS/CPANPLUS-Dist-Build-0.62">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/DBIx-Class-DateTime-Epoch">DBIx-Class-DateTime-Epoch</uri></ti>
-    <ti align="right">0.70.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BRICAS/DBIx-Class-DateTime-Epoch-0.09/">0.09</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BRICAS/DBIx-Class-DateTime-Epoch-0.07/BRICAS/DBIx-Class-DateTime-Epoch-0.09">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
-    <ti align="right">0.70.140</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/DBIx-Class-Schema-Loader-0.07017/">0.07017</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07014/RKITOVER/DBIx-Class-Schema-Loader-0.07017">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/DBIx-Class-UUIDColumns">DBIx-Class-UUIDColumns</uri></ti>
-    <ti align="right">0.02005</ti>
+    <ti align="right">0.20.50</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ABRAXXA/DBIx-Class-UUIDColumns-0.02006/">0.02006</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/CLACO/DBIx-Class-UUIDColumns-0.02005/ABRAXXA/DBIx-Class-UUIDColumns-0.02006">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Data-Float">Data-Float</uri></ti>
-    <ti align="right">0.011</ti>
+    <ti align="right">0.11.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/Data-Float-0.012/">0.012</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/ZEFRAM/Data-Float-0.011/ZEFRAM/Data-Float-0.012">Diff</uri></ti>
   </tr>
@@ -279,6 +273,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/SMUELLER/Filter-Simple-0.87/SMUELLER/Filter-Simple-0.88">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/FindBin-libs">FindBin-libs</uri></ti>
+    <ti align="right">1.520.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/LEMBARK/FindBin-libs-1.62/">1.62</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/LEMBARK/FindBin-libs-1.52/LEMBARK/FindBin-libs-1.62">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/FormValidator-Simple">FormValidator-Simple</uri></ti>
     <ti align="right">0.28</ti>
     <ti align="right"><uri link="http://metacpan.org/release/LYOKATO/FormValidator-Simple-0.29/">0.29</uri></ti>
@@ -335,8 +335,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
     <ti align="right">0.350.30</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.36002/">0.36002</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.35003/GSHANK/HTML-FormHandler-0.36002">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.36003/">0.36003</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.35003/GSHANK/HTML-FormHandler-0.36003">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-Packer">HTML-Packer</uri></ti>
@@ -761,7 +761,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 118 of 771
+Total packages suspected as outdated: 118 of 770
 </p>
 
 </body>

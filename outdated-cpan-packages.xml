@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3248 2012/02/15 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3249 2012/02/16 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-15</date>
+<date>2012-02-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -98,6 +98,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=hash::multivalue&amp;mode=all">Hash-MultiValue</uri></ti>
     <ti align="right">0.1000</ti>
     <ti align="right">0.12</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=http::cookies&amp;mode=all">HTTP-Cookies</uri></ti>
+    <ti align="right">6.00</ti>
+    <ti align="right">6.01</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=http::date&amp;mode=all">HTTP-Date</uri></ti>
+    <ti align="right">6.00</ti>
+    <ti align="right">6.01</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=inline&amp;mode=all">Inline</uri></ti>
@@ -217,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 33 of 1169
+Total packages suspected as outdated: 35 of 1169
 </p>
 
 </body>

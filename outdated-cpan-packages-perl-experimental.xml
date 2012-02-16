@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.708 2012/02/15 14:23:02 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.709 2012/02/16 14:30:02 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-15</date>
+<date>2012-02-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,12 +51,6 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://metacpan.org/release/Acme-Damn">Acme-Damn</uri></ti>
-    <ti align="right">0.40.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/IBB/Acme-Damn-0.05/">0.05</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/IBB/Acme-Damn-0.04/IBB/Acme-Damn-0.05">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Archive-Extract">Archive-Extract</uri> (virtual/perl-Archive-Extract)</ti>
     <ti align="right">0.560.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Archive-Extract-0.58/">0.58</uri></ti>
@@ -81,40 +75,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPANPLUS-Dist-Build-0.56/BINGOS/CPANPLUS-Dist-Build-0.62">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/DBIx-Class-UUIDColumns">DBIx-Class-UUIDColumns</uri></ti>
-    <ti align="right">0.20.50</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ABRAXXA/DBIx-Class-UUIDColumns-0.02006/">0.02006</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/CLACO/DBIx-Class-UUIDColumns-0.02005/ABRAXXA/DBIx-Class-UUIDColumns-0.02006">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
+    <ti align="right">5.900.70</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90009/">5.90009</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90007/BOBTFISH/Catalyst-Runtime-5.90009">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Data-Float">Data-Float</uri></ti>
-    <ti align="right">0.11.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/Data-Float-0.012/">0.012</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ZEFRAM/Data-Float-0.011/ZEFRAM/Data-Float-0.012">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Data-Pond">Data-Pond</uri></ti>
-    <ti align="right">0.003</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ZEFRAM/Data-Pond-0.004/">0.004</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ZEFRAM/Data-Pond-0.003/ZEFRAM/Data-Pond-0.004">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/Catalyst-View-TT">Catalyst-View-TT</uri></ti>
+    <ti align="right">0.370.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-View-TT-0.38/">0.38</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MSTROUT/Catalyst-View-TT-0.37/BOBTFISH/Catalyst-View-TT-0.38">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Devel-PPPort">Devel-PPPort</uri> (virtual/perl-Devel-PPPort)</ti>
     <ti align="right">3.190.300_rc</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MHX/Devel-PPPort-3.20/">3.20</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MHX/Devel-PPPort-3.19_03/MHX/Devel-PPPort-3.20">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
-    <ti align="right">0.620.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Devel-PatchPerl-0.66/">0.66</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Devel-PatchPerl-0.62/BINGOS/Devel-PatchPerl-0.66">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
-    <ti align="right">4.300.3</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300007/">4.300007</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300003/RJBS/Dist-Zilla-4.300007">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Authority">Dist-Zilla-Plugin-Authority</uri></ti>
@@ -275,8 +251,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/FindBin-libs">FindBin-libs</uri></ti>
     <ti align="right">1.520.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/LEMBARK/FindBin-libs-1.62/">1.62</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/LEMBARK/FindBin-libs-1.52/LEMBARK/FindBin-libs-1.62">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/LEMBARK/FindBin-libs-1.63/">1.63</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/LEMBARK/FindBin-libs-1.52/LEMBARK/FindBin-libs-1.63">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/FormValidator-Simple">FormValidator-Simple</uri></ti>
@@ -537,6 +513,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/MooseX-Types-ISO8601-0.07/DLAMBLEY/MooseX-Types-ISO8601-0.10">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-Types-LoadableClass">MooseX-Types-LoadableClass</uri></ti>
+    <ti align="right">0.6.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/MooseX-Types-LoadableClass-0.007/">0.007</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/MooseX-Types-LoadableClass-0.006/BOBTFISH/MooseX-Types-LoadableClass-0.007">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Types-Perl">MooseX-Types-Perl</uri></ti>
     <ti align="right">0.101.340</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/MooseX-Types-Perl-0.101341/">0.101341</uri></ti>
@@ -635,8 +617,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Socket">Socket</uri> (virtual/perl-Socket)</ti>
     <ti align="right">1.950.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/Socket-1.97/">1.97</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PEVANS/Socket-1.95/PEVANS/Socket-1.97">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/Socket-1.98/">1.98</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PEVANS/Socket-1.95/PEVANS/Socket-1.98">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Software-License">Software-License</uri></ti>
@@ -761,7 +743,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 118 of 770
+Total packages suspected as outdated: 115 of 770
 </p>
 
 </body>

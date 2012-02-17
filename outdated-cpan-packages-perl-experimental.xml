@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.709 2012/02/16 14:30:02 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.710 2012/02/17 11:33:28 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-16</date>
+<date>2012-02-17</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,6 +75,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPANPLUS-Dist-Build-0.56/BINGOS/CPANPLUS-Dist-Build-0.62">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Manual">Catalyst-Manual</uri></ti>
+    <ti align="right">5.900.200</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Manual-5.9003/">5.9003</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/HKCLARK/Catalyst-Manual-5.9002/BOBTFISH/Catalyst-Manual-5.9003">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
     <ti align="right">5.900.70</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90009/">5.90009</uri></ti>
@@ -91,6 +97,12 @@ will curb some of the bugs to boot).
     <ti align="right">3.190.300_rc</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MHX/Devel-PPPort-3.20/">3.20</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MHX/Devel-PPPort-3.19_03/MHX/Devel-PPPort-3.20">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
+    <ti align="right">4.300.7</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300008/">4.300008</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300007/RJBS/Dist-Zilla-4.300008">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Authority">Dist-Zilla-Plugin-Authority</uri></ti>
@@ -743,7 +755,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 115 of 770
+Total packages suspected as outdated: 117 of 770
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3254 2012/02/18 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3255 2012/02/18 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -88,6 +88,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini::inject&amp;mode=all">CPAN-Mini-Inject</uri></ti>
     <ti align="right">0.3000</ti>
     <ti align="right">0.31</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri> (virtual/perl-Filter)</ti>
+    <ti align="right">1.3900</ti>
+    <ti align="right">1.41</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=glib::perl&amp;mode=all">glib-perl</uri></ti>
@@ -195,6 +200,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.20</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=variable::magic&amp;mode=all">Variable-Magic</uri></ti>
+    <ti align="right">0.4700</ti>
+    <ti align="right">0.48</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=want&amp;mode=all">Want</uri></ti>
     <ti align="right">0.1800</ti>
     <ti align="right">0.20</ti>
@@ -209,15 +219,10 @@ will curb some of the bugs to boot).
     <ti align="right">0.990200</ti>
     <ti align="right">0.9903</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=yaml::syck&amp;mode=all">YAML-Syck</uri></ti>
-    <ti align="right">1.1800</ti>
-    <ti align="right">1.20</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 33 of 1169
+Total packages suspected as outdated: 34 of 1169
 </p>
 
 </body>

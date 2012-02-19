@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.710 2012/02/17 11:33:28 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.711 2012/02/19 11:23:12 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-17</date>
+<date>2012-02-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,6 +75,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPANPLUS-Dist-Build-0.56/BINGOS/CPANPLUS-Dist-Build-0.62">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/CSS-Packer">CSS-Packer</uri></ti>
+    <ti align="right">1.2.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/NEVESENIN/CSS-Packer-1.002001/">1.002001</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/NEVESENIN/CSS-Packer-1.002/NEVESENIN/CSS-Packer-1.002001">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Manual">Catalyst-Manual</uri></ti>
     <ti align="right">5.900.200</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Manual-5.9003/">5.9003</uri></ti>
@@ -83,8 +89,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
     <ti align="right">5.900.70</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90009/">5.90009</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90007/BOBTFISH/Catalyst-Runtime-5.90009">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MSTROUT/Catalyst-Runtime-5.90010/">5.90010</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90007/MSTROUT/Catalyst-Runtime-5.90010">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-View-TT">Catalyst-View-TT</uri></ti>
@@ -351,6 +357,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/HTML-TreeBuilder-LibXML-0.13/TOKUHIROM/HTML-TreeBuilder-LibXML-0.15">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/HTTP-Exception">HTTP-Exception</uri></ti>
+    <ti align="right">0.30.10</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TMUELLER/HTTP-Exception-0.04/">0.04</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TMUELLER/HTTP-Exception-0.03001/TMUELLER/HTTP-Exception-0.04">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
     <ti align="right">0.13.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.016/">0.016</uri></ti>
@@ -467,8 +479,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.350.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TEMPIRE/Mojolicious-2.49/">2.49</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/TEMPIRE/Mojolicious-2.49">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TEMPIRE/Mojolicious-2.50/">2.50</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/TEMPIRE/Mojolicious-2.50">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
@@ -609,6 +621,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/DCONWAY/Regexp-Grammars-1.013/DCONWAY/Regexp-Grammars-1.014">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Regexp-RegGrp">Regexp-RegGrp</uri></ti>
+    <ti align="right">1.2.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/NEVESENIN/Regexp-RegGrp-1.002001/">1.002001</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/NEVESENIN/Regexp-RegGrp-1.002/NEVESENIN/Regexp-RegGrp-1.002001">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Scope-Upper">Scope-Upper</uri></ti>
     <ti align="right">0.160.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/VPIT/Scope-Upper-0.18/">0.18</uri></ti>
@@ -705,6 +723,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Test-WWW-Mechanize-Catalyst-0.54/EDENC/Test-WWW-Mechanize-Catalyst-0.56">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Test-utf8">Test-utf8</uri></ti>
+    <ti align="right">0.02</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MARKF/Test-utf8-1.00/">1.00</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MARKF/Test-utf8-0.02/MARKF/Test-utf8-1.00">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Tie-CPHash">Tie-CPHash</uri></ti>
     <ti align="right">1.04</ti>
     <ti align="right"><uri link="http://metacpan.org/release/CJM/Tie-CPHash-1.05/">1.05</uri></ti>
@@ -755,7 +779,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 117 of 770
+Total packages suspected as outdated: 121 of 770
 </p>
 
 </body>

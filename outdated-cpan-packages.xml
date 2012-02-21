@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3259 2012/02/21 01:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3260 2012/02/21 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -180,6 +180,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.31</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=orlite&amp;mode=all">ORLite</uri></ti>
+    <ti align="right">1.5200</ti>
+    <ti align="right">1.54</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pango&amp;mode=all">Pango</uri></ti>
     <ti align="right">1.2220</ti>
     <ti align="right">1.223</ti>
@@ -198,6 +203,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
     <ti align="right">0.400</ti>
     <ti align="right">0.99</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sub::uplevel&amp;mode=all">Sub-Uplevel</uri></ti>
+    <ti align="right">0.2200</ti>
+    <ti align="right">0.24</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
@@ -227,7 +237,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 35 of 1170
+Total packages suspected as outdated: 37 of 1170
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.714 2012/02/22 18:33:03 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.715 2012/02/23 15:19:22 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-22</date>
+<date>2012-02-23</date>
 
 <chapter>
 <title>Intro</title>
@@ -113,8 +113,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-View-Wkhtmltopdf">Catalyst-View-Wkhtmltopdf</uri></ti>
     <ti align="right">0.0.400</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.0/">0.5.0</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ARTHAS/Catalyst-View-Wkhtmltopdf-0.0004/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.0">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.1/">0.5.1</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ARTHAS/Catalyst-View-Wkhtmltopdf-0.0004/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.1">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Config-GitLike">Config-GitLike</uri></ti>
@@ -389,8 +389,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
     <ti align="right">0.13.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.016/">0.016</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.013/DAGOLDEN/HTTP-Tiny-0.016">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.017/">0.017</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.013/DAGOLDEN/HTTP-Tiny-0.017">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Handel">Handel</uri></ti>
@@ -455,8 +455,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Log-Any-Adapter">Log-Any-Adapter</uri></ti>
     <ti align="right">0.03</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Log-Any-Adapter-0.06/">0.06</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Log-Any-Adapter-0.03/JSWARTZ/Log-Any-Adapter-0.06">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Log-Any-Adapter-0.07/">0.07</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Log-Any-Adapter-0.03/JSWARTZ/Log-Any-Adapter-0.07">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mason">Mason</uri></ti>

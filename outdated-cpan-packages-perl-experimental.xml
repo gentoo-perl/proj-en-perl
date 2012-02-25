@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.716 2012/02/24 11:41:35 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.717 2012/02/25 07:23:18 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-24</date>
+<date>2012-02-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -61,6 +61,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.0.400</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.1/">0.5.1</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/ARTHAS/Catalyst-View-Wkhtmltopdf-0.0004/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-ReadmeFromPod">Dist-Zilla-Plugin-ReadmeFromPod</uri></ti>
+    <ti align="right">0.140.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/FAYLAND/Dist-Zilla-Plugin-ReadmeFromPod-0.16/">0.16</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SSCAFFIDI/Dist-Zilla-Plugin-ReadmeFromPod-0.14/FAYLAND/Dist-Zilla-Plugin-ReadmeFromPod-0.16">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Exporter">Exporter</uri> (virtual/perl-Exporter)</ti>
@@ -167,8 +173,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/HTTP-Exception">HTTP-Exception</uri></ti>
     <ti align="right">0.30.10</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TMUELLER/HTTP-Exception-0.04/">0.04</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TMUELLER/HTTP-Exception-0.03001/TMUELLER/HTTP-Exception-0.04">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TMUELLER/HTTP-Exception-0.04001/">0.04001</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TMUELLER/HTTP-Exception-0.03001/TMUELLER/HTTP-Exception-0.04001">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
@@ -245,8 +251,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mason">Mason</uri></ti>
     <ti align="right">2.140.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Mason-2.15/">2.15</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Mason-2.14/JSWARTZ/Mason-2.15">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Mason-2.16/">2.16</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Mason-2.14/JSWARTZ/Mason-2.16">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Math-Complex">Math-Complex</uri> (virtual/perl-Math-Complex)</ti>
@@ -293,8 +299,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.350.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MRAMBERG/Mojolicious-2.51/">2.51</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/MRAMBERG/Mojolicious-2.51">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/AMS/Mojolicious-2.53/">2.53</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.35/AMS/Mojolicious-2.53">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
@@ -599,7 +605,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 91 of 770
+Total packages suspected as outdated: 92 of 771
 </p>
 
 </body>

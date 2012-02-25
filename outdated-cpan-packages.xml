@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3269 2012/02/25 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3270 2012/02/25 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -95,11 +95,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.31</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=extutils::cbuilder&amp;mode=all">ExtUtils-CBuilder</uri> (virtual/perl-ExtUtils-CBuilder)</ti>
-    <ti align="right">0.280202</ti>
-    <ti align="right">0.280205</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri> (virtual/perl-Filter)</ti>
     <ti align="right">1.4100</ti>
     <ti align="right">1.43</ti>
@@ -150,11 +145,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.21</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">Module-Build</uri> (virtual/perl-Module-Build)</ti>
-    <ti align="right">0.3800</ti>
-    <ti align="right">0.40</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.5700</ti>
     <ti align="right">2.61</ti>
@@ -185,19 +175,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.2030</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::ssleay&amp;mode=all">Net-SSLeay</uri></ti>
-    <ti align="right">1.4200</ti>
-    <ti align="right">1.45</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=netpacket&amp;mode=all">NetPacket</uri></ti>
     <ti align="right">1.30</ti>
     <ti align="right">1.31</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=orlite&amp;mode=all">ORLite</uri></ti>
-    <ti align="right">1.5200</ti>
-    <ti align="right">1.91</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=pango&amp;mode=all">Pango</uri></ti>
@@ -230,11 +210,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.20</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=tie::cache&amp;mode=all">Tie-Cache</uri></ti>
-    <ti align="right">0.1700</ti>
-    <ti align="right">0.19</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=want&amp;mode=all">Want</uri></ti>
     <ti align="right">0.1800</ti>
     <ti align="right">0.20</ti>
@@ -257,7 +232,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 41 of 1170
+Total packages suspected as outdated: 36 of 1170
 </p>
 
 </body>

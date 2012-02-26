@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3271 2012/02/25 17:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3272 2012/02/26 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-25</date>
+<date>2012-02-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -93,11 +93,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=cpan::mini::inject&amp;mode=all">CPAN-Mini-Inject</uri></ti>
     <ti align="right">0.3000</ti>
     <ti align="right">0.31</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbi&amp;mode=all">DBI</uri></ti>
-    <ti align="right">1.6170</ti>
-    <ti align="right">1.618</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri> (virtual/perl-Filter)</ti>
@@ -234,15 +229,10 @@ will curb some of the bugs to boot).
     <ti align="right">1.9100</ti>
     <ti align="right">1.92</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::libxslt&amp;mode=all">XML-LibXSLT</uri></ti>
-    <ti align="right">1.7600</ti>
-    <ti align="right">1.77</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 38 of 1170
+Total packages suspected as outdated: 36 of 1170
 </p>
 
 </body>

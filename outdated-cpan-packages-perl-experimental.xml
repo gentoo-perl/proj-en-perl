@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.717 2012/02/25 07:23:18 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.718 2012/02/26 08:33:34 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-25</date>
+<date>2012-02-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,24 +57,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/CPAN-Reporter-1.2003/DAGOLDEN/CPAN-Reporter-1.2004">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Catalyst-View-Wkhtmltopdf">Catalyst-View-Wkhtmltopdf</uri></ti>
-    <ti align="right">0.0.400</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.1/">0.5.1</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ARTHAS/Catalyst-View-Wkhtmltopdf-0.0004/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.1">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-ReadmeFromPod">Dist-Zilla-Plugin-ReadmeFromPod</uri></ti>
-    <ti align="right">0.140.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/FAYLAND/Dist-Zilla-Plugin-ReadmeFromPod-0.16/">0.16</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SSCAFFIDI/Dist-Zilla-Plugin-ReadmeFromPod-0.14/FAYLAND/Dist-Zilla-Plugin-ReadmeFromPod-0.16">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Exporter">Exporter</uri> (virtual/perl-Exporter)</ti>
-    <ti align="right">5.650.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TODDR/Exporter-5.66/">5.66</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TODDR/Exporter-5.65/TODDR/Exporter-5.66">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/ExtUtils-MakeMaker">ExtUtils-MakeMaker</uri> (virtual/perl-ExtUtils-MakeMaker)</ti>
     <ti align="right">6.571.100_rc</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MSCHWERN/ExtUtils-MakeMaker-6.62/">6.62</uri></ti>
@@ -85,12 +67,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.870.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/SMUELLER/Filter-Simple-0.88/">0.88</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/SMUELLER/Filter-Simple-0.87/SMUELLER/Filter-Simple-0.88">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/FormValidator-Simple">FormValidator-Simple</uri></ti>
-    <ti align="right">0.28</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/LYOKATO/FormValidator-Simple-0.29/">0.29</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/LYOKATO/FormValidator-Simple-0.28/LYOKATO/FormValidator-Simple-0.29">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Gentoo-MirrorList">Gentoo-MirrorList</uri></ti>
@@ -287,8 +263,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Module-Install-ReadmeFromPod">Module-Install-ReadmeFromPod</uri></ti>
     <ti align="right">0.12</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Module-Install-ReadmeFromPod-0.16/">0.16</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Module-Install-ReadmeFromPod-0.12/BINGOS/Module-Install-ReadmeFromPod-0.16">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Module-Install-ReadmeFromPod-0.18/">0.18</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Module-Install-ReadmeFromPod-0.12/BINGOS/Module-Install-ReadmeFromPod-0.18">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MojoMojo">MojoMojo</uri></ti>
@@ -605,7 +581,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 92 of 771
+Total packages suspected as outdated: 88 of 771
 </p>
 
 </body>

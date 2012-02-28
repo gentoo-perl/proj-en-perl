@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3278 2012/02/28 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3279 2012/02/28 17:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=alien::wxwidgets&amp;mode=all">Alien-wxWidgets</uri></ti>
-    <ti align="right">0.5300</ti>
-    <ti align="right">0.55</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
     <ti align="right">0.9000</ti>
     <ti align="right">0.93</ti>
@@ -105,11 +100,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.250</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gstreamer&amp;mode=all">GStreamer</uri></ti>
-    <ti align="right">0.1600</ti>
-    <ti align="right">0.17</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=http::cookies&amp;mode=all">HTTP-Cookies</uri></ti>
     <ti align="right">6.00</ti>
     <ti align="right">6.01</ti>
@@ -138,11 +128,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">3.7100</ti>
     <ti align="right">4.12</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
-    <ti align="right">1.5400</ti>
-    <ti align="right">1.58</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=javascript::spidermonkey&amp;mode=all">JavaScript-SpiderMonkey</uri></ti>
@@ -185,19 +170,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.31</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=orlite&amp;mode=all">ORLite</uri></ti>
-    <ti align="right">1.9100</ti>
-    <ti align="right">1.96</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pango&amp;mode=all">Pango</uri></ti>
     <ti align="right">1.2220</ti>
     <ti align="right">1.223</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perlbal&amp;mode=all">Perlbal</uri></ti>
-    <ti align="right">1.7900</ti>
-    <ti align="right">1.80</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=podparser&amp;mode=all">PodParser</uri> (virtual/perl-PodParser)</ti>
@@ -213,11 +188,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
     <ti align="right">0.400</ti>
     <ti align="right">0.99</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sub::install&amp;mode=all">Sub-Install</uri></ti>
-    <ti align="right">0.9250</ti>
-    <ti align="right">0.926</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
@@ -239,20 +209,10 @@ will curb some of the bugs to boot).
     <ti align="right">1.7100</ti>
     <ti align="right">1.72</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
-    <ti align="right">0.990200</ti>
-    <ti align="right">0.9904</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::libxml&amp;mode=all">XML-LibXML</uri></ti>
-    <ti align="right">1.9100</ti>
-    <ti align="right">1.93</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 40 of 1169
+Total packages suspected as outdated: 32 of 1169
 </p>
 
 </body>

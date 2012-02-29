@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3279 2012/02/28 17:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3280 2012/02/29 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-02-28</date>
+<date>2012-02-29</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,24 +60,9 @@ will curb some of the bugs to boot).
     <ti align="right">5.72</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=bio::graphics&amp;mode=all">Bio-Graphics</uri></ti>
-    <ti align="right">2.2500</ti>
-    <ti align="right">2.26</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=bio::samtools&amp;mode=all">Bio-SamTools</uri></ti>
-    <ti align="right">1.3100</ti>
-    <ti align="right">1.33</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached::fast&amp;mode=all">Cache-Memcached-Fast</uri></ti>
     <ti align="right">0.1700</ti>
     <ti align="right">0.19</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cisco::reconfig&amp;mode=all">Cisco-Reconfig</uri></ti>
-    <ti align="right">0.9000</ti>
-    <ti align="right">0.91</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::meta&amp;mode=all">CPAN-Meta</uri> (virtual/perl-CPAN-Meta)</ti>
@@ -85,44 +70,9 @@ will curb some of the bugs to boot).
     <ti align="right">2.120530</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::mini::inject&amp;mode=all">CPAN-Mini-Inject</uri></ti>
-    <ti align="right">0.3000</ti>
-    <ti align="right">0.31</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri> (virtual/perl-Filter)</ti>
     <ti align="right">1.4100</ti>
     <ti align="right">1.43</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=glib::perl&amp;mode=all">glib-perl</uri></ti>
-    <ti align="right">1.2420</ti>
-    <ti align="right">1.250</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=http::cookies&amp;mode=all">HTTP-Cookies</uri></ti>
-    <ti align="right">6.00</ti>
-    <ti align="right">6.01</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=http::date&amp;mode=all">HTTP-Date</uri></ti>
-    <ti align="right">6.00</ti>
-    <ti align="right">6.01</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=http::negotiate&amp;mode=all">HTTP-Negotiate</uri></ti>
-    <ti align="right">6.00</ti>
-    <ti align="right">6.01</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=imageinfo&amp;mode=all">ImageInfo</uri></ti>
-    <ti align="right">1.3100</ti>
-    <ti align="right">1.32</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=inline::python&amp;mode=all">Inline-Python</uri></ti>
-    <ti align="right">0.3900</ti>
-    <ti align="right">0.40</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
@@ -145,31 +95,6 @@ will curb some of the bugs to boot).
     <ti align="right">4.0</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mogilefs::client::async&amp;mode=all">MogileFS-Client-Async</uri></ti>
-    <ti align="right">0.0150</ti>
-    <ti align="right">0.018</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=namespace::clean&amp;mode=all">namespace-clean</uri></ti>
-    <ti align="right">0.2100</ti>
-    <ti align="right">0.22</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::dns&amp;mode=all">Net-DNS</uri></ti>
-    <ti align="right">0.6600</ti>
-    <ti align="right">0.68</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=net::imap::simple&amp;mode=all">Net-IMAP-Simple</uri></ti>
-    <ti align="right">1.202600</ti>
-    <ti align="right">1.2030</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=netpacket&amp;mode=all">NetPacket</uri></ti>
-    <ti align="right">1.30</ti>
-    <ti align="right">1.31</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=pango&amp;mode=all">Pango</uri></ti>
     <ti align="right">1.2220</ti>
     <ti align="right">1.223</ti>
@@ -178,11 +103,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=podparser&amp;mode=all">PodParser</uri> (virtual/perl-PodParser)</ti>
     <ti align="right">1.3800</ti>
     <ti align="right">1.51</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=poe::api::peek&amp;mode=all">POE-API-Peek</uri></ti>
-    <ti align="right">2.1900</ti>
-    <ti align="right">2.20</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
@@ -194,25 +114,10 @@ will curb some of the bugs to boot).
     <ti align="right">2.1700</ti>
     <ti align="right">3.02</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::sharedfork&amp;mode=all">Test-SharedFork</uri></ti>
-    <ti align="right">0.1900</ti>
-    <ti align="right">0.20</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=want&amp;mode=all">Want</uri></ti>
-    <ti align="right">0.1800</ti>
-    <ti align="right">0.20</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=www::mechanize&amp;mode=all">WWW-Mechanize</uri></ti>
-    <ti align="right">1.7100</ti>
-    <ti align="right">1.72</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 32 of 1169
+Total packages suspected as outdated: 13 of 1170
 </p>
 
 </body>

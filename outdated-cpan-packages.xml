@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3289 2012/03/03 09:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3290 2012/03/04 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-03-03</date>
+<date>2012-03-04</date>
 
 <chapter>
 <title>Intro</title>
@@ -72,12 +72,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=cpan::meta&amp;mode=all">CPAN-Meta</uri> (virtual/perl-CPAN-Meta)</ti>
     <ti align="right">2.120351</ti>
-    <ti align="right">2.120620</ti>
+    <ti align="right">2.120630</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
     <ti align="right">1.4300</ti>
-    <ti align="right">1.44</ti>
+    <ti align="right">1.45</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri> (virtual/perl-Filter)</ti>
@@ -134,10 +134,15 @@ will curb some of the bugs to boot).
     <ti align="right">0.21</ti>
     <ti align="right">0.22</ti>
   </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=xml::libxml&amp;mode=all">XML-LibXML</uri></ti>
+    <ti align="right">1.9300</ti>
+    <ti align="right">1.94</ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 17 of 1170
+Total packages suspected as outdated: 18 of 1170
 </p>
 
 </body>

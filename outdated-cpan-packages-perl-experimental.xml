@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.725 2012/03/05 13:17:25 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.726 2012/03/06 14:18:22 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-03-05</date>
+<date>2012-03-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,6 +75,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Resolver-0.914/RCAPUTO/POE-Component-Resolver-0.916">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Test-Spec">Test-Spec</uri></ti>
+    <ti align="right">0.410.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PHILIP/Test-Spec-0.42/">0.42</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PHILIP/Test-Spec-0.41/PHILIP/Test-Spec-0.42">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Unicode-Collate">Unicode-Collate</uri> (virtual/perl-Unicode-Collate)</ti>
+    <ti align="right">0.870.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SADAHIRO/Unicode-Collate-0.88/">0.88</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SADAHIRO/Unicode-Collate-0.87/SADAHIRO/Unicode-Collate-0.88">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/perl5i">perl5i</uri></ti>
     <ti align="right">2.6.1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MSCHWERN/perl5i-v2.9.1/">v2.9.1</uri></ti>
@@ -83,7 +95,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 783
+Total packages suspected as outdated: 7 of 783
 </p>
 
 </body>

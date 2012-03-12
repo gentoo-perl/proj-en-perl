@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3305 2012/03/12 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3306 2012/03/12 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -58,6 +58,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=autoloader&amp;mode=all">AutoLoader</uri> (virtual/perl-AutoLoader)</ti>
     <ti align="right">5.7100</ti>
     <ti align="right">5.72</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=b::utils&amp;mode=all">B-Utils</uri></ti>
+    <ti align="right">0.1700</ti>
+    <ti align="right">0.19</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=bit::vector&amp;mode=all">Bit-Vector</uri></ti>
@@ -142,7 +147,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 1170
+Total packages suspected as outdated: 19 of 1170
 </p>
 
 </body>

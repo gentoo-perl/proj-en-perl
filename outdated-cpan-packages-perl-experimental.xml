@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.731 2012/03/14 12:22:24 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.732 2012/03/15 16:29:13 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-03-14</date>
+<date>2012-03-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -143,8 +143,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
     <ti align="right">0.360.30</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40002/">0.40002</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.36003/GSHANK/HTML-FormHandler-0.40002">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40003/">0.40003</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.36003/GSHANK/HTML-FormHandler-0.40003">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/IO-Socket-IP">IO-Socket-IP</uri></ti>
@@ -163,6 +163,12 @@ will curb some of the bugs to boot).
     <ti align="right">2.570.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.61/">2.61</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.57/SRI/Mojolicious-2.61">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-App-Cmd">MooseX-App-Cmd</uri></ti>
+    <ti align="right">0.70.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MJGARDNER/MooseX-App-Cmd-0.08/">0.08</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/OFFERK/MooseX-App-Cmd-0.07/MJGARDNER/MooseX-App-Cmd-0.08">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Method-Signatures">MooseX-Method-Signatures</uri></ti>
@@ -245,7 +251,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 32 of 786
+Total packages suspected as outdated: 33 of 786
 </p>
 
 </body>

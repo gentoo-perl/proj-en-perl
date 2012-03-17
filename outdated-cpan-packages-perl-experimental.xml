@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.733 2012/03/16 11:43:00 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.734 2012/03/17 08:51:50 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-03-16</date>
+<date>2012-03-17</date>
 
 <chapter>
 <title>Intro</title>
@@ -153,6 +153,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/LEMBARK/FindBin-libs-1.63/LEMBARK/FindBin-libs-1.64">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Gentoo-Overlay">Gentoo-Overlay</uri></ti>
+    <ti align="right">1.0.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Gentoo-Overlay-1.0.1/">1.0.1</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Gentoo-Overlay-1.0.0/KENTNL/Gentoo-Overlay-1.0.1">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
     <ti align="right">0.360.30</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40003/">0.40003</uri></ti>
@@ -197,8 +203,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/POE-Component-Client-Keepalive">POE-Component-Client-Keepalive</uri></ti>
     <ti align="right">0.268.0-r1</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RCAPUTO/POE-Component-Client-Keepalive-0.269/">0.269</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Client-Keepalive-0.268/RCAPUTO/POE-Component-Client-Keepalive-0.269">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RCAPUTO/POE-Component-Client-Keepalive-0.270/">0.270</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Client-Keepalive-0.268/RCAPUTO/POE-Component-Client-Keepalive-0.270">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/POE-Component-Resolver">POE-Component-Resolver</uri></ti>
@@ -223,6 +229,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.30.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MMCLERIC/Pod-Coverage-Moose-0.04/">0.04</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MMCLERIC/Pod-Coverage-Moose-0.03/MMCLERIC/Pod-Coverage-Moose-0.04">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Pod-Perldoc">Pod-Perldoc</uri> (virtual/perl-Pod-Perldoc)</ti>
+    <ti align="right">3.150.100_rc</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MALLEN/Pod-Perldoc-3.16/">3.16</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FERREIRA/Pod-Perldoc-3.15_01/MALLEN/Pod-Perldoc-3.16">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Regexp-Grammars">Regexp-Grammars</uri></ti>
@@ -263,7 +275,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 35 of 786
+Total packages suspected as outdated: 37 of 786
 </p>
 
 </body>

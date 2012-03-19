@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.735 2012/03/18 06:57:02 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.736 2012/03/19 11:17:07 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-03-18</date>
+<date>2012-03-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -137,8 +137,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Devel-Cover">Devel-Cover</uri></ti>
     <ti align="right">0.790.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.80/">0.80</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.79/PJCJ/Devel-Cover-0.80">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.81/">0.81</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.79/PJCJ/Devel-Cover-0.81">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
@@ -209,8 +209,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-App-Cmd">MooseX-App-Cmd</uri></ti>
     <ti align="right">0.70.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MJGARDNER/MooseX-App-Cmd-0.08/">0.08</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/OFFERK/MooseX-App-Cmd-0.07/MJGARDNER/MooseX-App-Cmd-0.08">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MJGARDNER/MooseX-App-Cmd-0.09/">0.09</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/OFFERK/MooseX-App-Cmd-0.07/MJGARDNER/MooseX-App-Cmd-0.09">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Method-Signatures">MooseX-Method-Signatures</uri></ti>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.736 2012/03/19 11:17:07 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.737 2012/03/20 16:45:38 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-03-19</date>
+<date>2012-03-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -137,8 +137,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Devel-Cover">Devel-Cover</uri></ti>
     <ti align="right">0.790.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.81/">0.81</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.79/PJCJ/Devel-Cover-0.81">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.82/">0.82</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.79/PJCJ/Devel-Cover-0.82">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
@@ -175,6 +175,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.0.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Gentoo-Overlay-1.0.1/">1.0.1</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Gentoo-Overlay-1.0.0/KENTNL/Gentoo-Overlay-1.0.1">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Gitalist">Gitalist</uri></ti>
+    <ti align="right">0.3.8</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BROQ/Gitalist-0.003009/">0.003009</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BROQ/Gitalist-0.003008/BROQ/Gitalist-0.003009">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
@@ -299,7 +305,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 41 of 786
+Total packages suspected as outdated: 42 of 786
 </p>
 
 </body>

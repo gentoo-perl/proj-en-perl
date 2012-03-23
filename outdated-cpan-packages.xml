@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3324 2012/03/23 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3325 2012/03/23 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,6 +75,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.45</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
+    <ti align="right">0.7300</ti>
+    <ti align="right">0.74</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=debug::client&amp;mode=all">Debug-Client</uri></ti>
     <ti align="right">0.1600</ti>
     <ti align="right">0.18</ti>
@@ -130,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.51</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=poe&amp;mode=all">POE</uri></ti>
+    <ti align="right">1.3510</ti>
+    <ti align="right">1.352</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
     <ti align="right">0.400</ti>
     <ti align="right">0.99</ti>
@@ -152,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 1170
+Total packages suspected as outdated: 22 of 1170
 </p>
 
 </body>

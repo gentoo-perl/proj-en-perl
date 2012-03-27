@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3330 2012/03/26 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3331 2012/03/27 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-03-26</date>
+<date>2012-03-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -90,9 +90,19 @@ will curb some of the bugs to boot).
     <ti align="right">0.74</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbix::searchbuilder&amp;mode=all">dbix-searchbuilder</uri></ti>
+    <ti align="right">1.6100</ti>
+    <ti align="right">1.62</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=debug::client&amp;mode=all">Debug-Client</uri></ti>
     <ti align="right">0.1600</ti>
     <ti align="right">0.18</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::valid&amp;mode=all">Email-Valid</uri></ti>
+    <ti align="right">0.1880</ti>
+    <ti align="right">0.189</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::remove&amp;mode=all">File-Remove</uri></ti>
@@ -197,7 +207,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 1170
+Total packages suspected as outdated: 31 of 1170
 </p>
 
 </body>

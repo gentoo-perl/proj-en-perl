@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.741 2012/03/29 13:17:40 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.742 2012/03/30 13:32:45 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-03-29</date>
+<date>2012-03-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,10 +75,28 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/MATTN/Devel-CheckLib-0.97/MATTN/Devel-CheckLib-0.98">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
+    <ti align="right">4.300.10</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300012/">4.300012</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300010/RJBS/Dist-Zilla-4.300012">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-TaskWeaver">Dist-Zilla-Plugin-TaskWeaver</uri></ti>
+    <ti align="right">0.101.621</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-Plugin-TaskWeaver-0.101622/">0.101622</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-Plugin-TaskWeaver-0.101621/RJBS/Dist-Zilla-Plugin-TaskWeaver-0.101622">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
     <ti align="right">0.400.40</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40005/">0.40005</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.40004/GSHANK/HTML-FormHandler-0.40005">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Log-Contextual">Log-Contextual</uri></ti>
+    <ti align="right">0.4.1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/FREW/Log-Contextual-0.004100/">0.004100</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FREW/Log-Contextual-0.004001/FREW/Log-Contextual-0.004100">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mason">Mason</uri></ti>
@@ -91,6 +109,12 @@ will curb some of the bugs to boot).
     <ti align="right">2.680.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.69/">2.69</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.68/SRI/Mojolicious-2.69">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
+    <ti align="right">1.210.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MADCAT/Mojolicious-Plugin-Authentication-1.22/">1.22</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MADCAT/Mojolicious-Plugin-Authentication-1.21/MADCAT/Mojolicious-Plugin-Authentication-1.22">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Pod-Perldoc">Pod-Perldoc</uri> (virtual/perl-Pod-Perldoc)</ti>
@@ -125,7 +149,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 789
+Total packages suspected as outdated: 16 of 789
 </p>
 
 </body>

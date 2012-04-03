@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3344 2012/04/02 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3345 2012/04/03 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-02</date>
+<date>2012-04-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -70,11 +70,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.28</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=cpan::meta&amp;mode=all">CPAN-Meta</uri> (virtual/perl-CPAN-Meta)</ti>
-    <ti align="right">2.120900</ti>
-    <ti align="right">2.120921</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::dump::streamer&amp;mode=all">Data-Dump-Streamer</uri></ti>
     <ti align="right">2.3200</ti>
     <ti align="right">2.33</ti>
@@ -83,6 +78,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
     <ti align="right">0.7300</ti>
     <ti align="right">0.74</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
+    <ti align="right">1.4500</ti>
+    <ti align="right">1.46</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=debug::client&amp;mode=all">Debug-Client</uri></ti>
@@ -140,6 +140,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.23</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::ssleay&amp;mode=all">Net-SSLeay</uri></ti>
+    <ti align="right">1.4500</ti>
+    <ti align="right">1.46</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=podparser&amp;mode=all">PodParser</uri> (virtual/perl-PodParser)</ti>
     <ti align="right">1.3800</ti>
     <ti align="right">1.51</ti>
@@ -177,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 1171
+Total packages suspected as outdated: 26 of 1172
 </p>
 
 </body>

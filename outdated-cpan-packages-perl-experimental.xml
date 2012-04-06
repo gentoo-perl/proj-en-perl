@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.747 2012/04/05 15:45:44 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.748 2012/04/06 08:33:42 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-05</date>
+<date>2012-04-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -81,6 +81,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Plugin-Session-0.33/BOBTFISH/Catalyst-Plugin-Session-0.34">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Session-Store-Memcached">Catalyst-Plugin-Session-Store-Memcached</uri></ti>
+    <ti align="right">0.40.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Session-Store-Memcached-0.05/">0.05</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FLORA/Catalyst-Plugin-Session-Store-Memcached-0.04/BOBTFISH/Catalyst-Plugin-Session-Store-Memcached-0.05">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
     <ti align="right">5.900.100</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90011/">5.90011</uri></ti>
@@ -119,8 +125,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
     <ti align="right">4.300.10</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300013/">4.300013</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300010/RJBS/Dist-Zilla-4.300013">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300014/">4.300014</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300010/RJBS/Dist-Zilla-4.300014">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
+    <ti align="right">1.120.860</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Dist-Zilla-Plugin-Git-1.120970/">1.120970</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.120860/JQUELIN/Dist-Zilla-Plugin-Git-1.120970">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-TaskWeaver">Dist-Zilla-Plugin-TaskWeaver</uri></ti>
@@ -215,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 27 of 789
+Total packages suspected as outdated: 29 of 789
 </p>
 
 </body>

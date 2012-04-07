@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.748 2012/04/06 08:33:42 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.749 2012/04/07 08:24:44 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-06</date>
+<date>2012-04-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,82 +51,10 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://metacpan.org/release/App-cpanminus">App-cpanminus</uri></ti>
-    <ti align="right">1.500.800</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/App-cpanminus-1.5010/">1.5010</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/App-cpanminus-1.5008/MIYAGAWA/App-cpanminus-1.5010">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Audio-MPD-Common">Audio-MPD-Common</uri></ti>
-    <ti align="right">1.120.610</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Audio-MPD-Common-1.120881/">1.120881</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Audio-MPD-Common-1.120610/JQUELIN/Audio-MPD-Common-1.120881">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Cache-Memcached-Managed">Cache-Memcached-Managed</uri></ti>
-    <ti align="right">0.200.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ELIZABETH/Cache-Memcached-Managed-0.21/">0.21</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ELIZABETH/Cache-Memcached-Managed-0.20/ELIZABETH/Cache-Memcached-Managed-0.21">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Catalyst-Model-DBI">Catalyst-Model-DBI</uri></ti>
-    <ti align="right">0.28</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ALEXP/Catalyst-Model-DBI-0.29/">0.29</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ALEXP/Catalyst-Model-DBI-0.28/ALEXP/Catalyst-Model-DBI-0.29">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Session">Catalyst-Plugin-Session</uri></ti>
-    <ti align="right">0.330.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Session-0.34/">0.34</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Plugin-Session-0.33/BOBTFISH/Catalyst-Plugin-Session-0.34">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Session-Store-Memcached">Catalyst-Plugin-Session-Store-Memcached</uri></ti>
-    <ti align="right">0.40.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Session-Store-Memcached-0.05/">0.05</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/FLORA/Catalyst-Plugin-Session-Store-Memcached-0.04/BOBTFISH/Catalyst-Plugin-Session-Store-Memcached-0.05">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
-    <ti align="right">5.900.100</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90011/">5.90011</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MSTROUT/Catalyst-Runtime-5.90010/BOBTFISH/Catalyst-Runtime-5.90011">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
-    <ti align="right">0.70.170</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/DBIx-Class-Schema-Loader-0.07021/">0.07021</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07017/RKITOVER/DBIx-Class-Schema-Loader-0.07021">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dancer">Dancer</uri></ti>
-    <ti align="right">1.309.300</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/Dancer-1.3095/">1.3095</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/Dancer-1.3093/XSAWYERX/Dancer-1.3095">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Devel-CheckLib">Devel-CheckLib</uri></ti>
     <ti align="right">0.970.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MATTN/Devel-CheckLib-0.98/">0.98</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MATTN/Devel-CheckLib-0.97/MATTN/Devel-CheckLib-0.98">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Devel-Cover">Devel-Cover</uri></ti>
-    <ti align="right">0.820.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.85/">0.85</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.82/PJCJ/Devel-Cover-0.85">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
-    <ti align="right">0.660.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Devel-PatchPerl-0.68/">0.68</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Devel-PatchPerl-0.66/BINGOS/Devel-PatchPerl-0.68">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
-    <ti align="right">4.300.10</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300014/">4.300014</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300010/RJBS/Dist-Zilla-4.300014">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
@@ -135,99 +63,21 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.120860/JQUELIN/Dist-Zilla-Plugin-Git-1.120970">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-TaskWeaver">Dist-Zilla-Plugin-TaskWeaver</uri></ti>
-    <ti align="right">0.101.621</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-Plugin-TaskWeaver-0.101622/">0.101622</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-Plugin-TaskWeaver-0.101621/RJBS/Dist-Zilla-Plugin-TaskWeaver-0.101622">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/File-Path-Tiny">File-Path-Tiny</uri></ti>
+    <ti align="right">0.200.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DMUEY/File-Path-Tiny-0.3/">0.3</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DMUEY/File-Path-Tiny-0.2/DMUEY/File-Path-Tiny-0.3">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-RJBS">Dist-Zilla-PluginBundle-RJBS</uri></ti>
-    <ti align="right">1.7.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-PluginBundle-RJBS-1.008/">1.008</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-PluginBundle-RJBS-1.007/RJBS/Dist-Zilla-PluginBundle-RJBS-1.008">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
-    <ti align="right">0.400.40</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40005/">0.40005</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.40004/GSHANK/HTML-FormHandler-0.40005">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/HTML-TreeBuilder-LibXML">HTML-TreeBuilder-LibXML</uri></ti>
-    <ti align="right">0.150.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TOKUHIROM/HTML-TreeBuilder-LibXML-0.16/">0.16</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/HTML-TreeBuilder-LibXML-0.15/TOKUHIROM/HTML-TreeBuilder-LibXML-0.16">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Log-Contextual">Log-Contextual</uri></ti>
-    <ti align="right">0.4.1</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/FREW/Log-Contextual-0.004100/">0.004100</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/FREW/Log-Contextual-0.004001/FREW/Log-Contextual-0.004100">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Mason">Mason</uri></ti>
-    <ti align="right">2.160.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Mason-2.17/">2.17</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Mason-2.16/JSWARTZ/Mason-2.17">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/MetaCPAN-API">MetaCPAN-API</uri></ti>
-    <ti align="right">0.420.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/MetaCPAN-API-0.43/">0.43</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/MetaCPAN-API-0.42/XSAWYERX/MetaCPAN-API-0.43">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
-    <ti align="right">2.680.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.76/">2.76</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.68/SRI/Mojolicious-2.76">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
-    <ti align="right">1.210.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MADCAT/Mojolicious-Plugin-Authentication-1.22/">1.22</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MADCAT/Mojolicious-Plugin-Authentication-1.21/MADCAT/Mojolicious-Plugin-Authentication-1.22">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Pod-Perldoc">Pod-Perldoc</uri> (virtual/perl-Pod-Perldoc)</ti>
-    <ti align="right">3.150.100_rc</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MALLEN/Pod-Perldoc-3.17/">3.17</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/FERREIRA/Pod-Perldoc-3.15_01/MALLEN/Pod-Perldoc-3.17">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Socket">Socket</uri> (virtual/perl-Socket)</ti>
-    <ti align="right">1.990.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/Socket-2.001/">2.001</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PEVANS/Socket-1.99/PEVANS/Socket-2.001">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Test-WWW-Mechanize-Catalyst">Test-WWW-Mechanize-Catalyst</uri></ti>
-    <ti align="right">0.560.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/EDENC/Test-WWW-Mechanize-Catalyst-0.57/">0.57</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/EDENC/Test-WWW-Mechanize-Catalyst-0.56/EDENC/Test-WWW-Mechanize-Catalyst-0.57">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Unicode-Collate">Unicode-Collate</uri> (virtual/perl-Unicode-Collate)</ti>
-    <ti align="right">0.870.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SADAHIRO/Unicode-Collate-0.89/">0.89</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SADAHIRO/Unicode-Collate-0.87/SADAHIRO/Unicode-Collate-0.89">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Unicode-Normalize">Unicode-Normalize</uri> (virtual/perl-Unicode-Normalize)</ti>
-    <ti align="right">1.130.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SADAHIRO/Unicode-Normalize-1.14/">1.14</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SADAHIRO/Unicode-Normalize-1.13/SADAHIRO/Unicode-Normalize-1.14">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/perl5i">perl5i</uri></ti>
-    <ti align="right">2.6.1</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MSCHWERN/perl5i-v2.9.1/">v2.9.1</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MSCHWERN/perl5i-v2.6.1/MSCHWERN/perl5i-v2.9.1">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/MooseX-AttributeShortcuts">MooseX-AttributeShortcuts</uri></ti>
+    <ti align="right">0.8.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RSRCHBOY/MooseX-AttributeShortcuts-0.010/">0.010</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RSRCHBOY/MooseX-AttributeShortcuts-0.008/RSRCHBOY/MooseX-AttributeShortcuts-0.010">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 789
+Total packages suspected as outdated: 4 of 791
 </p>
 
 </body>

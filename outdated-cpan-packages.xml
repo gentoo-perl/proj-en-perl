@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3355 2012/04/07 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3356 2012/04/07 17:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,11 +75,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.28</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
-    <ti align="right">2.6900</ti>
-    <ti align="right">2.70</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
     <ti align="right">0.7300</ti>
     <ti align="right">0.74</ti>
@@ -103,11 +98,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
     <ti align="right">4.1200</ti>
     <ti align="right">4.14</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::socket::ssl&amp;mode=all">IO-Socket-SSL</uri></ti>
-    <ti align="right">1.6200</ti>
-    <ti align="right">1.64</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=javascript::spidermonkey&amp;mode=all">JavaScript-SpiderMonkey</uri></ti>
@@ -184,15 +174,10 @@ will curb some of the bugs to boot).
     <ti align="right">0.2300</ti>
     <ti align="right">0.24</ti>
   </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::feed&amp;mode=all">XML-Feed</uri></ti>
-    <ti align="right">0.4800</ti>
-    <ti align="right">0.49</ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 28 of 1174
+Total packages suspected as outdated: 25 of 1174
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.749 2012/04/07 08:24:44 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.750 2012/04/08 15:48:39 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-07</date>
+<date>2012-04-08</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,33 +51,27 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
+    <ti align="right">0.70.210</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/DBIx-Class-Schema-Loader-0.07022/">0.07022</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07021/RKITOVER/DBIx-Class-Schema-Loader-0.07022">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Devel-CheckLib">Devel-CheckLib</uri></ti>
     <ti align="right">0.970.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MATTN/Devel-CheckLib-0.98/">0.98</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MATTN/Devel-CheckLib-0.97/MATTN/Devel-CheckLib-0.98">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
-    <ti align="right">1.120.860</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Dist-Zilla-Plugin-Git-1.120970/">1.120970</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.120860/JQUELIN/Dist-Zilla-Plugin-Git-1.120970">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/File-Path-Tiny">File-Path-Tiny</uri></ti>
-    <ti align="right">0.200.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DMUEY/File-Path-Tiny-0.3/">0.3</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DMUEY/File-Path-Tiny-0.2/DMUEY/File-Path-Tiny-0.3">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/MooseX-AttributeShortcuts">MooseX-AttributeShortcuts</uri></ti>
-    <ti align="right">0.8.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RSRCHBOY/MooseX-AttributeShortcuts-0.010/">0.010</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RSRCHBOY/MooseX-AttributeShortcuts-0.008/RSRCHBOY/MooseX-AttributeShortcuts-0.010">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/Test-Corpus-Audio-MPD">Test-Corpus-Audio-MPD</uri></ti>
+    <ti align="right">1.113.282</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Test-Corpus-Audio-MPD-1.120990/">1.120990</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Test-Corpus-Audio-MPD-1.113282/JQUELIN/Test-Corpus-Audio-MPD-1.120990">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 791
+Total packages suspected as outdated: 3 of 792
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.751 2012/04/09 06:53:21 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.752 2012/04/10 13:22:30 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-09</date>
+<date>2012-04-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,21 +51,15 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
-    <ti align="right">0.70.210</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/DBIx-Class-Schema-Loader-0.07022/">0.07022</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07021/RKITOVER/DBIx-Class-Schema-Loader-0.07022">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Test-Corpus-Audio-MPD">Test-Corpus-Audio-MPD</uri></ti>
-    <ti align="right">1.113.282</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Test-Corpus-Audio-MPD-1.120990/">1.120990</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Test-Corpus-Audio-MPD-1.113282/JQUELIN/Test-Corpus-Audio-MPD-1.120990">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
+    <ti align="right">2.780.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.79/">2.79</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.78/SRI/Mojolicious-2.79">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 2 of 789
+Total packages suspected as outdated: 1 of 789
 </p>
 
 </body>

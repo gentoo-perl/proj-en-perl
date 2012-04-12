@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.753 2012/04/11 13:30:26 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.754 2012/04/12 13:29:41 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-11</date>
+<date>2012-04-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,39 +51,15 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://metacpan.org/release/CPAN-Reporter">CPAN-Reporter</uri></ti>
-    <ti align="right">1.200.500</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/CPAN-Reporter-1.2006/">1.2006</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/CPAN-Reporter-1.2005/DAGOLDEN/CPAN-Reporter-1.2006">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Catalyst-View-TT">Catalyst-View-TT</uri></ti>
-    <ti align="right">0.380.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-View-TT-0.39/">0.39</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-View-TT-0.38/BOBTFISH/Catalyst-View-TT-0.39">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
-    <ti align="right">1.120.970</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SSCAFFIDI/Dist-Zilla-Plugin-Git-1.121010/">1.121010</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.120970/SSCAFFIDI/Dist-Zilla-Plugin-Git-1.121010">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
-    <ti align="right">0.400.50</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40006/">0.40006</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.40005/GSHANK/HTML-FormHandler-0.40006">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
-    <ti align="right">2.780.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.80/">2.80</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.78/SRI/Mojolicious-2.80">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
+    <ti align="right">1.3.1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.4.0/">1.4.0</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.3.1/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.4.0">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 789
+Total packages suspected as outdated: 1 of 789
 </p>
 
 </body>

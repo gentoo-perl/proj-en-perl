@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3364 2012/04/13 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3365 2012/04/14 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-13</date>
+<date>2012-04-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -180,6 +180,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.24</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::www::mechanize&amp;mode=all">Test-WWW-Mechanize</uri></ti>
+    <ti align="right">1.3800</ti>
+    <ti align="right">1.40</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::dt&amp;mode=all">XML-DT</uri></ti>
     <ti align="right">0.5700</ti>
     <ti align="right">0.58</ti>
@@ -187,7 +192,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 27 of 1180
+Total packages suspected as outdated: 28 of 1180
 </p>
 
 </body>

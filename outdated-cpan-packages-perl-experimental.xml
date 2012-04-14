@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.755 2012/04/13 14:16:55 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.756 2012/04/14 06:15:37 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-13</date>
+<date>2012-04-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -69,6 +69,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-PluginBundle-RJBS-1.008/RJBS/Dist-Zilla-PluginBundle-RJBS-1.009">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/File-ChangeNotify">File-ChangeNotify</uri></ti>
+    <ti align="right">0.210.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DROLSKY/File-ChangeNotify-0.22/">0.22</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DROLSKY/File-ChangeNotify-0.21/DROLSKY/File-ChangeNotify-0.22">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/File-Fetch">File-Fetch</uri> (virtual/perl-File-Fetch)</ti>
     <ti align="right">0.320.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/File-Fetch-0.34/">0.34</uri></ti>
@@ -77,7 +83,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 789
+Total packages suspected as outdated: 5 of 789
 </p>
 
 </body>

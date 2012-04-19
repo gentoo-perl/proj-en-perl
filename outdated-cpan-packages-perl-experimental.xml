@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.760 2012/04/18 11:44:39 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.761 2012/04/19 15:14:41 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-18</date>
+<date>2012-04-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,15 +57,27 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/File-Fetch-0.32/BINGOS/File-Fetch-0.34">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Net-LDAP-Server-Test">Net-LDAP-Server-Test</uri></ti>
-    <ti align="right">0.120.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KARMAN/Net-LDAP-Server-Test-0.13/">0.13</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KARMAN/Net-LDAP-Server-Test-0.12/KARMAN/Net-LDAP-Server-Test-0.13">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
+    <ti align="right">0.17.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.018/">0.018</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.017/DAGOLDEN/HTTP-Tiny-0.018">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
+    <ti align="right">2.820.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.84/">2.84</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.82/SRI/Mojolicious-2.84">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Test-CPAN-Meta">Test-CPAN-Meta</uri></ti>
+    <ti align="right">0.200.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BARBIE/Test-CPAN-Meta-0.21/">0.21</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BARBIE/Test-CPAN-Meta-0.20/BARBIE/Test-CPAN-Meta-0.21">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 2 of 789
+Total packages suspected as outdated: 4 of 789
 </p>
 
 </body>

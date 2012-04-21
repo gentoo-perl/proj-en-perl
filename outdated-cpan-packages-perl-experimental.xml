@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.762 2012/04/20 09:41:31 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.763 2012/04/21 05:46:55 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-20</date>
+<date>2012-04-21</date>
 
 <chapter>
 <title>Intro</title>
@@ -63,27 +63,15 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.017/DAGOLDEN/HTTP-Tiny-0.018">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
-    <ti align="right">2.820.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.85/">2.85</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.82/SRI/Mojolicious-2.85">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Test-CPAN-Meta">Test-CPAN-Meta</uri></ti>
-    <ti align="right">0.200.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BARBIE/Test-CPAN-Meta-0.21/">0.21</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BARBIE/Test-CPAN-Meta-0.20/BARBIE/Test-CPAN-Meta-0.21">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Test-CPAN-Meta-YAML">Test-CPAN-Meta-YAML</uri></ti>
-    <ti align="right">0.190.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BARBIE/Test-CPAN-Meta-YAML-0.20/">0.20</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BARBIE/Test-CPAN-Meta-YAML-0.19/BARBIE/Test-CPAN-Meta-YAML-0.20">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/Pod-Coverage-TrustPod">Pod-Coverage-TrustPod</uri></ti>
+    <ti align="right">0.100.1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Pod-Coverage-TrustPod-0.100002/">0.100002</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Pod-Coverage-TrustPod-0.100001/RJBS/Pod-Coverage-TrustPod-0.100002">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 789
+Total packages suspected as outdated: 3 of 789
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3370 2012/04/21 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3371 2012/04/21 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -80,29 +80,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.19</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
-    <ti align="right">0.7300</ti>
-    <ti align="right">0.74</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=debug::client&amp;mode=all">Debug-Client</uri></ti>
     <ti align="right">0.1600</ti>
     <ti align="right">0.20</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::remove&amp;mode=all">File-Remove</uri></ti>
-    <ti align="right">1.5100</ti>
-    <ti align="right">1.52</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri> (virtual/perl-Filter)</ti>
     <ti align="right">1.4100</ti>
     <ti align="right">1.43</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::aio&amp;mode=all">IO-AIO</uri></ti>
-    <ti align="right">4.1200</ti>
-    <ti align="right">4.15</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=javascript::spidermonkey&amp;mode=all">JavaScript-SpiderMonkey</uri></ti>
@@ -118,21 +103,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=module::pluggable&amp;mode=all">Module-Pluggable</uri> (virtual/perl-Module-Pluggable)</ti>
     <ti align="right">3.9000</ti>
     <ti align="right">4.0</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mogilefs::client&amp;mode=all">MogileFS-Client</uri></ti>
-    <ti align="right">1.1500</ti>
-    <ti align="right">1.16</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mogilefs::client::async&amp;mode=all">MogileFS-Client-Async</uri></ti>
-    <ti align="right">0.0180</ti>
-    <ti align="right">0.022</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mogilefs::utils&amp;mode=all">MogileFS-Utils</uri></ti>
-    <ti align="right">2.2200</ti>
-    <ti align="right">2.23</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=namespace::clean&amp;mode=all">namespace-clean</uri></ti>
@@ -182,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 1181
+Total packages suspected as outdated: 20 of 1181
 </p>
 
 </body>

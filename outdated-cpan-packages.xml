@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3373 2012/04/22 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3374 2012/04/24 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-22</date>
+<date>2012-04-24</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,11 +60,6 @@ will curb some of the bugs to boot).
     <ti align="right">7.0</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=anyevent::http&amp;mode=all">AnyEvent-HTTP</uri></ti>
-    <ti align="right">2.1300</ti>
-    <ti align="right">2.14</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
     <ti align="right">0.9000</ti>
     <ti align="right">0.93</ti>
@@ -93,6 +88,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=data::stream::bulk&amp;mode=all">Data-Stream-Bulk</uri></ti>
     <ti align="right">0.1000</ti>
     <ti align="right">0.11</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=dbi&amp;mode=all">DBI</uri></ti>
+    <ti align="right">1.6180</ti>
+    <ti align="right">1.619</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=debug::client&amp;mode=all">Debug-Client</uri></ti>

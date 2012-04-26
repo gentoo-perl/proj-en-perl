@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.767 2012/04/25 11:46:45 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.768 2012/04/26 13:00:34 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-25</date>
+<date>2012-04-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,6 +75,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300014/RJBS/Dist-Zilla-4.300015">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-TaskWeaver">Dist-Zilla-Plugin-TaskWeaver</uri></ti>
+    <ti align="right">0.101.622</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-Plugin-TaskWeaver-0.101624/">0.101624</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-Plugin-TaskWeaver-0.101622/RJBS/Dist-Zilla-Plugin-TaskWeaver-0.101624">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/File-Fetch">File-Fetch</uri> (virtual/perl-File-Fetch)</ti>
     <ti align="right">0.320.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/File-Fetch-0.34/">0.34</uri></ti>
@@ -83,8 +89,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Git-Wrapper">Git-Wrapper</uri></ti>
     <ti align="right">0.17.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GENEHACK/Git-Wrapper-0.018/">0.018</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GENEHACK/Git-Wrapper-0.017/GENEHACK/Git-Wrapper-0.018">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GENEHACK/Git-Wrapper-0.019/">0.019</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GENEHACK/Git-Wrapper-0.017/GENEHACK/Git-Wrapper-0.019">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
@@ -110,10 +116,22 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://metacpan.org/release/ETHER/MooseX-Method-Signatures-0.42/">0.42</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/ETHER/MooseX-Method-Signatures-0.41/ETHER/MooseX-Method-Signatures-0.42">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-POE">MooseX-POE</uri></ti>
+    <ti align="right">0.214.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GETTY/MooseX-POE-0.215/">0.215</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GETTY/MooseX-POE-0.214/GETTY/MooseX-POE-0.215">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Object-Accessor">Object-Accessor</uri> (virtual/perl-Object-Accessor)</ti>
+    <ti align="right">0.420.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Object-Accessor-0.44/">0.44</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Object-Accessor-0.42/BINGOS/Object-Accessor-0.44">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 10 of 788
+Total packages suspected as outdated: 13 of 788
 </p>
 
 </body>

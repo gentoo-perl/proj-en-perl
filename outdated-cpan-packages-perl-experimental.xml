@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.771 2012/04/30 11:43:32 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.772 2012/05/01 10:13:53 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-04-30</date>
+<date>2012-05-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,12 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://metacpan.org/release/CPAN-Changes">CPAN-Changes</uri></ti>
+    <ti align="right">0.180.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BRICAS/CPAN-Changes-0.19/">0.19</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BRICAS/CPAN-Changes-0.18/BRICAS/CPAN-Changes-0.19">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Session">Catalyst-Plugin-Session</uri></ti>
     <ti align="right">0.340.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Session-0.35/">0.35</uri></ti>
@@ -86,10 +92,22 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://metacpan.org/release/TONYC/Imager-0.90/">0.90</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/TONYC/Imager-0.89/TONYC/Imager-0.90">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
+    <ti align="right">2.910.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.92/">2.92</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.91/SRI/Mojolicious-2.92">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Test-Spec">Test-Spec</uri></ti>
+    <ti align="right">0.430.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PHILIP/Test-Spec-0.44/">0.44</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PHILIP/Test-Spec-0.43/PHILIP/Test-Spec-0.44">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 6 of 793
+Total packages suspected as outdated: 9 of 793
 </p>
 
 </body>

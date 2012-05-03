@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.773 2012/05/02 13:08:27 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.774 2012/05/03 14:19:58 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-02</date>
+<date>2012-05-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -93,6 +93,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/TONYC/Imager-0.89/TONYC/Imager-0.90">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Mason">Mason</uri></ti>
+    <ti align="right">2.180.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Mason-2.19/">2.19</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Mason-2.18/JSWARTZ/Mason-2.19">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.910.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.92/">2.92</uri></ti>
@@ -113,7 +119,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 10 of 793
+Total packages suspected as outdated: 11 of 793
 </p>
 
 </body>

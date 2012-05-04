@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.774 2012/05/03 14:19:58 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.775 2012/05/04 13:33:34 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-03</date>
+<date>2012-05-04</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,6 +57,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BRICAS/CPAN-Changes-0.18/BRICAS/CPAN-Changes-0.19">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Manual">Catalyst-Manual</uri></ti>
+    <ti align="right">5.900.300</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ZARQUON/Catalyst-Manual-5.9004/">5.9004</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Manual-5.9003/ZARQUON/Catalyst-Manual-5.9004">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Session">Catalyst-Plugin-Session</uri></ti>
     <ti align="right">0.340.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Session-0.35/">0.35</uri></ti>
@@ -67,6 +73,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.0.9</ti>
     <ti align="right"><uri link="http://metacpan.org/release/DCONWAY/Class-Std-0.011/">0.011</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/DMUEY/Class-Std-0.0.9/DCONWAY/Class-Std-0.011">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-CheckExtraTests">Dist-Zilla-Plugin-CheckExtraTests</uri></ti>
+    <ti align="right">0.4.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/Dist-Zilla-Plugin-CheckExtraTests-0.005/">0.005</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/Dist-Zilla-Plugin-CheckExtraTests-0.004/DAGOLDEN/Dist-Zilla-Plugin-CheckExtraTests-0.005">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Excel-Template">Excel-Template</uri></ti>
@@ -119,7 +131,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 11 of 793
+Total packages suspected as outdated: 13 of 793
 </p>
 
 </body>

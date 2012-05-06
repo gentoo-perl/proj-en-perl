@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.776 2012/05/05 06:47:21 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.777 2012/05/06 08:51:54 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-05</date>
+<date>2012-05-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -69,6 +69,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Manual-5.9003/ZARQUON/Catalyst-Manual-5.9004">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Authentication">Catalyst-Plugin-Authentication</uri></ti>
+    <ti align="right">0.100.190</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Authentication-0.10020/">0.10020</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JJNAPIORK/Catalyst-Plugin-Authentication-0.10019/BOBTFISH/Catalyst-Plugin-Authentication-0.10020">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Session">Catalyst-Plugin-Session</uri></ti>
     <ti align="right">0.340.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Session-0.35/">0.35</uri></ti>
@@ -81,10 +87,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/MSTROUT/Catalyst-Plugin-Static-Simple-0.29/ABRAXXA/Catalyst-Plugin-Static-Simple-0.30">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Unicode-Encoding">Catalyst-Plugin-Unicode-Encoding</uri></ti>
+    <ti align="right">1.500.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.6/">1.6</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.5/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.6">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Class-Std">Class-Std</uri></ti>
     <ti align="right">0.0.9</ti>
     <ti align="right"><uri link="http://metacpan.org/release/DCONWAY/Class-Std-0.011/">0.011</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/DMUEY/Class-Std-0.0.9/DCONWAY/Class-Std-0.011">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
+    <ti align="right">0.70.220</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/DBIx-Class-Schema-Loader-0.07023/">0.07023</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07022/RKITOVER/DBIx-Class-Schema-Loader-0.07023">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
@@ -137,8 +155,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.910.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.92/">2.92</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.91/SRI/Mojolicious-2.92">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.93/">2.93</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.91/SRI/Mojolicious-2.93">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Log-Log4perl">MooseX-Log-Log4perl</uri></ti>
@@ -167,7 +185,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 793
+Total packages suspected as outdated: 22 of 793
 </p>
 
 </body>

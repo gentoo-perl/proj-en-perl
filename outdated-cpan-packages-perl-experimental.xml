@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.778 2012/05/07 11:36:06 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.779 2012/05/08 15:19:01 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-07</date>
+<date>2012-05-08</date>
 
 <chapter>
 <title>Intro</title>
@@ -68,10 +68,22 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.018/">0.018</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.017/DAGOLDEN/HTTP-Tiny-0.018">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-Log-Log4perl">MooseX-Log-Log4perl</uri></ti>
+    <ti align="right">0.440.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/LAMMEL/MooseX-Log-Log4perl-0.45/">0.45</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/LAMMEL/MooseX-Log-Log4perl-0.44/LAMMEL/MooseX-Log-Log4perl-0.45">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Test-Spec">Test-Spec</uri></ti>
+    <ti align="right">0.440.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PHILIP/Test-Spec-0.45/">0.45</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PHILIP/Test-Spec-0.44/PHILIP/Test-Spec-0.45">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 3 of 789
+Total packages suspected as outdated: 5 of 789
 </p>
 
 </body>

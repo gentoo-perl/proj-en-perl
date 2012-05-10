@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.780 2012/05/09 13:22:18 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.781 2012/05/10 14:50:20 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-09</date>
+<date>2012-05-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,6 +55,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.340.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Session-0.35/">0.35</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Plugin-Session-0.34/BOBTFISH/Catalyst-Plugin-Session-0.35">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Unicode-Encoding">Catalyst-Plugin-Unicode-Encoding</uri></ti>
+    <ti align="right">1.600.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.7/">1.7</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.6/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.7">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
@@ -93,6 +99,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/PEVANS/IO-Socket-IP-0.09/PEVANS/IO-Socket-IP-0.10">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Lingua-EN-Tagger">Lingua-EN-Tagger</uri></ti>
+    <ti align="right">0.160.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ACOBURN/Lingua-EN-Tagger-0.17/">0.17</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ACOBURN/Lingua-EN-Tagger-0.16/ACOBURN/Lingua-EN-Tagger-0.17">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
+    <ti align="right">2.930.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.94/">2.94</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.93/SRI/Mojolicious-2.94">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Log-Log4perl">MooseX-Log-Log4perl</uri></ti>
     <ti align="right">0.440.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/LAMMEL/MooseX-Log-Log4perl-0.45/">0.45</uri></ti>
@@ -107,7 +125,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 9 of 789
+Total packages suspected as outdated: 12 of 789
 </p>
 
 </body>

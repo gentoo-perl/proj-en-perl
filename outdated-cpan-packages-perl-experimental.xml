@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.783 2012/05/12 06:21:25 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.784 2012/05/13 06:57:49 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-12</date>
+<date>2012-05-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -159,6 +159,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/DLAMBLEY/MooseX-Types-ISO8601-0.10/DLAMBLEY/MooseX-Types-ISO8601-0.11">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Plack-Middleware-ReverseProxy">Plack-Middleware-ReverseProxy</uri></ti>
+    <ti align="right">0.110.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Plack-Middleware-ReverseProxy-0.12/">0.12</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DANJOU/Plack-Middleware-ReverseProxy-0.11/MIYAGAWA/Plack-Middleware-ReverseProxy-0.12">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Test-Spec">Test-Spec</uri></ti>
     <ti align="right">0.440.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/PHILIP/Test-Spec-0.45/">0.45</uri></ti>
@@ -167,7 +173,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 789
+Total packages suspected as outdated: 20 of 789
 </p>
 
 </body>

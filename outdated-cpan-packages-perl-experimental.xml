@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.784 2012/05/13 06:57:49 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.785 2012/05/14 14:17:54 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-13</date>
+<date>2012-05-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -125,8 +125,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
     <ti align="right">0.17.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.018/">0.018</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.017/DAGOLDEN/HTTP-Tiny-0.018">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.019/">0.019</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.017/DAGOLDEN/HTTP-Tiny-0.019">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/IO-Socket-IP">IO-Socket-IP</uri></ti>
@@ -161,8 +161,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Plack-Middleware-ReverseProxy">Plack-Middleware-ReverseProxy</uri></ti>
     <ti align="right">0.110.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Plack-Middleware-ReverseProxy-0.12/">0.12</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DANJOU/Plack-Middleware-ReverseProxy-0.11/MIYAGAWA/Plack-Middleware-ReverseProxy-0.12">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Plack-Middleware-ReverseProxy-0.13/">0.13</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DANJOU/Plack-Middleware-ReverseProxy-0.11/MIYAGAWA/Plack-Middleware-ReverseProxy-0.13">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Test-Spec">Test-Spec</uri></ti>

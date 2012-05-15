@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.785 2012/05/14 14:17:54 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.786 2012/05/15 13:23:17 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-14</date>
+<date>2012-05-15</date>
 
 <chapter>
 <title>Intro</title>
@@ -59,8 +59,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/CPAN-Perl-Releases">CPAN-Perl-Releases</uri></ti>
     <ti align="right">0.460.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPAN-Perl-Releases-0.48/">0.48</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPAN-Perl-Releases-0.46/BINGOS/CPAN-Perl-Releases-0.48">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPAN-Perl-Releases-0.50/">0.50</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPAN-Perl-Releases-0.46/BINGOS/CPAN-Perl-Releases-0.50">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Session">Catalyst-Plugin-Session</uri></ti>
@@ -85,6 +85,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.70.230</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/DBIx-Class-Schema-Loader-0.07024/">0.07024</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07023/RKITOVER/DBIx-Class-Schema-Loader-0.07024">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
+    <ti align="right">0.680.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Devel-PatchPerl-0.70/">0.70</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Devel-PatchPerl-0.68/BINGOS/Devel-PatchPerl-0.70">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-App-Command-dumpphases">Dist-Zilla-App-Command-dumpphases</uri></ti>
@@ -119,14 +125,14 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
     <ti align="right">0.400.70</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40008/">0.40008</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.40007/GSHANK/HTML-FormHandler-0.40008">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40009/">0.40009</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.40007/GSHANK/HTML-FormHandler-0.40009">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
     <ti align="right">0.17.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.019/">0.019</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.017/DAGOLDEN/HTTP-Tiny-0.019">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.020/">0.020</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.017/DAGOLDEN/HTTP-Tiny-0.020">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/IO-Socket-IP">IO-Socket-IP</uri></ti>
@@ -159,6 +165,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/DLAMBLEY/MooseX-Types-ISO8601-0.10/DLAMBLEY/MooseX-Types-ISO8601-0.11">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/POE-Component-Client-Keepalive">POE-Component-Client-Keepalive</uri></ti>
+    <ti align="right">0.270.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RCAPUTO/POE-Component-Client-Keepalive-0.271/">0.271</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Client-Keepalive-0.270/RCAPUTO/POE-Component-Client-Keepalive-0.271">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/POE-Component-Resolver">POE-Component-Resolver</uri></ti>
+    <ti align="right">0.916.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RCAPUTO/POE-Component-Resolver-0.917/">0.917</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Resolver-0.916/RCAPUTO/POE-Component-Resolver-0.917">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Plack-Middleware-ReverseProxy">Plack-Middleware-ReverseProxy</uri></ti>
     <ti align="right">0.110.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Plack-Middleware-ReverseProxy-0.13/">0.13</uri></ti>
@@ -173,7 +191,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 789
+Total packages suspected as outdated: 23 of 789
 </p>
 
 </body>

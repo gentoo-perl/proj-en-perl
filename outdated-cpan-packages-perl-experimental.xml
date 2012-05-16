@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.786 2012/05/15 13:23:17 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.787 2012/05/16 13:40:28 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-15</date>
+<date>2012-05-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -59,8 +59,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/CPAN-Perl-Releases">CPAN-Perl-Releases</uri></ti>
     <ti align="right">0.460.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPAN-Perl-Releases-0.50/">0.50</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPAN-Perl-Releases-0.46/BINGOS/CPAN-Perl-Releases-0.50">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPAN-Perl-Releases-0.52/">0.52</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPAN-Perl-Releases-0.46/BINGOS/CPAN-Perl-Releases-0.52">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Session">Catalyst-Plugin-Session</uri></ti>
@@ -131,8 +131,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
     <ti align="right">0.17.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.020/">0.020</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.017/DAGOLDEN/HTTP-Tiny-0.020">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.021/">0.021</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.017/DAGOLDEN/HTTP-Tiny-0.021">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/IO-Socket-IP">IO-Socket-IP</uri></ti>
@@ -173,8 +173,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/POE-Component-Resolver">POE-Component-Resolver</uri></ti>
     <ti align="right">0.916.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RCAPUTO/POE-Component-Resolver-0.917/">0.917</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Resolver-0.916/RCAPUTO/POE-Component-Resolver-0.917">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RCAPUTO/POE-Component-Resolver-0.918/">0.918</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Resolver-0.916/RCAPUTO/POE-Component-Resolver-0.918">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Plack-Middleware-ReverseProxy">Plack-Middleware-ReverseProxy</uri></ti>

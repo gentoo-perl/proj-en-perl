@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3415 2012/05/16 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3416 2012/05/17 17:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-16</date>
+<date>2012-05-17</date>
 
 <chapter>
 <title>Intro</title>
@@ -120,6 +120,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.11011</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sysadm::install&amp;mode=all">Sysadm-Install</uri></ti>
+    <ti align="right">0.3800</ti>
+    <ti align="right">0.39</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.1700</ti>
     <ti align="right">3.02</ti>
@@ -152,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 1186
+Total packages suspected as outdated: 21 of 1189
 </p>
 
 </body>

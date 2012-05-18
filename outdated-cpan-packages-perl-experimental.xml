@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.787 2012/05/16 13:40:28 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.788 2012/05/18 11:45:51 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-16</date>
+<date>2012-05-18</date>
 
 <chapter>
 <title>Intro</title>
@@ -147,6 +147,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/ACOBURN/Lingua-EN-Tagger-0.16/ACOBURN/Lingua-EN-Tagger-0.18">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Method-Signatures">Method-Signatures</uri></ti>
+    <ti align="right">20111125.0.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BAREFOOT/Method-Signatures-20120517/">20120517</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BAREFOOT/Method-Signatures-20111125/BAREFOOT/Method-Signatures-20120517">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.930.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.95/">2.95</uri></ti>
@@ -191,7 +197,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 789
+Total packages suspected as outdated: 24 of 789
 </p>
 
 </body>

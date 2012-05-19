@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.788 2012/05/18 11:45:51 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.789 2012/05/19 07:55:59 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-18</date>
+<date>2012-05-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,6 +57,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/App-cpanminus-1.5011/MIYAGAWA/App-cpanminus-1.5013">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/App-mymeta_requires">App-mymeta_requires</uri></ti>
+    <ti align="right">0.2.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/App-mymeta_requires-0.003/">0.003</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/App-mymeta_requires-0.002/DAGOLDEN/App-mymeta_requires-0.003">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/CPAN-Perl-Releases">CPAN-Perl-Releases</uri></ti>
     <ti align="right">0.460.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPAN-Perl-Releases-0.52/">0.52</uri></ti>
@@ -73,6 +79,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.600.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.7/">1.7</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.6/BOBTFISH/Catalyst-Plugin-Unicode-Encoding-1.7">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
+    <ti align="right">5.900.110</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90012/">5.90012</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90011/BOBTFISH/Catalyst-Runtime-5.90012">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/DBIx-Class-QueryLog">DBIx-Class-QueryLog</uri></ti>
@@ -109,6 +121,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.120.605.10</ti>
     <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-Class-1.14000000/">1.14000000</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-Class-1.12060501/KENTNL/Dist-Zilla-Plugin-MetaProvides-Class-1.14000000">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Twitter">Dist-Zilla-Plugin-Twitter</uri></ti>
+    <ti align="right">0.14.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DOHERTY/Dist-Zilla-Plugin-Twitter-0.016/">0.016</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/Dist-Zilla-Plugin-Twitter-0.014/DOHERTY/Dist-Zilla-Plugin-Twitter-0.016">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-RJBS">Dist-Zilla-PluginBundle-RJBS</uri></ti>
@@ -197,7 +215,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 789
+Total packages suspected as outdated: 27 of 789
 </p>
 
 </body>

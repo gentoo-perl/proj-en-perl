@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.791 2012/05/21 03:35:09 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.792 2012/05/22 03:42:14 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-21</date>
+<date>2012-05-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -105,6 +105,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07023/RKITOVER/DBIx-Class-Schema-Loader-0.07024">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Devel-Cover">Devel-Cover</uri></ti>
+    <ti align="right">0.860.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.87/">0.87</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.86/PJCJ/Devel-Cover-0.87">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
     <ti align="right">0.680.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Devel-PatchPerl-0.70/">0.70</uri></ti>
@@ -147,6 +153,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/File-Fetch-0.32/BINGOS/File-Fetch-0.34">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Glib-Object-Introspection">Glib-Object-Introspection</uri></ti>
+    <ti align="right">0.8.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/XAOC/Glib-Object-Introspection-0.009/">0.009</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/XAOC/Glib-Object-Introspection-0.008/XAOC/Glib-Object-Introspection-0.009">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
     <ti align="right">0.400.70</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40010/">0.40010</uri></ti>
@@ -177,10 +189,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BAREFOOT/Method-Signatures-20111125/BAREFOOT/Method-Signatures-20120517">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Modern-Perl">Modern-Perl</uri></ti>
+    <ti align="right">1.201.201.300</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/CHROMATIC/Modern-Perl-1.20120521/">1.20120521</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/CHROMATIC/Modern-Perl-1.20120130/CHROMATIC/Modern-Perl-1.20120521">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.930.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.95/">2.95</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.93/SRI/Mojolicious-2.95">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.96/">2.96</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.93/SRI/Mojolicious-2.96">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Log-Log4perl">MooseX-Log-Log4perl</uri></ti>
@@ -227,7 +245,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 789
+Total packages suspected as outdated: 32 of 789
 </p>
 
 </body>

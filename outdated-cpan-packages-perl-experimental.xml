@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.795 2012/05/24 16:39:44 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.796 2012/05/26 07:37:41 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-24</date>
+<date>2012-05-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -153,6 +153,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/PEVANS/IO-Socket-IP-0.09/PEVANS/IO-Socket-IP-0.10">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Jemplate">Jemplate</uri></ti>
+    <ti align="right">0.262.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/INGY/Jemplate-0.27/">0.27</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FREW/Jemplate-0.262/INGY/Jemplate-0.27">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Lingua-EN-Tagger">Lingua-EN-Tagger</uri></ti>
     <ti align="right">0.160.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ACOBURN/Lingua-EN-Tagger-0.18/">0.18</uri></ti>
@@ -227,7 +233,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 789
+Total packages suspected as outdated: 30 of 789
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3431 2012/05/25 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3432 2012/05/26 01:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-25</date>
+<date>2012-05-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -97,7 +97,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
     <ti align="right">1.2420</ti>
-    <ti align="right">1.243</ti>
+    <ti align="right">1.244</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=imagesize&amp;mode=all">ImageSize</uri></ti>

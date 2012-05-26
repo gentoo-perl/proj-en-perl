@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3432 2012/05/26 01:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3433 2012/05/26 17:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -60,11 +60,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.97</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=archive::tar&amp;mode=all">Archive-Tar</uri> (virtual/perl-Archive-Tar)</ti>
-    <ti align="right">1.8400</ti>
-    <ti align="right">1.86</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached&amp;mode=all">Cache-Memcached</uri></ti>
     <ti align="right">1.2900</ti>
     <ti align="right">1.30</ti>
@@ -80,11 +75,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.24</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
-    <ti align="right">2.7300</ti>
-    <ti align="right">2.75</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=ev&amp;mode=all">EV</uri></ti>
     <ti align="right">4.1000</ti>
     <ti align="right">4.11</ti>
@@ -95,29 +85,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.43</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
-    <ti align="right">1.2420</ti>
-    <ti align="right">1.244</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=imagesize&amp;mode=all">ImageSize</uri></ti>
-    <ti align="right">3.2300</ti>
-    <ti align="right">3.231</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=javascript::spidermonkey&amp;mode=all">JavaScript-SpiderMonkey</uri></ti>
     <ti align="right">0.2000</ti>
     <ti align="right">0.21</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=log::dispatch&amp;mode=all">log-dispatch</uri></ti>
-    <ti align="right">2.3100</ti>
-    <ti align="right">2.32</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=pod::simple&amp;mode=all">Pod-Simple</uri> (virtual/perl-Pod-Simple)</ti>
-    <ti align="right">3.2000</ti>
-    <ti align="right">3.21</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
@@ -162,7 +132,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 1190
+Total packages suspected as outdated: 16 of 1190
 </p>
 
 </body>

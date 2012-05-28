@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.797 2012/05/27 09:07:06 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.798 2012/05/28 06:36:26 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-27</date>
+<date>2012-05-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,11 +50,22 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
     <th>Diff</th>
   </tr>
-  
+    <tr>
+    <ti><uri link="http://metacpan.org/release/App-perlbrew">App-perlbrew</uri></ti>
+    <ti align="right">0.420.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.43/">0.43</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.42/GUGOD/App-perlbrew-0.43">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Module-CPANTS-Analyse">Module-CPANTS-Analyse</uri></ti>
+    <ti align="right">0.850.0-r1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DAXIM/Module-CPANTS-Analyse-0.86/">0.86</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/CHORNY/Module-CPANTS-Analyse-0.85/DAXIM/Module-CPANTS-Analyse-0.86">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 0 of 791
+Total packages suspected as outdated: 2 of 791
 </p>
 
 </body>

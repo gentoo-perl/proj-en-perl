@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3435 2012/05/27 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3436 2012/05/28 01:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-27</date>
+<date>2012-05-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -90,6 +90,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.21</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mail::sender&amp;mode=all">Mail-Sender</uri></ti>
+    <ti align="right">0.816</ti>
+    <ti align="right">0.821</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::random::mt&amp;mode=all">Math-Random-MT</uri></ti>
     <ti align="right">1.1300</ti>
     <ti align="right">1.14</ti>
@@ -98,6 +103,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.6600</ti>
     <ti align="right">2.67</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=pod::simple&amp;mode=all">Pod-Simple</uri> (virtual/perl-Pod-Simple)</ti>
+    <ti align="right">3.2100</ti>
+    <ti align="right">3.22</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
@@ -142,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 1190
+Total packages suspected as outdated: 20 of 1190
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3440 2012/05/29 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3441 2012/05/30 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-29</date>
+<date>2012-05-30</date>
 
 <chapter>
 <title>Intro</title>
@@ -105,6 +105,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.67</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mogilefs::server&amp;mode=all">mogilefs-server</uri></ti>
+    <ti align="right">2.6200</ti>
+    <ti align="right">2.63</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
     <ti align="right">0.400</ti>
     <ti align="right">0.99</ti>
@@ -152,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 1191
+Total packages suspected as outdated: 21 of 1191
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3442 2012/05/31 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3443 2012/05/31 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -105,6 +105,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.21</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
+    <ti align="right">1.3600</ti>
+    <ti align="right">1.37</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::sender&amp;mode=all">Mail-Sender</uri></ti>
     <ti align="right">0.816</ti>
     <ti align="right">0.821</ti>
@@ -165,6 +170,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.52</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
+    <ti align="right">0.990800</ti>
+    <ti align="right">0.9909</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::dt&amp;mode=all">XML-DT</uri></ti>
     <ti align="right">0.5700</ti>
     <ti align="right">0.58</ti>
@@ -177,7 +187,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 1191
+Total packages suspected as outdated: 27 of 1191
 </p>
 
 </body>

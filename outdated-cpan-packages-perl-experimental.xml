@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.799 2012/05/29 03:31:58 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.800 2012/05/31 03:35:16 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-29</date>
+<date>2012-05-31</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,6 +57,30 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.42/GUGOD/App-perlbrew-0.43">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/CHI">CHI</uri></ti>
+    <ti align="right">0.520.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/CHI-0.54/">0.54</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/CHI-0.52/JSWARTZ/CHI-0.54">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Action-REST">Catalyst-Action-REST</uri></ti>
+    <ti align="right">1.0.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Action-REST-1.01/">1.01</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Action-REST-1.00/BOBTFISH/Catalyst-Action-REST-1.01">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/DBIx-Connector">DBIx-Connector</uri></ti>
+    <ti align="right">0.510.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DWHEELER/DBIx-Connector-0.52/">0.52</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DWHEELER/DBIx-Connector-0.51/DWHEELER/DBIx-Connector-0.52">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-App-Command-cover">Dist-Zilla-App-Command-cover</uri></ti>
+    <ti align="right">1.101.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DOHERTY/Dist-Zilla-App-Command-cover-1.101001/">1.101001</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MARCEL/Dist-Zilla-App-Command-cover-1.101000/DOHERTY/Dist-Zilla-App-Command-cover-1.101001">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Lingua-EN-Tagger">Lingua-EN-Tagger</uri></ti>
     <ti align="right">0.180.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ACOBURN/Lingua-EN-Tagger-0.19/">0.19</uri></ti>
@@ -71,13 +95,25 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.960.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-2.97/">2.97</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.96/SRI/Mojolicious-2.97">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TEMPIRE/Mojolicious-2.98/">2.98</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.96/TEMPIRE/Mojolicious-2.98">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-Daemonize">MooseX-Daemonize</uri></ti>
+    <ti align="right">0.130.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MICHAELR/MooseX-Daemonize-0.14/">0.14</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/STEVAN/MooseX-Daemonize-0.13/MICHAELR/MooseX-Daemonize-0.14">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-MarkAsMethods">MooseX-MarkAsMethods</uri></ti>
+    <ti align="right">0.140.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RSRCHBOY/MooseX-MarkAsMethods-0.15/">0.15</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RSRCHBOY/MooseX-MarkAsMethods-0.14/RSRCHBOY/MooseX-MarkAsMethods-0.15">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 791
+Total packages suspected as outdated: 10 of 791
 </p>
 
 </body>

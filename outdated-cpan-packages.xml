@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3443 2012/05/31 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3444 2012/05/31 17:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -90,6 +90,11 @@ will curb some of the bugs to boot).
     <ti align="right">4.11</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=file::mmagic&amp;mode=all">File-MMagic</uri></ti>
+    <ti align="right">1.2700</ti>
+    <ti align="right">1.28</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri> (virtual/perl-Filter)</ti>
     <ti align="right">1.4100</ti>
     <ti align="right">1.43</ti>
@@ -168,11 +173,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=texttohtml&amp;mode=all">TextToHTML</uri></ti>
     <ti align="right">2.5100</ti>
     <ti align="right">2.52</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=wxperl&amp;mode=all">wxperl</uri></ti>
-    <ti align="right">0.990800</ti>
-    <ti align="right">0.9909</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::dt&amp;mode=all">XML-DT</uri></ti>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3444 2012/05/31 17:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3445 2012/06/01 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-05-31</date>
+<date>2012-06-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -52,7 +52,7 @@ will curb some of the bugs to boot).
     <tr>
     <ti><uri link="http://search.cpan.org/search?query=alien::sdl&amp;mode=all">Alien-SDL</uri></ti>
     <ti align="right">1.430</ti>
-    <ti align="right">1.432</ti>
+    <ti align="right">1.434</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
@@ -100,11 +100,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.43</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=imagesize&amp;mode=all">ImageSize</uri></ti>
-    <ti align="right">3.2310</ti>
-    <ti align="right">3.232</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=javascript::spidermonkey&amp;mode=all">JavaScript-SpiderMonkey</uri></ti>
     <ti align="right">0.2000</ti>
     <ti align="right">0.21</ti>
@@ -132,7 +127,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::server&amp;mode=all">net-server</uri></ti>
     <ti align="right">0.9900</ti>
-    <ti align="right">2.001</ti>
+    <ti align="right">2.002</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=podlators&amp;mode=all">podlators</uri> (virtual/perl-podlators)</ti>
@@ -168,6 +163,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=test::warn&amp;mode=all">Test-Warn</uri></ti>
     <ti align="right">0.2300</ti>
     <ti align="right">0.24</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::www::mechanize&amp;mode=all">Test-WWW-Mechanize</uri></ti>
+    <ti align="right">1.4000</ti>
+    <ti align="right">1.42</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=texttohtml&amp;mode=all">TextToHTML</uri></ti>

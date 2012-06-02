@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3448 2012/06/02 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3449 2012/06/02 17:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=alien::sdl&amp;mode=all">Alien-SDL</uri></ti>
-    <ti align="right">1.430</ti>
-    <ti align="right">1.434</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
     <ti align="right">0.9000</ti>
     <ti align="right">0.93</ti>
@@ -155,14 +150,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.99</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sdl&amp;mode=all">SDL</uri></ti>
-    <ti align="right">2.537</ti>
-    <ti align="right">2.540</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=svg&amp;mode=all">SVG</uri></ti>
     <ti align="right">2.5100</ti>
     <ti align="right">2.52</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sys::virt&amp;mode=all">Sys-Virt</uri></ti>
+    <ti align="right">0.911</ti>
+    <ti align="right">0.912</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
@@ -202,7 +197,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 1191
+Total packages suspected as outdated: 29 of 1191
 </p>
 
 </body>

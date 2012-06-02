@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3447 2012/06/02 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3448 2012/06/02 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -147,7 +147,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=podlators&amp;mode=all">podlators</uri> (virtual/perl-podlators)</ti>
     <ti align="right">2.40</ti>
-    <ti align="right">2.41</ti>
+    <ti align="right">2.42</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>

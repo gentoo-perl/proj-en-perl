@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.801 2012/06/01 04:00:48 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.802 2012/06/02 09:28:38 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-01</date>
+<date>2012-06-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -93,10 +93,28 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/Dist-Zilla-Plugin-CheckExtraTests-0.006/DAGOLDEN/Dist-Zilla-Plugin-CheckExtraTests-0.007">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
+    <ti align="right">0.21.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.022/">0.022</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.021/DAGOLDEN/HTTP-Tiny-0.022">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/IO-Socket-IP">IO-Socket-IP</uri></ti>
+    <ti align="right">0.100.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/IO-Socket-IP-0.11/">0.11</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PEVANS/IO-Socket-IP-0.10/PEVANS/IO-Socket-IP-0.11">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Lingua-EN-Tagger">Lingua-EN-Tagger</uri></ti>
     <ti align="right">0.180.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ACOBURN/Lingua-EN-Tagger-0.19/">0.19</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/ACOBURN/Lingua-EN-Tagger-0.18/ACOBURN/Lingua-EN-Tagger-0.19">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Locale-Codes">Locale-Codes</uri></ti>
+    <ti align="right">3.210.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SBECK/Locale-Codes-3.22/">3.22</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SBECK/Locale-Codes-3.21/SBECK/Locale-Codes-3.22">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Module-CPANTS-Analyse">Module-CPANTS-Analyse</uri></ti>
@@ -123,6 +141,18 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RSRCHBOY/MooseX-MarkAsMethods-0.14/RSRCHBOY/MooseX-MarkAsMethods-0.15">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/POE-Component-Resolver">POE-Component-Resolver</uri></ti>
+    <ti align="right">0.918.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RCAPUTO/POE-Component-Resolver-0.919/">0.919</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Resolver-0.918/RCAPUTO/POE-Component-Resolver-0.919">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Socket-GetAddrInfo">Socket-GetAddrInfo</uri></ti>
+    <ti align="right">0.210.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/Socket-GetAddrInfo-0.22/">0.22</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PEVANS/Socket-GetAddrInfo-0.21/PEVANS/Socket-GetAddrInfo-0.22">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Text-vCard">Text-vCard</uri></ti>
     <ti align="right">2.100</ti>
     <ti align="right"><uri link="http://metacpan.org/release/LLAP/Text-vCard-2.11/">2.11</uri></ti>
@@ -131,7 +161,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 13 of 791
+Total packages suspected as outdated: 18 of 791
 </p>
 
 </body>

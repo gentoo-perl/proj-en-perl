@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3446 2012/06/01 17:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3447 2012/06/02 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-01</date>
+<date>2012-06-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -115,6 +115,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.21</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=lockfile::simple&amp;mode=all">LockFile-Simple</uri></ti>
+    <ti align="right">0.2070</ti>
+    <ti align="right">0.208</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
     <ti align="right">1.3600</ti>
     <ti align="right">1.37</ti>
@@ -197,7 +202,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 1191
+Total packages suspected as outdated: 30 of 1191
 </p>
 
 </body>

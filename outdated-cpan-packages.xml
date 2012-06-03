@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3449 2012/06/02 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3450 2012/06/03 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-02</date>
+<date>2012-06-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -60,11 +60,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.97</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=archive::tar&amp;mode=all">Archive-Tar</uri> (virtual/perl-Archive-Tar)</ti>
-    <ti align="right">1.8600</ti>
-    <ti align="right">1.88</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=cache::memcached&amp;mode=all">Cache-Memcached</uri></ti>
     <ti align="right">1.2900</ti>
     <ti align="right">1.30</ti>
@@ -78,16 +73,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=class::c3&amp;mode=all">Class-C3</uri></ti>
     <ti align="right">0.2300</ti>
     <ti align="right">0.24</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datemanip&amp;mode=all">DateManip</uri></ti>
-    <ti align="right">6.3100</ti>
-    <ti align="right">6.32</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::format::natural&amp;mode=all">DateTime-Format-Natural</uri></ti>
-    <ti align="right">0.9900</ti>
-    <ti align="right">1.00</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ev&amp;mode=all">EV</uri></ti>
@@ -110,16 +95,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.21</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=lockfile::simple&amp;mode=all">LockFile-Simple</uri></ti>
-    <ti align="right">0.2070</ti>
-    <ti align="right">0.208</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=log::log4perl&amp;mode=all">Log-Log4perl</uri></ti>
-    <ti align="right">1.3600</ti>
-    <ti align="right">1.37</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::sender&amp;mode=all">Mail-Sender</uri></ti>
     <ti align="right">0.816</ti>
     <ti align="right">0.821</ti>
@@ -138,11 +113,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=net::server&amp;mode=all">net-server</uri></ti>
     <ti align="right">0.9900</ti>
     <ti align="right">2.002</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=podlators&amp;mode=all">podlators</uri> (virtual/perl-podlators)</ti>
-    <ti align="right">2.40</ti>
-    <ti align="right">2.42</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
@@ -175,11 +145,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.24</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::www::mechanize&amp;mode=all">Test-WWW-Mechanize</uri></ti>
-    <ti align="right">1.4000</ti>
-    <ti align="right">1.42</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=texttohtml&amp;mode=all">TextToHTML</uri></ti>
     <ti align="right">2.5100</ti>
     <ti align="right">2.52</ti>
@@ -197,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 1191
+Total packages suspected as outdated: 22 of 1190
 </p>
 
 </body>

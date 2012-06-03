@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.802 2012/06/02 09:28:38 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.803 2012/06/03 08:01:44 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-02</date>
+<date>2012-06-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -143,8 +143,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/POE-Component-Resolver">POE-Component-Resolver</uri></ti>
     <ti align="right">0.918.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RCAPUTO/POE-Component-Resolver-0.919/">0.919</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Resolver-0.918/RCAPUTO/POE-Component-Resolver-0.919">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RCAPUTO/POE-Component-Resolver-0.920/">0.920</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Resolver-0.918/RCAPUTO/POE-Component-Resolver-0.920">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Socket-GetAddrInfo">Socket-GetAddrInfo</uri></ti>

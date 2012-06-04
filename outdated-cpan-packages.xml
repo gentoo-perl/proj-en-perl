@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3450 2012/06/03 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3451 2012/06/04 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-03</date>
+<date>2012-06-04</date>
 
 <chapter>
 <title>Intro</title>
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=test::harness&amp;mode=all">Test-Harness</uri> (virtual/perl-Test-Harness)</ti>
+    <ti align="right">3.2300</ti>
+    <ti align="right">3.24</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::mockobject&amp;mode=all">Test-MockObject</uri></ti>
     <ti align="right">1.201106120</ti>
     <ti align="right">1.20120301</ti>
@@ -162,7 +167,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 1190
+Total packages suspected as outdated: 23 of 1190
 </p>
 
 </body>

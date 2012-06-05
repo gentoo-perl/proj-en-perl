@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3453 2012/06/05 01:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3454 2012/06/05 17:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -130,6 +130,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.99</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sub::exporter&amp;mode=all">Sub-Exporter</uri></ti>
+    <ti align="right">0.9820</ti>
+    <ti align="right">0.984</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=svg&amp;mode=all">SVG</uri></ti>
     <ti align="right">2.5100</ti>
     <ti align="right">2.52</ti>
@@ -167,7 +172,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::dt&amp;mode=all">XML-DT</uri></ti>
     <ti align="right">0.5700</ti>
-    <ti align="right">0.58</ti>
+    <ti align="right">0.59</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::twig&amp;mode=all">XML-Twig</uri></ti>
@@ -177,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 1190
+Total packages suspected as outdated: 26 of 1190
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.805 2012/06/05 03:52:21 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.806 2012/06/06 03:27:55 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-05</date>
+<date>2012-06-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,8 +65,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Action-REST">Catalyst-Action-REST</uri></ti>
     <ti align="right">1.0.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Action-REST-1.01/">1.01</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Action-REST-1.00/BOBTFISH/Catalyst-Action-REST-1.01">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Action-REST-1.02/">1.02</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Action-REST-1.00/BOBTFISH/Catalyst-Action-REST-1.02">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/DBIx-Connector">DBIx-Connector</uri></ti>
@@ -103,6 +103,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.5.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/TSCH/Gtk3-0.006/">0.006</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/TSCH/Gtk3-0.005/TSCH/Gtk3-0.006">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
+    <ti align="right">0.400.100</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40011/">0.40011</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.40010/GSHANK/HTML-FormHandler-0.40011">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
@@ -179,7 +185,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 790
+Total packages suspected as outdated: 22 of 790
 </p>
 
 </body>

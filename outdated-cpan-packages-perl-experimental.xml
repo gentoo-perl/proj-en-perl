@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.806 2012/06/06 03:27:55 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.807 2012/06/07 05:31:12 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-06</date>
+<date>2012-06-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -171,6 +171,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Resolver-0.918/RCAPUTO/POE-Component-Resolver-0.920">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Socket">Socket</uri> (virtual/perl-Socket)</ti>
+    <ti align="right">2.1.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/Socket-2.002/">2.002</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PEVANS/Socket-2.001/PEVANS/Socket-2.002">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Socket-GetAddrInfo">Socket-GetAddrInfo</uri></ti>
     <ti align="right">0.210.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/PEVANS/Socket-GetAddrInfo-0.22/">0.22</uri></ti>
@@ -185,7 +191,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 790
+Total packages suspected as outdated: 23 of 790
 </p>
 
 </body>

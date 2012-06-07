@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3457 2012/06/07 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3458 2012/06/07 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -85,11 +85,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.34</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=dbi&amp;mode=all">DBI</uri></ti>
-    <ti align="right">1.6210</ti>
-    <ti align="right">1.622</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=ev&amp;mode=all">EV</uri></ti>
     <ti align="right">4.1000</ti>
     <ti align="right">4.11</ti>
@@ -140,16 +135,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.99</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=sub::exporter&amp;mode=all">Sub-Exporter</uri></ti>
-    <ti align="right">0.9820</ti>
-    <ti align="right">0.984</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=svg&amp;mode=all">SVG</uri></ti>
-    <ti align="right">2.5100</ti>
-    <ti align="right">2.52</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sys::virt&amp;mode=all">Sys-Virt</uri></ti>
     <ti align="right">0.911</ti>
     <ti align="right">0.912</ti>
@@ -160,19 +145,9 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::harness&amp;mode=all">Test-Harness</uri> (virtual/perl-Test-Harness)</ti>
-    <ti align="right">3.2300</ti>
-    <ti align="right">3.25</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::mockobject&amp;mode=all">Test-MockObject</uri></ti>
     <ti align="right">1.201106120</ti>
     <ti align="right">1.20120301</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::warn&amp;mode=all">Test-Warn</uri></ti>
-    <ti align="right">0.2300</ti>
-    <ti align="right">0.24</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=texttohtml&amp;mode=all">TextToHTML</uri></ti>
@@ -197,7 +172,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 1190
+Total packages suspected as outdated: 24 of 1190
 </p>
 
 </body>

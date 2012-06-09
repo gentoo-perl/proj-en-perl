@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.807 2012/06/07 05:31:12 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.808 2012/06/09 07:43:28 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-07</date>
+<date>2012-06-09</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,52 +51,10 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://metacpan.org/release/App-perlbrew">App-perlbrew</uri></ti>
-    <ti align="right">0.420.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.43/">0.43</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.42/GUGOD/App-perlbrew-0.43">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/CHI">CHI</uri></ti>
-    <ti align="right">0.520.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/CHI-0.54/">0.54</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/CHI-0.52/JSWARTZ/CHI-0.54">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Catalyst-Action-REST">Catalyst-Action-REST</uri></ti>
-    <ti align="right">1.0.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Action-REST-1.02/">1.02</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Action-REST-1.00/BOBTFISH/Catalyst-Action-REST-1.02">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/DBIx-Connector">DBIx-Connector</uri></ti>
-    <ti align="right">0.510.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DWHEELER/DBIx-Connector-0.52/">0.52</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DWHEELER/DBIx-Connector-0.51/DWHEELER/DBIx-Connector-0.52">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
-    <ti align="right">0.700.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Devel-PatchPerl-0.72/">0.72</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Devel-PatchPerl-0.70/BINGOS/Devel-PatchPerl-0.72">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
-    <ti align="right">4.300.16</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300017/">4.300017</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300016/RJBS/Dist-Zilla-4.300017">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-App-Command-cover">Dist-Zilla-App-Command-cover</uri></ti>
-    <ti align="right">1.101.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DOHERTY/Dist-Zilla-App-Command-cover-1.101001/">1.101001</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MARCEL/Dist-Zilla-App-Command-cover-1.101000/DOHERTY/Dist-Zilla-App-Command-cover-1.101001">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-CheckExtraTests">Dist-Zilla-Plugin-CheckExtraTests</uri></ti>
-    <ti align="right">0.6.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/Dist-Zilla-Plugin-CheckExtraTests-0.007/">0.007</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/Dist-Zilla-Plugin-CheckExtraTests-0.006/DAGOLDEN/Dist-Zilla-Plugin-CheckExtraTests-0.007">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
+    <ti align="right">0.70.240</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/DBIx-Class-Schema-Loader-0.07025/">0.07025</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07024/RKITOVER/DBIx-Class-Schema-Loader-0.07025">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Gtk3">Gtk3</uri></ti>
@@ -171,6 +129,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Resolver-0.918/RCAPUTO/POE-Component-Resolver-0.920">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Pod-Weaver">Pod-Weaver</uri></ti>
+    <ti align="right">3.101.636</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Pod-Weaver-3.101637/">3.101637</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Pod-Weaver-3.101636/RJBS/Pod-Weaver-3.101637">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Socket">Socket</uri> (virtual/perl-Socket)</ti>
     <ti align="right">2.1.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/PEVANS/Socket-2.002/">2.002</uri></ti>
@@ -183,6 +147,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/PEVANS/Socket-GetAddrInfo-0.21/PEVANS/Socket-GetAddrInfo-0.22">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Task-Kensho">Task-Kensho</uri></ti>
+    <ti align="right">0.310.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ETHER/Task-Kensho-0.32/">0.32</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/APEIRON/Task-Kensho-0.31/ETHER/Task-Kensho-0.32">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Text-vCard">Text-vCard</uri></ti>
     <ti align="right">2.100</ti>
     <ti align="right"><uri link="http://metacpan.org/release/LLAP/Text-vCard-2.11/">2.11</uri></ti>
@@ -191,7 +161,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 790
+Total packages suspected as outdated: 18 of 790
 </p>
 
 </body>

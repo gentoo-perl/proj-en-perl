@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3461 2012/06/09 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3462 2012/06/09 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -75,19 +75,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.24</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=convert::asn1&amp;mode=all">Convert-ASN1</uri></ti>
-    <ti align="right">0.2300</ti>
-    <ti align="right">0.24</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::dump::streamer&amp;mode=all">Data-Dump-Streamer</uri></ti>
     <ti align="right">2.3300</ti>
     <ti align="right">2.34</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=digest::md5&amp;mode=all">Digest-MD5</uri> (virtual/perl-Digest-MD5)</ti>
-    <ti align="right">2.5100</ti>
-    <ti align="right">2.52</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=ev&amp;mode=all">EV</uri></ti>
@@ -105,11 +95,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.43</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=gentoo::perlmod::version&amp;mode=all">Gentoo-PerlMod-Version</uri></ti>
-    <ti align="right">0.40</ti>
-    <ti align="right">0.50</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=javascript::spidermonkey&amp;mode=all">JavaScript-SpiderMonkey</uri></ti>
     <ti align="right">0.2000</ti>
     <ti align="right">0.21</ti>
@@ -125,19 +110,9 @@ will curb some of the bugs to boot).
     <ti align="right">1.15</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mime::tools&amp;mode=all">MIME-tools</uri></ti>
-    <ti align="right">5.5020</ti>
-    <ti align="right">5.503</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.6600</ti>
     <ti align="right">2.67</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=mogilefs::server&amp;mode=all">mogilefs-server</uri></ti>
-    <ti align="right">2.6200</ti>
-    <ti align="right">2.63</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::server&amp;mode=all">net-server</uri></ti>
@@ -146,7 +121,7 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
-    <ti align="right">0.400</ti>
+    <ti align="right">0.500</ti>
     <ti align="right">0.99</ti>
   </tr>
   <tr>
@@ -187,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 27 of 1190
+Total packages suspected as outdated: 22 of 1190
 </p>
 
 </body>

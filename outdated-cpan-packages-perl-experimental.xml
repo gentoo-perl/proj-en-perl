@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.808 2012/06/09 07:43:28 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.809 2012/06/10 12:40:39 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-09</date>
+<date>2012-06-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,94 +57,10 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07024/RKITOVER/DBIx-Class-Schema-Loader-0.07025">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Gtk3">Gtk3</uri></ti>
-    <ti align="right">0.5.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TSCH/Gtk3-0.006/">0.006</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TSCH/Gtk3-0.005/TSCH/Gtk3-0.006">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
-    <ti align="right">0.400.100</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40011/">0.40011</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.40010/GSHANK/HTML-FormHandler-0.40011">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/HTTP-Tiny">HTTP-Tiny</uri> (virtual/perl-HTTP-Tiny)</ti>
-    <ti align="right">0.21.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DAGOLDEN/HTTP-Tiny-0.022/">0.022</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DAGOLDEN/HTTP-Tiny-0.021/DAGOLDEN/HTTP-Tiny-0.022">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/IO-Socket-IP">IO-Socket-IP</uri></ti>
-    <ti align="right">0.100.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/IO-Socket-IP-0.11/">0.11</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PEVANS/IO-Socket-IP-0.10/PEVANS/IO-Socket-IP-0.11">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Imager">Imager</uri></ti>
     <ti align="right">0.900.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/TONYC/Imager-0.91/">0.91</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/TONYC/Imager-0.90/TONYC/Imager-0.91">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Lingua-EN-Tagger">Lingua-EN-Tagger</uri></ti>
-    <ti align="right">0.180.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ACOBURN/Lingua-EN-Tagger-0.19/">0.19</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ACOBURN/Lingua-EN-Tagger-0.18/ACOBURN/Lingua-EN-Tagger-0.19">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Locale-Codes">Locale-Codes</uri></ti>
-    <ti align="right">3.210.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SBECK/Locale-Codes-3.22/">3.22</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SBECK/Locale-Codes-3.21/SBECK/Locale-Codes-3.22">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Module-CPANTS-Analyse">Module-CPANTS-Analyse</uri></ti>
-    <ti align="right">0.850.0-r1</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DAXIM/Module-CPANTS-Analyse-0.86/">0.86</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/CHORNY/Module-CPANTS-Analyse-0.85/DAXIM/Module-CPANTS-Analyse-0.86">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
-    <ti align="right">2.960.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TEMPIRE/Mojolicious-2.98/">2.98</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-2.96/TEMPIRE/Mojolicious-2.98">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/MooseX-Daemonize">MooseX-Daemonize</uri></ti>
-    <ti align="right">0.130.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MICHAELR/MooseX-Daemonize-0.15/">0.15</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/STEVAN/MooseX-Daemonize-0.13/MICHAELR/MooseX-Daemonize-0.15">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/MooseX-MarkAsMethods">MooseX-MarkAsMethods</uri></ti>
-    <ti align="right">0.140.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RSRCHBOY/MooseX-MarkAsMethods-0.15/">0.15</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RSRCHBOY/MooseX-MarkAsMethods-0.14/RSRCHBOY/MooseX-MarkAsMethods-0.15">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/POE-Component-Resolver">POE-Component-Resolver</uri></ti>
-    <ti align="right">0.918.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RCAPUTO/POE-Component-Resolver-0.920/">0.920</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RCAPUTO/POE-Component-Resolver-0.918/RCAPUTO/POE-Component-Resolver-0.920">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Pod-Weaver">Pod-Weaver</uri></ti>
-    <ti align="right">3.101.636</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Pod-Weaver-3.101637/">3.101637</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Pod-Weaver-3.101636/RJBS/Pod-Weaver-3.101637">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Socket">Socket</uri> (virtual/perl-Socket)</ti>
-    <ti align="right">2.1.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/Socket-2.002/">2.002</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PEVANS/Socket-2.001/PEVANS/Socket-2.002">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Socket-GetAddrInfo">Socket-GetAddrInfo</uri></ti>
-    <ti align="right">0.210.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/Socket-GetAddrInfo-0.22/">0.22</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PEVANS/Socket-GetAddrInfo-0.21/PEVANS/Socket-GetAddrInfo-0.22">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Task-Kensho">Task-Kensho</uri></ti>
@@ -152,16 +68,10 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://metacpan.org/release/ETHER/Task-Kensho-0.32/">0.32</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/APEIRON/Task-Kensho-0.31/ETHER/Task-Kensho-0.32">Diff</uri></ti>
   </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Text-vCard">Text-vCard</uri></ti>
-    <ti align="right">2.100</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/LLAP/Text-vCard-2.11/">2.11</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/LLAP/Text-vCard-2.10/LLAP/Text-vCard-2.11">Diff</uri></ti>
-  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 18 of 790
+Total packages suspected as outdated: 3 of 790
 </p>
 
 </body>

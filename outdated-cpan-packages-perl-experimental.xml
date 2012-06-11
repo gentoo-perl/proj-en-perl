@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.809 2012/06/10 12:40:39 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.810 2012/06/11 11:21:54 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-10</date>
+<date>2012-06-11</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,6 +57,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RKITOVER/DBIx-Class-Schema-Loader-0.07024/RKITOVER/DBIx-Class-Schema-Loader-0.07025">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/HTML-TreeBuilder-LibXML">HTML-TreeBuilder-LibXML</uri></ti>
+    <ti align="right">0.160.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TOKUHIROM/HTML-TreeBuilder-LibXML-0.17/">0.17</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/HTML-TreeBuilder-LibXML-0.16/TOKUHIROM/HTML-TreeBuilder-LibXML-0.17">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Imager">Imager</uri></ti>
     <ti align="right">0.900.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/TONYC/Imager-0.91/">0.91</uri></ti>
@@ -71,7 +77,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 3 of 790
+Total packages suspected as outdated: 4 of 790
 </p>
 
 </body>

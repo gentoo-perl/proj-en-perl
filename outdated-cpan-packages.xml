@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3466 2012/06/11 17:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3467 2012/06/12 01:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-11</date>
+<date>2012-06-12</date>
 
 <chapter>
 <title>Intro</title>
@@ -80,6 +80,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.34</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime&amp;mode=all">DateTime</uri></ti>
+    <ti align="right">0.7400</ti>
+    <ti align="right">0.75</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=datetime::format::flexible&amp;mode=all">DateTime-Format-Flexible</uri></ti>
     <ti align="right">0.2100</ti>
     <ti align="right">0.22</ti>
@@ -118,6 +123,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.6600</ti>
     <ti align="right">2.67</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moosex::types::datetime::butmaintained&amp;mode=all">MooseX-Types-DateTime-ButMaintained</uri></ti>
+    <ti align="right">0.1400</ti>
+    <ti align="right">0.15</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::server&amp;mode=all">net-server</uri></ti>
@@ -162,7 +172,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 22 of 1190
+Total packages suspected as outdated: 24 of 1190
 </p>
 
 </body>

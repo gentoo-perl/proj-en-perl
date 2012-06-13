@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.810 2012/06/11 11:21:54 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.811 2012/06/13 16:16:24 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-11</date>
+<date>2012-06-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,6 +51,18 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
+    <ti><uri link="http://metacpan.org/release/App-cpanminus">App-cpanminus</uri></ti>
+    <ti align="right">1.501.300</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/App-cpanminus-1.5014/">1.5014</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/App-cpanminus-1.5013/MIYAGAWA/App-cpanminus-1.5014">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Model-DBIC-Schema">Catalyst-Model-DBIC-Schema</uri></ti>
+    <ti align="right">0.590.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.60/">0.60</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.59/RKITOVER/Catalyst-Model-DBIC-Schema-0.60">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
     <ti align="right">0.70.240</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/DBIx-Class-Schema-Loader-0.07025/">0.07025</uri></ti>
@@ -77,7 +89,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 790
+Total packages suspected as outdated: 6 of 790
 </p>
 
 </body>

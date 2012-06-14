@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.811 2012/06/13 16:16:24 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.812 2012/06/14 12:17:47 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-13</date>
+<date>2012-06-14</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,6 +75,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/HTML-TreeBuilder-LibXML-0.16/TOKUHIROM/HTML-TreeBuilder-LibXML-0.17">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/IO-Socket-IP">IO-Socket-IP</uri></ti>
+    <ti align="right">0.110.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PEVANS/IO-Socket-IP-0.12/">0.12</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PEVANS/IO-Socket-IP-0.11/PEVANS/IO-Socket-IP-0.12">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Imager">Imager</uri></ti>
     <ti align="right">0.900.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/TONYC/Imager-0.91/">0.91</uri></ti>
@@ -89,7 +95,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 6 of 790
+Total packages suspected as outdated: 7 of 790
 </p>
 
 </body>

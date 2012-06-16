@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3473 2012/06/16 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3474 2012/06/16 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -150,11 +150,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.005</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=path::class&amp;mode=all">Path-Class</uri></ti>
-    <ti align="right">0.2500</ti>
-    <ti align="right">0.26</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
     <ti align="right">0.500</ti>
     <ti align="right">0.99</ti>
@@ -175,11 +170,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.20120301</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::csv_xs&amp;mode=all">Text-CSV_XS</uri></ti>
-    <ti align="right">0.8800</ti>
-    <ti align="right">0.90</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=texttohtml&amp;mode=all">TextToHTML</uri></ti>
     <ti align="right">2.5100</ti>
     <ti align="right">2.52</ti>
@@ -197,7 +187,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 1190
+Total packages suspected as outdated: 27 of 1190
 </p>
 
 </body>

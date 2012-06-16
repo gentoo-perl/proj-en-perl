@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3474 2012/06/16 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3475 2012/06/16 17:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -78,11 +78,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=class::c3&amp;mode=all">Class-C3</uri></ti>
     <ti align="right">0.2300</ti>
     <ti align="right">0.24</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
-    <ti align="right">2.7500</ti>
-    <ti align="right">2.76</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::dump::streamer&amp;mode=all">Data-Dump-Streamer</uri></ti>
@@ -187,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 27 of 1190
+Total packages suspected as outdated: 26 of 1189
 </p>
 
 </body>

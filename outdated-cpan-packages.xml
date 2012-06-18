@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3477 2012/06/17 17:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3478 2012/06/18 01:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-17</date>
+<date>2012-06-18</date>
 
 <chapter>
 <title>Intro</title>
@@ -95,6 +95,11 @@ will curb some of the bugs to boot).
     <ti align="right">5.00</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=io::socket::ip&amp;mode=all">IO-Socket-IP</uri></ti>
+    <ti align="right">0.1200</ti>
+    <ti align="right">0.13</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=javascript::spidermonkey&amp;mode=all">JavaScript-SpiderMonkey</uri></ti>
     <ti align="right">0.2000</ti>
     <ti align="right">0.21</ti>
@@ -157,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 1201
+Total packages suspected as outdated: 22 of 1201
 </p>
 
 </body>

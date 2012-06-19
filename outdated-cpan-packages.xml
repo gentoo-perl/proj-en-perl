@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3481 2012/06/19 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3482 2012/06/19 17:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,6 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
+    <ti><uri link="http://search.cpan.org/search?query=alien::sdl&amp;mode=all">Alien-SDL</uri></ti>
+    <ti align="right">1.434</ti>
+    <ti align="right">1.436</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
     <ti align="right">0.9000</ti>
     <ti align="right">0.93</ti>
@@ -172,7 +177,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 1201
+Total packages suspected as outdated: 25 of 1201
 </p>
 
 </body>

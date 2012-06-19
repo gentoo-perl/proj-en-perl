@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.814 2012/06/17 07:44:08 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.815 2012/06/19 03:59:54 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-17</date>
+<date>2012-06-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -81,6 +81,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.88/PJCJ/Devel-Cover-0.89">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Metadata">Dist-Metadata</uri></ti>
+    <ti align="right">0.922.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RWSTAUNER/Dist-Metadata-0.923/">0.923</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RWSTAUNER/Dist-Metadata-0.922/RWSTAUNER/Dist-Metadata-0.923">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Test-MinimumVersion">Dist-Zilla-Plugin-Test-MinimumVersion</uri></ti>
     <ti align="right">2.0.1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/DOHERTY/Dist-Zilla-Plugin-Test-MinimumVersion-2.000002/">2.000002</uri></ti>
@@ -131,7 +137,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 13 of 783
+Total packages suspected as outdated: 14 of 782
 </p>
 
 </body>

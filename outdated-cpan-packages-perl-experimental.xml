@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.815 2012/06/19 03:59:54 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.816 2012/06/20 14:29:35 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-19</date>
+<date>2012-06-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -67,6 +67,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.590.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.60/">0.60</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/RKITOVER/Catalyst-Model-DBIC-Schema-0.59/RKITOVER/Catalyst-Model-DBIC-Schema-0.60">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-SubRequest">Catalyst-Plugin-SubRequest</uri></ti>
+    <ti align="right">0.170.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/EDENC/Catalyst-Plugin-SubRequest-0.18/">0.18</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Plugin-SubRequest-0.17/EDENC/Catalyst-Plugin-SubRequest-0.18">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
@@ -137,7 +143,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 14 of 782
+Total packages suspected as outdated: 15 of 782
 </p>
 
 </body>

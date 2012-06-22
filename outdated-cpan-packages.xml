@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3486 2012/06/21 09:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3487 2012/06/22 01:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-21</date>
+<date>2012-06-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -85,9 +85,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.24</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=common::sense&amp;mode=all">common-sense</uri></ti>
-    <ti align="right">3.5000</ti>
-    <ti align="right">3.6</ti>
+    <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
+    <ti align="right">2.7600</ti>
+    <ti align="right">2.77</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::dump::streamer&amp;mode=all">Data-Dump-Streamer</uri></ti>
@@ -155,6 +155,11 @@ will curb some of the bugs to boot).
     <ti align="right">20120619</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
+    <ti align="right">0.998800</ti>
+    <ti align="right">0.9989</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
     <ti align="right">0.500</ti>
     <ti align="right">0.99</ti>
@@ -197,7 +202,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 1201
+Total packages suspected as outdated: 30 of 1201
 </p>
 
 </body>

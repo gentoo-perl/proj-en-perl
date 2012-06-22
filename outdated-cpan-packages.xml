@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3487 2012/06/22 01:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3488 2012/06/22 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -140,6 +140,16 @@ will curb some of the bugs to boot).
     <ti align="right">2.68</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mogilefs::server&amp;mode=all">mogilefs-server</uri></ti>
+    <ti align="right">2.6300</ti>
+    <ti align="right">2.64</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=mogilefs::utils&amp;mode=all">MogileFS-Utils</uri></ti>
+    <ti align="right">2.2300</ti>
+    <ti align="right">2.24</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::datetime::butmaintained&amp;mode=all">MooseX-Types-DateTime-ButMaintained</uri></ti>
     <ti align="right">0.1400</ti>
     <ti align="right">0.15</ti>
@@ -202,7 +212,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 1201
+Total packages suspected as outdated: 32 of 1201
 </p>
 
 </body>

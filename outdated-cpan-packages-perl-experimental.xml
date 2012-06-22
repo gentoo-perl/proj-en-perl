@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.816 2012/06/20 14:29:35 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.817 2012/06/22 17:06:44 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-20</date>
+<date>2012-06-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,10 +57,28 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/App-cpanminus-1.5013/MIYAGAWA/App-cpanminus-1.5014">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/App-cpanoutdated">App-cpanoutdated</uri></ti>
+    <ti align="right">0.200.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TOKUHIROM/App-cpanoutdated-0.23/">0.23</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TOKUHIROM/App-cpanoutdated-0.20/TOKUHIROM/App-cpanoutdated-0.23">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/CPAN-Perl-Releases">CPAN-Perl-Releases</uri></ti>
+    <ti align="right">0.580.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPAN-Perl-Releases-0.60/">0.60</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPAN-Perl-Releases-0.58/BINGOS/CPAN-Perl-Releases-0.60">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/CPANPLUS-Dist-Gentoo">CPANPLUS-Dist-Gentoo</uri></ti>
     <ti align="right">0.11</ti>
     <ti align="right"><uri link="http://metacpan.org/release/VPIT/CPANPLUS-Dist-Gentoo-0.12/">0.12</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/VPIT/CPANPLUS-Dist-Gentoo-0.11/VPIT/CPANPLUS-Dist-Gentoo-0.12">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Log-Log4perl">Catalyst-Log-Log4perl</uri></ti>
+    <ti align="right">1.50.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Log-Log4perl-1.06/">1.06</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Log-Log4perl-1.05/BOBTFISH/Catalyst-Log-Log4perl-1.06">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Model-DBIC-Schema">Catalyst-Model-DBIC-Schema</uri></ti>
@@ -73,6 +91,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.170.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/EDENC/Catalyst-Plugin-SubRequest-0.18/">0.18</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Plugin-SubRequest-0.17/EDENC/Catalyst-Plugin-SubRequest-0.18">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
+    <ti align="right">5.900.120</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JJNAPIORK/Catalyst-Runtime-5.90013/">5.90013</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90012/JJNAPIORK/Catalyst-Runtime-5.90013">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/DBIx-Class-Schema-Loader">DBIx-Class-Schema-Loader</uri></ti>
@@ -93,10 +117,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/RWSTAUNER/Dist-Metadata-0.922/RWSTAUNER/Dist-Metadata-0.923">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla">Dist-Zilla</uri></ti>
+    <ti align="right">4.300.18</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-4.300020/">4.300020</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-4.300018/RJBS/Dist-Zilla-4.300020">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Test-MinimumVersion">Dist-Zilla-Plugin-Test-MinimumVersion</uri></ti>
     <ti align="right">2.0.1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/DOHERTY/Dist-Zilla-Plugin-Test-MinimumVersion-2.000002/">2.000002</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/DOHERTY/Dist-Zilla-Plugin-Test-MinimumVersion-2.0.1/DOHERTY/Dist-Zilla-Plugin-Test-MinimumVersion-2.000002">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Gentoo-Overlay">Gentoo-Overlay</uri></ti>
+    <ti align="right">1.0.1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Gentoo-Overlay-1.0.2/">1.0.2</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Gentoo-Overlay-1.0.1/KENTNL/Gentoo-Overlay-1.0.2">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
@@ -129,6 +165,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/ROKR/Package-Pkg-0.0019/ROKR/Package-Pkg-0.0020">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/String-Diff">String-Diff</uri></ti>
+    <ti align="right">0.04</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/YAPPO/String-Diff-0.05/">0.05</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/YAPPO/String-Diff-0.04/YAPPO/String-Diff-0.05">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Task-Kensho">Task-Kensho</uri></ti>
     <ti align="right">0.310.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ETHER/Task-Kensho-0.32/">0.32</uri></ti>
@@ -143,7 +185,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 15 of 782
+Total packages suspected as outdated: 22 of 783
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.819 2012/06/25 03:46:40 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.820 2012/06/26 11:48:39 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-25</date>
+<date>2012-06-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -63,6 +63,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90012/JJNAPIORK/Catalyst-Runtime-5.90013">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
+    <ti align="right">1.121.750</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JQUELIN/Dist-Zilla-Plugin-Git-1.121770/">1.121770</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.121750/JQUELIN/Dist-Zilla-Plugin-Git-1.121770">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
     <ti align="right">0.400.120</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40013/">0.40013</uri></ti>
@@ -74,10 +80,22 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://metacpan.org/release/TONYC/Imager-0.91/">0.91</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/TONYC/Imager-0.90/TONYC/Imager-0.91">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
+    <ti align="right">2.980.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.0/">3.0</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.0">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Starman">Starman</uri></ti>
+    <ti align="right">0.300.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Starman-0.3001/">0.3001</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/Starman-0.3000/MIYAGAWA/Starman-0.3001">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 4 of 784
+Total packages suspected as outdated: 7 of 784
 </p>
 
 </body>

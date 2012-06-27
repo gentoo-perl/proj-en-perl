@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.820 2012/06/26 11:48:39 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.821 2012/06/27 11:44:36 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-26</date>
+<date>2012-06-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -59,8 +59,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
     <ti align="right">5.900.120</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JJNAPIORK/Catalyst-Runtime-5.90013/">5.90013</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90012/JJNAPIORK/Catalyst-Runtime-5.90013">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JJNAPIORK/Catalyst-Runtime-5.90014/">5.90014</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90012/JJNAPIORK/Catalyst-Runtime-5.90014">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
@@ -92,10 +92,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/Starman-0.3001/">0.3001</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/Starman-0.3000/MIYAGAWA/Starman-0.3001">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/autodie">autodie</uri></ti>
+    <ti align="right">2.110.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PJF/autodie-2.12/">2.12</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PJF/autodie-2.11/PJF/autodie-2.12">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 7 of 784
+Total packages suspected as outdated: 8 of 784
 </p>
 
 </body>

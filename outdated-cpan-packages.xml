@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3493 2012/06/26 17:52:34 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3494 2012/06/27 01:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-26</date>
+<date>2012-06-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -100,11 +100,6 @@ will curb some of the bugs to boot).
     <ti align="right">5.01</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=io::socket::ip&amp;mode=all">IO-Socket-IP</uri></ti>
-    <ti align="right">0.1500</ti>
-    <ti align="right">0.16</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=javascript::spidermonkey&amp;mode=all">JavaScript-SpiderMonkey</uri></ti>
     <ti align="right">0.2000</ti>
     <ti align="right">0.21</ti>
@@ -120,6 +115,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.15</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">Module-Build</uri> (virtual/perl-Module-Build)</ti>
+    <ti align="right">0.4000</ti>
+    <ti align="right">0.4001</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.6600</ti>
     <ti align="right">2.68</ti>
@@ -132,7 +132,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=mogilefs::utils&amp;mode=all">MogileFS-Utils</uri></ti>
     <ti align="right">2.2300</ti>
-    <ti align="right">2.24</ti>
+    <ti align="right">2.25</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::datetime::butmaintained&amp;mode=all">MooseX-Types-DateTime-ButMaintained</uri></ti>
@@ -145,11 +145,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.006</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=padwalker&amp;mode=all">PadWalker</uri></ti>
-    <ti align="right">1.9300</ti>
-    <ti align="right">1.94</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
     <ti align="right">0.500</ti>
     <ti align="right">0.99</ti>
@@ -160,11 +155,6 @@ will curb some of the bugs to boot).
     <ti align="right">3.02</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::class&amp;mode=all">Test-Class</uri></ti>
-    <ti align="right">0.3600</ti>
-    <ti align="right">0.37</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::mockobject&amp;mode=all">Test-MockObject</uri></ti>
     <ti align="right">1.201106120</ti>
     <ti align="right">1.20120301</ti>
@@ -173,11 +163,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=texttohtml&amp;mode=all">TextToHTML</uri></ti>
     <ti align="right">2.5100</ti>
     <ti align="right">2.52</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=variable::magic&amp;mode=all">Variable-Magic</uri></ti>
-    <ti align="right">0.4800</ti>
-    <ti align="right">0.50</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::dt&amp;mode=all">XML-DT</uri></ti>
@@ -197,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 1203
+Total packages suspected as outdated: 26 of 1203
 </p>
 
 </body>

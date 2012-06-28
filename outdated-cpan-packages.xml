@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3495 2012/06/28 01:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3496 2012/06/28 17:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -115,11 +115,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.15</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::build&amp;mode=all">Module-Build</uri> (virtual/perl-Module-Build)</ti>
-    <ti align="right">0.4000</ti>
-    <ti align="right">0.4001</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.6600</ti>
     <ti align="right">2.68</ti>
@@ -165,11 +160,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.52</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=xml::dt&amp;mode=all">XML-DT</uri></ti>
-    <ti align="right">0.5900</ti>
-    <ti align="right">0.62</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::simple&amp;mode=all">XML-Simple</uri></ti>
     <ti align="right">2.1800</ti>
     <ti align="right">2.20</ti>
@@ -182,7 +172,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 1203
+Total packages suspected as outdated: 24 of 1203
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.822 2012/06/28 10:54:55 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.823 2012/06/29 16:51:44 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-28</date>
+<date>2012-06-29</date>
 
 <chapter>
 <title>Intro</title>
@@ -77,14 +77,20 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
     <ti align="right">1.121.750</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-Plugin-Git-1.121800/">1.121800</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.121750/RJBS/Dist-Zilla-Plugin-Git-1.121800">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-Plugin-Git-1.121811/">1.121811</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.121750/RJBS/Dist-Zilla-Plugin-Git-1.121811">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/File-Fetch">File-Fetch</uri> (virtual/perl-File-Fetch)</ti>
+    <ti align="right">0.340.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/File-Fetch-0.36/">0.36</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/File-Fetch-0.34/BINGOS/File-Fetch-0.36">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Git-Wrapper">Git-Wrapper</uri></ti>
     <ti align="right">0.20.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GENEHACK/Git-Wrapper-0.022/">0.022</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GENEHACK/Git-Wrapper-0.020/GENEHACK/Git-Wrapper-0.022">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GENEHACK/Git-Wrapper-0.023/">0.023</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GENEHACK/Git-Wrapper-0.020/GENEHACK/Git-Wrapper-0.023">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
@@ -143,7 +149,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 15 of 784
+Total packages suspected as outdated: 16 of 784
 </p>
 
 </body>

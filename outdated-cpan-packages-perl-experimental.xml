@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.823 2012/06/29 16:51:44 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.824 2012/07/01 11:24:49 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-06-29</date>
+<date>2012-07-01</date>
 
 <chapter>
 <title>Intro</title>
@@ -59,8 +59,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Action-REST">Catalyst-Action-REST</uri></ti>
     <ti align="right">1.20.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Action-REST-1.03/">1.03</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Action-REST-1.02/BOBTFISH/Catalyst-Action-REST-1.03">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Action-REST-1.04/">1.04</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Action-REST-1.02/BOBTFISH/Catalyst-Action-REST-1.04">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Authentication-Credential-HTTP">Catalyst-Authentication-Credential-HTTP</uri></ti>
@@ -69,16 +69,28 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Authentication-Credential-HTTP-1.014/BOBTFISH/Catalyst-Authentication-Credential-HTTP-1.015">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-Authentication">Catalyst-Plugin-Authentication</uri></ti>
+    <ti align="right">0.100.200</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Plugin-Authentication-0.10021/">0.10021</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Plugin-Authentication-0.10020/BOBTFISH/Catalyst-Plugin-Authentication-0.10021">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Runtime">Catalyst-Runtime</uri></ti>
     <ti align="right">5.900.120</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JJNAPIORK/Catalyst-Runtime-5.90014/">5.90014</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90012/JJNAPIORK/Catalyst-Runtime-5.90014">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Runtime-5.90015/">5.90015</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90012/BOBTFISH/Catalyst-Runtime-5.90015">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Color-Calc">Color-Calc</uri></ti>
+    <ti align="right">1.72.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/CFAERBER/Color-Calc-1.073/">1.073</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/CFAERBER/Color-Calc-1.072/CFAERBER/Color-Calc-1.073">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
     <ti align="right">1.121.750</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-Plugin-Git-1.121811/">1.121811</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.121750/RJBS/Dist-Zilla-Plugin-Git-1.121811">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-Plugin-Git-1.121820/">1.121820</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.121750/RJBS/Dist-Zilla-Plugin-Git-1.121820">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/File-Fetch">File-Fetch</uri> (virtual/perl-File-Fetch)</ti>
@@ -107,8 +119,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.0/">3.0</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.0">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.01/">3.01</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.01">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Log-Log4perl">MooseX-Log-Log4perl</uri></ti>
@@ -135,6 +147,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/YAPPO/String-Diff-0.05/YAPPO/String-Diff-0.06">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Test-WWW-Mechanize-Catalyst">Test-WWW-Mechanize-Catalyst</uri></ti>
+    <ti align="right">0.570.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Test-WWW-Mechanize-Catalyst-0.58/">0.58</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/EDENC/Test-WWW-Mechanize-Catalyst-0.57/BOBTFISH/Test-WWW-Mechanize-Catalyst-0.58">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/WWW-Mechanize-Cached">WWW-Mechanize-Cached</uri></ti>
     <ti align="right">1.400.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/OALDERS/WWW-Mechanize-Cached-1.41/">1.41</uri></ti>
@@ -149,7 +167,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 16 of 784
+Total packages suspected as outdated: 19 of 784
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.825 2012/07/02 13:58:57 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.826 2012/07/03 03:31:51 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-02</date>
+<date>2012-07-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -59,8 +59,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Action-REST">Catalyst-Action-REST</uri></ti>
     <ti align="right">1.20.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Action-REST-1.04/">1.04</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Action-REST-1.02/BOBTFISH/Catalyst-Action-REST-1.04">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Action-REST-1.05/">1.05</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Action-REST-1.02/BOBTFISH/Catalyst-Action-REST-1.05">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Authentication-Credential-HTTP">Catalyst-Authentication-Credential-HTTP</uri></ti>
@@ -81,6 +81,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Runtime-5.90012/BOBTFISH/Catalyst-Runtime-5.90015">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/CatalystX-InjectComponent">CatalystX-InjectComponent</uri></ti>
+    <ti align="right">0.024</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ROKR/CatalystX-InjectComponent-0.025/">0.025</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RKRIMEN/CatalystX-InjectComponent-0.024/ROKR/CatalystX-InjectComponent-0.025">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Color-Calc">Color-Calc</uri></ti>
     <ti align="right">1.72.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/CFAERBER/Color-Calc-1.073/">1.073</uri></ti>
@@ -91,6 +97,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.121.750</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-Plugin-Git-1.121820/">1.121820</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.121750/RJBS/Dist-Zilla-Plugin-Git-1.121820">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-ReportVersions-Tiny">Dist-Zilla-Plugin-ReportVersions-Tiny</uri></ti>
+    <ti align="right">1.30.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DOLMEN/Dist-Zilla-Plugin-ReportVersions-Tiny-1.04/">1.04</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DANIELP/Dist-Zilla-Plugin-ReportVersions-Tiny-1.03/DOLMEN/Dist-Zilla-Plugin-ReportVersions-Tiny-1.04">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-RJBS">Dist-Zilla-PluginBundle-RJBS</uri></ti>
@@ -127,6 +139,12 @@ will curb some of the bugs to boot).
     <ti align="right">2.980.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.01/">3.01</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.01">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-LazyRequire">MooseX-LazyRequire</uri></ti>
+    <ti align="right">0.70.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ETHER/MooseX-LazyRequire-0.08/">0.08</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FLORA/MooseX-LazyRequire-0.07/ETHER/MooseX-LazyRequire-0.08">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-Log-Log4perl">MooseX-Log-Log4perl</uri></ti>
@@ -173,7 +191,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 20 of 785
+Total packages suspected as outdated: 23 of 785
 </p>
 
 </body>

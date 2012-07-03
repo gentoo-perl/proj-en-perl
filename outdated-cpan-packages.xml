@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3503 2012/07/03 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3504 2012/07/03 17:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -130,6 +130,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.006</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=net::smtp::tls::butmaintained&amp;mode=all">Net-SMTP-TLS-ButMaintained</uri></ti>
+    <ti align="right">0.1900</ti>
+    <ti align="right">0.20</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=perltidy&amp;mode=all">perltidy</uri></ti>
     <ti align="right">20120619.00</ti>
     <ti align="right">20120701</ti>
@@ -182,7 +187,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 1203
+Total packages suspected as outdated: 27 of 1203
 </p>
 
 </body>

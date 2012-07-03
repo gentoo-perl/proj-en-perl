@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.826 2012/07/03 03:31:51 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.827 2012/07/03 16:39:21 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -141,6 +141,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.01">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
+    <ti align="right">1.220.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MADCAT/Mojolicious-Plugin-Authentication-1.23/">1.23</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MADCAT/Mojolicious-Plugin-Authentication-1.22/MADCAT/Mojolicious-Plugin-Authentication-1.23">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-LazyRequire">MooseX-LazyRequire</uri></ti>
     <ti align="right">0.70.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ETHER/MooseX-LazyRequire-0.08/">0.08</uri></ti>
@@ -191,7 +197,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 23 of 785
+Total packages suspected as outdated: 24 of 785
 </p>
 
 </body>

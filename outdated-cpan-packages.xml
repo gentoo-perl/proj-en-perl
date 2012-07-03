@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3502 2012/07/02 17:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3503 2012/07/03 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-02</date>
+<date>2012-07-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -140,6 +140,11 @@ will curb some of the bugs to boot).
     <ti align="right">0.99</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=sql::translator&amp;mode=all">SQL-Translator</uri></ti>
+    <ti align="right">0.110110</ti>
+    <ti align="right">0.11012</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sys::virt&amp;mode=all">Sys-Virt</uri></ti>
     <ti align="right">0.912</ti>
     <ti align="right">0.913</ti>
@@ -177,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 1203
+Total packages suspected as outdated: 26 of 1203
 </p>
 
 </body>

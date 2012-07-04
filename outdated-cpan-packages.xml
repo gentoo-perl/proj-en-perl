@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3505 2012/07/04 01:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3506 2012/07/04 09:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -63,6 +63,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=apache::sizelimit&amp;mode=all">Apache-SizeLimit</uri></ti>
     <ti align="right">0.9600</ti>
     <ti align="right">0.97</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=chi&amp;mode=all">CHI</uri></ti>
+    <ti align="right">0.5400</ti>
+    <ti align="right">0.55</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::c3&amp;mode=all">Class-C3</uri></ti>
@@ -147,7 +152,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 19 of 1203
+Total packages suspected as outdated: 20 of 1203
 </p>
 
 </body>

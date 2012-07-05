@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.827 2012/07/03 16:39:21 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.828 2012/07/05 14:23:59 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-03</date>
+<date>2012-07-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,6 +55,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.501.400</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/App-cpanminus-1.5015/">1.5015</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/App-cpanminus-1.5014/MIYAGAWA/App-cpanminus-1.5015">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/App-perlbrew">App-perlbrew</uri></ti>
+    <ti align="right">0.430.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.44/">0.44</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.43/GUGOD/App-perlbrew-0.44">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Action-REST">Catalyst-Action-REST</uri></ti>
@@ -123,6 +129,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/GENEHACK/Git-Wrapper-0.020/GENEHACK/Git-Wrapper-0.023">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Glib-Object-Introspection">Glib-Object-Introspection</uri></ti>
+    <ti align="right">0.9.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/XAOC/Glib-Object-Introspection-0.010/">0.010</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/XAOC/Glib-Object-Introspection-0.009/XAOC/Glib-Object-Introspection-0.010">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
     <ti align="right">0.400.120</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40013/">0.40013</uri></ti>
@@ -137,8 +149,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.01/">3.01</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.01">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TEMPIRE/Mojolicious-3.02/">3.02</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/TEMPIRE/Mojolicious-3.02">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
@@ -197,7 +209,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 785
+Total packages suspected as outdated: 26 of 785
 </p>
 
 </body>

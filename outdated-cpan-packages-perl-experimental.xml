@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.828 2012/07/05 14:23:59 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.829 2012/07/06 15:18:05 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-05</date>
+<date>2012-07-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -99,6 +99,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/CFAERBER/Color-Calc-1.072/CFAERBER/Color-Calc-1.073">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dancer">Dancer</uri></ti>
+    <ti align="right">1.309.500</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/Dancer-1.3096/">1.3096</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/Dancer-1.3095/XSAWYERX/Dancer-1.3096">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
     <ti align="right">1.121.750</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-Plugin-Git-1.121820/">1.121820</uri></ti>
@@ -109,6 +115,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.30.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/DOLMEN/Dist-Zilla-Plugin-ReportVersions-Tiny-1.04/">1.04</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/DANIELP/Dist-Zilla-Plugin-ReportVersions-Tiny-1.03/DOLMEN/Dist-Zilla-Plugin-ReportVersions-Tiny-1.04">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Twitter">Dist-Zilla-Plugin-Twitter</uri></ti>
+    <ti align="right">0.16.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DOHERTY/Dist-Zilla-Plugin-Twitter-0.017/">0.017</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DOHERTY/Dist-Zilla-Plugin-Twitter-0.016/DOHERTY/Dist-Zilla-Plugin-Twitter-0.017">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-RJBS">Dist-Zilla-PluginBundle-RJBS</uri></ti>
@@ -133,6 +145,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.9.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/XAOC/Glib-Object-Introspection-0.010/">0.010</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/XAOC/Glib-Object-Introspection-0.009/XAOC/Glib-Object-Introspection-0.010">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Gtk3">Gtk3</uri></ti>
+    <ti align="right">0.6.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/TSCH/Gtk3-0.007/">0.007</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TSCH/Gtk3-0.006/TSCH/Gtk3-0.007">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/HTML-FormHandler">HTML-FormHandler</uri></ti>
@@ -209,7 +227,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 785
+Total packages suspected as outdated: 29 of 785
 </p>
 
 </body>

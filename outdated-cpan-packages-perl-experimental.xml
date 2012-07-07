@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.829 2012/07/06 15:18:05 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.830 2012/07/07 06:55:23 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-06</date>
+<date>2012-07-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -165,10 +165,22 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/TONYC/Imager-0.90/TONYC/Imager-0.91">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/KiokuDB-Backend-DBI">KiokuDB-Backend-DBI</uri></ti>
+    <ti align="right">1.210.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DOY/KiokuDB-Backend-DBI-1.22/">1.22</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DOY/KiokuDB-Backend-DBI-1.21/DOY/KiokuDB-Backend-DBI-1.22">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Lingua-EN-Tagger">Lingua-EN-Tagger</uri></ti>
+    <ti align="right">0.190.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ACOBURN/Lingua-EN-Tagger-0.20/">0.20</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ACOBURN/Lingua-EN-Tagger-0.19/ACOBURN/Lingua-EN-Tagger-0.20">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TEMPIRE/Mojolicious-3.02/">3.02</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/TEMPIRE/Mojolicious-3.02">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.03/">3.03</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.03">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
@@ -227,7 +239,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 785
+Total packages suspected as outdated: 31 of 785
 </p>
 
 </body>

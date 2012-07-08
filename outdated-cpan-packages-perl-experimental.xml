@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.830 2012/07/07 06:55:23 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.831 2012/07/08 16:36:04 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-07</date>
+<date>2012-07-08</date>
 
 <chapter>
 <title>Intro</title>
@@ -123,6 +123,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/DOHERTY/Dist-Zilla-Plugin-Twitter-0.016/DOHERTY/Dist-Zilla-Plugin-Twitter-0.017">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
+    <ti align="right">1.4.1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.4.2/">1.4.2</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.4.1/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.4.2">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-RJBS">Dist-Zilla-PluginBundle-RJBS</uri></ti>
     <ti align="right">1.11.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-PluginBundle-RJBS-1.012/">1.012</uri></ti>
@@ -179,8 +185,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.03/">3.03</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.03">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.05/">3.05</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.05">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
@@ -236,10 +242,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://metacpan.org/release/PJF/autodie-2.12/">2.12</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/PJF/autodie-2.11/PJF/autodie-2.12">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/perl5i">perl5i</uri></ti>
+    <ti align="right">2.9.1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MSCHWERN/perl5i-v2.10.0/">v2.10.0</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MSCHWERN/perl5i-v2.9.1/MSCHWERN/perl5i-v2.10.0">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 31 of 785
+Total packages suspected as outdated: 33 of 785
 </p>
 
 </body>

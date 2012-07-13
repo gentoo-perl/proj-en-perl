@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.832 2012/07/09 17:34:00 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.833 2012/07/13 16:31:22 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-09</date>
+<date>2012-07-13</date>
 
 <chapter>
 <title>Intro</title>
@@ -69,6 +69,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-Action-REST-1.02/BOBTFISH/Catalyst-Action-REST-1.05">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-ActionRole-ACL">Catalyst-ActionRole-ACL</uri></ti>
+    <ti align="right">0.60.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-ActionRole-ACL-0.07/">0.07</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/Catalyst-ActionRole-ACL-0.06/BOBTFISH/Catalyst-ActionRole-ACL-0.07">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Catalyst-Authentication-Credential-HTTP">Catalyst-Authentication-Credential-HTTP</uri></ti>
     <ti align="right">1.14.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Catalyst-Authentication-Credential-HTTP-1.015/">1.015</uri></ti>
@@ -91,6 +97,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.024</ti>
     <ti align="right"><uri link="http://metacpan.org/release/ROKR/CatalystX-InjectComponent-0.025/">0.025</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/RKRIMEN/CatalystX-InjectComponent-0.024/ROKR/CatalystX-InjectComponent-0.025">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/CatalystX-SimpleLogin">CatalystX-SimpleLogin</uri></ti>
+    <ti align="right">0.150.0-r1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/CatalystX-SimpleLogin-0.16/">0.16</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/CatalystX-SimpleLogin-0.15/BOBTFISH/CatalystX-SimpleLogin-0.16">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Color-Calc">Color-Calc</uri></ti>
@@ -183,10 +195,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/ACOBURN/Lingua-EN-Tagger-0.19/ACOBURN/Lingua-EN-Tagger-0.20">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Mason">Mason</uri></ti>
+    <ti align="right">2.190.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Mason-2.20/">2.20</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Mason-2.19/JSWARTZ/Mason-2.20">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.05/">3.05</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.05">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.07/">3.07</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.07">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
@@ -243,6 +261,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/OALDERS/WWW-Mechanize-Cached-1.40/OALDERS/WWW-Mechanize-Cached-1.41">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/autobox-Core">autobox-Core</uri></ti>
+    <ti align="right">1.210.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JARICH/autobox-Core-1.23/">1.23</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MSCHWERN/autobox-Core-1.21/JARICH/autobox-Core-1.23">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/autodie">autodie</uri></ti>
     <ti align="right">2.110.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/PJF/autodie-2.12/">2.12</uri></ti>
@@ -257,7 +281,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 34 of 785
+Total packages suspected as outdated: 38 of 785
 </p>
 
 </body>

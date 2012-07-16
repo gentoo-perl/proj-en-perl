@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3520 2012/07/15 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3521 2012/07/16 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-15</date>
+<date>2012-07-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,14 +65,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.97</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::nopaste&amp;mode=all">App-Nopaste</uri></ti>
-    <ti align="right">0.3300</ti>
-    <ti align="right">0.34</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::c3&amp;mode=all">Class-C3</uri></ti>
     <ti align="right">0.2300</ti>
     <ti align="right">0.24</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=class::load&amp;mode=all">Class-Load</uri></ti>
+    <ti align="right">0.1900</ti>
+    <ti align="right">0.20</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
@@ -83,11 +83,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=data::dump::streamer&amp;mode=all">Data-Dump-Streamer</uri></ti>
     <ti align="right">2.3300</ti>
     <ti align="right">2.34</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::mmagic&amp;mode=all">File-MMagic</uri></ti>
-    <ti align="right">1.2800</ti>
-    <ti align="right">1.29</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri> (virtual/perl-Filter)</ti>
@@ -130,19 +125,9 @@ will curb some of the bugs to boot).
     <ti align="right">2.006</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=perltidy&amp;mode=all">perltidy</uri></ti>
-    <ti align="right">20120701.00</ti>
-    <ti align="right">20120714</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
     <ti align="right">0.500</ti>
     <ti align="right">0.99</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=soap::lite&amp;mode=all">SOAP-Lite</uri></ti>
-    <ti align="right">0.7140</ti>
-    <ti align="right">0.715</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
@@ -172,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 24 of 1203
+Total packages suspected as outdated: 21 of 1197
 </p>
 
 </body>

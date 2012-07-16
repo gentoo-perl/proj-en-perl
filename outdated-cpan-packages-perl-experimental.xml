@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.835 2012/07/15 06:41:25 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.836 2012/07/16 03:55:23 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-15</date>
+<date>2012-07-16</date>
 
 <chapter>
 <title>Intro</title>
@@ -101,8 +101,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/CatalystX-SimpleLogin">CatalystX-SimpleLogin</uri></ti>
     <ti align="right">0.150.0-r1</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/CatalystX-SimpleLogin-0.16/">0.16</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/CatalystX-SimpleLogin-0.15/BOBTFISH/CatalystX-SimpleLogin-0.16">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/CatalystX-SimpleLogin-0.17/">0.17</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/CatalystX-SimpleLogin-0.15/BOBTFISH/CatalystX-SimpleLogin-0.17">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Color-Calc">Color-Calc</uri></ti>
@@ -119,8 +119,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Devel-Cover">Devel-Cover</uri></ti>
     <ti align="right">0.890.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.90/">0.90</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.89/PJCJ/Devel-Cover-0.90">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.91/">0.91</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.89/PJCJ/Devel-Cover-0.91">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
@@ -255,6 +255,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/YAPPO/String-Diff-0.05/YAPPO/String-Diff-0.06">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Test-Compile">Test-Compile</uri></ti>
+    <ti align="right">0.170.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/EGILES/Test-Compile-0.18/">0.18</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/EGILES/Test-Compile-0.17/EGILES/Test-Compile-0.18">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Test-WWW-Mechanize-Catalyst">Test-WWW-Mechanize-Catalyst</uri></ti>
     <ti align="right">0.570.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/Test-WWW-Mechanize-Catalyst-0.58/">0.58</uri></ti>
@@ -269,8 +275,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/autobox-Core">autobox-Core</uri></ti>
     <ti align="right">1.210.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/JARICH/autobox-Core-1.23/">1.23</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MSCHWERN/autobox-Core-1.21/JARICH/autobox-Core-1.23">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/JARICH/autobox-Core-1.24/">1.24</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MSCHWERN/autobox-Core-1.21/JARICH/autobox-Core-1.24">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/autodie">autodie</uri></ti>
@@ -287,7 +293,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 39 of 785
+Total packages suspected as outdated: 40 of 785
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.836 2012/07/16 03:55:23 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.837 2012/07/17 10:53:52 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-16</date>
+<date>2012-07-17</date>
 
 <chapter>
 <title>Intro</title>
@@ -119,8 +119,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Devel-Cover">Devel-Cover</uri></ti>
     <ti align="right">0.890.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.91/">0.91</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.89/PJCJ/Devel-Cover-0.91">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.92/">0.92</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.89/PJCJ/Devel-Cover-0.92">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
@@ -209,14 +209,20 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">2.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.08/">3.08</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.08">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.10/">3.10</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/SRI/Mojolicious-3.10">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
     <ti align="right">1.220.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MADCAT/Mojolicious-Plugin-Authentication-1.23/">1.23</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/MADCAT/Mojolicious-Plugin-Authentication-1.22/MADCAT/Mojolicious-Plugin-Authentication-1.23">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-AttributeShortcuts">MooseX-AttributeShortcuts</uri></ti>
+    <ti align="right">0.10.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RSRCHBOY/MooseX-AttributeShortcuts-0.013/">0.013</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RSRCHBOY/MooseX-AttributeShortcuts-0.010/RSRCHBOY/MooseX-AttributeShortcuts-0.013">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/MooseX-LazyRequire">MooseX-LazyRequire</uri></ti>
@@ -293,7 +299,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 40 of 785
+Total packages suspected as outdated: 41 of 784
 </p>
 
 </body>

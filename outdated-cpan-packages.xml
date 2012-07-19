@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3524 2012/07/18 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3525 2012/07/19 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-18</date>
+<date>2012-07-19</date>
 
 <chapter>
 <title>Intro</title>
@@ -135,6 +135,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.68</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=moo&amp;mode=all">Moo</uri></ti>
+    <ti align="right">0.919</ti>
+    <ti align="right">1.000000</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::datetime::butmaintained&amp;mode=all">MooseX-Types-DateTime-ButMaintained</uri></ti>
     <ti align="right">0.1400</ti>
     <ti align="right">0.15</ti>
@@ -143,6 +148,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=net::server&amp;mode=all">net-server</uri></ti>
     <ti align="right">0.9900</ti>
     <ti align="right">2.006</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
+    <ti align="right">0.998900</ti>
+    <ti align="right">0.9990</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
@@ -177,7 +187,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 1198
+Total packages suspected as outdated: 27 of 1198
 </p>
 
 </body>

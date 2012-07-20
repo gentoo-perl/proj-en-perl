@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3527 2012/07/19 17:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3528 2012/07/20 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-19</date>
+<date>2012-07-20</date>
 
 <chapter>
 <title>Intro</title>
@@ -185,6 +185,11 @@ will curb some of the bugs to boot).
     <ti align="right">2.52</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=tie::cache::lru::expires&amp;mode=all">Tie-Cache-LRU-Expires</uri></ti>
+    <ti align="right">0.5400</ti>
+    <ti align="right">0.55</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::dict::leo::org&amp;mode=all">WWW-Dict-Leo-Org</uri></ti>
     <ti align="right">1.3400</ti>
     <ti align="right">1.35</ti>
@@ -197,7 +202,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 1198
+Total packages suspected as outdated: 30 of 1198
 </p>
 
 </body>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3528 2012/07/20 01:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3529 2012/07/20 09:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -100,6 +100,16 @@ will curb some of the bugs to boot).
     <ti align="right">2.34</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
+    <ti align="right">1.4600</ti>
+    <ti align="right">1.47</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
+    <ti align="right">0.1105</ti>
+    <ti align="right">0.120001</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=file::map&amp;mode=all">File-Map</uri></ti>
     <ti align="right">0.5100</ti>
     <ti align="right">0.52</ti>
@@ -147,7 +157,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::datetime::butmaintained&amp;mode=all">MooseX-Types-DateTime-ButMaintained</uri></ti>
     <ti align="right">0.1400</ti>
-    <ti align="right">0.15</ti>
+    <ti align="right">0.16</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=net::server&amp;mode=all">net-server</uri></ti>
@@ -157,7 +167,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
     <ti align="right">0.998900</ti>
-    <ti align="right">0.9990</ti>
+    <ti align="right">1.0000</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
@@ -202,7 +212,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 1198
+Total packages suspected as outdated: 32 of 1198
 </p>
 
 </body>

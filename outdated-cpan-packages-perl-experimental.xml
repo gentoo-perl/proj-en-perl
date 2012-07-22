@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.838 2012/07/19 18:21:45 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.839 2012/07/22 19:25:34 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-19</date>
+<date>2012-07-22</date>
 
 <chapter>
 <title>Intro</title>
@@ -51,34 +51,34 @@ will curb some of the bugs to boot).
     <th>Diff</th>
   </tr>
     <tr>
-    <ti><uri link="http://metacpan.org/release/Dancer">Dancer</uri></ti>
-    <ti align="right">1.309.500</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/XSAWYERX/Dancer-1.3097/">1.3097</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/XSAWYERX/Dancer-1.3095/XSAWYERX/Dancer-1.3097">Diff</uri></ti>
+    <ti><uri link="http://metacpan.org/release/App-perlbrew">App-perlbrew</uri></ti>
+    <ti align="right">0.450.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/GUGOD/App-perlbrew-0.46/">0.46</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/GUGOD/App-perlbrew-0.45/GUGOD/App-perlbrew-0.46">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/CPAN-Perl-Releases">CPAN-Perl-Releases</uri></ti>
+    <ti align="right">0.600.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPAN-Perl-Releases-0.62/">0.62</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPAN-Perl-Releases-0.60/BINGOS/CPAN-Perl-Releases-0.62">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Plugin-SubRequest">Catalyst-Plugin-SubRequest</uri></ti>
+    <ti align="right">0.180.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/EDENC/Catalyst-Plugin-SubRequest-0.19/">0.19</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/EDENC/Catalyst-Plugin-SubRequest-0.18/EDENC/Catalyst-Plugin-SubRequest-0.19">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/CatalystX-SimpleLogin">CatalystX-SimpleLogin</uri></ti>
+    <ti align="right">0.170.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/CatalystX-SimpleLogin-0.18/">0.18</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BOBTFISH/CatalystX-SimpleLogin-0.17/BOBTFISH/CatalystX-SimpleLogin-0.18">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Devel-Cover">Devel-Cover</uri></ti>
     <ti align="right">0.890.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.92/">0.92</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.89/PJCJ/Devel-Cover-0.92">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Git">Dist-Zilla-Plugin-Git</uri></ti>
-    <ti align="right">1.121.750</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-Plugin-Git-1.121820/">1.121820</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Dist-Zilla-Plugin-Git-1.121750/RJBS/Dist-Zilla-Plugin-Git-1.121820">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-ReportVersions-Tiny">Dist-Zilla-Plugin-ReportVersions-Tiny</uri></ti>
-    <ti align="right">1.30.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DOLMEN/Dist-Zilla-Plugin-ReportVersions-Tiny-1.05/">1.05</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DANIELP/Dist-Zilla-Plugin-ReportVersions-Tiny-1.03/DOLMEN/Dist-Zilla-Plugin-ReportVersions-Tiny-1.05">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-Twitter">Dist-Zilla-Plugin-Twitter</uri></ti>
-    <ti align="right">0.16.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DOHERTY/Dist-Zilla-Plugin-Twitter-0.017/">0.017</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DOHERTY/Dist-Zilla-Plugin-Twitter-0.016/DOHERTY/Dist-Zilla-Plugin-Twitter-0.017">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
@@ -99,12 +99,6 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/File-Fetch-0.34/BINGOS/File-Fetch-0.36">Diff</uri></ti>
   </tr>
   <tr>
-    <ti><uri link="http://metacpan.org/release/Git-Wrapper">Git-Wrapper</uri></ti>
-    <ti align="right">0.20.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/GENEHACK/Git-Wrapper-0.025/">0.025</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/GENEHACK/Git-Wrapper-0.020/GENEHACK/Git-Wrapper-0.025">Diff</uri></ti>
-  </tr>
-  <tr>
     <ti><uri link="http://metacpan.org/release/Glib-Object-Introspection">Glib-Object-Introspection</uri></ti>
     <ti align="right">0.9.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/XAOC/Glib-Object-Introspection-0.010/">0.010</uri></ti>
@@ -121,6 +115,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.400.120</ti>
     <ti align="right"><uri link="http://metacpan.org/release/GSHANK/HTML-FormHandler-0.40013/">0.40013</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/GSHANK/HTML-FormHandler-0.40012/GSHANK/HTML-FormHandler-0.40013">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/HTTP-Lite">HTTP-Lite</uri></ti>
+    <ti align="right">2.300</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/NEILB/HTTP-Lite-2.4/">2.4</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ADAMK/HTTP-Lite-2.3/NEILB/HTTP-Lite-2.4">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Imager">Imager</uri></ti>
@@ -147,6 +147,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/JSWARTZ/Log-Any-Adapter-0.07/JSWARTZ/Log-Any-Adapter-0.08">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Log-Contextual">Log-Contextual</uri></ti>
+    <ti align="right">0.4.100</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/FREW/Log-Contextual-0.004201/">0.004201</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FREW/Log-Contextual-0.004100/FREW/Log-Contextual-0.004201">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Mason">Mason</uri></ti>
     <ti align="right">2.190.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/JSWARTZ/Mason-2.20/">2.20</uri></ti>
@@ -154,9 +160,9 @@ will curb some of the bugs to boot).
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
-    <ti align="right">2.980.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/TEMPIRE/Mojolicious-3.11/">3.11</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-2.98/TEMPIRE/Mojolicious-3.11">Diff</uri></ti>
+    <ti align="right">3.110.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.12/">3.12</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-3.11/SRI/Mojolicious-3.12">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
@@ -181,6 +187,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.450.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/LAMMEL/MooseX-Log-Log4perl-0.46/">0.46</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/LAMMEL/MooseX-Log-Log4perl-0.45/LAMMEL/MooseX-Log-Log4perl-0.46">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/PSGI">PSGI</uri></ti>
+    <ti align="right">1.100.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MIYAGAWA/PSGI-1.101/">1.101</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MIYAGAWA/PSGI-1.10/MIYAGAWA/PSGI-1.101">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Parse-CPAN-Packages">Parse-CPAN-Packages</uri></ti>
@@ -245,7 +257,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 32 of 784
+Total packages suspected as outdated: 34 of 788
 </p>
 
 </body>

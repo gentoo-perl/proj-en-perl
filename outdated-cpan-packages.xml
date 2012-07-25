@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3536 2012/07/24 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3537 2012/07/25 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-24</date>
+<date>2012-07-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -75,39 +75,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.24</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=class::load&amp;mode=all">Class-Load</uri></ti>
-    <ti align="right">0.1900</ti>
-    <ti align="right">0.20</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::general&amp;mode=all">config-general</uri></ti>
-    <ti align="right">2.5000</ti>
-    <ti align="right">2.51</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=config::inifiles&amp;mode=all">Config-IniFiles</uri></ti>
     <ti align="right">2.7600</ti>
     <ti align="right">2.77</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=config::properties&amp;mode=all">Config-Properties</uri></ti>
-    <ti align="right">1.7300</ti>
-    <ti align="right">1.75</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=convert::tnef&amp;mode=all">Convert-TNEF</uri></ti>
-    <ti align="right">0.1700</ti>
-    <ti align="right">0.18</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::dump::streamer&amp;mode=all">Data-Dump-Streamer</uri></ti>
     <ti align="right">2.3300</ti>
     <ti align="right">2.34</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">1.4600</ti>
-    <ti align="right">1.47</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::mime&amp;mode=all">Email-MIME</uri></ti>
@@ -185,11 +160,6 @@ will curb some of the bugs to boot).
     <ti align="right">1.44</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=text::wikiformat&amp;mode=all">Text-WikiFormat</uri></ti>
-    <ti align="right">0.7900</ti>
-    <ti align="right">0.80</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=texttohtml&amp;mode=all">TextToHTML</uri></ti>
     <ti align="right">2.5100</ti>
     <ti align="right">2.52</ti>
@@ -212,7 +182,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 32 of 1197
+Total packages suspected as outdated: 26 of 1197
 </p>
 
 </body>

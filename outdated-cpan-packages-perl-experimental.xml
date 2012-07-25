@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.840 2012/07/24 11:29:14 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.841 2012/07/25 11:52:01 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-24</date>
+<date>2012-07-25</date>
 
 <chapter>
 <title>Intro</title>
@@ -69,6 +69,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/EDENC/Catalyst-Plugin-SubRequest-0.18/EDENC/Catalyst-Plugin-SubRequest-0.19">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-View-Wkhtmltopdf">Catalyst-View-Wkhtmltopdf</uri></ti>
+    <ti align="right">0.5.1</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.2/">0.5.2</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.1/ARTHAS/Catalyst-View-Wkhtmltopdf-0.5.2">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/CatalystX-SimpleLogin">CatalystX-SimpleLogin</uri></ti>
     <ti align="right">0.170.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BOBTFISH/CatalystX-SimpleLogin-0.18/">0.18</uri></ti>
@@ -79,6 +85,12 @@ will curb some of the bugs to boot).
     <ti align="right">0.890.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.92/">0.92</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.89/PJCJ/Devel-Cover-0.92">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Devel-PatchPerl">Devel-PatchPerl</uri></ti>
+    <ti align="right">0.720.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/Devel-PatchPerl-0.74/">0.74</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/Devel-PatchPerl-0.72/BINGOS/Devel-PatchPerl-0.74">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
@@ -161,8 +173,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">3.110.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.12/">3.12</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-3.11/SRI/Mojolicious-3.12">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.13/">3.13</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/TEMPIRE/Mojolicious-3.11/SRI/Mojolicious-3.13">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Authentication">Mojolicious-Plugin-Authentication</uri></ti>
@@ -257,7 +269,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 34 of 788
+Total packages suspected as outdated: 36 of 788
 </p>
 
 </body>

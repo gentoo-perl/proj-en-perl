@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.841 2012/07/25 11:52:01 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.842 2012/07/26 17:35:33 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-25</date>
+<date>2012-07-26</date>
 
 <chapter>
 <title>Intro</title>
@@ -93,6 +93,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/Devel-PatchPerl-0.72/BINGOS/Devel-PatchPerl-0.74">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Dist-Zilla-Plugin-MetaProvides">Dist-Zilla-Plugin-MetaProvides</uri></ti>
+    <ti align="right">1.140.0.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.14000001/">1.14000001</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.14000000/KENTNL/Dist-Zilla-Plugin-MetaProvides-1.14000001">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Dist-Zilla-PluginBundle-Author-KENTNL">Dist-Zilla-PluginBundle-Author-KENTNL</uri></ti>
     <ti align="right">1.4.1</ti>
     <ti align="right"><uri link="http://metacpan.org/release/KENTNL/Dist-Zilla-PluginBundle-Author-KENTNL-1.4.2/">1.4.2</uri></ti>
@@ -103,6 +109,12 @@ will curb some of the bugs to boot).
     <ti align="right">1.11.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/RJBS/Dist-Zilla-PluginBundle-RJBS-1.012/">1.012</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/RJBS/Dist-Zilla-PluginBundle-RJBS-1.011/RJBS/Dist-Zilla-PluginBundle-RJBS-1.012">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Email-MIME-Kit">Email-MIME-Kit</uri></ti>
+    <ti align="right">2.102.10</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Email-MIME-Kit-2.102011/">2.102011</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/RJBS/Email-MIME-Kit-2.102010/RJBS/Email-MIME-Kit-2.102011">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/File-Fetch">File-Fetch</uri> (virtual/perl-File-Fetch)</ti>
@@ -215,8 +227,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Perl-PrereqScanner">Perl-PrereqScanner</uri></ti>
     <ti align="right">1.11.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Perl-PrereqScanner-1.013/">1.013</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Perl-PrereqScanner-1.011/RJBS/Perl-PrereqScanner-1.013">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Perl-PrereqScanner-1.014/">1.014</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/JQUELIN/Perl-PrereqScanner-1.011/RJBS/Perl-PrereqScanner-1.014">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Starman">Starman</uri></ti>
@@ -269,7 +281,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 36 of 788
+Total packages suspected as outdated: 38 of 788
 </p>
 
 </body>

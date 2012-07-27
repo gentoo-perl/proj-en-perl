@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.843 2012/07/26 17:38:51 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.844 2012/07/27 17:54:56 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-26</date>
+<date>2012-07-27</date>
 
 <chapter>
 <title>Intro</title>
@@ -81,6 +81,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/TONYC/Imager-0.90/TONYC/Imager-0.91">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
+    <ti align="right">3.130.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.14/">3.14</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-3.13/SRI/Mojolicious-3.14">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Parse-CPAN-Packages">Parse-CPAN-Packages</uri></ti>
     <ti align="right">2.360.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/MITHALDU/Parse-CPAN-Packages-2.37/">2.37</uri></ti>
@@ -95,7 +101,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 7 of 790
+Total packages suspected as outdated: 8 of 790
 </p>
 
 </body>

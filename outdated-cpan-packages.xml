@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3540 2012/07/27 09:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3541 2012/07/28 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-27</date>
+<date>2012-07-28</date>
 
 <chapter>
 <title>Intro</title>
@@ -65,11 +65,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.97</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=app::nopaste&amp;mode=all">App-Nopaste</uri></ti>
-    <ti align="right">0.3400</ti>
-    <ti align="right">0.35</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=class::c3&amp;mode=all">Class-C3</uri></ti>
     <ti align="right">0.2300</ti>
     <ti align="right">0.24</ti>
@@ -85,24 +80,9 @@ will curb some of the bugs to boot).
     <ti align="right">2.34</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=devel::size&amp;mode=all">Devel-Size</uri></ti>
-    <ti align="right">0.7700</ti>
-    <ti align="right">0.78</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::mime&amp;mode=all">Email-MIME</uri></ti>
-    <ti align="right">1.9100</ti>
-    <ti align="right">1.911</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
     <ti align="right">0.1105</ti>
     <ti align="right">0.120001</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=file::map&amp;mode=all">File-Map</uri></ti>
-    <ti align="right">0.5100</ti>
-    <ti align="right">0.52</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri> (virtual/perl-Filter)</ti>
@@ -145,11 +125,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.16</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=plack&amp;mode=all">Plack</uri></ti>
-    <ti align="right">1.00</ti>
-    <ti align="right">1.0001</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=sane&amp;mode=all">Sane</uri></ti>
     <ti align="right">0.500</ti>
     <ti align="right">0.99</ti>
@@ -175,21 +150,6 @@ will curb some of the bugs to boot).
     <ti align="right">2.52</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=time::local&amp;mode=all">Time-Local</uri> (virtual/perl-Time-Local)</ti>
-    <ti align="right">1.2200</ti>
-    <ti align="right">1.2300</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=universal::can&amp;mode=all">UNIVERSAL-can</uri></ti>
-    <ti align="right">1.201106170</ti>
-    <ti align="right">1.20120726</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=universal::isa&amp;mode=all">UNIVERSAL-isa</uri></ti>
-    <ti align="right">1.201204180</ti>
-    <ti align="right">1.20120726</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=www::dict::leo::org&amp;mode=all">WWW-Dict-Leo-Org</uri></ti>
     <ti align="right">1.3400</ti>
     <ti align="right">1.35</ti>
@@ -202,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 1198
+Total packages suspected as outdated: 22 of 1198
 </p>
 
 </body>

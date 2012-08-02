@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.847 2012/07/30 09:48:59 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.848 2012/08/02 14:58:41 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-07-30</date>
+<date>2012-08-02</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,16 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
     <th>Diff</th>
   </tr>
-    <tr>
-    <ti><uri link="http://metacpan.org/release/utf8-all">utf8-all</uri></ti>
-    <ti align="right">0.4.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DOHERTY/utf8-all-0.006/">0.006</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DOHERTY/utf8-all-0.004/DOHERTY/utf8-all-0.006">Diff</uri></ti>
-  </tr>
+  
 </table>
 
 <p>
-Total packages suspected as outdated: 1 of 790
+Total packages suspected as outdated: 0 of 792
 </p>
 
 </body>

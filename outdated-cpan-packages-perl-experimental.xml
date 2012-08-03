@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.848 2012/08/02 14:58:41 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.849 2012/08/03 18:15:12 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-08-02</date>
+<date>2012-08-03</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,11 +50,28 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
     <th>Diff</th>
   </tr>
-  
+    <tr>
+    <ti><uri link="http://metacpan.org/release/MooseX-Has-Sugar">MooseX-Has-Sugar</uri></ti>
+    <ti align="right">0.50.704.200</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/MooseX-Has-Sugar-0.05070421/">0.05070421</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/KENTNL/MooseX-Has-Sugar-0.05070420/KENTNL/MooseX-Has-Sugar-0.05070421">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Test-Compile">Test-Compile</uri></ti>
+    <ti align="right">0.180.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/EGILES/Test-Compile-0.19/">0.19</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/EGILES/Test-Compile-0.18/EGILES/Test-Compile-0.19">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Test-UseAllModules">Test-UseAllModules</uri></ti>
+    <ti align="right">0.130.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ISHIGAKI/Test-UseAllModules-0.14/">0.14</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ISHIGAKI/Test-UseAllModules-0.13/ISHIGAKI/Test-UseAllModules-0.14">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 0 of 792
+Total packages suspected as outdated: 3 of 796
 </p>
 
 </body>

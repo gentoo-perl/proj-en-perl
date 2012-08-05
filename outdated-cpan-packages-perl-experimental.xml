@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.850 2012/08/04 16:53:38 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.851 2012/08/05 07:04:27 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-08-04</date>
+<date>2012-08-05</date>
 
 <chapter>
 <title>Intro</title>
@@ -55,6 +55,18 @@ will curb some of the bugs to boot).
     <ti align="right">0.620.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPAN-Perl-Releases-0.64/">0.64</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPAN-Perl-Releases-0.62/BINGOS/CPAN-Perl-Releases-0.64">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Devel-Cover">Devel-Cover</uri></ti>
+    <ti align="right">0.920.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.93/">0.93</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.92/PJCJ/Devel-Cover-0.93">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Log-Contextual">Log-Contextual</uri></ti>
+    <ti align="right">0.4.201</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/FREW/Log-Contextual-0.004202/">0.004202</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FREW/Log-Contextual-0.004201/FREW/Log-Contextual-0.004202">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
@@ -95,7 +107,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 7 of 796
+Total packages suspected as outdated: 9 of 796
 </p>
 
 </body>

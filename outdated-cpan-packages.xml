@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3550 2012/08/03 17:52:30 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3551 2012/08/06 01:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-08-03</date>
+<date>2012-08-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -165,19 +165,9 @@ will curb some of the bugs to boot).
     <ti align="right">0.99</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=spiffy&amp;mode=all">Spiffy</uri></ti>
-    <ti align="right">0.3000</ti>
-    <ti align="right">0.31</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.1700</ti>
     <ti align="right">3.02</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=test::mockobject&amp;mode=all">Test-MockObject</uri></ti>
-    <ti align="right">1.201106120</ti>
-    <ti align="right">1.20120301</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=test::tcp&amp;mode=all">Test-TCP</uri></ti>
@@ -202,7 +192,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 30 of 1198
+Total packages suspected as outdated: 28 of 1198
 </p>
 
 </body>

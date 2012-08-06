@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3551 2012/08/06 01:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3552 2012/08/06 09:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -77,7 +77,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=crypt::ssleay&amp;mode=all">Crypt-SSLeay</uri></ti>
     <ti align="right">0.5800</ti>
-    <ti align="right">0.60</ti>
+    <ti align="right">0.64</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=data::dump::streamer&amp;mode=all">Data-Dump-Streamer</uri></ti>
@@ -103,6 +103,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
     <ti align="right">0.1105</ti>
     <ti align="right">0.120001</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=encode&amp;mode=all">Encode</uri> (virtual/perl-Encode)</ti>
+    <ti align="right">2.4400</ti>
+    <ti align="right">2.45</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri> (virtual/perl-Filter)</ti>
@@ -142,7 +147,7 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=math::random::mt&amp;mode=all">Math-Random-MT</uri></ti>
     <ti align="right">1.1400</ti>
-    <ti align="right">1.15</ti>
+    <ti align="right">1.16</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
@@ -192,7 +197,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 28 of 1198
+Total packages suspected as outdated: 29 of 1198
 </p>
 
 </body>

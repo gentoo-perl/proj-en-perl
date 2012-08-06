@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.851 2012/08/05 07:04:27 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.852 2012/08/06 10:10:25 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-08-05</date>
+<date>2012-08-06</date>
 
 <chapter>
 <title>Intro</title>
@@ -71,8 +71,8 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">3.190.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.20/">3.20</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-3.19/SRI/Mojolicious-3.20">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.21/">3.21</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-3.19/SRI/Mojolicious-3.21">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Database">Mojolicious-Plugin-Database</uri></ti>
@@ -104,10 +104,16 @@ will curb some of the bugs to boot).
     <ti align="right"><uri link="http://metacpan.org/release/ISHIGAKI/Test-UseAllModules-0.14/">0.14</uri></ti>
     <ti><uri link="http://metacpan.org/diff/release/ISHIGAKI/Test-UseAllModules-0.13/ISHIGAKI/Test-UseAllModules-0.14">Diff</uri></ti>
   </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/URI-Escape-XS">URI-Escape-XS</uri></ti>
+    <ti align="right">0.80.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DANKOGAI/URI-Escape-XS-0.09/">0.09</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DANKOGAI/URI-Escape-XS-0.08/DANKOGAI/URI-Escape-XS-0.09">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 9 of 796
+Total packages suspected as outdated: 10 of 796
 </p>
 
 </body>

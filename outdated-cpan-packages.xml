@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3552 2012/08/06 09:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3553 2012/08/06 17:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -50,11 +50,6 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
   </tr>
     <tr>
-    <ti><uri link="http://search.cpan.org/search?query=alien::sdl&amp;mode=all">Alien-SDL</uri></ti>
-    <ti align="right">1.434</ti>
-    <ti align="right">1.436</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=apache::authticket&amp;mode=all">Apache-AuthTicket</uri></ti>
     <ti align="right">0.9000</ti>
     <ti align="right">0.93</ti>
@@ -90,34 +85,14 @@ will curb some of the bugs to boot).
     <ti align="right">1.218</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=datetime::timezone&amp;mode=all">DateTime-TimeZone</uri></ti>
-    <ti align="right">1.4700</ti>
-    <ti align="right">1.48</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=email::address&amp;mode=all">Email-Address</uri></ti>
-    <ti align="right">1.8950</ti>
-    <ti align="right">1.896</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=email::sender&amp;mode=all">Email-Sender</uri></ti>
     <ti align="right">0.1105</ti>
     <ti align="right">0.120001</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=encode&amp;mode=all">Encode</uri> (virtual/perl-Encode)</ti>
-    <ti align="right">2.4400</ti>
-    <ti align="right">2.45</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=filter&amp;mode=all">Filter</uri> (virtual/perl-Filter)</ti>
     <ti align="right">1.4100</ti>
     <ti align="right">1.45</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=glib::perl&amp;mode=all">glib-perl</uri></ti>
-    <ti align="right">1.2610</ti>
-    <ti align="right">1.262</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::mason&amp;mode=all">HTML-Mason</uri></ti>
@@ -135,29 +110,14 @@ will curb some of the bugs to boot).
     <ti align="right">0.21</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=json::xs&amp;mode=all">JSON-XS</uri></ti>
-    <ti align="right">2.3200</ti>
-    <ti align="right">2.33</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=mail::sender&amp;mode=all">Mail-Sender</uri></ti>
     <ti align="right">0.816</ti>
     <ti align="right">0.821</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=math::random::mt&amp;mode=all">Math-Random-MT</uri></ti>
-    <ti align="right">1.1400</ti>
-    <ti align="right">1.16</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=module::corelist&amp;mode=all">Module-CoreList</uri> (virtual/perl-Module-CoreList)</ti>
     <ti align="right">2.6600</ti>
     <ti align="right">2.69</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=module::load::conditional&amp;mode=all">Module-Load-Conditional</uri> (virtual/perl-Module-Load-Conditional)</ti>
-    <ti align="right">0.5000</ti>
-    <ti align="right">0.52</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=moosex::types::datetime::butmaintained&amp;mode=all">MooseX-Types-DateTime-ButMaintained</uri></ti>
@@ -197,7 +157,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 29 of 1198
+Total packages suspected as outdated: 21 of 1199
 </p>
 
 </body>

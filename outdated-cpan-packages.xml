@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3553 2012/08/06 17:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3554 2012/08/07 01:52:31 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-08-06</date>
+<date>2012-08-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -95,6 +95,11 @@ will curb some of the bugs to boot).
     <ti align="right">1.45</ti>
   </tr>
   <tr>
+    <ti><uri link="http://search.cpan.org/search?query=gtk2::perl&amp;mode=all">gtk2-perl</uri></ti>
+    <ti align="right">1.2440</ti>
+    <ti align="right">1.245</ti>
+  </tr>
+  <tr>
     <ti><uri link="http://search.cpan.org/search?query=html::mason&amp;mode=all">HTML-Mason</uri></ti>
     <ti align="right">1.4800</ti>
     <ti align="right">1.50</ti>
@@ -157,7 +162,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 21 of 1199
+Total packages suspected as outdated: 22 of 1199
 </p>
 
 </body>

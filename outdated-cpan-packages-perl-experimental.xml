@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.852 2012/08/06 10:10:25 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.853 2012/08/07 14:12:58 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-08-06</date>
+<date>2012-08-07</date>
 
 <chapter>
 <title>Intro</title>
@@ -57,6 +57,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPAN-Perl-Releases-0.62/BINGOS/CPAN-Perl-Releases-0.64">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Captcha-reCAPTCHA">Captcha-reCAPTCHA</uri></ti>
+    <ti align="right">0.940.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/PHRED/Captcha-reCAPTCHA-0.95/">0.95</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ANDYA/Captcha-reCAPTCHA-0.94/PHRED/Captcha-reCAPTCHA-0.95">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Devel-Cover">Devel-Cover</uri></ti>
     <ti align="right">0.920.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.93/">0.93</uri></ti>
@@ -69,10 +75,16 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/FREW/Log-Contextual-0.004201/FREW/Log-Contextual-0.004202">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/MojoMojo">MojoMojo</uri></ti>
+    <ti align="right">1.50.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/MRAMBERG/MojoMojo-1.06/">1.06</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/MRAMBERG/MojoMojo-1.05/MRAMBERG/MojoMojo-1.06">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">3.190.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.21/">3.21</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-3.19/SRI/Mojolicious-3.21">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.23/">3.23</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-3.19/SRI/Mojolicious-3.23">Diff</uri></ti>
   </tr>
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Database">Mojolicious-Plugin-Database</uri></ti>
@@ -113,7 +125,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 10 of 796
+Total packages suspected as outdated: 12 of 796
 </p>
 
 </body>

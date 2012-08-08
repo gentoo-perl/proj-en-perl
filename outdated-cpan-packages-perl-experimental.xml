@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.853 2012/08/07 14:12:58 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.854 2012/08/08 17:06:53 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-08-07</date>
+<date>2012-08-08</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,82 +50,11 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
     <th>Diff</th>
   </tr>
-    <tr>
-    <ti><uri link="http://metacpan.org/release/CPAN-Perl-Releases">CPAN-Perl-Releases</uri></ti>
-    <ti align="right">0.620.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPAN-Perl-Releases-0.64/">0.64</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPAN-Perl-Releases-0.62/BINGOS/CPAN-Perl-Releases-0.64">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Captcha-reCAPTCHA">Captcha-reCAPTCHA</uri></ti>
-    <ti align="right">0.940.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PHRED/Captcha-reCAPTCHA-0.95/">0.95</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ANDYA/Captcha-reCAPTCHA-0.94/PHRED/Captcha-reCAPTCHA-0.95">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Devel-Cover">Devel-Cover</uri></ti>
-    <ti align="right">0.920.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/PJCJ/Devel-Cover-0.93/">0.93</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/PJCJ/Devel-Cover-0.92/PJCJ/Devel-Cover-0.93">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Log-Contextual">Log-Contextual</uri></ti>
-    <ti align="right">0.4.201</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/FREW/Log-Contextual-0.004202/">0.004202</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/FREW/Log-Contextual-0.004201/FREW/Log-Contextual-0.004202">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/MojoMojo">MojoMojo</uri></ti>
-    <ti align="right">1.50.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MRAMBERG/MojoMojo-1.06/">1.06</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MRAMBERG/MojoMojo-1.05/MRAMBERG/MojoMojo-1.06">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
-    <ti align="right">3.190.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.23/">3.23</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-3.19/SRI/Mojolicious-3.23">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Mojolicious-Plugin-Database">Mojolicious-Plugin-Database</uri></ti>
-    <ti align="right">1.50.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/MADCAT/Mojolicious-Plugin-Database-1.06/">1.06</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/MADCAT/Mojolicious-Plugin-Database-1.05/MADCAT/Mojolicious-Plugin-Database-1.06">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/MooseX-Has-Sugar">MooseX-Has-Sugar</uri></ti>
-    <ti align="right">0.50.704.200</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/KENTNL/MooseX-Has-Sugar-0.05070421/">0.05070421</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/KENTNL/MooseX-Has-Sugar-0.05070420/KENTNL/MooseX-Has-Sugar-0.05070421">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Pod-Weaver">Pod-Weaver</uri></ti>
-    <ti align="right">3.101.637</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/RJBS/Pod-Weaver-3.101638/">3.101638</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/RJBS/Pod-Weaver-3.101637/RJBS/Pod-Weaver-3.101638">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Test-Compile">Test-Compile</uri></ti>
-    <ti align="right">0.180.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/EGILES/Test-Compile-0.19/">0.19</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/EGILES/Test-Compile-0.18/EGILES/Test-Compile-0.19">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/Test-UseAllModules">Test-UseAllModules</uri></ti>
-    <ti align="right">0.130.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/ISHIGAKI/Test-UseAllModules-0.14/">0.14</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/ISHIGAKI/Test-UseAllModules-0.13/ISHIGAKI/Test-UseAllModules-0.14">Diff</uri></ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://metacpan.org/release/URI-Escape-XS">URI-Escape-XS</uri></ti>
-    <ti align="right">0.80.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/DANKOGAI/URI-Escape-XS-0.09/">0.09</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/DANKOGAI/URI-Escape-XS-0.08/DANKOGAI/URI-Escape-XS-0.09">Diff</uri></ti>
-  </tr>
+  
 </table>
 
 <p>
-Total packages suspected as outdated: 12 of 796
+Total packages suspected as outdated: 0 of 796
 </p>
 
 </body>

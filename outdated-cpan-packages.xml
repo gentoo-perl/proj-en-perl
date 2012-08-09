@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3555 2012/08/07 09:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3556 2012/08/09 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-08-07</date>
+<date>2012-08-09</date>
 
 <chapter>
 <title>Intro</title>
@@ -63,6 +63,11 @@ will curb some of the bugs to boot).
     <ti><uri link="http://search.cpan.org/search?query=apache::test&amp;mode=all">Apache-Test</uri></ti>
     <ti align="right">1.3700</ti>
     <ti align="right">1.38</ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://search.cpan.org/search?query=bio::samtools&amp;mode=all">Bio-SamTools</uri></ti>
+    <ti align="right">1.3300</ti>
+    <ti align="right">1.35</ti>
   </tr>
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=capture::tiny&amp;mode=all">Capture-Tiny</uri></ti>
@@ -172,12 +177,12 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://search.cpan.org/search?query=xml::twig&amp;mode=all">XML-Twig</uri></ti>
     <ti align="right">3.3900</ti>
-    <ti align="right">3.40</ti>
+    <ti align="right">3.41</ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 25 of 1199
+Total packages suspected as outdated: 26 of 1199
 </p>
 
 </body>

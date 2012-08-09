@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.854 2012/08/08 17:06:53 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.855 2012/08/09 14:19:29 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-08-08</date>
+<date>2012-08-09</date>
 
 <chapter>
 <title>Intro</title>
@@ -50,11 +50,40 @@ will curb some of the bugs to boot).
     <th>Version on CPAN</th>
     <th>Diff</th>
   </tr>
-  
+    <tr>
+    <ti><uri link="http://metacpan.org/release/CPAN-Perl-Releases">CPAN-Perl-Releases</uri></ti>
+    <ti align="right">0.640.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/BINGOS/CPAN-Perl-Releases-0.66/">0.66</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/BINGOS/CPAN-Perl-Releases-0.64/BINGOS/CPAN-Perl-Releases-0.66">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Catalyst-Controller-RequestToken">Catalyst-Controller-RequestToken</uri></ti>
+    <ti align="right">0.06</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/HIDE/Catalyst-Controller-RequestToken-0.07/">0.07</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/HIDE/Catalyst-Controller-RequestToken-0.06/HIDE/Catalyst-Controller-RequestToken-0.07">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/ElasticSearch">ElasticSearch</uri></ti>
+    <ti align="right">0.570.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/DRTECH/ElasticSearch-0.58/">0.58</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/DRTECH/ElasticSearch-0.57/DRTECH/ElasticSearch-0.58">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Getopt-Euclid">Getopt-Euclid</uri></ti>
+    <ti align="right">0.3.6</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/FANGLY/Getopt-Euclid-0.3.7/">0.3.7</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/FANGLY/Getopt-Euclid-0.3.6/FANGLY/Getopt-Euclid-0.3.7">Diff</uri></ti>
+  </tr>
+  <tr>
+    <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
+    <ti align="right">3.260.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.27/">3.27</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-3.26/SRI/Mojolicious-3.27">Diff</uri></ti>
+  </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 0 of 796
+Total packages suspected as outdated: 5 of 796
 </p>
 
 </body>

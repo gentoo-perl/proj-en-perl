@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3558 2012/08/09 17:52:31 robbat2 Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages.xml,v 1.3559 2012/08/10 01:52:30 robbat2 Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-08-09</date>
+<date>2012-08-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -145,16 +145,6 @@ will curb some of the bugs to boot).
     <ti align="right">0.99</ti>
   </tr>
   <tr>
-    <ti><uri link="http://search.cpan.org/search?query=starlet&amp;mode=all">Starlet</uri></ti>
-    <ti align="right">0.1400</ti>
-    <ti align="right">0.15</ti>
-  </tr>
-  <tr>
-    <ti><uri link="http://search.cpan.org/search?query=svg&amp;mode=all">SVG</uri></ti>
-    <ti align="right">2.5200</ti>
-    <ti align="right">2.53</ti>
-  </tr>
-  <tr>
     <ti><uri link="http://search.cpan.org/search?query=template::latex&amp;mode=all">Template-Latex</uri></ti>
     <ti align="right">2.1700</ti>
     <ti align="right">3.02</ti>
@@ -182,7 +172,7 @@ will curb some of the bugs to boot).
 </table>
 
 <p>
-Total packages suspected as outdated: 26 of 1199
+Total packages suspected as outdated: 24 of 1199
 </p>
 
 </body>

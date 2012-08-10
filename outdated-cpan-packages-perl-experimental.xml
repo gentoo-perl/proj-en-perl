@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE guide SYSTEM "/dtd/guide.dtd">
-<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.855 2012/08/09 14:19:29 tove Exp $ -->
+<!-- $Header: /var/cvsroot/gentoo/xml/htdocs/proj/en/perl/outdated-cpan-packages-perl-experimental.xml,v 1.856 2012/08/10 14:06:28 tove Exp $ -->
 
 <!-- Do Not Translate !! -->
 <guide link="/proj/en/perl/outdated-cpan-packages-perl-experimental.xml">
@@ -19,7 +19,7 @@
 <license/>
 
 <version>1.0</version>
-<date>2012-08-09</date>
+<date>2012-08-10</date>
 
 <chapter>
 <title>Intro</title>
@@ -63,6 +63,12 @@ will curb some of the bugs to boot).
     <ti><uri link="http://metacpan.org/diff/release/HIDE/Catalyst-Controller-RequestToken-0.06/HIDE/Catalyst-Controller-RequestToken-0.07">Diff</uri></ti>
   </tr>
   <tr>
+    <ti><uri link="http://metacpan.org/release/Config-GitLike">Config-GitLike</uri></ti>
+    <ti align="right">1.80.0</ti>
+    <ti align="right"><uri link="http://metacpan.org/release/ALEXMV/Config-GitLike-1.09/">1.09</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/ALEXMV/Config-GitLike-1.08/ALEXMV/Config-GitLike-1.09">Diff</uri></ti>
+  </tr>
+  <tr>
     <ti><uri link="http://metacpan.org/release/ElasticSearch">ElasticSearch</uri></ti>
     <ti align="right">0.570.0</ti>
     <ti align="right"><uri link="http://metacpan.org/release/DRTECH/ElasticSearch-0.58/">0.58</uri></ti>
@@ -77,13 +83,13 @@ will curb some of the bugs to boot).
   <tr>
     <ti><uri link="http://metacpan.org/release/Mojolicious">Mojolicious</uri></ti>
     <ti align="right">3.260.0</ti>
-    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.27/">3.27</uri></ti>
-    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-3.26/SRI/Mojolicious-3.27">Diff</uri></ti>
+    <ti align="right"><uri link="http://metacpan.org/release/SRI/Mojolicious-3.28/">3.28</uri></ti>
+    <ti><uri link="http://metacpan.org/diff/release/SRI/Mojolicious-3.26/SRI/Mojolicious-3.28">Diff</uri></ti>
   </tr>
 </table>
 
 <p>
-Total packages suspected as outdated: 5 of 796
+Total packages suspected as outdated: 6 of 796
 </p>
 
 </body>
